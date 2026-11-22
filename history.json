@@ -151,7 +151,9 @@
     "f8c6e32bc6a087c7": "2026-11-22T21:10:29.339940+00:00",
     "965b876a0f7bc356": "2026-11-22T21:18:47.112108+00:00",
     "abe4ba7599d9b125": "2026-11-22T21:18:47.112108+00:00",
-    "ca6866dc17293828": "2026-11-22T21:18:47.112108+00:00"
+    "ca6866dc17293828": "2026-11-22T21:18:47.112108+00:00",
+    "8f5b79972da70b55": "2026-11-22T21:23:53.007511+00:00",
+    "33d1aaa1010d5faf": "2026-11-22T21:23:53.007511+00:00"
   },
   "published_stories": [
     {
@@ -275,31 +277,18 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:23:53.441812+00:00",
+      "headline_az": "COP31 iqlim sammiti uğursuzluqla başa çatıb",
+      "summary_az": "Antalyada keçirilən COP31 iqlim sammiti iştirakçı ölkələrin qalıq yanacaqlarla bağlı yekun razılaşmaya gələ bilməməsi səbəbindən nəticəsiz yekunlaşıb. Danışıqların iflası beynəlxalq ictimaiyyətdə ciddi narazılıq və tənqidlərə səbəb olub.",
+      "topic_key": "cop31-climate-summit-antalya",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "COP31 iqlim sammiti uğursuzluqla başa çatıb",
-      "summary_az": "Antalyada keçirilən COP31 iqlim sammiti iştirakçı ölkələrin qalıq yanacaqlarla bağlı yekun razılaşmaya gələ bilməməsi səbəbindən nəticəsiz yekunlaşıb. Danışıqların iflası beynəlxalq ictimaiyyətdə ciddi narazılıq və tənqidlərə səbəb olub.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": true,
-      "topic_key": "cop31-climate-summit-antalya",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Google News World",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-22T21:18:47.112074+00:00"
-    },
     {
       "headline_az": "İsraildə yəhudi köçkünlərin hücumları kəskin qınanılıb",
       "summary_az": "İordan çayının qərb sahilində yəhudi köçkünlərin fələstinli kəndlərinə qarşı törətdiyi yanğın və zorakılıq aktları İsrail daxilində də etirazla qarşılanıb. İsrailin yüksək vəzifəli rəsmisi Qadi Ayzenkot bu hücumları \"yəhudi terrorizmi\" adlandıraraq kəskin şəkildə pisləyib.",
