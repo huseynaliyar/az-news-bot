@@ -175,7 +175,8 @@
     "697e549f39328247": "2026-11-22T22:14:22.322731+00:00",
     "43429586e447b223": "2026-11-22T22:16:24.442253+00:00",
     "2de2883008ee3d93": "2026-11-22T22:16:24.442253+00:00",
-    "2a4208270a3a06a1": "2026-11-22T22:16:24.442253+00:00"
+    "2a4208270a3a06a1": "2026-11-22T22:16:24.442253+00:00",
+    "4876b9bf61431070": "2026-11-22T22:20:26.262536+00:00"
   },
   "published_stories": [
     {
@@ -433,6 +434,15 @@
       "topic_key": "levent-tahmiscioglu-suicide",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T22:20:26.626279+00:00",
+      "headline_az": "Rusiya bölgələrinə dron hücumları nəticəsində ölənlər və yaralananlar var",
+      "summary_az": "Ukrayna Silahlı Qüvvələrinin Rusiyanın Belqorod və Bryansk vilayətlərinə təşkil etdiyi dron hücumları nəticəsində bir nəfər həlak olub, aralarında 13 yaşlı uşağın da olduğu azı dörd nəfər xəsarət alıb. Hücumlar nəticəsində bir neçə bələdiyyə ərazisində infrastruktur zərər görüb.",
+      "topic_key": "russia-regions-drone-attack-casualties",
+      "sources": [
+        "Google News AZ"
       ]
     }
   ],
