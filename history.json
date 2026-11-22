@@ -153,7 +153,16 @@
     "abe4ba7599d9b125": "2026-11-22T21:18:47.112108+00:00",
     "ca6866dc17293828": "2026-11-22T21:18:47.112108+00:00",
     "8f5b79972da70b55": "2026-11-22T21:23:53.007511+00:00",
-    "33d1aaa1010d5faf": "2026-11-22T21:23:53.007511+00:00"
+    "33d1aaa1010d5faf": "2026-11-22T21:23:53.007511+00:00",
+    "076caadb309e0b33": "2026-11-22T21:43:42.644066+00:00",
+    "cf76b575dbfe45b3": "2026-11-22T21:43:42.644066+00:00",
+    "e87cc64592a1d882": "2026-11-22T21:43:42.644066+00:00",
+    "739cfb30b5e3d6c1": "2026-11-22T21:43:42.644066+00:00",
+    "17a73b9ea879c8ee": "2026-11-22T21:43:42.644066+00:00",
+    "5a1590ddc110a893": "2026-11-22T21:43:42.644066+00:00",
+    "048754c21aeaf397": "2026-11-22T21:43:42.644066+00:00",
+    "586be1da7cf04e04": "2026-11-22T21:43:42.644066+00:00",
+    "ba5564e687980bf9": "2026-11-22T21:43:42.644066+00:00"
   },
   "published_stories": [
     {
@@ -286,6 +295,15 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:43:43.186177+00:00",
+      "headline_az": "İsraildə Netanyahunun partiyası ilə müxalifət koalisiya danışıqlarını dayandırıb",
+      "summary_az": "Baş nazir Binyamin Netanyahunun Likud partiyası ilə Qadi Eisenkotun rəhbərlik etdiyi Yashar partiyası arasında koalisiya danışıqları razılıqsız başa çatıb. Tərəflər gələcək hökumətə kimin rəhbərlik edəcəyi və ifrat sağçı nazirin kabinetə daxil olub-olmayacağı məsələsində fikir ayrılığı yaşayırlar.",
+      "topic_key": "israel-coalition-talks-failure",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
@@ -310,6 +328,50 @@
       "importance": 8,
       "image_url": "",
       "queued_at": "2026-11-22T21:18:47.112074+00:00"
+    },
+    {
+      "headline_az": "Ankarada milli parkda iki bozayının öldürülməsi ilə bağlı araşdırma başlanıb",
+      "summary_az": "Ankaranın Soğuksu Milli Parkında iki bozayının silahla vurularaq öldürülməsi ictimaiyyətdə narazılıq yaradıb. Faktla bağlı rəsmi qurumlar tərəfindən dərhal araşdırma və istintaq tədbirlərinə start verilib.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "ankara-national-park-bear-killing",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGtyTGh4NTdXTzNiSmxZSWxtTWQxQW8wUHJzVFpFZjVPX3JUclRGYjY0YjZKV2hnbDZ0TGQtNGlTWEJkVVdVbHdsazMwNTd2U252ZDAwWTNFZlYtM045c2dMU2x4WERiVEJ2cERDMGExNzVaSG1WQmVWZDdHU0d3cENRb0Nvb0RrZFNCVkVORWlVdUd1Y2dUczlQMFlueDh1eDR3Vk5WenNaNHJLLU5maDBOX0ZaYkd5YW1wS1dn?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:43:42.644033+00:00"
+    },
+    {
+      "headline_az": "Türkiyənin bir çox vilayətində güclü leysan və fırtına xəbərdarlığı edilib",
+      "summary_az": "Meteorologiya idarəsi 21 vilayət üçün sarı kodlu xəbərdarlıq yayımlayıb, güclü yağış və sürəti saatda 60 kilometrə çatan rüzgar gözlənilir. Xüsusilə İstanbul və ətraf bölgələrdə sakinlərdən tədbirli olmaları tələb olunub.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-storm-rain-warning",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTR4NE15a25Ob3lKUEw4S0xlVmY4OFlvT2xZMUxheS1EbVE3RmE1c3FWa1dyck5uR202UzZOXzdVZkhlb245dF8tUFFRSXFrRkVZV3FVTmhySjRJX0VCR1oyVVBMOTUxdGUyMTBVdW5tQkNsTkplT0JpdEgyS3dmSmRXaGUtT1NIc0JXcHlVZG5lTTlPLXQ2cU5Ocks5VDRaSF8zc21QOFFYV29CeHZDRE1hcVJaQmpQN09RUlVnOXp1dw?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:43:42.644033+00:00"
     },
     {
       "headline_az": "Sudanın paytaxtı yaxınlığındakı dron hücumları nəticəsində dinc sakinlər həlak olub",
