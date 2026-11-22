@@ -187,7 +187,8 @@
     "bca7b64bc47e8ee6": "2026-11-22T22:58:27.689404+00:00",
     "8ff62edbe7d6c4ba": "2026-11-22T23:00:38.316582+00:00",
     "1b2379afc3248b0f": "2026-11-22T23:04:23.295413+00:00",
-    "590df852fa2c445e": "2026-11-22T23:06:42.321528+00:00"
+    "590df852fa2c445e": "2026-11-22T23:06:42.321528+00:00",
+    "4b3f7aad84e9ad15": "2026-11-22T23:08:28.249223+00:00"
   },
   "published_stories": [
     {
@@ -499,6 +500,15 @@
       "topic_key": "dangerous-e-cigarette-flavors",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T23:08:28.692843+00:00",
+      "headline_az": "Mustafa Sarıgül haqqında hazırlanan fezləkə ilə bağlı açıqlama verib",
+      "summary_az": "Türkiyəli siyasətçi Mustafa Sarıgül haqqında toxunulmazlığının qaldırılması tələbi ilə hazırlanan fezləkə və milyon avroluq maliyyə iddialarına cavab verib. İddialar arasında 4 mağdurun beyanları da yer alır.",
+      "topic_key": "mustafa-sarigul-fezleke-investigation",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
