@@ -30,19 +30,21 @@ def url_hash(url: str) -> str:
 
 
 class NewsMemory:
-    """Tracks seen URLs and multi-day published story summaries for deduplication."""
+    """Tracks seen URLs, multi-day published stories, and drip-feed pending queue."""
 
     def __init__(self, path: str | Path, retention_days: int = 14) -> None:
         self.path = Path(path)
         self.retention_days = retention_days
         self.seen_urls: dict[str, str] = {}
         self.published_stories: list[dict] = []
+        self.pending_queue: list[dict] = []
         self.load()
 
     def load(self) -> None:
         if not self.path.exists():
             self.seen_urls = {}
             self.published_stories = []
+            self.pending_queue = []
             return
 
         with open(self.path, "r", encoding="utf-8") as f:
@@ -50,9 +52,12 @@ class NewsMemory:
 
         self.seen_urls = data.get("seen_urls", {})
         self.published_stories = data.get("published_stories", [])
+        self.pending_queue = data.get("pending_queue", [])
 
-    def prune(self) -> None:
-        cutoff = datetime.now(timezone.utc) - timedelta(days=self.retention_days)
+    def prune(self, queue_max_age_hours: int = 8) -> None:
+        now = datetime.now(timezone.utc)
+        cutoff = now - timedelta(days=self.retention_days)
+        queue_cutoff = now - timedelta(hours=queue_max_age_hours)
 
         kept_urls: dict[str, str] = {}
         for h, ts in self.seen_urls.items():
@@ -72,12 +77,22 @@ class NewsMemory:
                 continue
         self.published_stories = kept_stories
 
-    def save(self) -> None:
-        self.prune()
+        kept_queue: list[dict] = []
+        for q in self.pending_queue:
+            try:
+                if datetime.fromisoformat(q["queued_at"]) >= queue_cutoff:
+                    kept_queue.append(q)
+            except (KeyError, ValueError):
+                continue
+        self.pending_queue = kept_queue
+
+    def save(self, queue_max_age_hours: int = 8) -> None:
+        self.prune(queue_max_age_hours=queue_max_age_hours)
         self.path.parent.mkdir(parents=True, exist_ok=True)
         payload = {
             "seen_urls": self.seen_urls,
             "published_stories": self.published_stories,
+            "pending_queue": self.pending_queue,
         }
         with open(self.path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -85,10 +100,11 @@ class NewsMemory:
     def filter_unseen(
         self, items: list[NewsItem], fuzzy_threshold: float = 0.72
     ) -> list[NewsItem]:
-        """Layer 1 & 2 deduplication: removes seen URLs and near-exact local duplicates."""
         unseen: list[NewsItem] = []
         seen_in_batch: set[str] = set()
-        recent_titles = [s.get("headline_az", "") for s in self.published_stories]
+        recent_titles = [s.get("headline_az", "") for s in self.published_stories] + [
+            q.get("headline_az", "") for q in self.pending_queue
+        ]
 
         for item in items:
             h = url_hash(item.url)
@@ -112,6 +128,16 @@ class NewsMemory:
     def get_recent_stories(self, memory_days: int = 7, limit: int = 60) -> list[dict]:
         cutoff = datetime.now(timezone.utc) - timedelta(days=memory_days)
         recent: list[dict] = []
+
+        for q in self.pending_queue:
+            recent.append(
+                {
+                    "published_at": q.get("queued_at", ""),
+                    "headline_az": q.get("headline_az", ""),
+                    "topic_key": q.get("topic_key", ""),
+                }
+            )
+
         for story in reversed(self.published_stories):
             try:
                 if datetime.fromisoformat(story["published_at"]) >= cutoff:
@@ -121,6 +147,52 @@ class NewsMemory:
             if len(recent) >= limit:
                 break
         return recent
+
+    def enqueue_stories(self, stories: list[dict], max_queue_size: int = 12) -> None:
+        now = datetime.now(timezone.utc).isoformat()
+        existing_keys = {q.get("topic_key") for q in self.pending_queue}
+
+        for story in stories:
+            key = story.get("topic_key", "")
+            if key and key in existing_keys:
+                continue
+            item = dict(story)
+            item.setdefault("queued_at", now)
+            item.setdefault("importance", 6)
+            self.pending_queue.append(item)
+            if key:
+                existing_keys.add(key)
+
+        self.pending_queue.sort(
+            key=lambda x: (int(x.get("importance", 5)), x.get("queued_at", "")),
+            reverse=True,
+        )
+        self.pending_queue = self.pending_queue[:max_queue_size]
+
+    def pop_stories_to_publish(
+        self, posts_per_run: int = 1, urgent_threshold: int = 9, max_urgent: int = 2
+    ) -> list[dict]:
+        if not self.pending_queue:
+            return []
+
+        selected: list[dict] = []
+        remaining: list[dict] = []
+
+        urgent_count = 0
+        for item in self.pending_queue:
+            imp = int(item.get("importance", 5))
+            if len(selected) < posts_per_run:
+                selected.append(item)
+                if imp >= urgent_threshold:
+                    urgent_count += 1
+            elif imp >= urgent_threshold and urgent_count < max_urgent:
+                selected.append(item)
+                urgent_count += 1
+            else:
+                remaining.append(item)
+
+        self.pending_queue = remaining
+        return selected
 
     def record_published_story(
         self,
