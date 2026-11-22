@@ -166,7 +166,9 @@
     "a47e27badb3d3314": "2026-11-22T21:46:37.123195+00:00",
     "98f87a6f8bcb70d8": "2026-11-22T21:46:37.123195+00:00",
     "c42da997497daa0e": "2026-11-22T21:48:32.020140+00:00",
-    "9c040fc8d490d09a": "2026-11-22T21:54:20.482971+00:00"
+    "9c040fc8d490d09a": "2026-11-22T21:54:20.482971+00:00",
+    "e14bbb90f793b781": "2026-11-22T21:56:51.392260+00:00",
+    "b0ecc372639ecd3d": "2026-11-22T21:56:51.392260+00:00"
   },
   "published_stories": [
     {
@@ -362,30 +364,18 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:56:51.918338+00:00",
+      "headline_az": "BMT ölümcül avtonom silahların tənzimlənməsi ilə bağlı razılığa gələ bilməyib",
+      "summary_az": "BMT-nin süni intellektə əsaslanan qatil robotlar və avtonom silahların tənzimlənməsi üzrə danışıqları nəticəsiz başa çatıb. Lakin tərəflər gələcəkdə müzakirələri davam etdirmək barədə razılığa gəliblər. Beynəlxalq təşkilatlar bu cür silahların nəzarətsiz qalmasının təhlükələri barədə xəbərdarlıq edirlər.",
+      "topic_key": "un-autonomous-weapons-regulation",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "BMT ölümcül avtonom silahların tənzimlənməsi ilə bağlı razılığa gələ bilməyib",
-      "summary_az": "BMT-nin süni intellektə əsaslanan qatil robotlar və avtonom silahların tənzimlənməsi üzrə danışıqları nəticəsiz başa çatıb. Lakin tərəflər gələcəkdə müzakirələri davam etdirmək barədə razılığa gəliblər. Beynəlxalq təşkilatlar bu cür silahların nəzarətsiz qalmasının təhlükələri barədə xəbərdarlıq edirlər.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "un-autonomous-weapons-regulation",
-      "source_indices": [
-        6
-      ],
-      "sources": [
-        {
-          "name": "Google News World",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXhVSEZPYnBneWFTWXhlSmtYaGlkX2YzZXNNTXIwcHRkUnVTS0xXT3hseTA4Ynd1eFZYRG53c2Fsb1hDV3E2N2dueC1Qa3NSWVpnNFdVTkVuOEgtZlVDS2N4eWREOTB4SFdZeFY1TE9VQkhNQkhYWmNzb0psYTJFSS1hak1QcGpl?oc=5"
-        }
-      ],
-      "importance": 7,
-      "queued_at": "2026-11-22T20:29:31.020210+00:00"
-    },
     {
       "headline_az": "Vanın üç rayonunda əlverişsiz hava şəraiti səbəbindən tətil elan edilib",
       "summary_az": "Türkiyənin Van vilayətinin Muradiye, Çaldıran və Saray rayonlarında güclü qar yağışı, buzlanma və sıx duman müşahidə olunub. Əlverişli olmayan hava şəraiti ilə əlaqədar bu bölgələrdə bütün təhsil müəssisələrində dərslərə bir gün müddətinə fasilə verilib.",
