@@ -5,7 +5,7 @@ import logging
 import os
 import re
 import time
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 
 import requests
 
@@ -28,6 +28,26 @@ class CuratedStory:
     topic_key: str
     source_indices: list[int]
     sources: list[dict]
+    importance: int = 6
+
+    def to_dict(self) -> dict:
+        return asdict(self)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> "CuratedStory":
+        return cls(
+            headline_az=str(data.get("headline_az", "")),
+            summary_az=str(data.get("summary_az", "")),
+            category=str(data.get("category", "Xəbər")),
+            region=str(data.get("region", "world")),
+            verified=bool(data.get("verified", False)),
+            verification_note=str(data.get("verification_note", "Tək mənbə")),
+            is_update=bool(data.get("is_update", False)),
+            topic_key=str(data.get("topic_key", "news")),
+            source_indices=list(data.get("source_indices", [])),
+            sources=list(data.get("sources", [])),
+            importance=int(data.get("importance", 6)),
+        )
 
 
 def build_prompt(
@@ -58,13 +78,14 @@ Sənə Azərbaycan, Türkiyə və dünya RSS mənbələrindən gələn yeni xəb
 
 VƏZİFƏLƏRİN:
 1. EYNİ HADİSƏNİ BİRLƏŞDİR: Müxtəlif saytlardan eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
-2. ÇOXGÜNLÜK YADDAŞI YOXLAYIB TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR" siyahısını yoxla. Əgər yeni xəbər son günlərdə artıq paylaşılıbsa və ciddi yeni inkişaf yoxdursa, onu TAMAMİLƏ ÇIXAR. Yalnız mühüm yeni detal varsa `is_update: true` kimi saxla.
-3. DOĞRULUĞU QİYMƏTLƏNDİR:
+2. ÇOXGÜNLÜK YADDAŞI YOXLAYIB TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR" siyahısını yoxla. Əgər xəbər artıq orada varsa və ciddi yeni inkişaf yoxdursa, onu TAMAMİLƏ ÇIXAR. Yalnız mühüm yeni detal varsa `is_update: true` kimi saxla.
+3. DOĞRULUĞU VƏ VACİBLİYİ QİYMƏTLƏNDİR:
    - 2+ müstəqil mənbə təsdiqləyirsə və ya etibarlı rəsmi mənbədirsə: `verified: true`, `verification_note: "Təsdiqlənmiş"`.
    - Yalnız 1 mənbədədirsə: `verified: false`, `verification_note: "Tək mənbə / Yoxlanılmalıdır"`.
-4. AZƏRBAYCAN DİLİNDƏ YAZ: Ən vacib maksimum {max_posts} xəbəri seç (Azərbaycan, Türkiyə və dünya balansını qoru). Səlis, təbii Azərbaycan dilində başlıq (`headline_az`) və 2-3 cümləlik xülasə (`summary_az`) yaz. Reklam, klikbeyt və xırda xəbərləri çıxar.
+   - `importance` (1-10): 9-10 = fövqəladə/son dəqiqə böyük hadisə; 7-8 = çox mühüm gündəm xəbəri; 5-6 = normal xəbər; 1-4 = əhəmiyyətsiz (bunları seçmə).
+4. AZƏRBAYCAN DİLİNDƏ YAZ: Ən vacib maksimum {max_posts} xəbəri seç (Azərbaycan, Türkiyə və dünya balansını qoru). Səlis, təbii Azərbaycan dilində başlıq (`headline_az`) və 2-3 cümləlik xülasə (`summary_az`) yaz. Reklam, klikbeyt və xırda şou xəbərlərini çıxar.
 
-SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR:
+SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR:
 {history_block}
 
 YENİ NAMİZƏD XƏBƏRLƏR:
@@ -81,6 +102,7 @@ CAVABI YALNIZ DÜZGÜN JSON FORMATINDA VER:
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
+      "importance": 8,
       "topic_key": "qisa-ingilisce-movzu-acari",
       "source_indices": [0, 3]
     }}
@@ -233,6 +255,7 @@ def curate_news(
                 topic_key=str(item.get("topic_key", "news")).strip(),
                 source_indices=indices,
                 sources=sources,
+                importance=int(item.get("importance", 6)),
             )
         )
 
