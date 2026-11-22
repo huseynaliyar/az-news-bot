@@ -192,7 +192,9 @@
     "91076fb5f22a57c9": "2026-11-22T23:10:32.797510+00:00",
     "e04732b322d3153d": "2026-11-22T23:18:31.470247+00:00",
     "ba3de24ab8f09d90": "2026-11-22T23:20:29.466530+00:00",
-    "cb73f31fd0ea28d4": "2026-11-22T23:20:29.466530+00:00"
+    "cb73f31fd0ea28d4": "2026-11-22T23:20:29.466530+00:00",
+    "9a10bafbed267c62": "2026-11-22T23:36:25.098010+00:00",
+    "de8531dc25518f2d": "2026-11-22T23:36:25.098010+00:00"
   },
   "published_stories": [
     {
@@ -532,7 +534,39 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-22T23:36:26.141413+00:00",
+      "headline_az": "Pentaqon ABŞ senatorlarının İranla bağlı məlumatlara çıxışını məhdudlaşdırıb",
+      "summary_az": "Pentaqon ABŞ senatorlarına İranla münaqişənin gedişi barədə məlumatlara çıxış imkanı verməkdən imtina edib. Bu qərar Vaşinqtonda siyasi dairələrdə narazılıq doğurub.",
+      "topic_key": "pentagon-senate-iran-access-limit",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "ABŞ Senatında yeni Demokrat lider uğrunda mübarizə güclənib",
+      "summary_az": "ABŞ Prezidenti Donald Tramp Senatda yeni Demokrat rəhbərliyi uğrunda gedən mübarizə fonunda Çak Şumeri tənqid edib. 2017-ci ildən bəri lider olan Şumer vəzifəsi üçün Kris Van Hollenin çağırışıyla üzləşib.",
+      "category": "Siyasət",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "trump-schumer-senate-democrat-leadership",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-22T23:36:25.097987+00:00"
+    }
+  ]
 }
