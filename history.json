@@ -183,7 +183,8 @@
     "81f7022ff6cdf12c": "2026-11-22T22:28:26.173275+00:00",
     "fe6ff60ff1cdd081": "2026-11-22T22:32:19.996814+00:00",
     "d69c702b141d4d62": "2026-11-22T22:48:22.343245+00:00",
-    "f1623af6f3899268": "2026-11-22T22:56:23.223779+00:00"
+    "f1623af6f3899268": "2026-11-22T22:56:23.223779+00:00",
+    "bca7b64bc47e8ee6": "2026-11-22T22:58:27.689404+00:00"
   },
   "published_stories": [
     {
@@ -477,6 +478,15 @@
       "topic_key": "california-train-robbery-22-million",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T22:58:28.902091+00:00",
+      "headline_az": "Qəzzada 2025-ci ildə ölənlərin sayı əvvəlki illərə nisbətən kəskin artıb",
+      "summary_az": "Qəzza Səhiyyə Nazirliyinin məlumatına görə, bölgədə davam edən İsrail hücumları və yaranan xəstəliklər səbəbindən 2025-ci ildə ölənlərin sayı 2022-ci ildəki göstəricini dörd dəfədən çox üstələyib. Humanitar vəziyyətin getdikcə pisləşməsi beynəlxalq miqyasda narahatlıq doğurmaqdadır.",
+      "topic_key": "gaza-health-ministry-death-toll-2025",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
