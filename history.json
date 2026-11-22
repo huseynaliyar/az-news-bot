@@ -118,7 +118,14 @@
     "b4b23019f6117375": "2026-11-22T20:18:55.014404+00:00",
     "ba2a8b8781dfce57": "2026-11-22T20:18:55.014404+00:00",
     "c1a52ed6ffaba0a3": "2026-11-22T20:18:55.014404+00:00",
-    "ab6b9e33c8108546": "2026-11-22T20:18:55.014404+00:00"
+    "ab6b9e33c8108546": "2026-11-22T20:18:55.014404+00:00",
+    "e3f6e88e46b54086": "2026-11-22T20:29:31.020237+00:00",
+    "214a84beb19a674d": "2026-11-22T20:29:31.020237+00:00",
+    "6898e800af5a36d9": "2026-11-22T20:29:31.020237+00:00",
+    "10974900251ad671": "2026-11-22T20:29:31.020237+00:00",
+    "1e8fe8b4de1952ed": "2026-11-22T20:29:31.020237+00:00",
+    "d85aba9877329861": "2026-11-22T20:29:31.020237+00:00",
+    "ba748d5db688a113": "2026-11-22T20:29:31.020237+00:00"
   },
   "published_stories": [
     {
@@ -214,6 +221,60 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-22T20:29:31.568886+00:00",
+      "headline_az": "ABŞ Prezidenti Trampdan İrana xəbərdarlıq: Razılaşma əldə olunmasa, zərbələr bərpa edilə bilər",
+      "summary_az": "ABŞ Prezidenti Donald Trump, İranla razılığa gəlinmə edəcəyi təqdirdə yeni ildən sonra bu ölkəyə qarşı hərbi hücumların yenidən başlaya biləcəyini açıqlayıb. Bir çox beynəlxalq media qurumunun təsdiqlədiyi bu xəbərdarlıq bölgədə gərginliyin yenidən artmasına səbəb ola bilər.",
+      "topic_key": "trump-iran-strike-warning",
+      "sources": [
+        "Google News AZ",
+        "TRT Haber"
+      ]
+    }
+  ],
+  "pending_queue": [
+    {
+      "headline_az": "BMT ölümcül avtonom silahların tənzimlənməsi ilə bağlı razılığa gələ bilməyib",
+      "summary_az": "BMT-nin süni intellektə əsaslanan qatil robotlar və avtonom silahların tənzimlənməsi üzrə danışıqları nəticəsiz başa çatıb. Lakin tərəflər gələcəkdə müzakirələri davam etdirmək barədə razılığa gəliblər. Beynəlxalq təşkilatlar bu cür silahların nəzarətsiz qalmasının təhlükələri barədə xəbərdarlıq edirlər.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "un-autonomous-weapons-regulation",
+      "source_indices": [
+        6
+      ],
+      "sources": [
+        {
+          "name": "Google News World",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXhVSEZPYnBneWFTWXhlSmtYaGlkX2YzZXNNTXIwcHRkUnVTS0xXT3hseTA4Ynd1eFZYRG53c2Fsb1hDV3E2N2dueC1Qa3NSWVpnNFdVTkVuOEgtZlVDS2N4eWREOTB4SFdZeFY1TE9VQkhNQkhYWmNzb0psYTJFSS1hak1QcGpl?oc=5"
+        }
+      ],
+      "importance": 7,
+      "queued_at": "2026-11-22T20:29:31.020210+00:00"
+    },
+    {
+      "headline_az": "Soçidə güclü leysan yağışları daşqınlara və torpaq sürüşməsinə yol açıb",
+      "summary_az": "Rusiyanın Soçi şəhərində güclü leysan yağışları səbəbindən çaylar məcrasından çıxıb, küçələr çaya dönüb. Təbii fəlakət nəticəsində torpaq sürüşməsi qeydə alınıb, evlər və yollar zərər görüb. Fövqəladə xidmətlər ərazidə tədbirlər görür.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "sochi-floods-landslide",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wb2RKb0pZZnpIU29aRjZIVFBraEpOQjNoMG54QmlodFJDNjU4UkxCOUg1MWRBUG53LUdVemtlUENvNDhGX1czYnZTODdEeDg?oc=5"
+        }
+      ],
+      "importance": 6,
+      "queued_at": "2026-11-22T20:29:31.020210+00:00"
     }
   ]
 }
