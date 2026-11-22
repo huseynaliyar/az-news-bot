@@ -334,31 +334,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:50:28.473777+00:00",
+      "headline_az": "Ankarada milli parkda iki bozayının öldürülməsi ilə bağlı araşdırma başlanıb",
+      "summary_az": "Ankaranın Soğuksu Milli Parkında iki bozayının silahla vurularaq öldürülməsi ictimaiyyətdə narazılıq yaradıb. Faktla bağlı rəsmi qurumlar tərəfindən dərhal araşdırma və istintaq tədbirlərinə start verilib.",
+      "topic_key": "ankara-national-park-bear-killing",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Ankarada milli parkda iki bozayının öldürülməsi ilə bağlı araşdırma başlanıb",
-      "summary_az": "Ankaranın Soğuksu Milli Parkında iki bozayının silahla vurularaq öldürülməsi ictimaiyyətdə narazılıq yaradıb. Faktla bağlı rəsmi qurumlar tərəfindən dərhal araşdırma və istintaq tədbirlərinə start verilib.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "ankara-national-park-bear-killing",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGtyTGh4NTdXTzNiSmxZSWxtTWQxQW8wUHJzVFpFZjVPX3JUclRGYjY0YjZKV2hnbDZ0TGQtNGlTWEJkVVdVbHdsazMwNTd2U252ZDAwWTNFZlYtM045c2dMU2x4WERiVEJ2cERDMGExNzVaSG1WQmVWZDdHU0d3cENRb0Nvb0RrZFNCVkVORWlVdUd1Y2dUczlQMFlueDh1eDR3Vk5WenNaNHJLLU5maDBOX0ZaYkd5YW1wS1dn?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-22T21:43:42.644033+00:00"
-    },
     {
       "headline_az": "Türkiyənin bir çox vilayətində güclü leysan və fırtına xəbərdarlığı edilib",
       "summary_az": "Meteorologiya idarəsi 21 vilayət üçün sarı kodlu xəbərdarlıq yayımlayıb, güclü yağış və sürəti saatda 60 kilometrə çatan rüzgar gözlənilir. Xüsusilə İstanbul və ətraf bölgələrdə sakinlərdən tədbirli olmaları tələb olunub.",
