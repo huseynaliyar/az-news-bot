@@ -169,7 +169,8 @@
     "9c040fc8d490d09a": "2026-11-22T21:54:20.482971+00:00",
     "e14bbb90f793b781": "2026-11-22T21:56:51.392260+00:00",
     "b0ecc372639ecd3d": "2026-11-22T21:56:51.392260+00:00",
-    "eec4c9928ad45e94": "2026-11-22T21:58:23.016645+00:00"
+    "eec4c9928ad45e94": "2026-11-22T21:58:23.016645+00:00",
+    "761e79efc6020070": "2026-11-22T22:00:40.217566+00:00"
   },
   "published_stories": [
     {
@@ -383,29 +384,39 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-22T22:00:40.787278+00:00",
+      "headline_az": "Soçidə güclü leysan yağışları daşqınlara və torpaq sürüşməsinə yol açıb",
+      "summary_az": "Rusiyanın Soçi şəhərində güclü leysan yağışları səbəbindən çaylar məcrasından çıxıb, küçələr çaya dönüb. Təbii fəlakət nəticəsində torpaq sürüşməsi qeydə alınıb, evlər və yollar zərər görüb. Fövqəladə xidmətlər ərazidə tədbirlər görür.",
+      "topic_key": "sochi-floods-landslide",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
     {
-      "headline_az": "Soçidə güclü leysan yağışları daşqınlara və torpaq sürüşməsinə yol açıb",
-      "summary_az": "Rusiyanın Soçi şəhərində güclü leysan yağışları səbəbindən çaylar məcrasından çıxıb, küçələr çaya dönüb. Təbii fəlakət nəticəsində torpaq sürüşməsi qeydə alınıb, evlər və yollar zərər görüb. Fövqəladə xidmətlər ərazidə tədbirlər görür.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
+      "headline_az": "Azərbaycanda yeni orfoqrafiya lüğətinin hazırlanması davam edir",
+      "summary_az": "Azərbaycanda ana dilinin yazılış qaydalarını tənzimləyən yeni orfoqrafiya lüğətinin nəşrə hazırlanması istiqamətində işlər aparılır. Yeni nəşrdə sözlərin düzgün yazılışı dəqiqləşdiriləcək və bəzi formalarla bağlı dəyişikliklərin edilməsi nəzərdə tutulur.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
       "is_update": false,
-      "topic_key": "sochi-floods-landslide",
+      "topic_key": "azerbaijan-new-orthography-dictionary",
       "source_indices": [
-        2
+        0
       ],
       "sources": [
         {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wb2RKb0pZZnpIU29aRjZIVFBraEpOQjNoMG54QmlodFJDNjU4UkxCOUg1MWRBUG53LUdVemtlUENvNDhGX1czYnZTODdEeDg?oc=5"
+          "name": "Oxu.az",
+          "url": "https://oxu.az/cemiyyet/azerbaycan-dilinin-yeni-orfoqrafiya-lugeti-ne-vaxt-cap-olunacaq-video"
         }
       ],
-      "importance": 6,
-      "queued_at": "2026-11-22T20:29:31.020210+00:00"
+      "importance": 5,
+      "image_url": "https://images.oxu.az/2026/11/23/eujH9Ve3WWmnkUhROmH0EewQF6sbcGTb7tFkiPtI:640.jpg",
+      "queued_at": "2026-11-22T22:00:40.217540+00:00"
     },
     {
       "headline_az": "Muşda ildırım düşməsi nəticəsində məscidin minarəsi dağılıb",
