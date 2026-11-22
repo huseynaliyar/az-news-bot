@@ -198,7 +198,8 @@
     "c0f36e118b8021df": "2026-11-22T23:38:20.169168+00:00",
     "0a4af7407b6cb880": "2026-11-22T23:42:24.932521+00:00",
     "ee453784fbf6e923": "2026-11-22T23:44:20.669280+00:00",
-    "6d7662e94b08a5fc": "2026-11-22T23:44:20.669280+00:00"
+    "6d7662e94b08a5fc": "2026-11-22T23:44:20.669280+00:00",
+    "f15d991e3eef894c": "2026-11-22T23:48:23.920197+00:00"
   },
   "published_stories": [
     {
@@ -564,6 +565,15 @@
       "topic_key": "trump-schumer-senate-democrat-leadership",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T23:48:24.652165+00:00",
+      "headline_az": "Türkiyədə məktəblərdə payız tili başa çatıb, dərslər yenidən başlayıb",
+      "summary_az": "Milli Təhsil Nazirliyinin tabeliyindəki ibtidai və orta təhsil müəssisələrində təhsil alan təxminən 17 milyon şagird və 1,2 milyon müəllim ilk ara tətilindən sonra yenidən sinif otaqlarına qayıdıb. Bununla da ölkə üzrə tədris prosesi qaldığı yerdən davam edir.",
+      "topic_key": "turkey-schools-reopen-after-break",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
