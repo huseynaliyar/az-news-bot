@@ -109,7 +109,16 @@
     "9f1c3f7282deecc5": "2026-11-22T20:09:20.630667+00:00",
     "4b7a62a76bfd43d7": "2026-11-22T20:09:20.630667+00:00",
     "f7b14a635cb22223": "2026-11-22T20:09:20.630667+00:00",
-    "76bab2f13ac1eff8": "2026-11-22T20:09:20.630667+00:00"
+    "76bab2f13ac1eff8": "2026-11-22T20:09:20.630667+00:00",
+    "153c975c3ea93f2d": "2026-11-22T20:18:55.014404+00:00",
+    "1305f5b34f6a1d27": "2026-11-22T20:18:55.014404+00:00",
+    "230ef9cf77e9a60d": "2026-11-22T20:18:55.014404+00:00",
+    "f5e90d9ddba19c4e": "2026-11-22T20:18:55.014404+00:00",
+    "f5ec860e9a3d5a86": "2026-11-22T20:18:55.014404+00:00",
+    "b4b23019f6117375": "2026-11-22T20:18:55.014404+00:00",
+    "ba2a8b8781dfce57": "2026-11-22T20:18:55.014404+00:00",
+    "c1a52ed6ffaba0a3": "2026-11-22T20:18:55.014404+00:00",
+    "ab6b9e33c8108546": "2026-11-22T20:18:55.014404+00:00"
   },
   "published_stories": [
     {
@@ -158,6 +167,52 @@
       "topic_key": "aliyev-us-official-meeting",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T20:18:55.014465+00:00",
+      "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı yaşanıb",
+      "summary_az": "İstanbulun Sarıyer rayonunda bir vətəndaşın ərazidə aslan gördüyü barədə etdiyi ihbar bölgədə təşviş yaradıb. Təhlükəsizlik kameralarında da qeydə alınan heyvanın tapılması üçün jandarma və digər aidiyyəti qurumlar tərəfindən axtarış və xəbərdarlıq tədbirləri həyata keçirilir.",
+      "topic_key": "istanbul-sariyer-lion-alarm",
+      "sources": [
+        "TRT Haber",
+        "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T20:18:55.014470+00:00",
+      "headline_az": "Danimarka Rusiyanı sui-qəsd planlaşdırmaqda ittiham edib",
+      "summary_az": "Danimarka hakimiyyəti ölkə ərazisində ABŞ-Ukrayna vətəndaşına qarşı sui-qəsd planı hazırladığı səbəbindən Rusiyanı ittiham edib. Hadisə fonunda Danimarka rəsmiləri Avropa İttifaqını ruslar üçün səyahət məhdudiyyətlərini sərtləşdirməyə çağırıb və bir rus diplomatı ölkədən xaric edib.",
+      "topic_key": "denmark-russia-assassination-plot",
+      "sources": [
+        "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T20:18:55.014473+00:00",
+      "headline_az": "İordan çayının qərb sahilində yəhudi köçkünlərin hücumları qınağa səbəb olub",
+      "summary_az": "İordan çayının qərb sahilində radikal yəhudi köçkünlərin Fələstin qəsəbələrinə qarşı silsilə hücumları baş qaldırıb. İsrailli müxalifət liderləri və rəsmilər baş verən zorakılıqları və yanğınları 'yəhudi terrorizmi' adlandıraraq sərt şəkildə qınayıblar.",
+      "topic_key": "west-bank-settler-attacks",
+      "sources": [
+        "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T20:18:55.014475+00:00",
+      "headline_az": "Liverpul 'Mançester Yunayted'i darmadağın edib",
+      "summary_az": "İngiltərə Premyer Liqasında 'Liverpul' klubu 'Mançester Yunayted'i 4-0 hesabı ilə məğlub edib. Bu nəticə Maurisio Poçetinonun rəhbərlik etdiyi 'Mançester Yunayted' üçün son 100 ildə yeni baş məşqçi ilə qeydə alınan ən ağır nəticələrdən biri olub.",
+      "topic_key": "liverpool-manchester-united-match",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T20:18:55.014478+00:00",
+      "headline_az": "Avropada Trampın Ukraynaya təhlükəsizlik zəmanəti verə biləcəyinə ümidlər artır",
+      "summary_az": "Avropalı siyasətçilər Donald Trampın Ukraynaya sülh və təhlükəsizlik zəmanətləri təmin edə biləcəyi ehtimalını müzakirə edirlər. Digər tərəfdən, Rusiya NATO üslublu təhlükəsizlik zəmanəti ideyasına qarşı çıxış edərək mövqeyini qoruyub saxlayır.",
+      "topic_key": "europe-trump-ukraine-security",
+      "sources": [
+        "Google News World"
       ]
     }
   ]
