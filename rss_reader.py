@@ -6,7 +6,7 @@ import logging
 import re
 import xml.etree.ElementTree as ET
 from dataclasses import asdict, dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
@@ -84,9 +84,9 @@ def canonicalize_url(url: str) -> str:
     )
 
 
-def _parse_date_string(raw: str | None) -> str:
+def _parse_date_string(raw: str | None) -> str | None:
     if not raw:
-        return datetime.now(timezone.utc).isoformat()
+        return None
     try:
         dt = parsedate_to_datetime(raw)
         if dt.tzinfo is None:
@@ -100,18 +100,29 @@ def _parse_date_string(raw: str | None) -> str:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc).isoformat()
     except Exception:
-        return datetime.now(timezone.utc).isoformat()
+        return None
+
+
+def _is_too_old(published_iso: str | None, max_age_hours: int) -> bool:
+    if not published_iso or max_age_hours <= 0:
+        return False
+    try:
+        pub_dt = datetime.fromisoformat(published_iso)
+        if pub_dt.tzinfo is None:
+            pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+        return pub_dt < cutoff
+    except ValueError:
+        return False
 
 
 def _parse_xml_fallback(content: bytes) -> list[dict]:
-    """Stdlib RSS 2.0 / Atom parser used if feedparser is not installed."""
     root = ET.fromstring(content)
     entries: list[dict] = []
 
     def _local(tag: str) -> str:
         return tag.split("}", 1)[-1].lower()
 
-    # RSS 2.0 <item>
     for item in root.iter():
         if _local(item.tag) == "item":
             title = link = summary = pub = ""
@@ -137,7 +148,6 @@ def _parse_xml_fallback(content: bytes) -> list[dict]:
     if entries:
         return entries
 
-    # Atom <entry>
     for entry in root.iter():
         if _local(entry.tag) == "entry":
             title = link = summary = pub = ""
@@ -172,9 +182,11 @@ def parse_rss_bytes(content: bytes) -> list[dict]:
         for entry in parsed.entries:
             time_struct = entry.get("published_parsed") or entry.get("updated_parsed")
             if time_struct:
-                pub_iso = datetime(*time_struct[:6], tzinfo=timezone.utc).isoformat()
+                pub_iso: str | None = datetime(
+                    *time_struct[:6], tzinfo=timezone.utc
+                ).isoformat()
             else:
-                pub_iso = datetime.now(timezone.utc).isoformat()
+                pub_iso = None
             entries.append(
                 {
                     "title": entry.get("title", ""),
@@ -195,6 +207,7 @@ def load_feeds_config(path: str | Path) -> list[dict]:
 def fetch_feed_items(
     feed_cfg: dict,
     max_items: int = 10,
+    max_age_hours: int = 12,
     timeout: int = 15,
     session: requests.Session | None = None,
 ) -> list[NewsItem]:
@@ -218,14 +231,20 @@ def fetch_feed_items(
         return []
 
     items: list[NewsItem] = []
+    skipped_old = 0
     for idx, entry in enumerate(entries[:max_items]):
         title = clean_text(entry.get("title"), max_len=240)
         link = canonicalize_url(entry.get("link", ""))
         if not title or not link:
             continue
 
+        raw_pub_iso = entry.get("published_iso")
+        if _is_too_old(raw_pub_iso, max_age_hours=max_age_hours):
+            skipped_old += 1
+            continue
+
         summary = clean_text(entry.get("summary", ""), max_len=400)
-        published_at = entry.get("published_iso") or datetime.now(timezone.utc).isoformat()
+        published_at = raw_pub_iso or datetime.now(timezone.utc).isoformat()
 
         items.append(
             NewsItem(
@@ -241,13 +260,20 @@ def fetch_feed_items(
             )
         )
 
-    logger.info("Mənbə: %s (%s) -> %d xəbər oxundu", name, region, len(items))
+    logger.info(
+        "Mənbə: %s (%s) -> %d yeni xəbər oxundu (%d köhnə buraxıldı)",
+        name,
+        region,
+        len(items),
+        skipped_old,
+    )
     return items
 
 
 def fetch_all_feeds(
     feeds: Iterable[dict],
     max_items_per_feed: int = 10,
+    max_age_hours: int = 12,
     timeout: int = 15,
 ) -> list[NewsItem]:
     all_items: list[NewsItem] = []
@@ -257,6 +283,7 @@ def fetch_all_feeds(
                 fetch_feed_items(
                     feed_cfg,
                     max_items=max_items_per_feed,
+                    max_age_hours=max_age_hours,
                     timeout=timeout,
                     session=session,
                 )
