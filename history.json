@@ -172,7 +172,10 @@
     "eec4c9928ad45e94": "2026-11-22T21:58:23.016645+00:00",
     "761e79efc6020070": "2026-11-22T22:00:40.217566+00:00",
     "56e622bc084c0941": "2026-11-22T22:12:31.868312+00:00",
-    "697e549f39328247": "2026-11-22T22:14:22.322731+00:00"
+    "697e549f39328247": "2026-11-22T22:14:22.322731+00:00",
+    "43429586e447b223": "2026-11-22T22:16:24.442253+00:00",
+    "2de2883008ee3d93": "2026-11-22T22:16:24.442253+00:00",
+    "2a4208270a3a06a1": "2026-11-22T22:16:24.442253+00:00"
   },
   "published_stories": [
     {
@@ -422,7 +425,39 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-22T22:16:24.831926+00:00",
+      "headline_az": "Türkiyəli iş adamı Boğaziçi körpüsündən tullanaraq intihar edib",
+      "summary_az": "Tanınmış iş insanı Levent Tahmiscioğlu İstanbul boğazının sularına atlayaraq həyatına son qoyub. Hadisədən əvvəl sosial şəbəkələrdə veda məktubu paylaşdığı bildirilir.",
+      "topic_key": "levent-tahmiscioglu-suicide",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Bakıda qarajların qiymətində kəskin bahalaşma qeydə alınıb",
+      "summary_az": "Paytaxtda avtomobil saxlamaq üçün tikilən qarajlar daşınmaz əmlak bazarında rekord həddə bahalaşıb. Bəzi qarajlar artıq təyinatını dəyişərək avtoyuma, təmir sexi və anbar kimi fəaliyyət göstərir.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "baku-garage-price-increase",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/cemiyyet/bakida-qarajlar-rekord-hedde-bahalasdi"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://images.oxu.az/2026/11/23/CBerrZxYQB17gJ9swLOpSrBgP1OhcjkF1LKQJrUD:640.jpg",
+      "queued_at": "2026-11-22T22:16:24.442229+00:00"
+    }
+  ]
 }
