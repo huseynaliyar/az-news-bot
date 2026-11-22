@@ -33,6 +33,7 @@ def run() -> int:
     history_path = Path(os.getenv("HISTORY_PATH", base_dir / "data" / "history.json"))
 
     max_items_per_feed = int(os.getenv("MAX_ITEMS_PER_FEED", "10"))
+    max_news_age_hours = int(os.getenv("MAX_NEWS_AGE_HOURS", "12"))
     max_curate_per_run = int(os.getenv("MAX_CURATE_PER_RUN", "5"))
     posts_per_run = int(os.getenv("MAX_POSTS_PER_RUN", "1"))
     urgent_threshold = int(os.getenv("URGENT_THRESHOLD", "9"))
@@ -54,8 +55,12 @@ def run() -> int:
     memory = NewsMemory(history_path, retention_days=retention_days)
     memory.prune(queue_max_age_hours=queue_max_age_hours)
 
-    logger.info("%d RSS mənbəsi oxunur...", len(feeds))
-    raw_items = fetch_all_feeds(feeds, max_items_per_feed=max_items_per_feed)
+    logger.info("%d RSS mənbəsi oxunur (son %d saat)...", len(feeds), max_news_age_hours)
+    raw_items = fetch_all_feeds(
+        feeds,
+        max_items_per_feed=max_items_per_feed,
+        max_age_hours=max_news_age_hours,
+    )
     unseen_items = memory.filter_unseen(raw_items)
 
     logger.info(
