@@ -304,31 +304,18 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:44:31.280690+00:00",
+      "headline_az": "İsraildə yəhudi köçkünlərin hücumları kəskin qınanılıb",
+      "summary_az": "İordan çayının qərb sahilində yəhudi köçkünlərin fələstinli kəndlərinə qarşı törətdiyi yanğın və zorakılıq aktları İsrail daxilində də etirazla qarşılanıb. İsrailin yüksək vəzifəli rəsmisi Qadi Ayzenkot bu hücumları \"yəhudi terrorizmi\" adlandıraraq kəskin şəkildə pisləyib.",
+      "topic_key": "west-bank-settler-attacks",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İsraildə yəhudi köçkünlərin hücumları kəskin qınanılıb",
-      "summary_az": "İordan çayının qərb sahilində yəhudi köçkünlərin fələstinli kəndlərinə qarşı törətdiyi yanğın və zorakılıq aktları İsrail daxilində də etirazla qarşılanıb. İsrailin yüksək vəzifəli rəsmisi Qadi Ayzenkot bu hücumları \"yəhudi terrorizmi\" adlandıraraq kəskin şəkildə pisləyib.",
-      "category": "Təhlükəsizlik",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": true,
-      "topic_key": "west-bank-settler-attacks",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "Google News World",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1hHdS16b0NMaW1jbzc3WUdrQnduODNidm1yaUVrZmlXN1AwX3cxbndCb0E3eVNGRTcxSW5SMHlnVm9QTTZDWmtlM24zWnBpZ2Z2SGpMcjMxUkl2ZnNkSmF4Mmd0RkRuZDhPM0lPS1JhakFvSWxibDJyclh5UU9qQnA4QjhFR0lnNXVhcQ?oc=5"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-22T21:18:47.112074+00:00"
-    },
     {
       "headline_az": "Ankarada milli parkda iki bozayının öldürülməsi ilə bağlı araşdırma başlanıb",
       "summary_az": "Ankaranın Soğuksu Milli Parkında iki bozayının silahla vurularaq öldürülməsi ictimaiyyətdə narazılıq yaradıb. Faktla bağlı rəsmi qurumlar tərəfindən dərhal araşdırma və istintaq tədbirlərinə start verilib.",
