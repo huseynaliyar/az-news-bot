@@ -6,7 +6,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from src.ai_processor import curate_news
+from src.ai_processor import CuratedStory, curate_news
 from src.memory import NewsMemory
 from src.rss_reader import fetch_all_feeds, load_feeds_config
 from src.telegram_poster import publish_stories
@@ -33,7 +33,10 @@ def run() -> int:
     history_path = Path(os.getenv("HISTORY_PATH", base_dir / "data" / "history.json"))
 
     max_items_per_feed = int(os.getenv("MAX_ITEMS_PER_FEED", "10"))
-    max_posts_per_run = int(os.getenv("MAX_POSTS_PER_RUN", "5"))
+    max_curate_per_run = int(os.getenv("MAX_CURATE_PER_RUN", "5"))
+    posts_per_run = int(os.getenv("MAX_POSTS_PER_RUN", "1"))
+    urgent_threshold = int(os.getenv("URGENT_THRESHOLD", "9"))
+    queue_max_age_hours = int(os.getenv("QUEUE_MAX_AGE_HOURS", "8"))
     memory_days = int(os.getenv("MEMORY_DAYS", "7"))
     retention_days = int(os.getenv("HISTORY_RETENTION_DAYS", "14"))
     only_verified = _env_bool("ONLY_VERIFIED", default=False)
@@ -49,44 +52,56 @@ def run() -> int:
 
     feeds = load_feeds_config(feeds_path)
     memory = NewsMemory(history_path, retention_days=retention_days)
+    memory.prune(queue_max_age_hours=queue_max_age_hours)
 
     logger.info("%d RSS mənbəsi oxunur...", len(feeds))
     raw_items = fetch_all_feeds(feeds, max_items_per_feed=max_items_per_feed)
     unseen_items = memory.filter_unseen(raw_items)
 
     logger.info(
-        "Cəmi %d xəbər oxundu, %d yeni (təkrarsız) xəbər tapıldı.",
+        "Cəmi %d xəbər oxundu, %d yeni (təkrarsız) xəbər tapıldı. Növbədə: %d",
         len(raw_items),
         len(unseen_items),
+        len(memory.pending_queue),
     )
 
-    if not unseen_items:
-        logger.info("Yeni xəbər yoxdur. Çıxılır.")
-        memory.save()
+    if unseen_items:
+        recent_stories = memory.get_recent_stories(memory_days=memory_days)
+        curated = curate_news(
+            candidates=unseen_items,
+            recent_stories=recent_stories,
+            max_posts=max_curate_per_run,
+        )
+        if only_verified:
+            curated = [s for s in curated if s.verified]
+
+        memory.enqueue_stories([s.to_dict() for s in curated])
+        memory.mark_urls_seen([item.url for item in unseen_items])
+        logger.info(
+            "AI %d xəbəri növbəyə əlavə etdi. Ümumi növbə: %d",
+            len(curated),
+            len(memory.pending_queue),
+        )
+
+    to_publish_dicts = memory.pop_stories_to_publish(
+        posts_per_run=posts_per_run,
+        urgent_threshold=urgent_threshold,
+    )
+
+    if not to_publish_dicts:
+        logger.info("Paylaşılacaq xəbər yoxdur. Çıxılır.")
+        memory.save(queue_max_age_hours=queue_max_age_hours)
         return 0
 
-    recent_stories = memory.get_recent_stories(memory_days=memory_days)
-    curated = curate_news(
-        candidates=unseen_items,
-        recent_stories=recent_stories,
-        max_posts=max_posts_per_run,
-    )
-
-    if only_verified:
-        curated = [s for s in curated if s.verified]
-
-    logger.info("AI tərəfindən %d xəbər seçildi.", len(curated))
-
+    to_publish = [CuratedStory.from_dict(d) for d in to_publish_dicts]
     sent = publish_stories(
-        stories=curated,
+        stories=to_publish,
         bot_token=bot_token,
         chat_id=chat_id,
         dry_run=dry_run,
     )
 
-    # Mark all fetched unseen URLs as processed so they are not re-evaluated next run
-    memory.mark_urls_seen([item.url for item in unseen_items])
-    for story in curated:
+    for story in to_publish:
         memory.record_published_story(
             headline_az=story.headline_az,
             summary_az=story.summary_az,
@@ -94,8 +109,12 @@ def run() -> int:
             sources=[s["name"] for s in story.sources],
         )
 
-    memory.save()
-    logger.info("Tamamlandı! %d xəbər Telegram-a göndərildi.", sent)
+    memory.save(queue_max_age_hours=queue_max_age_hours)
+    logger.info(
+        "Tamamlandı! %d xəbər Telegram-a göndərildi. Növbədə qalan: %d",
+        sent,
+        len(memory.pending_queue),
+    )
     return sent
 
 
