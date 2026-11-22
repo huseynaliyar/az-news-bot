@@ -4,6 +4,7 @@ import json
 import logging
 import os
 import re
+import time
 from dataclasses import dataclass
 
 import requests
@@ -56,12 +57,12 @@ def build_prompt(
 Sənə Azərbaycan, Türkiyə və dünya RSS mənbələrindən gələn yeni xəbərlər verilir.
 
 VƏZİFƏLƏRİN:
-1. EYNİ HADİSƏNİ BİRLƏŞDİR: Müxtəlif saytlardan (məsələn, BBC, TRT Haber, Oxu.az və s.) eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
-2. ÇOXGÜNLÜK YADDAŞI YOXLAYIB TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR" siyahısını yoxla. Əgər yeni xəbər son günlərdə artıq paylaşılıbsa və ciddi yeni inkişaf yoxdursa, onu TAMAMİLƏ ÇIXAR. Yalnız mühüm yeni detal/inkişaf varsa `is_update: true` kimi saxla.
+1. EYNİ HADİSƏNİ BİRLƏŞDİR: Müxtəlif saytlardan eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
+2. ÇOXGÜNLÜK YADDAŞI YOXLAYIB TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR" siyahısını yoxla. Əgər yeni xəbər son günlərdə artıq paylaşılıbsa və ciddi yeni inkişaf yoxdursa, onu TAMAMİLƏ ÇIXAR. Yalnız mühüm yeni detal varsa `is_update: true` kimi saxla.
 3. DOĞRULUĞU QİYMƏTLƏNDİR:
-   - Əgər xəbər 2 və ya daha çox müstəqil mənbə tərəfindən təsdiqlənirsə və ya rəsmi/etibarlı (tier=reliable) mənbədən rəsmi bəyanatdırsa: `verified: true`, `verification_note: "Təsdiqlənmiş"` yaz.
-   - Əgər yalnız 1 mənbədə varsa və hələ təsdiqlənməyibsə / iddia xarakterlidirsə: `verified: false`, `verification_note: "Tək mənbə / Yoxlanılmalıdır"` yaz.
-4. AZƏRBAYCAN DİLİNDƏ YAZ: Ən vacib maksimum {max_posts} xəbəri seç (Azərbaycan, Türkiyə və dünya balansını qoru). Hər xəbər üçün təbii, səlis və qərəzsiz Azərbaycan dilində başlıq (`headline_az`) və 2-3 cümləlik konkret xülasə (`summary_az`) yaz. Reklam, klikbeyt və əhəmiyyətsiz şou xəbərlərini çıxar.
+   - 2+ müstəqil mənbə təsdiqləyirsə və ya etibarlı rəsmi mənbədirsə: `verified: true`, `verification_note: "Təsdiqlənmiş"`.
+   - Yalnız 1 mənbədədirsə: `verified: false`, `verification_note: "Tək mənbə / Yoxlanılmalıdır"`.
+4. AZƏRBAYCAN DİLİNDƏ YAZ: Ən vacib maksimum {max_posts} xəbəri seç (Azərbaycan, Türkiyə və dünya balansını qoru). Səlis, təbii Azərbaycan dilində başlıq (`headline_az`) və 2-3 cümləlik xülasə (`summary_az`) yaz. Reklam, klikbeyt və xırda xəbərləri çıxar.
 
 SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR:
 {history_block}
@@ -69,7 +70,7 @@ SON GÜNLƏRDƏ PAYLAŞILMIŞ XƏBƏRLƏR:
 YENİ NAMİZƏD XƏBƏRLƏR:
 {candidates_block}
 
-CAVABI YALNIZ DÜZGÜN JSON FORMATINDA VER (əlavə izah yazma):
+CAVABI YALNIZ DÜZGÜN JSON FORMATINDA VER:
 {{
   "stories": [
     {{
@@ -147,7 +148,6 @@ def curate_news(
     if not candidates:
         return []
 
-    # Keep prompt compact for free-tier token limits
     batch = candidates[:40]
     prompt = build_prompt(batch, recent_stories, max_posts=max_posts)
 
@@ -157,15 +157,19 @@ def curate_news(
     groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
     preferred = (primary_provider or os.getenv("AI_PROVIDER", "gemini")).strip().lower()
 
+    gemini_models = list(
+        dict.fromkeys([gemini_model, "gemini-3.1-flash-lite", "gemini-3.8-flash"])
+    )
+
     providers: list[tuple[str, str, str]] = []
     if preferred == "groq":
         if groq_key:
             providers.append(("groq", groq_key, groq_model))
         if gemini_key:
-            providers.append(("gemini", gemini_key, gemini_model))
+            providers.extend(("gemini", gemini_key, m) for m in gemini_models)
     else:
         if gemini_key:
-            providers.append(("gemini", gemini_key, gemini_model))
+            providers.extend(("gemini", gemini_key, m) for m in gemini_models)
         if groq_key:
             providers.append(("groq", groq_key, groq_model))
 
@@ -177,16 +181,21 @@ def curate_news(
     raw_response: str | None = None
     last_error: Exception | None = None
     for name, key, model in providers:
-        try:
-            logger.info("AI təhlili işə salınır: %s (%s)", name, model)
-            if name == "gemini":
-                raw_response = _call_gemini(prompt, key, model)
-            else:
-                raw_response = _call_groq(prompt, key, model)
+        for attempt in range(2):
+            try:
+                logger.info("AI təhlili işə salınır: %s (%s)", name, model)
+                if name == "gemini":
+                    raw_response = _call_gemini(prompt, key, model)
+                else:
+                    raw_response = _call_groq(prompt, key, model)
+                break
+            except Exception as exc:
+                logger.warning("%s (%s) cəhd %d xətası: %s", name, model, attempt + 1, exc)
+                last_error = exc
+                if attempt == 0:
+                    time.sleep(5)
+        if raw_response is not None:
             break
-        except Exception as exc:
-            logger.warning("%s xətası, növbəti provayderə keçilir: %s", name, exc)
-            last_error = exc
 
     if raw_response is None:
         raise RuntimeError(f"Bütün AI provayderləri uğursuz oldu: {last_error}")
