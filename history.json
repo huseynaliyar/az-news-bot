@@ -125,7 +125,30 @@
     "10974900251ad671": "2026-11-22T20:29:31.020237+00:00",
     "1e8fe8b4de1952ed": "2026-11-22T20:29:31.020237+00:00",
     "d85aba9877329861": "2026-11-22T20:29:31.020237+00:00",
-    "ba748d5db688a113": "2026-11-22T20:29:31.020237+00:00"
+    "ba748d5db688a113": "2026-11-22T20:29:31.020237+00:00",
+    "df97b235cf2a1c23": "2026-11-22T21:10:29.339940+00:00",
+    "6cea3897e0a62d49": "2026-11-22T21:10:29.339940+00:00",
+    "295f507ed21493ad": "2026-11-22T21:10:29.339940+00:00",
+    "7c39643ebb73c120": "2026-11-22T21:10:29.339940+00:00",
+    "848d0170d761385e": "2026-11-22T21:10:29.339940+00:00",
+    "b9f581fc5f2c4349": "2026-11-22T21:10:29.339940+00:00",
+    "2265118159795576": "2026-11-22T21:10:29.339940+00:00",
+    "9ce07611925eb419": "2026-11-22T21:10:29.339940+00:00",
+    "a2f306c7a4470585": "2026-11-22T21:10:29.339940+00:00",
+    "9f05c5f38553a9a6": "2026-11-22T21:10:29.339940+00:00",
+    "33e3e1487a2c390f": "2026-11-22T21:10:29.339940+00:00",
+    "be5d355559f93efc": "2026-11-22T21:10:29.339940+00:00",
+    "dad9ca29691131f9": "2026-11-22T21:10:29.339940+00:00",
+    "6e09782ddd5a5816": "2026-11-22T21:10:29.339940+00:00",
+    "4f331a07270869a9": "2026-11-22T21:10:29.339940+00:00",
+    "47e11b2c3dc2f0a4": "2026-11-22T21:10:29.339940+00:00",
+    "875a92d56976bb10": "2026-11-22T21:10:29.339940+00:00",
+    "4e80abb9b19107bb": "2026-11-22T21:10:29.339940+00:00",
+    "7e5383763bcf3b01": "2026-11-22T21:10:29.339940+00:00",
+    "eeaa167881a0e424": "2026-11-22T21:10:29.339940+00:00",
+    "df1060e0ee98314d": "2026-11-22T21:10:29.339940+00:00",
+    "a97059c26fba36a7": "2026-11-22T21:10:29.339940+00:00",
+    "f8c6e32bc6a087c7": "2026-11-22T21:10:29.339940+00:00"
   },
   "published_stories": [
     {
@@ -231,9 +254,40 @@
         "Google News AZ",
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:10:29.892090+00:00",
+      "headline_az": "Zanzibarda məşhur turizm məkanında güclü yanğın baş verib",
+      "summary_az": "Tanzaniyanın populyar turizm mərkəzi olan Zanzibarın Nungwi bölgəsində şiddətli yanğın qeydə alınıb. Alov azı altı oteli və onlarla mağazanı tamamilə əhatə edərək ciddi maddi zərərə səbəb olub.",
+      "topic_key": "zanzibar-hotel-fire",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Sudanın paytaxtı yaxınlığındakı dron hücumları nəticəsində dinc sakinlər həlak olub",
+      "summary_az": "Sudanın paytaxtı yaxınlığında həyata keçirilən pilotsuz uçuş aparatları hücumları nəticəsində azı dörd nəfər həyatını itirib. Zərbələr zamanı BMT-nin yerli binasına da maddi ziyan dəyib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "sudan-drone-attack-un-building",
+      "source_indices": [
+        22
+      ],
+      "sources": [
+        {
+          "name": "Google News World",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:10:29.339907+00:00"
+    },
     {
       "headline_az": "BMT ölümcül avtonom silahların tənzimlənməsi ilə bağlı razılığa gələ bilməyib",
       "summary_az": "BMT-nin süni intellektə əsaslanan qatil robotlar və avtonom silahların tənzimlənməsi üzrə danışıqları nəticəsiz başa çatıb. Lakin tərəflər gələcəkdə müzakirələri davam etdirmək barədə razılığa gəliblər. Beynəlxalq təşkilatlar bu cür silahların nəzarətsiz qalmasının təhlükələri barədə xəbərdarlıq edirlər.",
@@ -256,6 +310,28 @@
       "queued_at": "2026-11-22T20:29:31.020210+00:00"
     },
     {
+      "headline_az": "Vanın üç rayonunda əlverişsiz hava şəraiti səbəbindən tətil elan edilib",
+      "summary_az": "Türkiyənin Van vilayətinin Muradiye, Çaldıran və Saray rayonlarında güclü qar yağışı, buzlanma və sıx duman müşahidə olunub. Əlverişli olmayan hava şəraiti ilə əlaqədar bu bölgələrdə bütün təhsil müəssisələrində dərslərə bir gün müddətinə fasilə verilib.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "van-snow-education-break",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/vanin-3-ilcesinde-egitime-kar-engeli-1752113"
+        }
+      ],
+      "importance": 6,
+      "image_url": "https://images.ntv.com.tr/images/Eğitimkarengeli-412929.jpg",
+      "queued_at": "2026-11-22T21:10:29.339907+00:00"
+    },
+    {
       "headline_az": "Soçidə güclü leysan yağışları daşqınlara və torpaq sürüşməsinə yol açıb",
       "summary_az": "Rusiyanın Soçi şəhərində güclü leysan yağışları səbəbindən çaylar məcrasından çıxıb, küçələr çaya dönüb. Təbii fəlakət nəticəsində torpaq sürüşməsi qeydə alınıb, evlər və yollar zərər görüb. Fövqəladə xidmətlər ərazidə tədbirlər görür.",
       "category": "Dünya",
@@ -275,6 +351,50 @@
       ],
       "importance": 6,
       "queued_at": "2026-11-22T20:29:31.020210+00:00"
+    },
+    {
+      "headline_az": "Muşda ildırım düşməsi nəticəsində məscidin minarəsi dağılıb",
+      "summary_az": "Türkiyənin Muş vilayətinin Korkut rayonunda məscidə ildırım düşməsi nəticəsində güclü dağıntı qeydə alınıb. Hadisə zamanı minarənin uçması nəticəsində əraziyə düşən daş parçasının isabet etdiyi bir nəfər yaralanıb.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "mus-lightning-minaret-collapse",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/musta-yildirim-isabet-eden-minare-yikildi-1-kisi-yaralandi-964150.html"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:10:29.339907+00:00"
+    },
+    {
+      "headline_az": "Bursa dəniz avtobuslarının bir sıra reysləri pis hava şəraiti səbəbindən təxirə salınıb",
+      "summary_az": "Türkiyədə sərt keçən hava şəraiti nəqliyyatın hərəkətində də çətinliklər yaradıb. Bursa Dəniz Otobüslərinin (BUDO) bazar ertəsi həyata keçirilməsi planlaşdırılan 12 səfəri ləğv edilib.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "budo-ferry-cancellations",
+      "source_indices": [
+        12
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/budonun-12-seferi-iptal-edildi-3496671"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:10:29.339907+00:00"
     }
   ]
 }
