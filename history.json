@@ -162,7 +162,9 @@
     "5a1590ddc110a893": "2026-11-22T21:43:42.644066+00:00",
     "048754c21aeaf397": "2026-11-22T21:43:42.644066+00:00",
     "586be1da7cf04e04": "2026-11-22T21:43:42.644066+00:00",
-    "ba5564e687980bf9": "2026-11-22T21:43:42.644066+00:00"
+    "ba5564e687980bf9": "2026-11-22T21:43:42.644066+00:00",
+    "a47e27badb3d3314": "2026-11-22T21:46:37.123195+00:00",
+    "98f87a6f8bcb70d8": "2026-11-22T21:46:37.123195+00:00"
   },
   "published_stories": [
     {
@@ -312,6 +314,15 @@
       "topic_key": "west-bank-settler-attacks",
       "sources": [
         "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T21:46:37.628684+00:00",
+      "headline_az": "Türkiyə Kabineti pensiya artımı və fond araşdırmasını müzakirə edəcək",
+      "summary_az": "Türkiyə Nazirlər Kabineti sabah keçiriləcək iclasda təqaüdçülərə əlavə dəstək tənzimləmələri, maliyyə fondları ilə bağlı araşdırmalar və ölkə daxilində təhlükəsizlik məsələlərini müzakirə edəcək. Gündəmdə həmçinin dövlət məmurlarının maaş artımı ilə bağlı son vəziyyət yer alacaq.",
+      "topic_key": "turkey-cabinet-meeting-agenda",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
