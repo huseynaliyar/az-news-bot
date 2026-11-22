@@ -148,7 +148,10 @@
     "eeaa167881a0e424": "2026-11-22T21:10:29.339940+00:00",
     "df1060e0ee98314d": "2026-11-22T21:10:29.339940+00:00",
     "a97059c26fba36a7": "2026-11-22T21:10:29.339940+00:00",
-    "f8c6e32bc6a087c7": "2026-11-22T21:10:29.339940+00:00"
+    "f8c6e32bc6a087c7": "2026-11-22T21:10:29.339940+00:00",
+    "965b876a0f7bc356": "2026-11-22T21:18:47.112108+00:00",
+    "abe4ba7599d9b125": "2026-11-22T21:18:47.112108+00:00",
+    "ca6866dc17293828": "2026-11-22T21:18:47.112108+00:00"
   },
   "published_stories": [
     {
@@ -263,9 +266,62 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:18:47.544627+00:00",
+      "headline_az": "Finlandiya körfəzində Rusiya gəmisinə dron hücumu baş verib",
+      "summary_az": "Finlandiya körfəzində Kalininqrada doğru hərəkət edən Rusiya yük gəmisi naməlum dronların hücumuna məruz qalıb. Hadisə nəticəsində gəmidə yanğın baş verib və Finlandiya yanğınsöndürmə qrupları alovun söndürülməsi üçün müdaxilə edib.",
+      "topic_key": "finland-gulf-ship-attack",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "COP31 iqlim sammiti uğursuzluqla başa çatıb",
+      "summary_az": "Antalyada keçirilən COP31 iqlim sammiti iştirakçı ölkələrin qalıq yanacaqlarla bağlı yekun razılaşmaya gələ bilməməsi səbəbindən nəticəsiz yekunlaşıb. Danışıqların iflası beynəlxalq ictimaiyyətdə ciddi narazılıq və tənqidlərə səbəb olub.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": true,
+      "topic_key": "cop31-climate-summit-antalya",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Google News World",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:18:47.112074+00:00"
+    },
+    {
+      "headline_az": "İsraildə yəhudi köçkünlərin hücumları kəskin qınanılıb",
+      "summary_az": "İordan çayının qərb sahilində yəhudi köçkünlərin fələstinli kəndlərinə qarşı törətdiyi yanğın və zorakılıq aktları İsrail daxilində də etirazla qarşılanıb. İsrailin yüksək vəzifəli rəsmisi Qadi Ayzenkot bu hücumları \"yəhudi terrorizmi\" adlandıraraq kəskin şəkildə pisləyib.",
+      "category": "Təhlükəsizlik",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": true,
+      "topic_key": "west-bank-settler-attacks",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "Google News World",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1hHdS16b0NMaW1jbzc3WUdrQnduODNidm1yaUVrZmlXN1AwX3cxbndCb0E3eVNGRTcxSW5SMHlnVm9QTTZDWmtlM24zWnBpZ2Z2SGpMcjMxUkl2ZnNkSmF4Mmd0RkRuZDhPM0lPS1JhakFvSWxibDJyclh5UU9qQnA4QjhFR0lnNXVhcQ?oc=5"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-22T21:18:47.112074+00:00"
+    },
     {
       "headline_az": "Sudanın paytaxtı yaxınlığındakı dron hücumları nəticəsində dinc sakinlər həlak olub",
       "summary_az": "Sudanın paytaxtı yaxınlığında həyata keçirilən pilotsuz uçuş aparatları hücumları nəticəsində azı dörd nəfər həyatını itirib. Zərbələr zamanı BMT-nin yerli binasına da maddi ziyan dəyib.",
