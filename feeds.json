@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Oxu.az",
+    "url": "https://oxu.az/feed",
+    "region": "az",
+    "tier": "reliable",
+    "language": "az"
+  },
+  {
+    "name": "AzerNews",
+    "url": "https://www.azernews.az/feed.php",
+    "region": "az",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "Day.az",
+    "url": "https://news.day.az/rss",
+    "region": "az",
+    "tier": "standard",
+    "language": "ru"
+  },
+  {
+    "name": "Google News AZ",
+    "url": "https://news.google.com/rss?hl=az&gl=AZ&ceid=AZ:az",
+    "region": "az",
+    "tier": "aggregator",
+    "language": "az"
+  },
+  {
+    "name": "TRT Haber",
+    "url": "https://www.trthaber.com/sondakika.rss",
+    "region": "tr",
+    "tier": "reliable",
+    "language": "tr"
+  },
+  {
+    "name": "NTV Gündem",
+    "url": "https://www.ntv.com.tr/gundem.rss",
+    "region": "tr",
+    "tier": "reliable",
+    "language": "tr"
+  },
+  {
+    "name": "NTV Dünya",
+    "url": "https://www.ntv.com.tr/dunya.rss",
+    "region": "tr",
+    "tier": "reliable",
+    "language": "tr"
+  },
+  {
+    "name": "CNN Türk",
+    "url": "https://www.cnnturk.com/feed/rss/all/news",
+    "region": "tr",
+    "tier": "reliable",
+    "language": "tr"
+  },
+  {
+    "name": "Google News TR",
+    "url": "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
+    "region": "tr",
+    "tier": "aggregator",
+    "language": "tr"
+  },
+  {
+    "name": "BBC World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "region": "world",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "region": "world",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "Google News World",
+    "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
+    "region": "world",
+    "tier": "aggregator",
+    "language": "en"
+  }
+]

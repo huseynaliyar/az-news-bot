@@ -1,0 +1,48 @@
+name: Avtomatik Xəbər Botu
+
+on:
+  schedule:
+    # Hər 30 dəqiqədən bir avtomatik işə düşür (istəsəniz '0 * * * *' edib saatlıq edə bilərsiniz)
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # GitHub Actions bölməsindən əllə test etmək üçün düymə
+
+permissions:
+  contents: write # data/history.json yaddaş faylını yeniləyib saxlamaq üçün vacibdir
+
+jobs:
+  run-news-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repozitoriyanı yüklə
+        uses: actions/checkout@v4
+
+      - name: Python 3.12 quraşdır
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Kitabxanaları yüklə
+        run: pip install -r requirements.txt
+
+      - name: Xəbər botunu işə sal
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'gemini' }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL || 'llama-3.3-70b-versatile' }}
+          MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '5' }}
+          ONLY_VERIFIED: ${{ vars.ONLY_VERIFIED || 'false' }}
+        run: python -m src.main
+
+      - name: Yaddaş faylını (history.json) saxla
+        run: |
+          git config user.name "news-bot[bot]"
+          git config user.email "news-bot[bot]@users.noreply.github.com"
+          git add data/history.json
+          git diff --staged --quiet || git commit -m "chore: update news memory [skip ci]"
+          git push
