@@ -586,30 +586,16 @@
       "sources": [
         "Google News World"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-22T23:52:22.630317+00:00",
       "headline_az": "İstanbulda güclü fırtına başlayıb, hava temperaturu kəskin enəcək",
       "summary_az": "İstanbul şəhəri güclü fırtına və leysan yağışların təsirinə məruz qalıb. Sinoptiklərin məlumatına görə, sabah hava temperaturu 12 dərəcə aşağı düşəcək və hündür ərazilərdə yağışın sulu qara çevriləcəyi gözlənilir.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "istanbul-storm-temperature-drop",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117"
-        }
-      ],
-      "importance": 6,
-      "image_url": "https://images.ntv.com.tr/images/AA-20261014-42753864-42753861-ISTANBULDA_SAGANAK_ETKILI_OLDU-526063.jpg",
-      "queued_at": "2026-11-22T23:50:43.716533+00:00"
+        "NTV Gündem"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
