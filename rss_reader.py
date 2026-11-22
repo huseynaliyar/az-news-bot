@@ -34,6 +34,8 @@ TRACKING_PARAMS = {
 
 TAG_RE = re.compile(r"<[^>]+>")
 WHITESPACE_RE = re.compile(r"\s+")
+IMG_SRC_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
+IMAGE_EXT_RE = re.compile(r"\.(?:jpe?g|png|webp)(?:\?.*)?$", re.IGNORECASE)
 
 
 @dataclass
@@ -47,6 +49,7 @@ class NewsItem:
     tier: str
     language: str
     published_at: str
+    image_url: str = ""
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -82,6 +85,22 @@ def canonicalize_url(url: str) -> str:
             "",
         )
     )
+
+
+def _valid_image_url(url: str | None) -> str:
+    if not url:
+        return ""
+    u = url.strip()
+    if u.startswith("http://") or u.startswith("https://"):
+        return u
+    return ""
+
+
+def _extract_img_from_html(raw_html: str | None) -> str:
+    if not raw_html:
+        return ""
+    match = IMG_SRC_RE.search(raw_html)
+    return _valid_image_url(match.group(1)) if match else ""
 
 
 def _parse_date_string(raw: str | None) -> str | None:
@@ -125,7 +144,7 @@ def _parse_xml_fallback(content: bytes) -> list[dict]:
 
     for item in root.iter():
         if _local(item.tag) == "item":
-            title = link = summary = pub = ""
+            title = link = summary = pub = image_url = ""
             for child in item:
                 tag = _local(child.tag)
                 if tag == "title" and child.text:
@@ -136,12 +155,24 @@ def _parse_xml_fallback(content: bytes) -> list[dict]:
                     summary = child.text
                 elif tag in {"pubdate", "date"} and child.text and not pub:
                     pub = child.text
+                elif tag in {"content", "thumbnail"} and not image_url:
+                    cand = _valid_image_url(child.attrib.get("url"))
+                    if cand:
+                        image_url = cand
+                elif tag == "enclosure" and not image_url:
+                    enc_type = child.attrib.get("type", "").lower()
+                    cand = _valid_image_url(child.attrib.get("url"))
+                    if cand and (enc_type.startswith("image/") or IMAGE_EXT_RE.search(cand)):
+                        image_url = cand
+            if not image_url:
+                image_url = _extract_img_from_html(summary)
             entries.append(
                 {
                     "title": title,
                     "link": link,
                     "summary": summary,
                     "published_iso": _parse_date_string(pub),
+                    "image_url": image_url,
                 }
             )
 
@@ -150,7 +181,7 @@ def _parse_xml_fallback(content: bytes) -> list[dict]:
 
     for entry in root.iter():
         if _local(entry.tag) == "entry":
-            title = link = summary = pub = ""
+            title = link = summary = pub = image_url = ""
             for child in entry:
                 tag = _local(child.tag)
                 if tag == "title" and child.text:
@@ -163,16 +194,45 @@ def _parse_xml_fallback(content: bytes) -> list[dict]:
                     summary = child.text
                 elif tag in {"updated", "published"} and child.text and not pub:
                     pub = child.text
+                elif tag in {"thumbnail", "content"} and not image_url:
+                    cand = _valid_image_url(child.attrib.get("url"))
+                    if cand:
+                        image_url = cand
+            if not image_url:
+                image_url = _extract_img_from_html(summary)
             entries.append(
                 {
                     "title": title,
                     "link": link,
                     "summary": summary,
                     "published_iso": _parse_date_string(pub),
+                    "image_url": image_url,
                 }
             )
 
     return entries
+
+
+def _extract_feedparser_image(entry: dict) -> str:
+    for media in entry.get("media_content", []) or []:
+        url = _valid_image_url(media.get("url"))
+        mtype = str(media.get("type", "")).lower()
+        medium = str(media.get("medium", "")).lower()
+        if url and (mtype.startswith("image/") or medium == "image" or IMAGE_EXT_RE.search(url) or not mtype):
+            return url
+
+    for thumb in entry.get("media_thumbnail", []) or []:
+        url = _valid_image_url(thumb.get("url"))
+        if url:
+            return url
+
+    for enc in entry.get("enclosures", []) or []:
+        url = _valid_image_url(enc.get("href") or enc.get("url"))
+        etype = str(enc.get("type", "")).lower()
+        if url and (etype.startswith("image/") or IMAGE_EXT_RE.search(url)):
+            return url
+
+    return _extract_img_from_html(entry.get("summary") or entry.get("description"))
 
 
 def parse_rss_bytes(content: bytes) -> list[dict]:
@@ -193,6 +253,7 @@ def parse_rss_bytes(content: bytes) -> list[dict]:
                     "link": entry.get("link", ""),
                     "summary": entry.get("summary") or entry.get("description") or "",
                     "published_iso": pub_iso,
+                    "image_url": _extract_feedparser_image(entry),
                 }
             )
         return entries
@@ -245,6 +306,7 @@ def fetch_feed_items(
 
         summary = clean_text(entry.get("summary", ""), max_len=400)
         published_at = raw_pub_iso or datetime.now(timezone.utc).isoformat()
+        image_url = _valid_image_url(entry.get("image_url"))
 
         items.append(
             NewsItem(
@@ -257,6 +319,7 @@ def fetch_feed_items(
                 tier=tier,
                 language=language,
                 published_at=published_at,
+                image_url=image_url,
             )
         )
 
