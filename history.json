@@ -402,31 +402,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-22T22:04:23.528279+00:00",
+      "headline_az": "Muşda ildırım düşməsi nəticəsində məscidin minarəsi dağılıb",
+      "summary_az": "Türkiyənin Muş vilayətinin Korkut rayonunda məscidə ildırım düşməsi nəticəsində güclü dağıntı qeydə alınıb. Hadisə zamanı minarənin uçması nəticəsində əraziyə düşən daş parçasının isabet etdiyi bir nəfər yaralanıb.",
+      "topic_key": "mus-lightning-minaret-collapse",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Muşda ildırım düşməsi nəticəsində məscidin minarəsi dağılıb",
-      "summary_az": "Türkiyənin Muş vilayətinin Korkut rayonunda məscidə ildırım düşməsi nəticəsində güclü dağıntı qeydə alınıb. Hadisə zamanı minarənin uçması nəticəsində əraziyə düşən daş parçasının isabet etdiyi bir nəfər yaralanıb.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "mus-lightning-minaret-collapse",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/turkiye/musta-yildirim-isabet-eden-minare-yikildi-1-kisi-yaralandi-964150.html"
-        }
-      ],
-      "importance": 5,
-      "image_url": "",
-      "queued_at": "2026-11-22T21:10:29.339907+00:00"
-    },
     {
       "headline_az": "Bursa dəniz avtobuslarının bir sıra reysləri pis hava şəraiti səbəbindən təxirə salınıb",
       "summary_az": "Türkiyədə sərt keçən hava şəraiti nəqliyyatın hərəkətində də çətinliklər yaradıb. Bursa Dəniz Otobüslərinin (BUDO) bazar ertəsi həyata keçirilməsi planlaşdırılan 12 səfəri ləğv edilib.",
