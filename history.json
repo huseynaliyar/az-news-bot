@@ -444,30 +444,16 @@
       "sources": [
         "Google News AZ"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-22T22:22:26.791839+00:00",
       "headline_az": "Bakıda qarajların qiymətində kəskin bahalaşma qeydə alınıb",
       "summary_az": "Paytaxtda avtomobil saxlamaq üçün tikilən qarajlar daşınmaz əmlak bazarında rekord həddə bahalaşıb. Bəzi qarajlar artıq təyinatını dəyişərək avtoyuma, təmir sexi və anbar kimi fəaliyyət göstərir.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "baku-garage-price-increase",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/cemiyyet/bakida-qarajlar-rekord-hedde-bahalasdi"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://images.oxu.az/2026/11/23/CBerrZxYQB17gJ9swLOpSrBgP1OhcjkF1LKQJrUD:640.jpg",
-      "queued_at": "2026-11-22T22:16:24.442229+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
