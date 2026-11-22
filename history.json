@@ -164,7 +164,8 @@
     "586be1da7cf04e04": "2026-11-22T21:43:42.644066+00:00",
     "ba5564e687980bf9": "2026-11-22T21:43:42.644066+00:00",
     "a47e27badb3d3314": "2026-11-22T21:46:37.123195+00:00",
-    "98f87a6f8bcb70d8": "2026-11-22T21:46:37.123195+00:00"
+    "98f87a6f8bcb70d8": "2026-11-22T21:46:37.123195+00:00",
+    "c42da997497daa0e": "2026-11-22T21:48:32.020140+00:00"
   },
   "published_stories": [
     {
@@ -323,6 +324,15 @@
       "topic_key": "turkey-cabinet-meeting-agenda",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T21:48:33.413398+00:00",
+      "headline_az": "Azərbaycanda ərzaq qiymətlərinə ticarət əlavəsi limiti tətbiq edilə bilər",
+      "summary_az": "Azərbaycanda ərzaq məhsullarının pərakəndə satış qiymətlərində süni artımın qarşısını almaq üçün ticarət əlavələrinə limit qoyulması təklif olunur. Müzakirə olunan yanaşmalardan biri bütün məhsullar üçün vahid faiz dərəcəsinin tətbiq edilməsidir.",
+      "topic_key": "azerbaijan-food-price-regulation",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
