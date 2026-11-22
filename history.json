@@ -199,7 +199,9 @@
     "0a4af7407b6cb880": "2026-11-22T23:42:24.932521+00:00",
     "ee453784fbf6e923": "2026-11-22T23:44:20.669280+00:00",
     "6d7662e94b08a5fc": "2026-11-22T23:44:20.669280+00:00",
-    "f15d991e3eef894c": "2026-11-22T23:48:23.920197+00:00"
+    "f15d991e3eef894c": "2026-11-22T23:48:23.920197+00:00",
+    "4424eaa0e33d14eb": "2026-11-22T23:50:43.716559+00:00",
+    "c9917ea98dc948a1": "2026-11-22T23:50:43.716559+00:00"
   },
   "published_stories": [
     {
@@ -575,7 +577,39 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-22T23:50:44.323234+00:00",
+      "headline_az": "İrlandiyada COP31 İqlim Sammiti fosil yanacaqlar üzrə fikir ayrılığı səbəbindən uğursuz başa çatıb",
+      "summary_az": "Türkiyənin Antalyada şəhərində keçirilən COP31 iqlim sammiti iştirakçı ölkələrin fosil yanacaqlardan imtina və maliyyə məsələlərində razılığa gələ bilməməsi səbəbindən yekun razılaşma əldə olunmadan başa çatıb. Nyu-York Tayms və digər aparıcı beynəlxalq media qurumları danışıqların tamamilə çökdüyünü bildiriblər.",
+      "topic_key": "cop31-climate-summit-antalya",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "İstanbulda güclü fırtına başlayıb, hava temperaturu kəskin enəcək",
+      "summary_az": "İstanbul şəhəri güclü fırtına və leysan yağışların təsirinə məruz qalıb. Sinoptiklərin məlumatına görə, sabah hava temperaturu 12 dərəcə aşağı düşəcək və hündür ərazilərdə yağışın sulu qara çevriləcəyi gözlənilir.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "istanbul-storm-temperature-drop",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117"
+        }
+      ],
+      "importance": 6,
+      "image_url": "https://images.ntv.com.tr/images/AA-20261014-42753864-42753861-ISTANBULDA_SAGANAK_ETKILI_OLDU-526063.jpg",
+      "queued_at": "2026-11-22T23:50:43.716533+00:00"
+    }
+  ]
 }
