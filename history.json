@@ -180,7 +180,8 @@
     "4e62ec3eb480816d": "2026-11-22T22:24:27.779525+00:00",
     "c38aa7af8cc19eae": "2026-11-22T22:26:23.739077+00:00",
     "cb79ad179a3a262f": "2026-11-22T22:28:26.173275+00:00",
-    "81f7022ff6cdf12c": "2026-11-22T22:28:26.173275+00:00"
+    "81f7022ff6cdf12c": "2026-11-22T22:28:26.173275+00:00",
+    "fe6ff60ff1cdd081": "2026-11-22T22:32:19.996814+00:00"
   },
   "published_stories": [
     {
@@ -465,6 +466,15 @@
       "topic_key": "democrats-us-house-majority",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T22:32:20.842611+00:00",
+      "headline_az": "Kaliforniyada qatarlardan 22 milyon dollarlıq oğurluq edilib",
+      "summary_az": "ABŞ-nin Kaliforniya ştatında 14 nəfər hərəkətdə olan yük qatarlarından ümumilikdə 22 milyon dollardan çox dəyərində mal oğurlamaqda ittiham olunub. Hüquq-mühafizə orqanları tərəfindən həyata keçirilən əməliyyat nəticəsində dəstə üzvləri məsuliyyətə cəlb ediliblər.",
+      "topic_key": "california-train-robbery-22-million",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
