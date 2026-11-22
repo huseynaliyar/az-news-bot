@@ -190,7 +190,9 @@
     "590df852fa2c445e": "2026-11-22T23:06:42.321528+00:00",
     "4b3f7aad84e9ad15": "2026-11-22T23:08:28.249223+00:00",
     "91076fb5f22a57c9": "2026-11-22T23:10:32.797510+00:00",
-    "e04732b322d3153d": "2026-11-22T23:18:31.470247+00:00"
+    "e04732b322d3153d": "2026-11-22T23:18:31.470247+00:00",
+    "ba3de24ab8f09d90": "2026-11-22T23:20:29.466530+00:00",
+    "cb73f31fd0ea28d4": "2026-11-22T23:20:29.466530+00:00"
   },
   "published_stories": [
     {
@@ -520,6 +522,15 @@
       "topic_key": "sakarya-truck-accident-pamukova",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T23:20:29.894579+00:00",
+      "headline_az": "İsraildə koalisiya danışıqları nəticəsiz başa çatıb",
+      "summary_az": "Baş nazir Binyamin Netanyahunun \"Likud\" partiyası ilə müxalifət nümayəndələri arasındakı sonuncu birlik və koalisiya danışıqları heç bir razılaşma əldə olunmadan başa çatıb. Tərəflər arasında fikir ayrılıqları hələ də qalmaqdadır.",
+      "topic_key": "israel-coalition-talks-failure",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
