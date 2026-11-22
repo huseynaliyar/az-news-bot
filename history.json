@@ -189,7 +189,8 @@
     "1b2379afc3248b0f": "2026-11-22T23:04:23.295413+00:00",
     "590df852fa2c445e": "2026-11-22T23:06:42.321528+00:00",
     "4b3f7aad84e9ad15": "2026-11-22T23:08:28.249223+00:00",
-    "91076fb5f22a57c9": "2026-11-22T23:10:32.797510+00:00"
+    "91076fb5f22a57c9": "2026-11-22T23:10:32.797510+00:00",
+    "e04732b322d3153d": "2026-11-22T23:18:31.470247+00:00"
   },
   "published_stories": [
     {
@@ -510,6 +511,15 @@
       "topic_key": "mustafa-sarigul-fezleke-investigation",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T23:18:32.589211+00:00",
+      "headline_az": "Sakaryada yük maşınının avtomobilin üzərinə aşması nəticəsində 2 nəfər yaralanıb",
+      "summary_az": "Türkiyənin Sakarya vilayətinin Pamukova rayonunda idarəetmədən çıxan yük maşını işıqforlarda dayanan yüngül ticari avtomobilin üzərinə aşıb. Qəza nəticəsində 2 nəfər müxtəlif dərəcəli bədən xəsarətləri alaraq xəstəxanaya yerləşdirilib. Hadisə yerinə polis və təcili tibbi yardım briqdaları cəlb olunub.",
+      "topic_key": "sakarya-truck-accident-pamukova",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
