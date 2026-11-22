@@ -393,31 +393,18 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-22T22:02:26.615206+00:00",
+      "headline_az": "Azərbaycanda yeni orfoqrafiya lüğətinin hazırlanması davam edir",
+      "summary_az": "Azərbaycanda ana dilinin yazılış qaydalarını tənzimləyən yeni orfoqrafiya lüğətinin nəşrə hazırlanması istiqamətində işlər aparılır. Yeni nəşrdə sözlərin düzgün yazılışı dəqiqləşdiriləcək və bəzi formalarla bağlı dəyişikliklərin edilməsi nəzərdə tutulur.",
+      "topic_key": "azerbaijan-new-orthography-dictionary",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Azərbaycanda yeni orfoqrafiya lüğətinin hazırlanması davam edir",
-      "summary_az": "Azərbaycanda ana dilinin yazılış qaydalarını tənzimləyən yeni orfoqrafiya lüğətinin nəşrə hazırlanması istiqamətində işlər aparılır. Yeni nəşrdə sözlərin düzgün yazılışı dəqiqləşdiriləcək və bəzi formalarla bağlı dəyişikliklərin edilməsi nəzərdə tutulur.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "azerbaijan-new-orthography-dictionary",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/cemiyyet/azerbaycan-dilinin-yeni-orfoqrafiya-lugeti-ne-vaxt-cap-olunacaq-video"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://images.oxu.az/2026/11/23/eujH9Ve3WWmnkUhROmH0EewQF6sbcGTb7tFkiPtI:640.jpg",
-      "queued_at": "2026-11-22T22:00:40.217540+00:00"
-    },
     {
       "headline_az": "Muşda ildırım düşməsi nəticəsində məscidin minarəsi dağılıb",
       "summary_az": "Türkiyənin Muş vilayətinin Korkut rayonunda məscidə ildırım düşməsi nəticəsində güclü dağıntı qeydə alınıb. Hadisə zamanı minarənin uçması nəticəsində əraziyə düşən daş parçasının isabet etdiyi bir nəfər yaralanıb.",
