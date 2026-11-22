@@ -29,6 +29,7 @@ class CuratedStory:
     source_indices: list[int]
     sources: list[dict]
     importance: int = 6
+    image_url: str = ""
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -47,6 +48,7 @@ class CuratedStory:
             source_indices=list(data.get("source_indices", [])),
             sources=list(data.get("sources", [])),
             importance=int(data.get("importance", 6)),
+            image_url=str(data.get("image_url", "")),
         )
 
 
@@ -235,8 +237,11 @@ def curate_news(
 
         seen_names: set[str] = set()
         sources: list[dict] = []
+        image_url = ""
         for idx in indices:
             cand = batch[idx]
+            if not image_url and cand.image_url:
+                image_url = cand.image_url
             if cand.source not in seen_names:
                 seen_names.add(cand.source)
                 sources.append({"name": cand.source, "url": cand.url})
@@ -256,6 +261,7 @@ def curate_news(
                 source_indices=indices,
                 sources=sources,
                 importance=int(item.get("importance", 6)),
+                image_url=image_url,
             )
         )
 
