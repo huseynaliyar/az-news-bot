@@ -178,7 +178,9 @@
     "2a4208270a3a06a1": "2026-11-22T22:16:24.442253+00:00",
     "4876b9bf61431070": "2026-11-22T22:20:26.262536+00:00",
     "4e62ec3eb480816d": "2026-11-22T22:24:27.779525+00:00",
-    "c38aa7af8cc19eae": "2026-11-22T22:26:23.739077+00:00"
+    "c38aa7af8cc19eae": "2026-11-22T22:26:23.739077+00:00",
+    "cb79ad179a3a262f": "2026-11-22T22:28:26.173275+00:00",
+    "81f7022ff6cdf12c": "2026-11-22T22:28:26.173275+00:00"
   },
   "published_stories": [
     {
@@ -454,6 +456,15 @@
       "topic_key": "baku-garage-price-increase",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T22:28:26.727794+00:00",
+      "headline_az": "ABŞ Nümayəndələr Palatasında Demokratlar 1992-ci ildən bəri rekord səs çoxluğu qazanıblar",
+      "summary_az": "Şimali Karolinadakı seçki nəticəsindən sonra Demokratlar Partiyası ABŞ Nümayəndələr Palatasında ən azı 258 yerə nəzarəti ələ keçirib. Bu, 1992-ci ildən bəri qazanılan ən böyük səs çoxluğu olaraq qeydə alınıb. Hələlik dörd aralıq seçki yarışının nəticələri hələ açıqlanmayıb.",
+      "topic_key": "democrats-us-house-majority",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
