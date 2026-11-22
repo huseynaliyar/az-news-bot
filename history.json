@@ -168,7 +168,8 @@
     "c42da997497daa0e": "2026-11-22T21:48:32.020140+00:00",
     "9c040fc8d490d09a": "2026-11-22T21:54:20.482971+00:00",
     "e14bbb90f793b781": "2026-11-22T21:56:51.392260+00:00",
-    "b0ecc372639ecd3d": "2026-11-22T21:56:51.392260+00:00"
+    "b0ecc372639ecd3d": "2026-11-22T21:56:51.392260+00:00",
+    "eec4c9928ad45e94": "2026-11-22T21:58:23.016645+00:00"
   },
   "published_stories": [
     {
@@ -373,31 +374,18 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:58:23.764788+00:00",
+      "headline_az": "Vanın üç rayonunda əlverişsiz hava şəraiti səbəbindən tətil elan edilib",
+      "summary_az": "Türkiyənin Van vilayətinin Muradiye, Çaldıran və Saray rayonlarında güclü qar yağışı, buzlanma və sıx duman müşahidə olunub. Əlverişli olmayan hava şəraiti ilə əlaqədar bu bölgələrdə bütün təhsil müəssisələrində dərslərə bir gün müddətinə fasilə verilib.",
+      "topic_key": "van-snow-education-break",
+      "sources": [
+        "NTV Gündem"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Vanın üç rayonunda əlverişsiz hava şəraiti səbəbindən tətil elan edilib",
-      "summary_az": "Türkiyənin Van vilayətinin Muradiye, Çaldıran və Saray rayonlarında güclü qar yağışı, buzlanma və sıx duman müşahidə olunub. Əlverişli olmayan hava şəraiti ilə əlaqədar bu bölgələrdə bütün təhsil müəssisələrində dərslərə bir gün müddətinə fasilə verilib.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "van-snow-education-break",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/vanin-3-ilcesinde-egitime-kar-engeli-1752113"
-        }
-      ],
-      "importance": 6,
-      "image_url": "https://images.ntv.com.tr/images/Eğitimkarengeli-412929.jpg",
-      "queued_at": "2026-11-22T21:10:29.339907+00:00"
-    },
     {
       "headline_az": "Soçidə güclü leysan yağışları daşqınlara və torpaq sürüşməsinə yol açıb",
       "summary_az": "Rusiyanın Soçi şəhərində güclü leysan yağışları səbəbindən çaylar məcrasından çıxıb, küçələr çaya dönüb. Təbii fəlakət nəticəsində torpaq sürüşməsi qeydə alınıb, evlər və yollar zərər görüb. Fövqəladə xidmətlər ərazidə tədbirlər görür.",
