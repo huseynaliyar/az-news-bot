@@ -343,31 +343,18 @@
       "sources": [
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-22T21:52:20.994918+00:00",
+      "headline_az": "Türkiyənin bir çox vilayətində güclü leysan və fırtına xəbərdarlığı edilib",
+      "summary_az": "Meteorologiya idarəsi 21 vilayət üçün sarı kodlu xəbərdarlıq yayımlayıb, güclü yağış və sürəti saatda 60 kilometrə çatan rüzgar gözlənilir. Xüsusilə İstanbul və ətraf bölgələrdə sakinlərdən tədbirli olmaları tələb olunub.",
+      "topic_key": "turkey-storm-rain-warning",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Türkiyənin bir çox vilayətində güclü leysan və fırtına xəbərdarlığı edilib",
-      "summary_az": "Meteorologiya idarəsi 21 vilayət üçün sarı kodlu xəbərdarlıq yayımlayıb, güclü yağış və sürəti saatda 60 kilometrə çatan rüzgar gözlənilir. Xüsusilə İstanbul və ətraf bölgələrdə sakinlərdən tədbirli olmaları tələb olunub.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-storm-rain-warning",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTR4NE15a25Ob3lKUEw4S0xlVmY4OFlvT2xZMUxheS1EbVE3RmE1c3FWa1dyck5uR202UzZOXzdVZkhlb245dF8tUFFRSXFrRkVZV3FVTmhySjRJX0VCR1oyVVBMOTUxdGUyMTBVdW5tQkNsTkplT0JpdEgyS3dmSmRXaGUtT1NIc0JXcHlVZG5lTTlPLXQ2cU5Ocks5VDRaSF8zc21QOFFYV29CeHZDRE1hcVJaQmpQN09RUlVnOXp1dw?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-22T21:43:42.644033+00:00"
-    },
     {
       "headline_az": "Sudanın paytaxtı yaxınlığındakı dron hücumları nəticəsində dinc sakinlər həlak olub",
       "summary_az": "Sudanın paytaxtı yaxınlığında həyata keçirilən pilotsuz uçuş aparatları hücumları nəticəsində azı dörd nəfər həyatını itirib. Zərbələr zamanı BMT-nin yerli binasına da maddi ziyan dəyib.",
