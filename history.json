@@ -185,7 +185,8 @@
     "d69c702b141d4d62": "2026-11-22T22:48:22.343245+00:00",
     "f1623af6f3899268": "2026-11-22T22:56:23.223779+00:00",
     "bca7b64bc47e8ee6": "2026-11-22T22:58:27.689404+00:00",
-    "8ff62edbe7d6c4ba": "2026-11-22T23:00:38.316582+00:00"
+    "8ff62edbe7d6c4ba": "2026-11-22T23:00:38.316582+00:00",
+    "1b2379afc3248b0f": "2026-11-22T23:04:23.295413+00:00"
   },
   "published_stories": [
     {
@@ -488,6 +489,15 @@
       "topic_key": "gaza-health-ministry-death-toll-2025",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-22T23:04:24.506006+00:00",
+      "headline_az": "Zərərli elektron siqaret dadları müəyyən edilib",
+      "summary_az": "Darçın və qaymaq dadlı elektron siqaretlərin immun hüceyrələrə ciddi zərər vurduğu açıqlanıb. Tədqiqatlar göstərir ki, bu cür dadlandırıcılar aterosklerotik lövhələrin yaranması riskini əhəmiyyətli dərəcədə artıra bilər.",
+      "topic_key": "dangerous-e-cigarette-flavors",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
