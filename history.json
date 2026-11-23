@@ -303,7 +303,8 @@
     "5a252a02238b811d": "2026-11-23T05:32:25.258344+00:00",
     "51fb29cdeb847938": "2026-11-23T05:34:25.503168+00:00",
     "47fb9342922fb89b": "2026-11-23T05:36:23.268352+00:00",
-    "1b0a61a6f517d28a": "2026-11-23T05:36:23.268352+00:00"
+    "1b0a61a6f517d28a": "2026-11-23T05:36:23.268352+00:00",
+    "d9739bbb345c61ce": "2026-11-23T05:40:25.524689+00:00"
   },
   "published_stories": [
     {
@@ -1272,6 +1273,15 @@
       "topic_key": "family-judge-house-incident",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:40:26.381097+00:00",
+      "headline_az": "İşğal olunmuş İordan çayının qərb sahilində tibb işçilərinə qarşı hücumlar artıb",
+      "summary_az": "Hüquq müdafiə təşkilatlarının hesabatına görə, İordan çayının qərb sahilində hərbçilər və məskunlaşanlar tərəfindən tibb işçilərinə edilən hücumlar 350 faiz artıb. Həkimlər bölgədə zorakılığın təhlükəli həddə çatdığını bildirirlər.",
+      "topic_key": "israeli-attacks-medics-west-bank",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
