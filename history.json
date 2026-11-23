@@ -408,7 +408,9 @@
     "6d3179fe182e91eb": "2026-11-23T07:00:36.635003+00:00",
     "676fb6abed2d9213": "2026-11-23T07:04:33.706415+00:00",
     "a39fa8198cbe87ff": "2026-11-23T07:04:33.706415+00:00",
-    "b3ef1a624a2c67c5": "2026-11-23T07:04:33.706415+00:00"
+    "b3ef1a624a2c67c5": "2026-11-23T07:04:33.706415+00:00",
+    "d6a9e865b4b3843a": "2026-11-23T07:06:21.544569+00:00",
+    "ac940137c64fa6f2": "2026-11-23T07:06:21.544569+00:00"
   },
   "published_stories": [
     {
@@ -1702,31 +1704,18 @@
       "sources": [
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-23T07:06:22.527130+00:00",
+      "headline_az": "ABŞ-da aviasiya böhranı aradan qaldırıldı",
+      "summary_az": "\"Delta Air Lines\" şirkətini və minlərlə sərnişini çətin vəziyyətdə qoyan texniki nasazlıq tamamilə aradan qaldırılıb. Reyslər yenidən cədvəl üzrə bərpa olunur.",
+      "topic_key": "delta-airlines-tech-issue-resolved",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "ABŞ-da aviasiya böhranı aradan qaldırıldı",
-      "summary_az": "\"Delta Air Lines\" şirkətini və minlərlə sərnişini çətin vəziyyətdə qoyan texniki nasazlıq tamamilə aradan qaldırılıb. Reyslər yenidən cədvəl üzrə bərpa olunur.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "delta-airlines-tech-issue-resolved",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/abs-de-minlerle-reysin-texire-salinmasina-sebeb-olan-problem-hell-edildi"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/vmYKxn94F8flXOKOJ8qBRYuIQn41As9SPZqgBoa5:640.jpg",
-      "queued_at": "2026-11-23T06:56:31.553778+00:00"
-    },
     {
       "headline_az": "Donald Trampdanköçkün seçicilərə: «Anlamadan tetiğe basdınız»",
       "summary_az": "ABŞ Prezidenti Donald Tramp Respublikaçıların məğlubiyyəti ilə nəticələnən aralıq seçkilərdən sonra seçiciləri sərt tənqid edib. O, ölkədəki siyasi prosesləri dəyərləndirərək vətəndaşların qərarlarının gözlənilməz nəticələr doğurduğunu bildirib.",
