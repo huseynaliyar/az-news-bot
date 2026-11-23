@@ -2451,31 +2451,18 @@
       "sources": [
         "NTV Dünya"
       ]
+    },
+    {
+      "published_at": "2026-11-23T14:46:08.002016+00:00",
+      "headline_az": "ASELSAN-ın \"Gökdeniz\" sistemi hədəfləri darmadağın etdi",
+      "summary_az": "Türkiyənin dəniz təhlükəsizliyi üçün hazırladığı \"Gökdeniz\" Yaxın Hava Müdafiə Sistemi real atışlı testlərdə uğur qazanıb. Sistem insansız rejimdə təhlükələri sürətlə zərərsizləşdirmə qabiliyyətini nümayiş etdirib.",
+      "topic_key": "turkey-gokdeniz-air-defense-test",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "ASELSAN-ın \"Gökdeniz\" sistemi hədəfləri darmadağın etdi",
-      "summary_az": "Türkiyənin dəniz təhlükəsizliyi üçün hazırladığı \"Gökdeniz\" Yaxın Hava Müdafiə Sistemi real atışlı testlərdə uğur qazanıb. Sistem insansız rejimdə təhlükələri sürətlə zərərsizləşdirmə qabiliyyətini nümayiş etdirib.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-gokdeniz-air-defense-test",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/turkiye/gokdenizden-gercek-atisli-test-yakin-hava-savunma-sistemi-hedefleri-imha-etti-3496922"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T11:15:33.940068+00:00"
-    },
     {
       "headline_az": "Permdə sənaye obyektinə PUA hücumu: Ölənlər var",
       "summary_az": "Rusiyanın Perm diyarında sənaye müəssisəsinə edilən pilotsuz uçuş aparatı hücumu nəticəsində dağıntılar və insan tələfatı qeydə alınıb. Yerli hakimiyyət orqanları hücumun nəticələrini aradan qaldırmaq üçün tədbirlər görür.",
