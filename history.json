@@ -282,7 +282,9 @@
     "72070b6a19838555": "2026-11-23T04:54:20.339491+00:00",
     "e6ba7cbefba9bcdd": "2026-11-23T04:54:20.339491+00:00",
     "b46f94b191a6614a": "2026-11-23T04:54:20.339491+00:00",
-    "71ddf6d0de49e3a2": "2026-11-23T04:56:22.394636+00:00"
+    "71ddf6d0de49e3a2": "2026-11-23T04:56:22.394636+00:00",
+    "7d6fb53e441a2fff": "2026-11-23T05:00:37.314531+00:00",
+    "e4b6b60e1d5d994d": "2026-11-23T05:00:37.314531+00:00"
   },
   "published_stories": [
     {
@@ -1116,6 +1118,15 @@
       "topic_key": "china-flying-car-test",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:00:37.961624+00:00",
+      "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı davam edir",
+      "summary_az": "İstanbulun Sarıyer rayonunda aslan görüldüyü barədə edilən ihbar üzrə təcili xilasetmə və axtarış qrupları səfərbər edilib. Vətəndaşlara ehtiyatlı olmaq və bölgədə diqqətli davranmaq barədə xəbərdarlıq edilib.",
+      "topic_key": "sariyer-lion-alarm-turkey",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
