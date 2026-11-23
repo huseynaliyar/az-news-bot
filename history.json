@@ -295,7 +295,10 @@
     "654c3a52be390cee": "2026-11-23T05:20:28.919260+00:00",
     "f180917627445265": "2026-11-23T05:24:23.653814+00:00",
     "5f020f19736c4615": "2026-11-23T05:24:23.653814+00:00",
-    "9aae0db974dad61c": "2026-11-23T05:24:23.653814+00:00"
+    "9aae0db974dad61c": "2026-11-23T05:24:23.653814+00:00",
+    "06d2c560ec885018": "2026-11-23T05:26:22.071515+00:00",
+    "8107d02eb378a978": "2026-11-23T05:26:22.071515+00:00",
+    "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00"
   },
   "published_stories": [
     {
@@ -1201,6 +1204,15 @@
       "topic_key": "barda-wife-death-driver-sentenced",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:26:22.822701+00:00",
+      "headline_az": "Nvidia-nın keçmiş rəhbəri ilə əlaqəli skandalda Çin kəşfiyyatı izi",
+      "summary_az": "New York Times qəzetinin məlumatına görə, Nvidia qalmaqalının mərkəzində duran Alice Huang şirkətin sabiq baş direktoru Jensen Huang ilə münasibətdə olarkən Çinin ali kəşfiyyat qurumunun rəsmisi ilə təmasda olub. Bu fakt texnologiya nəhənginin təhlükəsizlik və casusluq iddiaları ilə bağlı müzakirələri yenidən alovlandırıb.",
+      "topic_key": "nvidia-alice-huang-china-intelligence",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
