@@ -337,7 +337,15 @@
     "a910f5a9c9390344": "2026-11-23T06:14:22.808522+00:00",
     "faddf5176bdb4fc2": "2026-11-23T06:16:28.339488+00:00",
     "f31befbfb94e8a88": "2026-11-23T06:18:21.652449+00:00",
-    "0c1631ac68fdb58b": "2026-11-23T06:18:21.652449+00:00"
+    "0c1631ac68fdb58b": "2026-11-23T06:18:21.652449+00:00",
+    "d3dbf39f4a63b6a9": "2026-11-23T06:20:30.223708+00:00",
+    "4c5f15eb48c7a38c": "2026-11-23T06:20:30.223708+00:00",
+    "a9d579a29383acb5": "2026-11-23T06:20:30.223708+00:00",
+    "8dbe300282a175e0": "2026-11-23T06:20:30.223708+00:00",
+    "5030a011a79cff06": "2026-11-23T06:20:30.223708+00:00",
+    "543da1d26ade6b78": "2026-11-23T06:20:30.223708+00:00",
+    "161d420459930787": "2026-11-23T06:20:30.223708+00:00",
+    "ac41edf25840da16": "2026-11-23T06:20:30.223708+00:00"
   },
   "published_stories": [
     {
@@ -1442,9 +1450,84 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:20:31.400148+00:00",
+      "headline_az": "Türkiyədə səhiyyə sahəsinə 38 min yeni kadr cəlb olunacaq",
+      "summary_az": "Türkiyə Səhiyyə Nazirliyi tərəfindən həyata keçiriləcək 38 min nəfərlik yeni personel qəbulu ilə bağlı müraciət tarixləri və şərtləri ictimaiyyətin diqqət mərkəzindədir. Xüsusilə tibb bacısı, ebe və səhiyyə texnikeri kimi vəzifələrdə çalışmaq istəyən minlərlə namizəd proseslə bağlı rəsmi açıqlamaları gözləyir.",
+      "topic_key": "turkey-health-ministry-personnel-recruitment",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "\"Galatasaray\" Çempionlar Liqasındakı \"Aston Villa\" matçına güclü heyətlə hazırlaşır",
+      "summary_az": "UEFA Çempionlar Liqasının 5-ci turunda evdə \"Aston Villa\"nı qəbul edəcək \"Galatasaray\" qarşılaşmanın hazırlıqlarına start verib. Sar-qırmızılılar əvvəlki matçlardakı zədə problemlərini geridə qoyaraq İngiltərə təmsilçisi qarşısına daha ideal heyətlə çıxmağı hədəfləyir.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "galatasaray-aston-villa-champions-league",
+      "source_indices": [
+        6
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/spor/futbol/okan-buruk-aston-villa-macinda-ilk-11i-guclendirecek-3496749"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:20:30.223670+00:00"
+    },
+    {
+      "headline_az": "Suriya və Aİ arasında danışıqlar irəliləyir, əsas müzakirə mövzusu miqrasiyadır",
+      "summary_az": "Suriya ilə Avropa İttifaqı arasında ticarət və siyasi əlaqələrin bərpası istiqamətində danışıqlar davam edir. Diplomatlar prosesdə əsas diqqətin qaçqınların geri qaytarılması məsələsinə yönələcəyindən ehtiyat edirlər.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "syria-eu-talks-migration-focus",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:20:30.223670+00:00"
+    },
+    {
+      "headline_az": "\"Beşiktaş\" səfərdə \"Konyaspor\"u məğlub edərək vacib qələbə qazandı",
+      "summary_az": "Trendyol Super Liqasında mübarizə aparan \"Beşiktaş\" səfərdə \"Konyaspor\"u 4-2 hesabı ilə məğlub edib. Qara-ağrılılar bu nəticə ilə mövsümdə İstanbul xaricində ilk üç xalını qazanmış olub.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "besiktas-konyaspor-match-win",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/spor/futbol/besiktas-istanbul-disinda-ilk-galibiyetini-konyadan-aldi-3496752"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:20:30.223670+00:00"
+    },
     {
       "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
       "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
