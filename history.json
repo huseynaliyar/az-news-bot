@@ -225,7 +225,8 @@
     "abaf01c811553a67": "2026-11-23T01:24:20.712119+00:00",
     "6e6471375bc1bc5d": "2026-11-23T01:32:29.266199+00:00",
     "f371cb10a006c747": "2026-11-23T01:42:19.025440+00:00",
-    "5cbc7758b22fe1b7": "2026-11-23T01:48:21.657294+00:00"
+    "5cbc7758b22fe1b7": "2026-11-23T01:48:21.657294+00:00",
+    "4221c3a1682df224": "2026-11-23T01:50:25.872794+00:00"
   },
   "published_stories": [
     {
@@ -735,6 +736,15 @@
       "topic_key": "saddam-hussein-plane-sale",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T01:50:26.372630+00:00",
+      "headline_az": "İsrail qüvvələri Livanın cənubunda evlərin dağıdılmasını davam etdirir",
+      "summary_az": "İsrail ordusu Livanın cənub bölgələrində yaşayış evlərinin dağıdılması əməliyyatlarını davam etdirir. Regionda gərginlik hələ də yüksək olaraq qalır və humanitar vəziyyət pisləşir.",
+      "topic_key": "israel-lebanon-house-demolitions",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
