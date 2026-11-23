@@ -334,7 +334,8 @@
     "9ebf036d05502d84": "2026-11-23T06:12:23.861569+00:00",
     "2658de370fe86db8": "2026-11-23T06:14:22.808522+00:00",
     "6404881c1ec12e76": "2026-11-23T06:14:22.808522+00:00",
-    "a910f5a9c9390344": "2026-11-23T06:14:22.808522+00:00"
+    "a910f5a9c9390344": "2026-11-23T06:14:22.808522+00:00",
+    "faddf5176bdb4fc2": "2026-11-23T06:16:28.339488+00:00"
   },
   "published_stories": [
     {
@@ -1420,6 +1421,15 @@
       "topic_key": "armenia-new-constitution-draft",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T06:16:29.364415+00:00",
+      "headline_az": "Donald Tramp: İranın ötən həftə buraxdığı PUA və raketlərin sayı illik göstəricini üstələyib",
+      "summary_az": "ABŞ-ın seçilmiş prezidenti Donald Tramp bəyan edib ki, ötən həftə ərzində İran tərəfindən buraxılan raketlərin və pilotsuz uçuş aparatlarının (PUA) sayı bütövlükdə cari il ərzində qeydə alınan ümumi göstəriciləri geridə qoyub. Bu açıqlama Yaxın Şərqdə gərginliyin artması fonunda beynəlxalq ictimaiyyətin diqqətini cəlb edib.",
+      "topic_key": "trump-iran-uav-missile-spike",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
