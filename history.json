@@ -363,7 +363,9 @@
     "89d54806132c4895": "2026-11-23T06:36:23.049317+00:00",
     "103492dce6cd105e": "2026-11-23T06:40:27.909640+00:00",
     "3350081ef781da99": "2026-11-23T06:40:27.909640+00:00",
-    "093ec688a345ed92": "2026-11-23T06:40:27.909640+00:00"
+    "093ec688a345ed92": "2026-11-23T06:40:27.909640+00:00",
+    "dfd10ea7479272f9": "2026-11-23T06:42:23.839024+00:00",
+    "b91ac4d8ecce79a9": "2026-11-23T06:42:23.839024+00:00"
   },
   "published_stories": [
     {
@@ -1567,6 +1569,15 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:42:24.264552+00:00",
+      "headline_az": "Kreml Ukrayna ilə bağlı yeni danışıqlar raundunun gözlənildiyini açıqlayıb",
+      "summary_az": "Rusiya prezidentinin mətbuat katibi Dmitri Peskov Ukrayna məsələsi üzrə yeni üçtərəfli danışıqlar raundunun yaxın vaxtlarda baş tutacağını bildirib. Rusiya və Qərb mediasında yayılan məlumatlara görə, tərəflər prosesin detalları və vaxtı üzərində müzakirələri davam etdirirlər.",
+      "topic_key": "peskov-ukraine-negotiations-round",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
@@ -1701,6 +1712,28 @@
       "importance": 6,
       "image_url": "",
       "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "Azərbaycan Vyetnamdakı Beynəlxalq Qida Festivalında təmsil olunub",
+      "summary_az": "Hanoide Vyetnam Xarici İşlər Nazirliyinin təşkilatçılığı ilə keçirilən 14-cü Beynəlxalq Kulinar Mədəniyyəti Xeyriyyə Sərgisində Azərbaycanın milli mətbəxi nümayiş etdirilib. Tədbir ölkəmizin mədəni irsinin beynəlxalq səviyyədə təbliği baxımından mühüm əhəmiyyət daşıyır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "azerbaijan-food-festival-hanoi",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/culture/267907.html"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://www.azernews.az/media/2026/11/23/1795410473535136016_1200x630.jpg",
+      "queued_at": "2026-11-23T06:42:23.838990+00:00"
     },
     {
       "headline_az": "İstanbulun TEM magistral yolunda yeni şerit tənzimləməsi tətbiq olunub",
