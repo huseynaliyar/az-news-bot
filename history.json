@@ -219,7 +219,9 @@
     "b0ef54c743b348f2": "2026-11-23T01:00:47.464942+00:00",
     "62d542083be1dd37": "2026-11-23T01:06:37.964135+00:00",
     "ffeb10b31b73a9c6": "2026-11-23T01:12:24.123149+00:00",
-    "8e381e3a9ebd047a": "2026-11-23T01:12:24.123149+00:00"
+    "8e381e3a9ebd047a": "2026-11-23T01:12:24.123149+00:00",
+    "30ff5b12a92410bf": "2026-11-23T01:14:24.782012+00:00",
+    "6e7bdc17532d285b": "2026-11-23T01:14:24.782012+00:00"
   },
   "published_stories": [
     {
@@ -694,7 +696,39 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T01:14:25.330849+00:00",
+      "headline_az": "ABŞ-dən İrana yeni xəbərdarlıq: Danışıqlar nəticə verməsə, yeni zərbələr endirilə bilər",
+      "summary_az": "ABŞ Prezidenti Donald Trump İran donanmasını hədəf alaraq, danışıqlarda irəliləyiş əldə olunmasa Yeni ilə qədər yeni hücumların həyata keçirilə biləcəyini bildirib. O, İranla daimi razılaşma əldə etmək istədiyini, lakin tələblərin yerinə yetirilməyəcəyi təqdirdə sərt addımlar atılacağını vurğulayıb. Bu bəyanat bölgədə gərginliyi yenidən artırıb.",
+      "topic_key": "trump-iran-strike-warning",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Kuşnerdən NATO və Rusiya açıqlaması: Gələcəkdə qarşılıqlı təhlükəsizlik təmin edilməlidir",
+      "summary_az": "Rusiya mediasında yer alan məlumatlara görə, gələcəkdə Rusiyanın NATO-dan, NATO-nun isə Rusiyadan heç bir təhlükə hiss etməməsi üçün təminatlar verilməlidir. Bu istiqamətdə qarşıdakı dövrdə müvafiq məsləhətləşmələrin aparılması nəzərdə tutulur. Açıqlama beynəlxalq mediada geniş müzakirələrə səbəb olub.",
+      "category": "Siyasət",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "kushner-russia-nato-security",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jLXJtRk5vTDcxdkdEcFpZUWtDeTJkSjV4cXVsN3RJQklzY0treVlVa0FhcE5Kcm9HUjRNVTFzQU1wejFPSkNqZ1lQbzJzLVRiaHRyMg?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T01:14:24.781989+00:00"
+    }
+  ]
 }
