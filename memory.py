@@ -2,27 +2,79 @@ from __future__ import annotations
 
 import hashlib
 import json
+import logging
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from src.rss_reader import NewsItem
 
+logger = logging.getLogger(__name__)
+
 WORD_RE = re.compile(r"[^\W_]+", re.UNICODE)
 
+AZ_STOPWORDS = {
+    "və", "ilə", "üçün", "görə", "kimi", "qədər", "haqqında", "barədə", "üzrə",
+    "olan", "olub", "oldu", "olacaq", "edir", "edib", "etdi", "edəcək", "edilib",
+    "dedi", "deyib", "bildirib", "bildirdi", "açıqlayıb", "açıqladı", "qeyd",
+    "yeni", "daha", "çox", "bütün", "hər", "bəzi", "digər", "başqa", "eyni",
+    "bunu", "bunun", "onun", "onlar", "bura", "orada", "artıq", "hələ", "sonra",
+    "əvvəl", "zaman", "gün", "günü", "il", "ili", "ay", "saat", "xəbər", "məlumat",
+    "verib", "verdi", "alıb", "aldı", "keçib", "keçdi", "çıxıb", "çıxdı", "gəlib",
+    "the", "and", "for", "with", "from", "that", "this", "news", "update", "report",
+}
 
-def _normalize_tokens(text: str) -> set[str]:
-    return {tok for tok in WORD_RE.findall(text.lower()) if len(tok) > 2}
+
+def _meaningful_tokens(text: str) -> set[str]:
+    tokens = set()
+    for tok in WORD_RE.findall(text.lower()):
+        if len(tok) <= 2 or tok in AZ_STOPWORDS:
+            continue
+        tokens.add(tok[:6] if len(tok) > 6 else tok)
+    return tokens
 
 
 def title_similarity(title_a: str, title_b: str) -> float:
-    tokens_a = _normalize_tokens(title_a)
-    tokens_b = _normalize_tokens(title_b)
+    tokens_a = _meaningful_tokens(title_a)
+    tokens_b = _meaningful_tokens(title_b)
     if not tokens_a or not tokens_b:
         return 0.0
-    intersection = len(tokens_a & tokens_b)
-    union = len(tokens_a | tokens_b)
-    return intersection / union
+    return len(tokens_a & tokens_b) / len(tokens_a | tokens_b)
+
+
+def is_similar_story(
+    headline_a: str,
+    summary_a: str,
+    topic_a: str,
+    headline_b: str,
+    summary_b: str,
+    topic_b: str,
+) -> bool:
+    if topic_a and topic_b:
+        if topic_a.lower() == topic_b.lower():
+            return True
+        ta = _meaningful_tokens(topic_a.replace("-", " "))
+        tb = _meaningful_tokens(topic_b.replace("-", " "))
+        if len(ta & tb) >= 2 and (len(ta & tb) / max(1, min(len(ta), len(tb)))) >= 0.6:
+            return True
+
+    ha = _meaningful_tokens(headline_a)
+    hb = _meaningful_tokens(headline_b)
+    if ha and hb:
+        h_common = len(ha & hb)
+        h_overlap = h_common / min(len(ha), len(hb))
+        if h_common >= 3 and h_overlap >= 0.5:
+            return True
+
+    ca = _meaningful_tokens(f"{headline_a} {summary_a}")
+    cb = _meaningful_tokens(f"{headline_b} {summary_b}")
+    if not ca or not cb:
+        return False
+
+    common = len(ca & cb)
+    jaccard = common / len(ca | cb)
+    overlap = common / min(len(ca), len(cb))
+    return (common >= 4 and overlap >= 0.45) or (common >= 3 and jaccard >= 0.32)
 
 
 def url_hash(url: str) -> str:
@@ -30,8 +82,6 @@ def url_hash(url: str) -> str:
 
 
 class NewsMemory:
-    """Tracks seen URLs, multi-day published stories, and drip-feed pending queue."""
-
     def __init__(self, path: str | Path, retention_days: int = 14) -> None:
         self.path = Path(path)
         self.retention_days = retention_days
@@ -98,11 +148,11 @@ class NewsMemory:
             json.dump(payload, f, ensure_ascii=False, indent=2)
 
     def filter_unseen(
-        self, items: list[NewsItem], fuzzy_threshold: float = 0.72
+        self, items: list[NewsItem], fuzzy_threshold: float = 0.55
     ) -> list[NewsItem]:
         unseen: list[NewsItem] = []
         seen_in_batch: set[str] = set()
-        recent_titles = [s.get("headline_az", "") for s in self.published_stories] + [
+        recent_titles = [s.get("headline_az", "") for s in self.published_stories[-80:]] + [
             q.get("headline_az", "") for q in self.pending_queue
         ]
 
@@ -134,6 +184,7 @@ class NewsMemory:
                 {
                     "published_at": q.get("queued_at", ""),
                     "headline_az": q.get("headline_az", ""),
+                    "summary_az": q.get("summary_az", ""),
                     "topic_key": q.get("topic_key", ""),
                 }
             )
@@ -148,20 +199,58 @@ class NewsMemory:
                 break
         return recent
 
-    def enqueue_stories(self, stories: list[dict], max_queue_size: int = 12) -> None:
-        now = datetime.now(timezone.utc).isoformat()
-        existing_keys = {q.get("topic_key") for q in self.pending_queue}
+    def enqueue_stories(
+        self,
+        stories: list[dict],
+        max_queue_size: int = 12,
+        dedup_hours: int = 72,
+    ) -> None:
+        now = datetime.now(timezone.utc)
+        dedup_cutoff = now - timedelta(hours=dedup_hours)
+
+        recent_published: list[dict] = []
+        for s in self.published_stories:
+            try:
+                if datetime.fromisoformat(s["published_at"]) >= dedup_cutoff:
+                    recent_published.append(s)
+            except (KeyError, ValueError):
+                continue
+
+        comparison_pool = list(self.pending_queue) + recent_published
 
         for story in stories:
-            key = story.get("topic_key", "")
-            if key and key in existing_keys:
+            h_new = str(story.get("headline_az", ""))
+            s_new = str(story.get("summary_az", ""))
+            t_new = str(story.get("topic_key", ""))
+            is_update = bool(story.get("is_update", False))
+
+            duplicate_found = False
+            for existing in comparison_pool:
+                if is_similar_story(
+                    h_new,
+                    s_new,
+                    t_new,
+                    str(existing.get("headline_az", "")),
+                    str(existing.get("summary_az", "")),
+                    str(existing.get("topic_key", "")),
+                ):
+                    if not is_update or title_similarity(h_new, str(existing.get("headline_az", ""))) >= 0.45:
+                        duplicate_found = True
+                        logger.info(
+                            "Oxşar xəbər bloklandı: '%s' ~ '%s'",
+                            h_new[:60],
+                            str(existing.get("headline_az", ""))[:60],
+                        )
+                        break
+
+            if duplicate_found:
                 continue
+
             item = dict(story)
-            item.setdefault("queued_at", now)
+            item.setdefault("queued_at", now.isoformat())
             item.setdefault("importance", 6)
             self.pending_queue.append(item)
-            if key:
-                existing_keys.add(key)
+            comparison_pool.append(item)
 
         self.pending_queue.sort(
             key=lambda x: (int(x.get("importance", 5)), x.get("queued_at", "")),
