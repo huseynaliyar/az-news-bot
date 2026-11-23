@@ -2507,31 +2507,18 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T16:15:58.787094+00:00",
+      "headline_az": "Meta rəsmisi: Süni intellekt superintellekti qapıdadır",
+      "summary_az": "Meta-nın baş süni intellekt direktoru Aleksandr Vanq bəyan edib ki, bəşəriyyətin qarşıdakı ildə atacağı addımlar dünyanın gələcəyi üçün həlledici əhəmiyyət daşıyacaq. Ekspert yaxın gələcəkdə süni superintellektin yaranacağını xəbərdar edir.",
+      "topic_key": "meta-ai-superintelligence-warning",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Meta rəsmisi: Süni intellekt superintellekti qapıdadır",
-      "summary_az": "Meta-nın baş süni intellekt direktoru Aleksandr Vanq bəyan edib ki, bəşəriyyətin qarşıdakı ildə atacağı addımlar dünyanın gələcəyi üçün həlledici əhəmiyyət daşıyacaq. Ekspert yaxın gələcəkdə süni superintellektin yaranacağını xəbərdar edir.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "meta-ai-superintelligence-warning",
-      "source_indices": [
-        14
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T09:45:29.775711+00:00"
-    },
     {
       "headline_az": "Yargıtaydan avtomobil sahiblərini sevindirən qərar",
       "summary_az": "Türkiyədə Yargıtay, dəfələrlə texniki nasazlıq verən və servislərdən çıxmayan sıfır kilometr avtomobillərin dəyişdirilməsi ilə bağlı emsal xarakterli qərar qəbul edib. Məhkəmə, istehlakçı hüquqlarını qoruyaraq, qüsurlu məhsulun yenisi ilə əvəz olunmasını təsdiqləyib.",
