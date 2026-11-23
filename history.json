@@ -660,7 +660,21 @@
     "56df108322f8923d": "2026-11-23T10:30:47.476763+00:00",
     "d3e8abaee38c16d6": "2026-11-23T10:30:47.476763+00:00",
     "53ed2bcff02aec2e": "2026-11-23T10:30:47.476763+00:00",
-    "f0b26b7d0f743f3f": "2026-11-23T10:30:47.476763+00:00"
+    "f0b26b7d0f743f3f": "2026-11-23T10:30:47.476763+00:00",
+    "3f7fc8e1172fbefc": "2026-11-23T10:45:42.779445+00:00",
+    "05e568dfa5d48f17": "2026-11-23T10:45:42.779445+00:00",
+    "ec55b09d029f61cf": "2026-11-23T10:45:42.779445+00:00",
+    "267df6a8b2ba6ec9": "2026-11-23T10:45:42.779445+00:00",
+    "6fca3501508c36bf": "2026-11-23T10:45:42.779445+00:00",
+    "e2fb6360a5b66e47": "2026-11-23T10:45:42.779445+00:00",
+    "76954b1496936e57": "2026-11-23T10:45:42.779445+00:00",
+    "776e97ba73e39655": "2026-11-23T10:45:42.779445+00:00",
+    "8af08347cd31c2cf": "2026-11-23T10:45:42.779445+00:00",
+    "a46a127ec68d5f3a": "2026-11-23T10:45:42.779445+00:00",
+    "ef35ec2042e6daf8": "2026-11-23T10:45:42.779445+00:00",
+    "49dd569045e02bad": "2026-11-23T10:45:42.779445+00:00",
+    "6b875e0de4bcf0eb": "2026-11-23T10:45:42.779445+00:00",
+    "9b0cc2d11fd6bf7b": "2026-11-23T10:45:42.779445+00:00"
   },
   "published_stories": [
     {
@@ -2144,6 +2158,15 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T10:45:43.930060+00:00",
+      "headline_az": "Azərbaycan bank kartlarından milyonlar oğurlandı: Milyonluq fırıldaq",
+      "summary_az": "2026-cı ilin üçüncü rübündə ölkə banklarının kartları ilə bağlı 13 mindən çox fırıldaqçılıq əməliyyatı qeydə alınıb. Ümumi zərər 2 milyon manatı ötüb, kibercinayətkarlar vətənşilərin vəsaitlərini hədəfə almağa davam edir.",
+      "topic_key": "azerbaijan-card-fraud-q3",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
@@ -2356,48 +2379,53 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
-      "headline_az": "Türkiyədə insansı robotlar dövrü başlayır",
-      "summary_az": "Türkiyənin Sənaye və Texnologiya Nazirliyi insansı robotların istehsalı üçün yeni hibe dəstəyi proqramını elan edib. Bu addım ölkənin robot texnologiyalarında xarici asılılığını azaltmağı və süni intellekt sahəsindəki potensialını artırmağı hədəfləyir.",
-      "category": "Texnologiya",
+      "headline_az": "İstanbuldakı “aslan” həyəcanı: Səlahiyyətlilərdən təcili xəbərdarlıq",
+      "summary_az": "Sarıyer səmtində sərbəst gəzən aslanla bağlı axtarışlar davam edərkən, baytarlar sakinlərə təşvişə düşməmək və heyvanla göz təmasından qaçmaq barədə xəbərdarlıq edib. Sosial mediada aslanın məşhur futbolçuya məxsus olması ilə bağlı iddialar isə gündəm yaradıb.",
+      "category": "Dünya",
       "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "turkey-humanoid-robot",
+      "topic_key": "sariyer-lion-alarm",
       "source_indices": [
-        11
+        6,
+        8
       ],
       "sources": [
         {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/video-kayip-aslan-icin-uyari-gozlerinin-icine-bakmayin-kosmayin-1752208"
+        },
+        {
           "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/ekonomi/sanayi-ve-teknoloji-bakani-mehmet-fatih-kacir-duyurdu-insansi-robotlar-gelistirilecek-3496917"
+          "url": "https://www.cnnturk.com/turkiye/sariyerdeki-aslan-abdulkerim-bardakcinin-mi-sariyerde-kacan-aslan-kimin-sahibi-galatasarayli-futbolcu-abdulkerim-bardakci-mi-3496921"
         }
       ],
       "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T10:30:47.476721+00:00"
+      "image_url": "https://images.ntv.com.tr/images/sdfdsfdsf-782301.png",
+      "queued_at": "2026-11-23T10:45:42.779406+00:00"
     },
     {
-      "headline_az": "Azərbaycan və Çexiya arasında hərbi-texniki əməkdaşlıq rəsmiləşdi",
-      "summary_az": "Prezident İlham Əliyev Azərbaycan və Çexiya hökumətləri arasında hərbi-texniki əməkdaşlıq haqqında sazişi təsdiqləyib. Bu sənəd iki ölkə arasında müdafiə sənayesi sahəsində əlaqələrin yeni mərhələyə keçməsini təmin edəcək.",
-      "category": "Siyasət",
-      "region": "az",
+      "headline_az": "Fransa seçki anketi: Le Pen rəqiblərini qabaqlayır",
+      "summary_az": "Fransada gələn il keçiriləcək prezident seçkiləri öncəsi dərc olunan son rəy sorğuları aşırı sağçı lider Marine Le Penin bütün rəqiblərini qabaqlayaraq yarışda lider olduğunu göstərir. Oktyabr ayı ilə müqayisədə bir qədər səs itirsə də, o, mövqeyini qorumağı bacarıb.",
+      "category": "Dünya",
+      "region": "world",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "azerbaijan-czech-military-deal",
+      "topic_key": "france-le-pen-polls",
       "source_indices": [
-        3
+        7
       ],
       "sources": [
         {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/prezident-cexiya-ile-sazisi-tesdiqledi"
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/fransada-cumhurbaskanligi-secimi-anketinde-le-pen-acik-ara-onde-1752199"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.oxu.az/2026/10/12/3ztBHQFiPqKLfkOf2PTQXniLH8ew9dNg5BKgKNgp:640.jpg",
-      "queued_at": "2026-11-23T10:30:47.476721+00:00"
+      "image_url": "https://images.ntv.com.tr/images/2026-11-16T201728Z_506856476_RC28POAECYNY_RTRMADP_3_FRANCE-POLITICS-351612.JPG",
+      "queued_at": "2026-11-23T10:45:42.779406+00:00"
     }
   ]
 }
