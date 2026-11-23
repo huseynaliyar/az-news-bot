@@ -221,7 +221,8 @@
     "ffeb10b31b73a9c6": "2026-11-23T01:12:24.123149+00:00",
     "8e381e3a9ebd047a": "2026-11-23T01:12:24.123149+00:00",
     "30ff5b12a92410bf": "2026-11-23T01:14:24.782012+00:00",
-    "6e7bdc17532d285b": "2026-11-23T01:14:24.782012+00:00"
+    "6e7bdc17532d285b": "2026-11-23T01:14:24.782012+00:00",
+    "abaf01c811553a67": "2026-11-23T01:24:20.712119+00:00"
   },
   "published_stories": [
     {
@@ -713,6 +714,15 @@
       "topic_key": "kushner-russia-nato-security",
       "sources": [
         "Google News AZ"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T01:24:21.135895+00:00",
+      "headline_az": "Finlandiya körfəzində hücuma məruz qalan Rusiya gəmisi yedəyə götürülüb",
+      "summary_az": "Finlandiya hakimiyyətinin məlumatına görə, Baltik dənizində dron zərbəsi aldığı bildirilən Rusiya gəmisinin yedəyə çəkilməsinə başlanılıb. Hadisə fonunda Kaliningrad üzərində həyəcan siqnalları səslənib, bu isə Ukrayna münaqişəsinin NATO ərazisinə sıçraması ilə bağlı narahatlıqları artırıb.",
+      "topic_key": "russia-ship-attack-mediterranean",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
