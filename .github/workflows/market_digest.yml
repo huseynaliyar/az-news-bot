@@ -1,9 +1,6 @@
 name: Günün Maliyyə Bülleteni
 
 on:
-  schedule:
-    # 06:30 UTC = 10:30 Bakı vaxtı (hər gün)
-    - cron: "30 6 * * *"
   workflow_dispatch:
 
 jobs:
