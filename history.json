@@ -1546,31 +1546,18 @@
       "sources": [
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:38:20.932106+00:00",
+      "headline_az": "Bakıda azyaşlı uşaq binanın 11-ci mərtəbəsindən yıxılaraq həlak olub",
+      "summary_az": "Paytaxtda baş verən faciəvi hadisə nəticəsində azyaşlı körpə binanın 11-ci mərtəbəsindən yıxılaraq dünyasını dəyişib. Faktla bağlı aidiyyəti qurumlar tərəfindən araşdırma aparılır.",
+      "topic_key": "baku-baby-fall-building",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Bakıda azyaşlı uşaq binanın 11-ci mərtəbəsindən yıxılaraq həlak olub",
-      "summary_az": "Paytaxtda baş verən faciəvi hadisə nəticəsində azyaşlı körpə binanın 11-ci mərtəbəsindən yıxılaraq dünyasını dəyişib. Faktla bağlı aidiyyəti qurumlar tərəfindən araşdırma aparılır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "baku-baby-fall-building",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/hadise/bakida-korpe-11-ci-mertebeden-yixilib-oldu"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/xhxOVTMdPg0e9ZzX5qrCbPONLFQrj28UoJM8Uvp8:640.jpg",
-      "queued_at": "2026-11-23T06:36:23.049278+00:00"
-    },
     {
       "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
       "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
