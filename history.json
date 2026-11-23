@@ -1093,7 +1093,14 @@
     "433c1771faed562c": "2026-11-23T21:45:39.487741+00:00",
     "e8184e5e8a844156": "2026-11-23T21:45:39.487741+00:00",
     "9542583727c87a9e": "2026-11-23T21:45:39.487741+00:00",
-    "8e84e3770e7a4477": "2026-11-23T21:45:39.487741+00:00"
+    "8e84e3770e7a4477": "2026-11-23T21:45:39.487741+00:00",
+    "f7f956c84ace78c9": "2026-11-23T22:01:00.678161+00:00",
+    "d6782e0925f9d15c": "2026-11-23T22:01:00.678161+00:00",
+    "dad9f26daf89e7b7": "2026-11-23T22:01:00.678161+00:00",
+    "d3fbcca0fea77430": "2026-11-23T22:01:00.678161+00:00",
+    "e2cb7b1bf7e84484": "2026-11-23T22:01:00.678161+00:00",
+    "e0ff223757326453": "2026-11-23T22:01:00.678161+00:00",
+    "affb554213303069": "2026-11-23T22:01:00.678161+00:00"
   },
   "published_stories": [
     {
@@ -2913,6 +2920,15 @@
       "headline_az": "İsrailin Suriyanın cənubuna müdaxiləsi: Yerli əhali tərk etməyə məcbur qalır",
       "summary_az": "İsrail qüvvələrinin Suriyanın cənub bölgələrinə etdiyi basqınlar bölgədə böyük qorxu və dağıntılara səbəb olub. Koya sakinləri evlərinin yandırıldığını, atəşə məruz qaldıqlarını və evlərini tərk etməyə məcbur qaldıqlarını bildirilər.",
       "topic_key": "israel-southern-syria-incursion",
+      "sources": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T22:01:01.277053+00:00",
+      "headline_az": "AB İranın kölgə bankçılıq şəbəkələrinə yeni sanksiyalar tətbiq etdi",
+      "summary_az": "AB Maliyyə Nazirliyi, İranın qlobal maliyyə fəaliyyətlərini məhdudlaşdırmaq üçün kölgə bankçılıq şəbəkələrinə yönəlmiş yeni sanksiyalar paketini açıqladı.",
+      "topic_key": "us-iran-sanctions",
       "sources": [
         "Al Jazeera"
       ]
