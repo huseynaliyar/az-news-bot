@@ -284,7 +284,8 @@
     "b46f94b191a6614a": "2026-11-23T04:54:20.339491+00:00",
     "71ddf6d0de49e3a2": "2026-11-23T04:56:22.394636+00:00",
     "7d6fb53e441a2fff": "2026-11-23T05:00:37.314531+00:00",
-    "e4b6b60e1d5d994d": "2026-11-23T05:00:37.314531+00:00"
+    "e4b6b60e1d5d994d": "2026-11-23T05:00:37.314531+00:00",
+    "e44b910d30e2a733": "2026-11-23T05:02:27.545782+00:00"
   },
   "published_stories": [
     {
@@ -1127,6 +1128,15 @@
       "topic_key": "sariyer-lion-alarm-turkey",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:02:28.848892+00:00",
+      "headline_az": "Avstraliya ABŞ-ın AUKUS sualtı qayığı ilə bağlı iddialarını təkzib edib",
+      "summary_az": "Avstraliyanın müdafiə naziri Riçard Marls ABŞ-ın nüvə mühərrikli sualtı qayıqların satışının ABŞ Hərbi Dəniz Qüvvələrinin imkanlarını azaldacağı ilə bağlı iddialarını rədd edib. O, AUKUS sazişinin hər iki ölkənin maraqlarına xidmət etdiyini vurğulayıb.",
+      "topic_key": "australia-denies-us-aukus-claims",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
