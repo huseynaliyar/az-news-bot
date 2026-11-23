@@ -992,7 +992,18 @@
     "dd9311f786502921": "2026-11-23T19:00:46.988688+00:00",
     "8d2dc6a8f07c9e08": "2026-11-23T19:00:46.988688+00:00",
     "76a9a8cb4724f75d": "2026-11-23T19:00:46.988688+00:00",
-    "7f70444049d70557": "2026-11-23T19:00:46.988688+00:00"
+    "7f70444049d70557": "2026-11-23T19:00:46.988688+00:00",
+    "f85cc8458ace107a": "2026-11-23T19:15:57.531918+00:00",
+    "607bd2b3de3777b5": "2026-11-23T19:15:57.531918+00:00",
+    "28e5f7ec786d16db": "2026-11-23T19:15:57.531918+00:00",
+    "013964a4bbd44432": "2026-11-23T19:15:57.531918+00:00",
+    "84f81fbe51e3073c": "2026-11-23T19:15:57.531918+00:00",
+    "a4c8fa82e1f5abda": "2026-11-23T19:15:57.531918+00:00",
+    "4eedb087dc656326": "2026-11-23T19:15:57.531918+00:00",
+    "8528e46c5f5113b4": "2026-11-23T19:15:57.531918+00:00",
+    "abf312705ccb9081": "2026-11-23T19:15:57.531918+00:00",
+    "25f33d1df44504de": "2026-11-23T19:15:57.531918+00:00",
+    "f878ab62338f7472": "2026-11-23T19:15:57.531918+00:00"
   },
   "published_stories": [
     {
@@ -2714,9 +2725,84 @@
       "sources": [
         "The Verge"
       ]
+    },
+    {
+      "published_at": "2026-11-23T19:15:58.123939+00:00",
+      "headline_az": "Mançesterdə konsert zamanı təşviş: 12 min insan təxliyə edildi",
+      "summary_az": "Böyük Britaniyanın Mançester şəhərindəki \"Co-Op Live\" arenasında keçirilən konsert zamanı naməlum maddənin yayılması səbəbindən 12 min tamaşaçı təcili təxliyə edilib. Hadisə ilə bağlı polis araşdırmalara başlayıb.",
+      "topic_key": "manchester-concert-evacuation",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Google-dan süni intellekt inqilabı: Şəxsi məlumatlar artıq əlinizin altında",
+      "summary_az": "Google özünün süni intellekt rejimini yeniləyərək onu \"Drive\" və \"Wallet\" tətbiqləri ilə inteqrasiya edib. Bu yenilik istifadəçilərə öz şəxsi məlumatları əsasında daha dəqiq və fərdiləşdirilmiş cavablar almağa imkan verəcək.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "google-ai-personal-intelligence",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T19:15:57.500917+00:00"
+    },
+    {
+      "headline_az": "Türkiyədə \"Bayğaralar\" cinayətkar dəstəsinə ağır zərbə",
+      "summary_az": "Adana mərkəzli 13 vilayətdə keçirilən genişmiqyaslı əməliyyat nəticəsində \"Bayğaralar\" kimi tanınan silahlı cinayətkar dəstənin 105 üzvü saxlanılıb. Onlardan 90 nəfəri barəsində məhkəmə tərəfindən həbs qətimkan tədbiri seçilib.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "baygaralar-turkey-operation",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/baygaralar-suc-orgutune-operasyon-yakalanan-105-zanlidan-90i-tutuklandi-3497143"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T19:15:57.500917+00:00"
+    },
+    {
+      "headline_az": "Nothing-dən süni intellektli qulaqlıq: Söhbətləri avtomatik yazacaq",
+      "summary_az": "Texnologiya dünyasının yenilikçi brendi \"Nothing\" süni intellekt dəstəkli \"Ear Note\" qulaqlıqlarını təqdim edib. Cihazın xüsusi qutusu və tətbiqi vasitəsilə danışıqları real vaxt rejimində qeydə alıb transkripsiya etmək mümkün olacaq.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "nothing-ear-note-ai",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T19:15:57.500917+00:00"
+    },
     {
       "headline_az": "Avropada \"hazırlıqlı ol\" trendi: Hökumətlər vətəndaşlara xəbərdarlıq edir",
       "summary_az": "Avropa ölkələrində vətəndaşların fövqəladə hallara hazırlıq görməsi dövlət səviyyəsində təşviq olunur. Bu, sadəcə internetdəki şayiələr deyil, rəsmi qurumların təhlükəsizlik üçün verdiyi tövsiyələr əsasında formalaşan yeni bir sosial tendensiyadır.",
