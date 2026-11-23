@@ -2442,31 +2442,18 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-23T14:31:02.908586+00:00",
+      "headline_az": "Kritik iddia: Rusiya bu il uzaya nükleer silahlı uydu göndərə bilər",
+      "summary_az": "NATO ölkələrinin kəşfiyyat xidmətləri Rusiyanın yaxın vaxtlarda uzaya nükleer başlıqlı uydu yerləşdirməyi planlaşdırdığı ehtimalında birləşirlər. Rusiya tərəfi isə bu iddiaları qəti şəkildə təkzib edib.",
+      "topic_key": "russia-nuclear-satellite-space-claim",
+      "sources": [
+        "NTV Dünya"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Kritik iddia: Rusiya bu il uzaya nükleer silahlı uydu göndərə bilər",
-      "summary_az": "NATO ölkələrinin kəşfiyyat xidmətləri Rusiyanın yaxın vaxtlarda uzaya nükleer başlıqlı uydu yerləşdirməyi planlaşdırdığı ehtimalında birləşirlər. Rusiya tərəfi isə bu iddiaları qəti şəkildə təkzib edib.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "russia-nuclear-satellite-space-claim",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/alman-basininda-rusya-bu-yil-uzaya-nukleer-silahli-uydu-gonderecek-iddiasi-1752211"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/images/iStock-1186864557-748981.jpg",
-      "queued_at": "2026-11-23T11:30:37.297078+00:00"
-    },
     {
       "headline_az": "ASELSAN-ın \"Gökdeniz\" sistemi hədəfləri darmadağın etdi",
       "summary_az": "Türkiyənin dəniz təhlükəsizliyi üçün hazırladığı \"Gökdeniz\" Yaxın Hava Müdafiə Sistemi real atışlı testlərdə uğur qazanıb. Sistem insansız rejimdə təhlükələri sürətlə zərərsizləşdirmə qabiliyyətini nümayiş etdirib.",
