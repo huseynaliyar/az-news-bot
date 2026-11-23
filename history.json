@@ -216,7 +216,8 @@
     "fcd73df2673a39ec": "2026-11-23T00:34:23.411778+00:00",
     "88506ad090139691": "2026-11-23T00:36:19.655624+00:00",
     "4ddeb0f3bd5e75fd": "2026-11-23T00:44:18.469907+00:00",
-    "b0ef54c743b348f2": "2026-11-23T01:00:47.464942+00:00"
+    "b0ef54c743b348f2": "2026-11-23T01:00:47.464942+00:00",
+    "62d542083be1dd37": "2026-11-23T01:06:37.964135+00:00"
   },
   "published_stories": [
     {
@@ -681,6 +682,15 @@
       "topic_key": "iran-electricity-shortage-energy-crisis",
       "sources": [
         "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T01:06:39.098703+00:00",
+      "headline_az": "ABŞ-də kiberhücumların sayı ildən-ilə sürətlə artır",
+      "summary_az": "Son statistikaya əsasən, ABŞ-də hər il təxminən bir milyon kiberinsident qeydə alınır. Mütəxəssislər rəqəmsal təhlükəsizlik tədbirlərinin gücləndirilməsinin vacibliyini vurğulayırlar.",
+      "topic_key": "us-cyber-attacks-increase",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
