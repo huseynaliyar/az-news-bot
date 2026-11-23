@@ -207,7 +207,9 @@
     "06059ffd2c091845": "2026-11-23T00:08:58.698279+00:00",
     "77ea94995dc52567": "2026-11-23T00:08:58.698279+00:00",
     "c4de91d4ac5b374d": "2026-11-23T00:11:04.365931+00:00",
-    "408e825ba5315210": "2026-11-23T00:11:04.365931+00:00"
+    "408e825ba5315210": "2026-11-23T00:11:04.365931+00:00",
+    "c60435f0a8e629e4": "2026-11-23T00:12:19.877243+00:00",
+    "2cc503b3ce688ad6": "2026-11-23T00:12:19.877243+00:00"
   },
   "published_stories": [
     {
@@ -610,7 +612,39 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-23T00:12:20.400210+00:00",
+      "headline_az": "Hürmüz boğazında neft tankerləri yanıb",
+      "summary_az": "Hürmüz boğazında qaydaları pozduğu iddia edilən neft tankerlərinin odda qalandığı və alovlandığı bildirilir. İran İnqilabı Keşikçiləri Korpusu (SEPAH) baş verənlərdə \"düşmənləri\" günahlandıraraq iğtişaş təhlükəsi barədə xəbərdarlıq edib.",
+      "topic_key": "hormuz-strait-tankers-fire-irgc",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Türkiyənin Rize vilayətində çay qırmızı rəngə boyanıb",
+      "summary_az": "Türkiyənin Rize şəhərindəki Deyirməndərə çayının qırmızı rəngə dönməsi yerli əhalidə təşviş yaradıb. Yerli səlahiyyətlilər hadisənin səbəblərini araşdırmaq üçün təhqiqat başlatırlar.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "rize-degirmendere-stream-red-mystery",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-23T00:12:19.877216+00:00"
+    }
+  ]
 }
