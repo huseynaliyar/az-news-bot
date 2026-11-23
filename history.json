@@ -2478,31 +2478,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T15:31:15.909180+00:00",
+      "headline_az": "İtaliya ilə Azərbaycan arasında iqtisadi əməkdaşlıq genişlənir",
+      "summary_az": "İtaliyanın baş nazir müavini Antonio Tajani ölkəsinin Azərbaycanla inşaat, kənd təsərrüfatı və mühəndislik sahələrində əməkdaşlığı dərinləşdirməyə hazır olduğunu bildirib. İki ölkə arasında ticarət əlaqələrinin gücləndirilməsi istiqamətində yeni strateji addımlar atılır.",
+      "topic_key": "italy-azerbaijan-economic-cooperation",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İtaliya ilə Azərbaycan arasında iqtisadi əməkdaşlıq genişlənir",
-      "summary_az": "İtaliyanın baş nazir müavini Antonio Tajani ölkəsinin Azərbaycanla inşaat, kənd təsərrüfatı və mühəndislik sahələrində əməkdaşlığı dərinləşdirməyə hazır olduğunu bildirib. İki ölkə arasında ticarət əlaqələrinin gücləndirilməsi istiqamətində yeni strateji addımlar atılır.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "italy-azerbaijan-economic-cooperation",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/business/267926.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/23/17954214334176241781_1200x630.jpg",
-      "queued_at": "2026-11-23T10:15:38.812651+00:00"
-    },
     {
       "headline_az": "PKK İraqın şimalında 14 düşərgəni boşaltdı",
       "summary_az": "Türk təhlükəsizlik mənbələrinin yaydığı məlumata görə, terror təşkilatı PKK İraqın şimalındakı Hakurk bölgəsində daha 14 barınma sahəsini boşaltmaq məcburiyyətində qalıb. Bölgədə antiterror əməliyyatları qətiyyətlə davam etdirilir.",
