@@ -227,7 +227,9 @@
     "f371cb10a006c747": "2026-11-23T01:42:19.025440+00:00",
     "5cbc7758b22fe1b7": "2026-11-23T01:48:21.657294+00:00",
     "4221c3a1682df224": "2026-11-23T01:50:25.872794+00:00",
-    "5dde6b9f07092779": "2026-11-23T02:04:24.779106+00:00"
+    "5dde6b9f07092779": "2026-11-23T02:04:24.779106+00:00",
+    "4a78beca74d536d0": "2026-11-23T02:08:23.137807+00:00",
+    "44f336840b6d2d1f": "2026-11-23T02:08:23.137807+00:00"
   },
   "published_stories": [
     {
@@ -747,7 +749,39 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T02:08:23.663253+00:00",
+      "headline_az": "Polşa Rusiyanın Ukraynalı reperə sui-qəsd cəhdi etdiyini təsdiqləyib",
+      "summary_az": "Polşa rəsmiləri Rusiyanın ukraynalı repero iki dəfə sui-qəsd törətməyə cəhd etdiyini açıqlayıb. Bu bəyanat Danimarkanın Rusiyanın ölkə ərazisində sui-qəsd planlaşdırdığını açıqlamasından sonra gəlib.",
+      "topic_key": "poland-russia-assassination-plot",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Liviya ordusu Benqazidəki hücumlardan sonra tam hazirlik vəziyyətindədir",
+      "summary_az": "Liviya hərbi qüvvələri Benqazi limanındakı hücumlardan sonra vəziyyətin nəzarət altında olduğunu bildirib. Ordudan verilən açıqlamada yarana biləcək təhdidlərə qarşı tam hazirlik vəziyyətində olunduqları vurğulanıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": true,
+      "topic_key": "libya-benghazi-military-preparedness",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T02:08:23.137782+00:00"
+    }
+  ]
 }
