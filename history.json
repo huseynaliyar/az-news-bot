@@ -244,7 +244,8 @@
     "f007a7b905538002": "2026-11-23T03:22:19.892444+00:00",
     "9c2573b61b493178": "2026-11-23T03:24:25.002283+00:00",
     "0f945323f808ed1b": "2026-11-23T03:26:21.927215+00:00",
-    "7af1a6c66b8632b9": "2026-11-23T03:26:21.927215+00:00"
+    "7af1a6c66b8632b9": "2026-11-23T03:26:21.927215+00:00",
+    "8cb8eace3cb3d8d1": "2026-11-23T03:32:22.590285+00:00"
   },
   "published_stories": [
     {
@@ -880,6 +881,15 @@
       "topic_key": "turkey-storm-rain-warning",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T03:32:23.437365+00:00",
+      "headline_az": "Dünyada qızılca xəstəliyinin yayılması rekord həddə çatıb",
+      "summary_az": "COVID-19 pandemiyası dövründə peyvənd proqramlarında yaranan fasilələr və dezinformasiya halları qızılca infeksiyasının qlobal miqyasda kəskin artmasına səbəb olub. Səhiyyə mütəxəssisləri maliyyə böhranları və peyvənddən imtina tendensiyalarının vəziyyəti daha da gərginləşdirdiyini bildirirlər. Bu tendensiya xüsusilə həssas bölgələrdə uşaq sağlamlığı üçün ciddi təhlükə yaradır.",
+      "topic_key": "global-measles-outbreak-record",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
