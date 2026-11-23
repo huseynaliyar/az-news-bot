@@ -570,7 +570,23 @@
     "a11bfce2ea36631a": "2026-11-23T09:15:32.857265+00:00",
     "2f8ef48b42314fcd": "2026-11-23T09:15:32.857265+00:00",
     "aac5ac1493f6ff31": "2026-11-23T09:15:32.857265+00:00",
-    "3a62eb3867e6fca8": "2026-11-23T09:15:32.857265+00:00"
+    "3a62eb3867e6fca8": "2026-11-23T09:15:32.857265+00:00",
+    "440193fd009b795a": "2026-11-23T09:30:42.431751+00:00",
+    "eab34d2e40053cf3": "2026-11-23T09:30:42.431751+00:00",
+    "5f03a4d4c6f74438": "2026-11-23T09:30:42.431751+00:00",
+    "46fbd6b0cf935279": "2026-11-23T09:30:42.431751+00:00",
+    "7770c6b66c3ee23d": "2026-11-23T09:30:42.431751+00:00",
+    "ab2dc9681f260d09": "2026-11-23T09:30:42.431751+00:00",
+    "e2e516ba88d328a7": "2026-11-23T09:30:42.431751+00:00",
+    "e2eac6a8a2640076": "2026-11-23T09:30:42.431751+00:00",
+    "7857f230c8e347f4": "2026-11-23T09:30:42.431751+00:00",
+    "a96a9a7a19a1237b": "2026-11-23T09:30:42.431751+00:00",
+    "d3d255bc23b59e03": "2026-11-23T09:30:42.431751+00:00",
+    "184b5cd9fc351c03": "2026-11-23T09:30:42.431751+00:00",
+    "a69b661e506af5c0": "2026-11-23T09:30:42.431751+00:00",
+    "476e3de4bfff99a8": "2026-11-23T09:30:42.431751+00:00",
+    "1feaef85738675d1": "2026-11-23T09:30:42.431751+00:00",
+    "3197a3ee068917cc": "2026-11-23T09:30:42.431751+00:00"
   },
   "published_stories": [
     {
@@ -1996,6 +2012,15 @@
         "NTV Dünya",
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T09:30:43.255904+00:00",
+      "headline_az": "Türkiyənin milli kamikadze dronu ALKAN artıq hərbi xidmətdədir",
+      "summary_az": "Türk təhlükəsizlik qüvvələri müasir döyüş meydanının tələblərinə cavab verən milli kamikadze dron ALKAN-ı inventarına daxil edib. Zərif zirehdeşmə və yüksək manevr qabiliyyətinə malik sistem uğurlu sınaqlardan keçib.",
+      "topic_key": "turkey-alkany-kamikaze-drone",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
@@ -2064,6 +2089,72 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Azərbaycan və Özbəkistan parlamentlərarası yeni əməkdaşlığa hazırlaşır",
+      "summary_az": "Bakıda iki ölkə arasında 2027–2028-ci illər üçün yeni parlamentlərarası əməkdaşlıq xəritəsi müzakirə olunacaq. Noyabrın 25-də keçiriləcək İkinci Azərbaycan-Özbəkistan Parlamentlərarası Forumu strateji tərəfdaşlığı daha da gücləndirəcək.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-uzbekistan-parliamentary-forum",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/nation/267924.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2026/11/23/z9wf4xq5rmyb.jpg",
+      "queued_at": "2026-11-23T09:30:42.431709+00:00"
+    },
+    {
+      "headline_az": "İstanbulda sürücülərə otopark cəriməsi yağdı",
+      "summary_az": "İstanbulda ilk üç saatın pulsuz olması qaydasına əməl etməyən 50 ticarət və iş mərkəzinə ümumilikdə 2,4 milyon lirədən çox cərimə kəsilib. Şəhər rəhbərliyi vətəndaşların hüquqlarının qorunması üçün nəzarəti gücləndirib.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "istanbul-parking-rule-fines",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-otoparkta-ilk-uc-saat-kuralina-uymayanlara-ceza-yagdi-1752188"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.ntv.com.tr/images/AA-20261123-43156026-43156017-ISTANBULDA_OTOPARKLARDA_ILK_3_SAAT_UCRETSIZ_KURALINA_UYMAYAN_ALISVERIS_IS_VE_TICARET_MERKEZLERINE_CEZA-812607.jpg",
+      "queued_at": "2026-11-23T09:30:42.431709+00:00"
+    },
+    {
+      "headline_az": "Keniya və Konqo Demokratik Respublikası münasibətləri bərpa edir",
+      "summary_az": "İki ölkə lideri gərginliklərdən sonra əməkdaşlığı bərpa etmək və dövlətlərin daxili işlərinə qarışmamaq prinsiplərinə sadiq qaldıqlarını bəyan ediblər. Bu razılaşma regionda sabitliyin təmin olunmasına mühüm töhfə verəcək.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "kenya-congo-restore-ties",
+      "source_indices": [
+        13
+      ],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef67/live/41b58d30-e716-11f1-9c93-b5d142ad154c.jpg",
+      "queued_at": "2026-11-23T09:30:42.431709+00:00"
     },
     {
       "headline_az": "Türkiyə Sakarya qaz yatağından milyonlarla xanənin qaz ehtiyacını təmin edəcək",
@@ -2174,72 +2265,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T08:45:27.269843+00:00"
-    },
-    {
-      "headline_az": "Bakı Xalça Muzeyində Lətif Kərimovun 120 illiyi qeyd olunur",
-      "summary_az": "Azərbaycan Milli Xalça Muzeyində görkəmli xalçaçı-rəssam və alim Lətif Kərimovun anadan olmasının 120 illiyinə həsr olunmuş Beynəlxalq Türk Xalça Simpoziumu keçirilir. Tədbir ortaq mədəni irsimizin təbliği baxımından mühüm əhəmiyyət daşıyır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "latif-karimov-carpet-symposium",
-      "source_indices": [
-        7
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/culture/267919.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/w_161795416702320281151_1200x630.jpg",
-      "queued_at": "2026-11-23T08:45:27.269843+00:00"
-    },
-    {
-      "headline_az": "Sumqayıtda nişanlı qız dəm qazından boğularaq ölüb",
-      "summary_az": "Sumqayıt şəhərində gənc qız dəm qazının qurbanı olub. Faktla bağlı araşdırma aparılır, ilkin ehtimal asfiksiyadır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "sumqayit-dem-gazi-olum",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/cemiyyet/sumqayitda-nisanli-qiz-dem-qazinin-qurbani-oldu"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/oiiFlj6zpSlViJzdZ295ssDdMB5YL7rgjPi7IfFH:640.webp",
-      "queued_at": "2026-11-23T08:30:39.898975+00:00"
-    },
-    {
-      "headline_az": "AK Partili bələdiyyə sədri Selim Çelenk vəfat etdi",
-      "summary_az": "Trabzonun Düzköy rayonunun AKP-li belediye başqanı Selim Çelenk dünyasını dəyişib. Siyasətçinin ölümü ölkə gündəmində kədərlə qarşılanıb.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "selim-celenk-passed-away",
-      "source_indices": [
-        21
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTnBPdkkxTEpxdnBrWEM2aUtVNlp6NUtaSVQ1VHNBVGE3UV9uMUhnLTRnRGxoMktuV3JjcE8zei10RUVZSlNDN3pkczlVeUFPMjVIZ0txR1hCTWFMajVVa3pZWTdfWDMxUnN1QUpVQUI2NWpYUGNDbExCTVJvbVIteHdSd3ZIZURUYVpjcFRxR0xrdkRUc1JoZjd1emN5U1RGY0hoZA?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:30:39.898975+00:00"
     }
   ]
 }
