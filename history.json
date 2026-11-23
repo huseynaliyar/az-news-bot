@@ -1037,7 +1037,22 @@
     "229a39022388969e": "2026-11-23T20:15:39.165723+00:00",
     "0e3c2b15a3d981fe": "2026-11-23T20:15:39.165723+00:00",
     "bfb9aeca20d02978": "2026-11-23T20:15:39.165723+00:00",
-    "4e05bb39add6c0c9": "2026-11-23T20:15:39.165723+00:00"
+    "4e05bb39add6c0c9": "2026-11-23T20:15:39.165723+00:00",
+    "adaf275a917e6b28": "2026-11-23T20:31:33.702254+00:00",
+    "fab52159d3a7b03f": "2026-11-23T20:31:33.702254+00:00",
+    "56366f2b64a7ee59": "2026-11-23T20:31:33.702254+00:00",
+    "499609e0ae1c47e5": "2026-11-23T20:31:33.702254+00:00",
+    "5f7edfbcc726fc02": "2026-11-23T20:31:33.702254+00:00",
+    "1bf200a68cc47fa6": "2026-11-23T20:31:33.702254+00:00",
+    "0d69e45d73d535c1": "2026-11-23T20:31:33.702254+00:00",
+    "1077c8d68c3e4a51": "2026-11-23T20:31:33.702254+00:00",
+    "0bfb5ba8bfa6d263": "2026-11-23T20:31:33.702254+00:00",
+    "964a0af6a2c4b36d": "2026-11-23T20:31:33.702254+00:00",
+    "33a1af89256e0092": "2026-11-23T20:31:33.702254+00:00",
+    "13cc5c3c35b4ab82": "2026-11-23T20:31:33.702254+00:00",
+    "25ff949cda5c7839": "2026-11-23T20:31:33.702254+00:00",
+    "3c3e9ca6f19e1ed7": "2026-11-23T20:31:33.702254+00:00",
+    "586d5db58fc40cb1": "2026-11-23T20:31:33.702254+00:00"
   },
   "published_stories": [
     {
@@ -2806,9 +2821,40 @@
         "Al Jazeera",
         "The Verge"
       ]
+    },
+    {
+      "published_at": "2026-11-23T20:31:34.816104+00:00",
+      "headline_az": "Kızılcahamamda ayı faciəsi: İki bala itkin düşdü",
+      "summary_az": "Ankaranın Kızılcahamam rayonunda ana ayı və balasının vurulması ictimaiyyətdə geniş rezonans doğurub. Hadisə yerindən qaçan digər iki balanın tapılması üçün axtarışlar davam edir, rəsmi qurumlar araşdırma başladıb.",
+      "topic_key": "kizilcahamam-bear-incident",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "GTA 6 dünyasında sirli tapıntı: YouTuber kodu 3 günə qırdı",
+      "summary_az": "Oyun dünyasının ən çox gözlənilən layihəsi olan GTA 6-da gizlədilən çətin tapmacanı bir YouTuber cəmi 3 günə həll edib. Oyunçuları heyrətləndirən bu sirli tapıntının sonunda gözlənilməz bir sürpriz ortaya çıxıb.",
+      "category": "Maraqlı",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "gta6-easter-egg",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-easter-egg-danny-dyer-kent-paul"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
+      "queued_at": "2026-11-23T20:31:33.668577+00:00"
+    },
     {
       "headline_az": "Claude AI artıq kodu öz-özünə yoxlayıb düzəldə bilir",
       "summary_az": "Anthropic şirkəti Claude AI üçün yeni funksiyalar təqdim etdi – alət indi pull request-ləri avtomatik olaraq incələyir, səhvləri düzəldir və kodu təsdiqləyə bilir. Bu, proqramçıların işini sürətləndirəcək.",
