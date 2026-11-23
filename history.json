@@ -831,31 +831,18 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T03:12:21.026353+00:00",
+      "headline_az": "Böyük Britaniyada Aİ ilə əldə olunan 'tarixi' razılaşma müzakirə edilir",
+      "summary_az": "Böyük Britaniya rəhbərliyi parlament üzvlərinə Aİ ilə əldə edilən razılaşmanın ölkənin gələcək onilliyini əhəmiyyətli dərəcədə yaxşılaşdıracağını bildirəcək. Yeni sazişin mövcud qeyri-sabit status-kvo ilə dəyişiklik arasında seçim olduğu vurğulanır.",
+      "topic_key": "uk-eu-landmark-deal-brexit-rollback",
+      "sources": [
+        "BBC World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Böyük Britaniyada Aİ ilə əldə olunan 'tarixi' razılaşma müzakirə edilir",
-      "summary_az": "Böyük Britaniya rəhbərliyi parlament üzvlərinə Aİ ilə əldə edilən razılaşmanın ölkənin gələcək onilliyini əhəmiyyətli dərəcədə yaxşılaşdıracağını bildirəcək. Yeni sazişin mövcud qeyri-sabit status-kvo ilə dəyişiklik arasında seçim olduğu vurğulanır.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": true,
-      "topic_key": "uk-eu-landmark-deal-brexit-rollback",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-      "queued_at": "2026-11-23T03:10:30.305086+00:00"
-    },
     {
       "headline_az": "San-Fransiskoda süni intellekt bumu: Sektor mütəxəssisləri bazarın çökəcəyindən ehtiyat edirlər",
       "summary_az": "Süni intellekt sənayesinin mərkəzi olan San-Fransiskoda sürətli inkişaf müşahidə olunur. Lakin mütəxəssislər sahənin həddindən artıq qızması səbəbindən yaxın gələcəkdə bazarın çökə biləcəyindən narahatdırlar.",
