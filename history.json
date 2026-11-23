@@ -241,7 +241,8 @@
     "6352bd0d59b48f2b": "2026-11-23T03:10:30.305113+00:00",
     "76dc4ef358138785": "2026-11-23T03:10:30.305113+00:00",
     "8944159f24ba8394": "2026-11-23T03:18:31.320186+00:00",
-    "f007a7b905538002": "2026-11-23T03:22:19.892444+00:00"
+    "f007a7b905538002": "2026-11-23T03:22:19.892444+00:00",
+    "9c2573b61b493178": "2026-11-23T03:24:25.002283+00:00"
   },
   "published_stories": [
     {
@@ -859,6 +860,15 @@
       "topic_key": "turkey-sozcu-tv-investigation",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T03:24:25.651747+00:00",
+      "headline_az": "Belçikada ümumi tətbiq səbəbindən hava limanları bağlanır",
+      "summary_az": "Belçikada həmkarlar ittifaqlarının təşkil etdiyi qənaət tədbirlərinə qarşı etiraz tətili fonunda Skeyes avtomatlaşdırılmış hava hərəkətinə nəzarət xidmətlərini dayandırıb. Ölkə daxilindəki hava limanlarında uçuşlar təxirə salınıb və gediş-gəlişlər dayanıb.",
+      "topic_key": "belgium-airports-strike-shutdown",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
