@@ -512,7 +512,28 @@
     "c465d83d98928560": "2026-11-23T08:30:39.899034+00:00",
     "6670aca9a1085150": "2026-11-23T08:30:39.899034+00:00",
     "b0020388230bd657": "2026-11-23T08:30:39.899034+00:00",
-    "4cb8e9256fa42429": "2026-11-23T08:30:39.899034+00:00"
+    "4cb8e9256fa42429": "2026-11-23T08:30:39.899034+00:00",
+    "1dc5002e26ca59b0": "2026-11-23T08:45:27.269884+00:00",
+    "aed198511b6616a4": "2026-11-23T08:45:27.269884+00:00",
+    "54df6b9ba34b1615": "2026-11-23T08:45:27.269884+00:00",
+    "e2330ef3dae54717": "2026-11-23T08:45:27.269884+00:00",
+    "ebe880d5401bc767": "2026-11-23T08:45:27.269884+00:00",
+    "0fbff9b60702f893": "2026-11-23T08:45:27.269884+00:00",
+    "151da05162206a83": "2026-11-23T08:45:27.269884+00:00",
+    "e89004fb39dfbe62": "2026-11-23T08:45:27.269884+00:00",
+    "be90d6ed5c217b14": "2026-11-23T08:45:27.269884+00:00",
+    "2192f77063f4b295": "2026-11-23T08:45:27.269884+00:00",
+    "043999ef040467e9": "2026-11-23T08:45:27.269884+00:00",
+    "5f7aa235391377da": "2026-11-23T08:45:27.269884+00:00",
+    "b439dcc78c7671a6": "2026-11-23T08:45:27.269884+00:00",
+    "ef7ab0ee776e4b09": "2026-11-23T08:45:27.269884+00:00",
+    "7e4e98a3dd3646a1": "2026-11-23T08:45:27.269884+00:00",
+    "2648cafd79ae8aea": "2026-11-23T08:45:27.269884+00:00",
+    "e99aaf78b68715a5": "2026-11-23T08:45:27.269884+00:00",
+    "55f1fc4a0ca0ca76": "2026-11-23T08:45:27.269884+00:00",
+    "5ea564c10bbf975f": "2026-11-23T08:45:27.269884+00:00",
+    "332e4dbb4a80afcc": "2026-11-23T08:45:27.269884+00:00",
+    "4279a33688d6c96d": "2026-11-23T08:45:27.269884+00:00"
   },
   "published_stories": [
     {
@@ -1909,9 +1930,40 @@
         "Oxu.az",
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T08:45:27.672513+00:00",
+      "headline_az": "İstanbulda şok \"aslan\" həyəcanı: Sakinlərə evdən çıxmamaq xəbərdarlığı edildi",
+      "summary_az": "Sarıyer rayonunda aslan görüldüyü iddialarından sonra bölgə yaya və avtomobil girişinə bağlanıb. Hüquq-mühafizə orqanları və mütəxəssislər heyvanın tapılması üçün havadan və qurudan genişmiqyaslı axtarış əməliyyatına başlayıblar.",
+      "topic_key": "sariyer-lion-alarm",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "ABŞ limanlarına qarşı miqyası böyüyən kiberhücum dalgası",
+      "summary_az": "Amerikanın əsas limanları və nəhəng dəniz daşımacılığı şirkətləri kütləvi kiberhücumlarla üzləşib. Təkcə Los-Anceles limanı avqust ayında 120 milyon hücum cəhdinin qarşısını alıb.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-ports-cyber-attacks",
+      "source_indices": [
+        14
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/dunya/abd-limanlarina-siber-saldiri-yagmuru-her-gun-binlerce-girisim-engelleniyor-3496840"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:45:27.269843+00:00"
+    },
     {
       "headline_az": "Prezident İlham Əliyev İtaliyanın baş nazir müavinini qəbul edib",
       "summary_az": "Azərbaycan Prezidenti İlham Əliyev İtaliyanın nazirlər şurası sədrinin müavini, xarici işlər və beynəlxalq əməkdaşlıq naziri Antonio Tayanini qəbul edib. Görüşdə ölkələrarası strateji tərəfdaşlıq və ikitərəfli əməkdaşlığın perspektivləri müzakirə olunub.",
@@ -1933,6 +1985,50 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Türkiyə kənd təsərrüfatında yeni dövrə başlayır: OECD-dən geniş hesabat",
+      "summary_az": "İqtisadi Əməkdaşlıq və İnkişaf Təşkilatı (OECD) Türkiyənin 2024-cü ildən etibarən tarımsal istehsalda planlaşdırma yanaşmasını gücləndirdiyini və əsaslı islahatlar həyata keçirdiyini açıqlayıb. Bu addım ölkənin qida təhlükəsizliyini və kənd təsərrüfatı potensialını gücləndirməyə hədəflənib.",
+      "category": "İqtisadiyyat",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-oecd-agriculture-reform",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/oecd-acikladi-turkiyede-tarim-politikalari-kapsamli-reform-964191.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:45:27.269843+00:00"
+    },
+    {
+      "headline_az": "Bakı Xalça Muzeyində Lətif Kərimovun 120 illiyi qeyd olunur",
+      "summary_az": "Azərbaycan Milli Xalça Muzeyində görkəmli xalçaçı-rəssam və alim Lətif Kərimovun anadan olmasının 120 illiyinə həsr olunmuş Beynəlxalq Türk Xalça Simpoziumu keçirilir. Tədbir ortaq mədəni irsimizin təbliği baxımından mühüm əhəmiyyət daşıyır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "latif-karimov-carpet-symposium",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/culture/267919.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2026/11/23/w_161795416702320281151_1200x630.jpg",
+      "queued_at": "2026-11-23T08:45:27.269843+00:00"
     },
     {
       "headline_az": "Sumqayıtda nişanlı qız dəm qazından boğularaq ölüb",
@@ -2092,50 +2188,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T08:00:40.098171+00:00"
-    },
-    {
-      "headline_az": "Milli kamikaze dronu ALKAN FPV təhlükəsizlik qüvvələrinə təslim edildi",
-      "summary_az": "Müasir döyüş meydanının tələblərinə uyğun olaraq hazırlanan yerli FPV kamikaze dronu qəbul sınaqlarını uğurla başa vurub. Texnologiya artıq türk təhlükəsizlik qüvvələrinin inventarına daxil edilib.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "alkan-fpv-kamikaze-drone-inventory",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/savunma/milli-kamikaze-dronu-alkan-fpv-envantere-girdi-964182.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:00:40.098171+00:00"
-    },
-    {
-      "headline_az": "İraq Səddam Hüseynin prezident təyyarəsini satışa çıxardı",
-      "summary_az": "İraqın Nəqliyyat Nazirliyi sabiq prezident Səddam Hüseynə məxsus olan və 1991-ci ildən Tunisdə saxlanılan «Boeing 747» markalı təyyarəni 900 min dollara satışa çıxarıb.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "iraq-saddam-hussein-aircraft-sale",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/267911.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/iraqi-airways-boeing-747sp-yi-alm-zld33kw.png",
-      "queued_at": "2026-11-23T07:46:18.613091+00:00"
     }
   ]
 }
