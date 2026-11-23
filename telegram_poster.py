@@ -47,6 +47,24 @@ def is_baku_night(start_hour: int = 0, end_hour: int = 8) -> bool:
     return baku_hour >= start_hour or baku_hour < end_hour
 
 
+def _post_with_retry(url: str, payload: dict, timeout: int, attempts: int = 3) -> dict:
+    last_exc: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            resp = requests.post(url, json=payload, timeout=timeout)
+            resp.raise_for_status()
+            return resp.json()
+        except requests.RequestException as exc:
+            last_exc = exc
+            # Do not retry 4xx client errors (bad photo URL, invalid HTML, etc.)
+            if getattr(exc, "response", None) is not None and 400 <= exc.response.status_code < 500:
+                raise
+            logger.warning("Telegram cəhd %d/%d xətası: %s", attempt, attempts, exc)
+            if attempt < attempts:
+                time.sleep(2 * attempt)
+    raise last_exc  # type: ignore[misc]
+
+
 def fetch_article_media(article_url: str, timeout: int = 8) -> tuple[str, str]:
     if not article_url or "news.google.com" in article_url:
         return "", ""
@@ -129,9 +147,7 @@ def send_telegram_message(
     }
     if reply_markup:
         payload["reply_markup"] = reply_markup
-    resp = requests.post(url, json=payload, timeout=timeout)
-    resp.raise_for_status()
-    return resp.json()
+    return _post_with_retry(url, payload, timeout=timeout)
 
 
 def send_telegram_photo(
@@ -153,9 +169,7 @@ def send_telegram_photo(
     }
     if reply_markup:
         payload["reply_markup"] = reply_markup
-    resp = requests.post(url, json=payload, timeout=timeout)
-    resp.raise_for_status()
-    return resp.json()
+    return _post_with_retry(url, payload, timeout=timeout)
 
 
 def publish_stories(
