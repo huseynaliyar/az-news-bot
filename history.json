@@ -1052,7 +1052,14 @@
     "13cc5c3c35b4ab82": "2026-11-23T20:31:33.702254+00:00",
     "25ff949cda5c7839": "2026-11-23T20:31:33.702254+00:00",
     "3c3e9ca6f19e1ed7": "2026-11-23T20:31:33.702254+00:00",
-    "586d5db58fc40cb1": "2026-11-23T20:31:33.702254+00:00"
+    "586d5db58fc40cb1": "2026-11-23T20:31:33.702254+00:00",
+    "708d0e9799e999fd": "2026-11-23T20:46:01.554308+00:00",
+    "c9373573785dda9a": "2026-11-23T20:46:01.554308+00:00",
+    "06b54e29119303bc": "2026-11-23T20:46:01.554308+00:00",
+    "99de1a2cbf0f26a6": "2026-11-23T20:46:01.554308+00:00",
+    "c98aad68c66f305f": "2026-11-23T20:46:01.554308+00:00",
+    "f45946c4edf4941a": "2026-11-23T20:46:01.554308+00:00",
+    "d70157d1228f26a0": "2026-11-23T20:46:01.554308+00:00"
   },
   "published_stories": [
     {
@@ -2829,6 +2836,15 @@
       "topic_key": "kizilcahamam-bear-incident",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T20:46:02.124637+00:00",
+      "headline_az": "Miliband ICJ‑nin soyqırımı qərarına müdaxilə iddiası ilə kölgə xarici naziri tənqid edir",
+      "summary_az": "Britaniya işçi Partiyası lideri David Miliband, kölgə xarici naziri ICJ‑nin soyqırımı hökmünü zəiflətməkdə ittiham edir, beynəlxalq hüququn qorunması üçün təcili tədbirlər tələb edir.",
+      "topic_key": "miliband-icj-accusation",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
