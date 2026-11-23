@@ -376,7 +376,32 @@
     "6c2a0e661d59dad2": "2026-11-23T06:50:28.168808+00:00",
     "52719d936867da00": "2026-11-23T06:52:18.316719+00:00",
     "1a6823688fc7688f": "2026-11-23T06:52:18.316719+00:00",
-    "3e5e6f148c559ee6": "2026-11-23T06:52:18.316719+00:00"
+    "3e5e6f148c559ee6": "2026-11-23T06:52:18.316719+00:00",
+    "1fd385ddfd975a35": "2026-11-23T06:54:22.030591+00:00",
+    "53814a3e1c69563b": "2026-11-23T06:54:22.030591+00:00",
+    "450feb7bb513141a": "2026-11-23T06:54:22.030591+00:00",
+    "50eaee9a34139795": "2026-11-23T06:54:22.030591+00:00",
+    "57687c50f57b9652": "2026-11-23T06:54:22.030591+00:00",
+    "883b69d3f986860b": "2026-11-23T06:54:22.030591+00:00",
+    "1170eb2f2b3dad61": "2026-11-23T06:54:22.030591+00:00",
+    "587386f956d0e545": "2026-11-23T06:54:22.030591+00:00",
+    "7d27fffa3906bd9a": "2026-11-23T06:54:22.030591+00:00",
+    "9aa0af96de19b874": "2026-11-23T06:54:22.030591+00:00",
+    "b63385376cd120b1": "2026-11-23T06:54:22.030591+00:00",
+    "5fe33663b5f501c5": "2026-11-23T06:54:22.030591+00:00",
+    "1969c1ff35ca9543": "2026-11-23T06:54:22.030591+00:00",
+    "533fe8f35e8c119d": "2026-11-23T06:54:22.030591+00:00",
+    "6777243247bbb844": "2026-11-23T06:54:22.030591+00:00",
+    "932ee5dd447ca684": "2026-11-23T06:54:22.030591+00:00",
+    "b9176571a378db0f": "2026-11-23T06:54:22.030591+00:00",
+    "5bc1830e92de2638": "2026-11-23T06:54:22.030591+00:00",
+    "4fcc4d59e6994500": "2026-11-23T06:54:22.030591+00:00",
+    "71d7d5290787f6fb": "2026-11-23T06:54:22.030591+00:00",
+    "523c75380a96df14": "2026-11-23T06:54:22.030591+00:00",
+    "d7d7f3c77fe797c0": "2026-11-23T06:54:22.030591+00:00",
+    "77928b37a167c2c7": "2026-11-23T06:54:22.030591+00:00",
+    "ba921b5a9da745d3": "2026-11-23T06:54:22.030591+00:00",
+    "9ad42073085a658f": "2026-11-23T06:54:22.030591+00:00"
   },
   "published_stories": [
     {
@@ -1625,9 +1650,106 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:54:22.618691+00:00",
+      "headline_az": "Tip 2 diabet Alzheimer riskini 53 faiz artırır",
+      "summary_az": "Alimlərin 40 müxtəlif araşdırmanı əhatə edən geniş təhlili metabolik pozuntularla beyin sağlamlığı arasındakı qorxunc əlaqəni üzə çıxarıb. Məlum olub ki, tip 2 diabetdən əziyyət çəkənlərdə bu neyrodegenerativ xəstəliyin inkişaf riski yarıdan çox yüksəkdir.",
+      "topic_key": "type-2-diabetes-alzheimers-risk",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Yəmən husiləri Səudiyyə Ərəbistanının neft zavodunu hədəfə aldı",
+      "summary_az": "Yəməndəki husi qruplaşması Səudiyyə Ərəbistanının Rabiq neft emalı zavoduna qarşı hücum həyata keçirdiyini açıqlayıb. Bu hadisə bölgədə diplomatik səylərin nəticəsiz qaldığı bir dövrdə gərginliyi yenidən pik həddə çatdırıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "yemen-houthis-saudi-oil-refinery",
+      "source_indices": [
+        21
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:54:22.030559+00:00"
+    },
+    {
+      "headline_az": "Donald Trampdanköçkün seçicilərə: «Anlamadan tetiğe basdınız»",
+      "summary_az": "ABŞ Prezidenti Donald Tramp Respublikaçıların məğlubiyyəti ilə nəticələnən aralıq seçkilərdən sonra seçiciləri sərt tənqid edib. O, ölkədəki siyasi prosesləri dəyərləndirərək vətəndaşların qərarlarının gözlənilməz nəticələr doğurduğunu bildirib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "trump-midterm-elections-reaction",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/trumptan-abdli-secmenlere-anlamadan-tetige-basmaniz-kotu-oldu-1752150"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.ntv.com.tr/images/2026-11-20T192528Z_130355272_RC2UROA3K99Q_RTRMADP_3_USA-TRUMP-478875(2).JPG",
+      "queued_at": "2026-11-23T06:54:22.030559+00:00"
+    },
+    {
+      "headline_az": "«Hunger Games» yeni filmi ilə rekord qırdı",
+      "summary_az": "Seriyanın yeni filmi «The Hunger Games: Sunrise on the Reaping» nümayişinin ilk həftəsonunda dünya üzrə 225 milyon dollar gəlir əldə edib. Ekran əsəri hətta böyük gözləntilər yaradan «GTA 6» həyəcanını da kölgədə qoymağı bacarıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "hunger-games-box-office-opening",
+      "source_indices": [
+        16
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-plows-through-gta-6-hype-with-225-million-opening-weekend"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/hungerthumb-1789565141804.png",
+      "queued_at": "2026-11-23T06:54:22.030559+00:00"
+    },
+    {
+      "headline_az": "S&P 500 fyuçersləri texnoji enişdən sonra kəskin bərpa olunur",
+      "summary_az": "Ötən həftə süni intellekt bazarındakı narahatlıqlar fonunda çökən əsas indekslər yeni həftəyə 2 faizlik artımla başlayıb. İnvestorların qısa həftənin əvvəlində sərgilədiyi bu nikbinlik qlobal bazarlarda təşvişi qismən səngidib.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "sp500-markets-rebound-ai",
+      "source_indices": [
+        20
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:54:22.030559+00:00"
+    },
     {
       "headline_az": "Finlandiya körfəzində Rusiya gəmisinə PUA hücumu olub",
       "summary_az": "Finlandiya körfəzində Kalininqrada gedən Rusiya gəmisi PUA hücumuna məruz qalıb. Hadisə nəticəsində gəmidə yanğın baş verib və Ukraynada bu insident müzakirələrə səbəb olub.",
