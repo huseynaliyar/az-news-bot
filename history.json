@@ -299,7 +299,8 @@
     "06d2c560ec885018": "2026-11-23T05:26:22.071515+00:00",
     "8107d02eb378a978": "2026-11-23T05:26:22.071515+00:00",
     "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00",
-    "2cd745f7f235ea59": "2026-11-23T05:30:36.003002+00:00"
+    "2cd745f7f235ea59": "2026-11-23T05:30:36.003002+00:00",
+    "5a252a02238b811d": "2026-11-23T05:32:25.258344+00:00"
   },
   "published_stories": [
     {
@@ -1232,6 +1233,15 @@
       "topic_key": "armenia-new-constitution-draft",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:32:25.700057+00:00",
+      "headline_az": "Türkiyədə tanınmış aparıcı Merve Dinçkol və körpəsi yol qəzasına düşüblər",
+      "summary_az": "Türkiyənin tanınmış simalarından olan aparıcı Merve Dinçkol Şerifoğlu 4 aylıq qızı Defne Yaz ilə birlikdə yol qəzası keçirib. Bir neçə aparıcı media qurumunun təsdiqlədiyi məlumata görə, ana və körpəsinin səhhəti nəzarət altındadır və xəsarət alanların vəziyyəti ilə bağlı araşdırmalar aparılır.",
+      "topic_key": "merve-dinckol-traffic-accident",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
