@@ -300,7 +300,8 @@
     "8107d02eb378a978": "2026-11-23T05:26:22.071515+00:00",
     "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00",
     "2cd745f7f235ea59": "2026-11-23T05:30:36.003002+00:00",
-    "5a252a02238b811d": "2026-11-23T05:32:25.258344+00:00"
+    "5a252a02238b811d": "2026-11-23T05:32:25.258344+00:00",
+    "51fb29cdeb847938": "2026-11-23T05:34:25.503168+00:00"
   },
   "published_stories": [
     {
@@ -1242,6 +1243,15 @@
       "topic_key": "merve-dinckol-traffic-accident",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:34:26.250034+00:00",
+      "headline_az": "Süni Ay torpağında patates yetişdirilib",
+      "summary_az": "NASA-nın dəstəklədiyi araşdırmada elm adamları üzvi maddə ilə zənginləşdirilmiş süni Ay torpağında patates yetişdirməyə müvəffəq olublar. Bu elmi nailiyyət gələcəkdə Ay bazalarında çalışacaq astronavtların yerli qida ilə təmin olunması istiqamətində mühüm addımdır.",
+      "topic_key": "artificial-moon-soil-potatoes",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
