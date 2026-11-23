@@ -1100,7 +1100,19 @@
     "d3fbcca0fea77430": "2026-11-23T22:01:00.678161+00:00",
     "e2cb7b1bf7e84484": "2026-11-23T22:01:00.678161+00:00",
     "e0ff223757326453": "2026-11-23T22:01:00.678161+00:00",
-    "affb554213303069": "2026-11-23T22:01:00.678161+00:00"
+    "affb554213303069": "2026-11-23T22:01:00.678161+00:00",
+    "76960a3940e47516": "2026-11-23T22:15:53.841845+00:00",
+    "b00a39ddeb068f50": "2026-11-23T22:15:53.841845+00:00",
+    "907ba6bf55dd3eb0": "2026-11-23T22:15:53.841845+00:00",
+    "5e2478fb7557e8d3": "2026-11-23T22:15:53.841845+00:00",
+    "876aad68c91f878f": "2026-11-23T22:15:53.841845+00:00",
+    "38ea5b66d2595223": "2026-11-23T22:15:53.841845+00:00",
+    "4ce697c6dbd75e8a": "2026-11-23T22:15:53.841845+00:00",
+    "e49d90f30646cedd": "2026-11-23T22:15:53.841845+00:00",
+    "e7143b306720d093": "2026-11-23T22:15:53.841845+00:00",
+    "e4e09724161528d9": "2026-11-23T22:15:53.841845+00:00",
+    "dc485661b550ada2": "2026-11-23T22:15:53.841845+00:00",
+    "aca3a6c9594f9d03": "2026-11-23T22:15:53.841845+00:00"
   },
   "published_stories": [
     {
@@ -2931,6 +2943,15 @@
       "topic_key": "us-iran-sanctions",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T22:15:54.463424+00:00",
+      "headline_az": "Supertake AI agentləri ilə bazar proqnozlarını portfela çevirir",
+      "summary_az": "Supertake startapı 20 milyon dollar investisiya alaraq, süni intellekt agentləri vasitəsilə istifadəçilərin bazar proqnozlarını avtomatik olaraq səhmlərə yönəldən platforma qurur.",
+      "topic_key": "supertake-ai-finance",
+      "sources": [
+        "TechCrunch"
       ]
     }
   ],
