@@ -1077,7 +1077,19 @@
     "85f9cc802007196b": "2026-11-23T21:15:38.711921+00:00",
     "5d6fc9d047005878": "2026-11-23T21:15:38.711921+00:00",
     "b6aa410db677fb56": "2026-11-23T21:15:38.711921+00:00",
-    "a5308ba62a5f2de2": "2026-11-23T21:15:38.711921+00:00"
+    "a5308ba62a5f2de2": "2026-11-23T21:15:38.711921+00:00",
+    "cdd38a9fa1edaebe": "2026-11-23T21:31:01.971734+00:00",
+    "59de7595dab74546": "2026-11-23T21:31:01.971734+00:00",
+    "3559ae584a8e7981": "2026-11-23T21:31:01.971734+00:00",
+    "e855e756c1ecdf88": "2026-11-23T21:31:01.971734+00:00",
+    "56a492da45e01643": "2026-11-23T21:31:01.971734+00:00",
+    "1eb2106abd5b44d5": "2026-11-23T21:31:01.971734+00:00",
+    "32a57e49ef3c2648": "2026-11-23T21:31:01.971734+00:00",
+    "414f49b800a5525d": "2026-11-23T21:31:01.971734+00:00",
+    "1e87e08c426df091": "2026-11-23T21:31:01.971734+00:00",
+    "88cb8f8af3296318": "2026-11-23T21:31:01.971734+00:00",
+    "c5562263d0dd3c37": "2026-11-23T21:31:01.971734+00:00",
+    "ea39f8a43a60b7b5": "2026-11-23T21:31:01.971734+00:00"
   },
   "published_stories": [
     {
@@ -2882,9 +2894,40 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-23T21:31:02.559529+00:00",
+      "headline_az": "Roststat məlumat sızması: Rusiya tərəfdən yarım milyon itirilmiş insan",
+      "summary_az": "Roststatın sızdırılmış məlumatlarına görə, Rusiya tərəfdən müharibədə yarım milyon insan həlak olub. The Insider və digər müstəqil nəşrlər bu rəqəmləri təsdiqləyib.",
+      "topic_key": "russia-ukraine-casualties-leak",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Neft qiymətləri iki alov arasında: Təklif artımı qiymətləri aşağı salır",
+      "summary_az": "Brent nefti $89,34/varrəyə düşdü. Təklifin artması və Yaxın Şərqin dəstəyi qiymətləri təzyiq altında saxlayır. Analitiklər bazarın dalğalanmasını izləyir.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "oil-price-pressure",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlLUtXZWlKcU9ndzFCaTl0TlV2aXdPR2NLY2VkdVJ4dUZmZ3EyZ0hlZUhaR0RwRGxiX1ppOG1EdWdaWHl5Qm9RVU8yek1DQVcteFE3d1NIZzg3cVZ4cTRqakFnTVZHNGc?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T21:31:01.954434+00:00"
+    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
@@ -3099,28 +3142,6 @@
         {
           "name": "Google News World",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1TRElnUzZ1b1FWakQxbThWeUVRTGZEbWV0R1NSV0o3a2NzbWYxWlgwMW9rdjNvb1RtNzkxNFdWSWcyckFTYWgyZHRndUJnRnBEeTd6ZEdlMXNuUko0NGoyNncyVEtmVUFVdDE0R1BIN1dBS3FyVUhQUTBpSkYwRDdhbzBQYm5oMzA2eFV4M3Q2WHFHaE5VYw?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T18:36:34.059208+00:00"
-    },
-    {
-      "headline_az": "Danimarkada \"Getto qanunu\" ilə bağlı məhkəmə qərarı",
-      "summary_az": "Danimarkanın ali məhkəməsi ölkənin mübahisəli miqrasiya siyasətini dəstəkləyən qərar qəbul edib. Qərara əsasən, \"qeyri-qərb\" mənşəli ailələrin yaşadıqları evlərdən çıxarılması ayrı-seçkilik kimi qiymətləndirilməyib.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "denmark-ghetto-law",
-      "source_indices": [
-        6
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss"
         }
       ],
       "importance": 7,
