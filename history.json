@@ -258,7 +258,10 @@
     "9653439da12433b5": "2026-11-23T04:06:23.105873+00:00",
     "8dbe2142ecd89d38": "2026-11-23T04:18:29.683172+00:00",
     "c8bf503a4a646b1c": "2026-11-23T04:18:29.683172+00:00",
-    "abd1483c48768d96": "2026-11-23T04:20:27.267637+00:00"
+    "abd1483c48768d96": "2026-11-23T04:20:27.267637+00:00",
+    "45fa1822606331e3": "2026-11-23T04:24:20.275267+00:00",
+    "102537eabb79b510": "2026-11-23T04:24:20.275267+00:00",
+    "236f5c4d2d386501": "2026-11-23T04:24:20.275267+00:00"
   },
   "published_stories": [
     {
@@ -966,6 +969,15 @@
       "topic_key": "karaman-girl-proposal-fight",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:24:21.104386+00:00",
+      "headline_az": "Türkiyə Kabineti mühüm gündəm maddələri ilə toplanır",
+      "summary_az": "Türkiyə Prezidenti Rəcəb Tayyib Ərdoğanın sədrliyi ilə keçiriləcək Kabinet toplantısının əsas gündəmini pensiyaçıların rifah payı tənzimləmələri və fond araşdırmaları təşkil edir. İclasda həmçinin ABŞ-İran gərginliyi və regional proseslər ətraflı müzakirə olunacaq.",
+      "topic_key": "turkey-cabinet-meeting-agenda",
+      "sources": [
+        "CNN Türk"
       ]
     }
   ],
