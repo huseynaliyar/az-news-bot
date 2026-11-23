@@ -281,7 +281,8 @@
     "954474cdd993f13b": "2026-11-23T04:52:19.916603+00:00",
     "72070b6a19838555": "2026-11-23T04:54:20.339491+00:00",
     "e6ba7cbefba9bcdd": "2026-11-23T04:54:20.339491+00:00",
-    "b46f94b191a6614a": "2026-11-23T04:54:20.339491+00:00"
+    "b46f94b191a6614a": "2026-11-23T04:54:20.339491+00:00",
+    "71ddf6d0de49e3a2": "2026-11-23T04:56:22.394636+00:00"
   },
   "published_stories": [
     {
@@ -1097,6 +1098,15 @@
       "topic_key": "ukraine-residential-strike-survivor",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:56:23.192213+00:00",
+      "headline_az": "İndoneziyadakı fabrik yanğınında ölənlərin sayı 24-ə çatıb",
+      "summary_az": "İndoneziyanın Banten bölgəsində yerləşən şirniyyat fabrikində baş verən güclü yanğın nəticəsində ölənlərin sayı 24 nəfərə yüksəlib. Xilasetmə qrupları dağılma təhlükəsi olan yanmış ərazidə itkin düşən təxminən 30 nəfərin axtarışlarını davam etdirirlər.",
+      "topic_key": "indonesia-factory-fire-casualties",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
