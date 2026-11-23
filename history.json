@@ -533,7 +533,22 @@
     "55f1fc4a0ca0ca76": "2026-11-23T08:45:27.269884+00:00",
     "5ea564c10bbf975f": "2026-11-23T08:45:27.269884+00:00",
     "332e4dbb4a80afcc": "2026-11-23T08:45:27.269884+00:00",
-    "4279a33688d6c96d": "2026-11-23T08:45:27.269884+00:00"
+    "4279a33688d6c96d": "2026-11-23T08:45:27.269884+00:00",
+    "9728effa944c9815": "2026-11-23T09:00:42.633276+00:00",
+    "e989c3fcb8ed6e73": "2026-11-23T09:00:42.633276+00:00",
+    "1e1e4389bd5e0cf7": "2026-11-23T09:00:42.633276+00:00",
+    "40aea73fa46ab08d": "2026-11-23T09:00:42.633276+00:00",
+    "3ef7420c7cb95584": "2026-11-23T09:00:42.633276+00:00",
+    "d5cf2c239432d1eb": "2026-11-23T09:00:42.633276+00:00",
+    "46728b3187f79c8d": "2026-11-23T09:00:42.633276+00:00",
+    "4a844a2d33f873b6": "2026-11-23T09:00:42.633276+00:00",
+    "1e8f90b168d062a5": "2026-11-23T09:00:42.633276+00:00",
+    "582aa9c7a43ef00c": "2026-11-23T09:00:42.633276+00:00",
+    "6061a266516bb85e": "2026-11-23T09:00:42.633276+00:00",
+    "b1abe10c7afdbf1c": "2026-11-23T09:00:42.633276+00:00",
+    "3ae269eb237f137d": "2026-11-23T09:00:42.633276+00:00",
+    "ec6e2698d6abb307": "2026-11-23T09:00:42.633276+00:00",
+    "39069fe8b2015d42": "2026-11-23T09:00:42.633276+00:00"
   },
   "published_stories": [
     {
@@ -1939,6 +1954,16 @@
       "sources": [
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-23T09:00:44.098269+00:00",
+      "headline_az": "Azərbaycan və İtaliya arasında strateji memorandum imzalandı",
+      "summary_az": "Bakıda keçirilən yüksək səviyyəli görüşlər fonunda Azərbaycan və İtaliya kritik xammal sahəsində üçüncü ölkələrlə birgə əməkdaşlığa dair Anlaşma Memorandumu imzalayıblar. Bu sənəd iki ölkə arasındakı iqtisadi tərəfdaşlığı yeni mərhələyə daşıyacaq.",
+      "topic_key": "azerbaijan-italy-memorandum",
+      "sources": [
+        "Oxu.az",
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
@@ -1985,6 +2010,50 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Azərbaycanda yeni yaşıl enerjiyə keçid çərçivəsində nəhəng xətt çəkilir",
+      "summary_az": "Ölkənin energetika sistemini gücləndirmək və bərpa olunan enerji potensialını genişləndirmək məqsədilə Mingəçevir və Nəvəini birləşdirəcək 235 kilometrlik yüksəkgərginlikli elektrik verilişi xəttinin tikintisinə start verilib.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-azure-power-line",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/business/267920.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2026/11/23/s5tawlfyrsl5w2drvzypu24w8owukoandlrpop6e_1200.png",
+      "queued_at": "2026-11-23T09:00:42.633233+00:00"
+    },
+    {
+      "headline_az": "Antalyada baş tutan İqlim Konfransında 36 başlıkta ortaq qərar qəbul edildi",
+      "summary_az": "Türkiyənin ev sahibliyi ilə keçirilən BMT-nin İqlim Dəyişikliyi Konfransında fosil yanacaqlar üzrə ümumi razılıq əldə olunmasa da, iklim maliyyəsi və adil keçid daxil olmaqla 36 mühüm istiqamətdə konkret qərarlar imzalanıb.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "cop31-antalya-decisions",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cop31de-36-baslikta-somut-kararlar-alindi-964189.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T09:00:42.633233+00:00"
     },
     {
       "headline_az": "Türkiyə kənd təsərrüfatında yeni dövrə başlayır: OECD-dən geniş hesabat",
@@ -2139,55 +2208,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
-    },
-    {
-      "headline_az": "Tanınmış aparıcı Merve Dinçkol və 4 aylıq körpəsi qəzaya düşdü",
-      "summary_az": "Türkiyənin tanınmış xəbər spikeri Merve Dinçkol Şerifoğlu körpəsi və bakıcısı ilə birlikdə TEM otoyolunda ağır yol qəzası keçirib. Arxadan gələn yük maşınının çarptığı avtomobildəki sərnişinlər xəstəxana nəzarətindən sonra evə buraxılıblar.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "merve-dinckol-traffic-accident",
-      "source_indices": [
-        15,
-        16
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/magazin/feyyaz-serifoglunun-esi-merve-dinckol-serifoglu-minik-kiziyla-trafik-kazasi-gecirdi-3496822"
-        },
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFVSeTJkOTFYOEJ0b1BYOHpBczlIVWlBdFZ4MlpBZzdTbUdtdFhEVVlYU19meUlkVG1VT0JGSXVkWXZ0cUplQzZ6UXRnSmtqMjlhTUV1UTlMMWNFX2RXUnp6V3dMazNsMGxLU1h6cHBMR0syVDJLcnN6NkY2ZzRDd1dneDhFa1lnS0ZsSHdYajFHS1oyTGhkWUpKRlUxMDdkZ1psZmlvY0k5UXRsWEhuQ2t2aUF6UQ?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:15:30.338883+00:00"
-    },
-    {
-      "headline_az": "Türk ordusunun yeni silahı: “GÖKDENİZ” otonom rejimdə hədəfləri məhv etdi",
-      "summary_az": "Türkiyənin yaxın hava savunma sistemi olan GÖKDENİZ Karadenizdə keçirilən real atışlı sınaqlarda yüksək sürətli hava hədəflərini uğurla zərərsizləşdirib. Sistem artıq bir neçə dünya donanması tərəfindən də seçilib.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "gokdeniz-air-defense-test",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/savunma/gokdeniz-karadenizdeki-gercek-atisli-testten-tam-basariyla-cikti-964184.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:00:40.098171+00:00"
     }
   ]
 }
