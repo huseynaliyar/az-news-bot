@@ -603,7 +603,25 @@
     "d2d8970beda1d00b": "2026-11-23T09:45:29.775751+00:00",
     "e0b871c192589d49": "2026-11-23T09:45:29.775751+00:00",
     "3e4453762f3d5642": "2026-11-23T09:45:29.775751+00:00",
-    "946a6895071ed0dd": "2026-11-23T09:45:29.775751+00:00"
+    "946a6895071ed0dd": "2026-11-23T09:45:29.775751+00:00",
+    "7afe4bae5a3a41a4": "2026-11-23T10:00:41.057378+00:00",
+    "e9b905fba23c9d22": "2026-11-23T10:00:41.057378+00:00",
+    "71884d7a346497f1": "2026-11-23T10:00:41.057378+00:00",
+    "50c05a8c40b7d613": "2026-11-23T10:00:41.057378+00:00",
+    "3aa2c2d63db94c8f": "2026-11-23T10:00:41.057378+00:00",
+    "f419612a7dc1d0af": "2026-11-23T10:00:41.057378+00:00",
+    "1c18b584546e9780": "2026-11-23T10:00:41.057378+00:00",
+    "64dcad2d7fee6ffd": "2026-11-23T10:00:41.057378+00:00",
+    "21ddd4a01b4e7111": "2026-11-23T10:00:41.057378+00:00",
+    "a6b9c954dd6d0db2": "2026-11-23T10:00:41.057378+00:00",
+    "fd0e646bb630745b": "2026-11-23T10:00:41.057378+00:00",
+    "6e62576c3581a433": "2026-11-23T10:00:41.057378+00:00",
+    "fd6020458bbd0e48": "2026-11-23T10:00:41.057378+00:00",
+    "7aeceede3a3ddec9": "2026-11-23T10:00:41.057378+00:00",
+    "fcbff21cf2de2e00": "2026-11-23T10:00:41.057378+00:00",
+    "6afd80b74c9234c5": "2026-11-23T10:00:41.057378+00:00",
+    "2e5cd9adae41420c": "2026-11-23T10:00:41.057378+00:00",
+    "18825d370e1d94a6": "2026-11-23T10:00:41.057378+00:00"
   },
   "published_stories": [
     {
@@ -2047,9 +2065,41 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T10:00:42.337301+00:00",
+      "headline_az": "Ermənistanın yeni konstitusiya layihəsi açıqlandı: Azərbaycanın əsas şərti yerinə yetirilib",
+      "summary_az": "Ermənistanda 2027-ci ilin yazına qədər müzakirə olunacaq yeni konstitusiya layihəsi ictimaiyyətə təqdim edilib. Sənəddə Azərbaycanın sülh üçün əsas tələbi olan İstiqlal Bəyannaməsinə və Qarabağa dair istinadların çıxarıldığı bildirilir.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "Oxu.az",
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Süni intellektli smart linza dövrü gəlir: Telefonlara ehtiyac qalmaya bilər",
+      "summary_az": "Birləşmiş Ərəb Əmirlikləri və Çin tədqiqatçıları rəqəmsal məlumatları birbaşa göz önünə proyeksiya edən smart kontakt linzalar üzərində işləyirlər. Süni intellektlə təchiz olunan bu texnologiya gələcəkdə smartfonlardan istifadə vərdişlərini kökündən dəyişə bilər.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "scientists-smart-contact-lenses",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/267918.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/23/wwggjh3orcutg54rmpnwbv.jpg",
+      "queued_at": "2026-11-23T10:00:41.057334+00:00"
+    },
     {
       "headline_az": "Meta rəsmisi: Süni intellekt superintellekti qapıdadır",
       "summary_az": "Meta-nın baş süni intellekt direktoru Aleksandr Vanq bəyan edib ki, bəşəriyyətin qarşıdakı ildə atacağı addımlar dünyanın gələcəyi üçün həlledici əhəmiyyət daşıyacaq. Ekspert yaxın gələcəkdə süni superintellektin yaranacağını xəbərdar edir.",
@@ -2139,6 +2189,72 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
+      "headline_az": "Azərbaycan fındıq ləpəsini ilk dəfə Çinə ixrac etdi",
+      "summary_az": "Azərbaycan ilə Çin arasında kənd təsərrüfatı ticarətində yeni mərhələ başlayıb. Ölkəmizdən Çinə ilk dəfə olaraq fındıq ləpəsi ixrac olunub ki, bu da ixrac coğrafiyasının genişlənməsində mühüm addımdır.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-hazelnut-export-china",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/business/267925.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2023/08/31/hazelnutgrowers.jpg",
+      "queued_at": "2026-11-23T10:00:41.057334+00:00"
+    },
+    {
+      "headline_az": "Meksikada hərbçilərin əməliyyatı: Ən çox axtarılan narkobaron tutuldu",
+      "summary_az": "Meksika hərbçiləri ölkənin ən qorxulu narkobaronlarından biri olan \"El Çapo İsidro\"nu həbs ediblər. Sinaloa ştatında baş verən uğurlu əməliyyatdan sonra bölgədə yeni qanlı qarşıdurmaların baş verə biləcəyi ehtiyat edilir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "mexico-drug-lord-arrested",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/saxlanilan-narkobaronu-musiqici-evez-edecek-qorxunc-hadiseler-gozlenilir"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/LNAgQlsTQrd7HQ7y21QRXDFjO7w7oe69t96DQ7cS:640.webp",
+      "queued_at": "2026-11-23T10:00:41.057334+00:00"
+    },
+    {
+      "headline_az": "Braziliyanı qasırğa vurdu: Minlərlə sakin evlərini tərk etməli olub",
+      "summary_az": "Braziliyanın Tupantsireta qəsəbəsində qeydə alınan güclü superhüceyrə qasırğası ciddi dağıntılara səbəb olub. Təbii fəlakət nəticəsində minlərlə insan evlərindən didərgin düşüb, xilasetmə işləri davam edir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "brazil-storm-displaced",
+      "source_indices": [
+        14
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T10:00:41.057334+00:00"
+    },
+    {
       "headline_az": "Braziliyada 74 yaşlı kişi 11 gün cəngəllikdə təkbaşına qaldı",
       "summary_az": "Amazon cəngəlliklərində itkin düşən Altsheymer xəstəsi olan 74 yaşlı kişi 11 gündən sonra sağ tapılıb. O, bu müddət ərzində yalnız yabanı meyvələrlə qidalanaraq həyatda qalmağı bacarıb.",
       "category": "Maraqlı",
@@ -2203,94 +2319,6 @@
       "importance": 7,
       "image_url": "https://images.ntv.com.tr/images/AA-20261123-43156026-43156017-ISTANBULDA_OTOPARKLARDA_ILK_3_SAAT_UCRETSIZ_KURALINA_UYMAYAN_ALISVERIS_IS_VE_TICARET_MERKEZLERINE_CEZA-812607.jpg",
       "queued_at": "2026-11-23T09:30:42.431709+00:00"
-    },
-    {
-      "headline_az": "Keniya və Konqo Demokratik Respublikası münasibətləri bərpa edir",
-      "summary_az": "İki ölkə lideri gərginliklərdən sonra əməkdaşlığı bərpa etmək və dövlətlərin daxili işlərinə qarışmamaq prinsiplərinə sadiq qaldıqlarını bəyan ediblər. Bu razılaşma regionda sabitliyin təmin olunmasına mühüm töhfə verəcək.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "kenya-congo-restore-ties",
-      "source_indices": [
-        13
-      ],
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef67/live/41b58d30-e716-11f1-9c93-b5d142ad154c.jpg",
-      "queued_at": "2026-11-23T09:30:42.431709+00:00"
-    },
-    {
-      "headline_az": "Türkiyə Sakarya qaz yatağından milyonlarla xanənin qaz ehtiyacını təmin edəcək",
-      "summary_az": "Enerji və təbii sərvətlər naziri Alparslan Bayraktar Sakarya qaz yatağı ilə bağlı iddialı hədəfləri açıqlayıb. Onun sözlərinə görə, 2027-ci ildə 8 milyon, 2028-ci ildə isə 17 milyon evin təbii qaz ehtiyacı məhz bu yataqdan qarşılanacaq.",
-      "category": "İqtisadiyyat",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-sakarya-gas-field",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-bayraktar-2028-yilinda-17-milyon-hanenin-dogal-gaz-ihtiyacini-sakarya-gaz-sahasindan-karsilayacagiz-964195.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T09:15:32.857222+00:00"
-    },
-    {
-      "headline_az": "Dünya Bankı Cənubi Qafqazın bank sistemində kredit riskləri barədə xəbərdarlıq edib",
-      "summary_az": "Dünya Bankının yaydığı son hesabatda Cənubi Qafqaz ölkələrində maliyyə sistemlərinin yüksək dollarlaşma və sürətli istehlak kreditləşməsi fonunda ciddi kredit və valyuta riskləri ilə üz-üzə qaldığı qeyd olunub. Ekspertlər bu istiqamətdə tənzimləyici tədbirlərin gücləndirilməsini tövsiyə edirlər.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "world-bank-south-caucasus-risks",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/business/267923.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2024/07/30/world-bank-1024x570-1.jpg",
-      "queued_at": "2026-11-23T09:15:32.857222+00:00"
-    },
-    {
-      "headline_az": "Azərbaycanda yeni yaşıl enerjiyə keçid çərçivəsində nəhəng xətt çəkilir",
-      "summary_az": "Ölkənin energetika sistemini gücləndirmək və bərpa olunan enerji potensialını genişləndirmək məqsədilə Mingəçevir və Nəvəini birləşdirəcək 235 kilometrlik yüksəkgərginlikli elektrik verilişi xəttinin tikintisinə start verilib.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijan-azure-power-line",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/business/267920.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/s5tawlfyrsl5w2drvzypu24w8owukoandlrpop6e_1200.png",
-      "queued_at": "2026-11-23T09:00:42.633233+00:00"
     }
   ]
 }
