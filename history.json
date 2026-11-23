@@ -269,7 +269,8 @@
     "5c14cf1d9e15b823": "2026-11-23T04:30:34.588856+00:00",
     "4fc130b3e831ca5c": "2026-11-23T04:30:34.588856+00:00",
     "445b54b344b7aa28": "2026-11-23T04:34:23.165101+00:00",
-    "2404c3516a2daba8": "2026-11-23T04:34:23.165101+00:00"
+    "2404c3516a2daba8": "2026-11-23T04:34:23.165101+00:00",
+    "21ed00e5a2eb00c1": "2026-11-23T04:38:22.081458+00:00"
   },
   "published_stories": [
     {
@@ -1041,30 +1042,16 @@
       "sources": [
         "CNN Türk"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T04:38:23.246406+00:00",
       "headline_az": "Azərbaycanlı keçmiş televiziya aparıcısı Ada Süleyman vəfat edib",
       "summary_az": "ARB TV-nin keçmiş aparıcısı Ada Süleyman doğum gününü qeyd edərkən faciəli şəkildə dünyasını dəyişib. Hadisə ictimaiyyət arasında kədərlə qarşılanıb və hüquq-mühafizə orqanları tərəfindən araşdırma aparılır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "ada-suleyman-passed-away",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/cemiyyet/dogum-gununu-qeyd-eden-azerbaycanli-aparici-facieli-sekilde-oldu"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://images.oxu.az/2026/11/23/k5G5mrKb7ceSYYJjxtY3FDEIqMuuui9BGe38wvnu:640.png",
-      "queued_at": "2026-11-23T04:30:34.588811+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
