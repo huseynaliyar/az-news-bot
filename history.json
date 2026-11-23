@@ -1032,31 +1032,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:36:27.500933+00:00",
+      "headline_az": "Egey dənizində 4,2 bal gücündə zəlzələ olub",
+      "summary_az": "Türkiyənin Egey dənizi sahillərində, Bodrum yaxınlığında 4,2 bal gücündə zəlzələ qeydə alınıb. İlkin məlumatlara görə, yeraltı təkanlar nəticəsində hər hansı bir neqativ hal və ya dağıntı qeydə alınmayıb.",
+      "topic_key": "aegean-sea-earthquake-4-2",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Egey dənizində 4,2 bal gücündə zəlzələ olub",
-      "summary_az": "Türkiyənin Egey dənizi sahillərində, Bodrum yaxınlığında 4,2 bal gücündə zəlzələ qeydə alınıb. İlkin məlumatlara görə, yeraltı təkanlar nəticəsində hər hansı bir neqativ hal və ya dağıntı qeydə alınmayıb.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "aegean-sea-earthquake-4-2",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/ege-denizinde-4-2-buyuklugunde-deprem-3496685"
-        }
-      ],
-      "importance": 5,
-      "image_url": "",
-      "queued_at": "2026-11-23T04:34:23.165075+00:00"
-    },
     {
       "headline_az": "Azərbaycanlı keçmiş televiziya aparıcısı Ada Süleyman vəfat edib",
       "summary_az": "ARB TV-nin keçmiş aparıcısı Ada Süleyman doğum gününü qeyd edərkən faciəli şəkildə dünyasını dəyişib. Hadisə ictimaiyyət arasında kədərlə qarşılanıb və hüquq-mühafizə orqanları tərəfindən araşdırma aparılır.",
