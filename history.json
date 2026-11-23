@@ -778,7 +778,19 @@
     "121eb076d5f022e2": "2026-11-23T12:15:39.258154+00:00",
     "c182f65232bb741c": "2026-11-23T12:15:39.258154+00:00",
     "e4577623c71940b3": "2026-11-23T12:15:39.258154+00:00",
-    "2268597f16462cfa": "2026-11-23T12:15:39.258154+00:00"
+    "2268597f16462cfa": "2026-11-23T12:15:39.258154+00:00",
+    "061336d4b9d73a35": "2026-11-23T12:30:41.518060+00:00",
+    "f6943ac9fad2cbc9": "2026-11-23T12:30:41.518060+00:00",
+    "35ae3c8a0696d51a": "2026-11-23T12:30:41.518060+00:00",
+    "68d03ffb9e8323d4": "2026-11-23T12:30:41.518060+00:00",
+    "c909920c3b8b904d": "2026-11-23T12:30:41.518060+00:00",
+    "483d72f084b257d4": "2026-11-23T12:30:41.518060+00:00",
+    "5d8bc2756aa778c9": "2026-11-23T12:30:41.518060+00:00",
+    "83219fc098c0af83": "2026-11-23T12:30:41.518060+00:00",
+    "eae06f24fd05234b": "2026-11-23T12:30:41.518060+00:00",
+    "50977062267668ab": "2026-11-23T12:30:41.518060+00:00",
+    "a3e10dc9a040bcd0": "2026-11-23T12:30:41.518060+00:00",
+    "5a34705653eb27b3": "2026-11-23T12:30:41.518060+00:00"
   },
   "published_stories": [
     {
@@ -2325,6 +2337,15 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T12:30:42.743877+00:00",
+      "headline_az": "İlham Əliyev və Donald Trump arasında diplomatik təşəkkür mesajı",
+      "summary_az": "Azərbaycan Prezidenti İlham Əliyev TRIPP layihəsinin başlanması ilə əlaqədar ünvanladığı bəyanata görə ABŞ lideri Donald Trump-a təşəkkür edib. İki ölkə arasında əlaqələrin inkişafı diqqət mərkəzindədir.",
+      "topic_key": "aliyev-thanks-trump-tripp",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
@@ -2559,26 +2580,36 @@
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
     },
     {
-      "headline_az": "Yunanıstandan İsraillə milyardlıq gizli silah bazarlığı",
-      "summary_az": "İqtisadi çətinliklərlə mübarizə aparan Yunanıstan yeni hərbi sazişə imza atmağa hazırlaşır. İki ölkə arasında təxminən 1 milyard avro dəyərində yeni silah sistemləri və əməkdaşlıq danışıqları aparılır.",
-      "category": "Dünya",
+      "headline_az": "İstanbulda tramvay ilə avtobus toqquşdu: Yaralılar var",
+      "summary_az": "Fatih rayonunda Haseki tramvay dayanacağı yaxınlığında tramvay və İETT sərnişin avtobusu toqquşub. Qəza nəticəsində xəsarət alan vətəndaşlar təcili yardım maşınları ilə xəstəxanalara çatdırılıb.",
+      "category": "Türkiyə",
       "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "greece-israel-arms-deal",
+      "topic_key": "istanbul-tram-bus-crash",
       "source_indices": [
-        7
+        6,
+        7,
+        8
       ],
       "sources": [
         {
           "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/yunanistandan-israille-1-milyar-euroluk-yeni-silah-anlasmasi-964210.html"
+          "url": "https://www.trthaber.com/haber/turkiye/istanbulda-tramvay-ile-otobus-carpisti-964211.html"
+        },
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/istanbulda-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-1752233"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/son-dakika-fatihte-tramvay-ile-otobus-carpisti-3496977"
         }
       ],
       "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T12:15:39.246059+00:00"
+      "image_url": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+      "queued_at": "2026-11-23T12:30:41.493909+00:00"
     }
   ]
 }
