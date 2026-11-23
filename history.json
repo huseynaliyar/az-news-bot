@@ -1108,30 +1108,16 @@
       "sources": [
         "TRT Haber"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T04:58:21.189165+00:00",
       "headline_az": "Çində qanadları olmayan uçan avtomobil sınaqdan keçirilib",
       "summary_az": "Çinin Hunan əyalətinin Çanşa şəhərində yenilikçi nəqliyyat vasitəsinin prototipi ilk uğurlu uçuşunu həyata keçirib. Qanadları olmayan uçan avtomobil mütəxəssislərin və vətəndaşların marağına səbəb olub.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "china-flying-car-test",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/cinde-ucan-avtomobil-sinaqdan-kecirildi-video"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://images.oxu.az/2026/11/22/U48tB1E0UTtVJSiu3TxVveOA2lpUQXEPASrFcSMY:640.jpg",
-      "queued_at": "2026-11-23T04:54:20.339467+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
