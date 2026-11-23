@@ -1,13 +1,16 @@
 from __future__ import annotations
 
 import html
+import io
 import logging
 import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
+from PIL import Image, ImageDraw, ImageFont
 
 logging.basicConfig(
     level=logging.INFO,
@@ -19,13 +22,32 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; AzNewsBot/1.0; +https://github.com/)"
 }
 
+FONT_BOLD_CANDIDATES = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+]
+FONT_REG_CANDIDATES = [
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf",
+    "/System/Library/Fonts/Supplemental/Arial.ttf",
+]
+
+
+def _load_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    candidates = FONT_BOLD_CANDIDATES if bold else FONT_REG_CANDIDATES
+    for path in candidates:
+        if Path(path).exists():
+            return ImageFont.truetype(path, size=size)
+    return ImageFont.load_default()
+
 
 def get_baku_now() -> datetime:
     return datetime.now(timezone.utc) + timedelta(hours=4)
 
 
 def fetch_cbar_rates() -> tuple[dict[str, tuple[str, float]], str]:
-    wanted = ["USD", "EUR", "TRY", "RUB", "GBP"]
+    wanted = ["USD", "EUR", "TRY", "GBP", "RUB"]
     baku_now = get_baku_now()
 
     for days_back in range(4):
@@ -95,9 +117,106 @@ def fetch_crypto_quotes() -> dict[str, tuple[float, float]]:
         return {}
 
 
-def _fmt_pct(pct: float) -> str:
-    arrow = "🟢 ▲" if pct > 0.05 else ("🔴 ▼" if pct < -0.05 else "⚪️")
-    return f"{arrow} {pct:+.2f}%"
+def render_market_card(
+    baku_date: str,
+    cbar_date: str,
+    cbar_rates: dict[str, tuple[str, float]],
+    markets: list[tuple[str, str, float]],
+) -> bytes:
+    W, H = 1080, 1080
+    img = Image.new("RGB", (W, H), "#0B1120")
+    draw = ImageDraw.Draw(img)
+
+    for y in range(H):
+        t = y / H
+        r = int(11 + t * 8)
+        g = int(17 + t * 12)
+        b = int(32 + t * 22)
+        draw.line([(0, y), (W, y)], fill=(r, g, b))
+
+    draw.rectangle([(0, 0), (W, 10)], fill="#38BDF8")
+
+    f_title = _load_font(44, bold=True)
+    f_sub = _load_font(24, bold=False)
+    f_sec = _load_font(26, bold=True)
+    f_label = _load_font(28, bold=True)
+    f_val = _load_font(30, bold=True)
+    f_pct = _load_font(22, bold=True)
+    f_foot = _load_font(20, bold=False)
+
+    draw.text((64, 48), "GÜNÜN MALİYYƏ BÜLLETENİ", fill="#F8FAFC", font=f_title)
+    draw.text((64, 108), f"Bakı | {baku_date}   •   AMB rəsmi məzənnə: {cbar_date}", fill="#94A3B8", font=f_sub)
+
+    draw.rounded_rectangle([(56, 170), (W - 56, 515)], radius=24, fill="#131C31", outline="#1E293B", width=2)
+    draw.text((88, 196), "RƏSMİ VALYUTA MƏZƏNNƏLƏRİ (AZN)", fill="#38BDF8", font=f_sec)
+
+    code_names = {
+        "USD": "ABŞ Dolları",
+        "EUR": "Avro",
+        "TRY": "Türkiyə Lirəsi",
+        "GBP": "Funt Sterlinq",
+        "RUB": "Rusiya Rublu",
+    }
+    ordered_codes = [c for c in ["USD", "EUR", "TRY", "GBP", "RUB"] if c in cbar_rates]
+
+    y_pos = 248
+    for idx, code in enumerate(ordered_codes):
+        nominal, val = cbar_rates[code]
+        if idx > 0:
+            draw.line([(88, y_pos - 10), (W - 88, y_pos - 10)], fill="#1E293B", width=1)
+        draw.text((88, y_pos), f"{nominal} {code}", fill="#F8FAFC", font=f_label)
+        draw.text((260, y_pos + 3), code_names.get(code, ""), fill="#94A3B8", font=f_sub)
+        val_str = f"{val:.4f} AZN"
+        bbox = draw.textbbox((0, 0), val_str, font=f_val)
+        draw.text((W - 88 - (bbox[2] - bbox[0]), y_pos - 2), val_str, fill="#E2E8F0", font=f_val)
+        y_pos += 52
+
+    if not ordered_codes:
+        draw.text((88, 280), "Məzənnə məlumatı müvəqqəti əlçatan deyil", fill="#94A3B8", font=f_sub)
+
+    draw.text((64, 548), "NEFT, QIZIL, BİRJA VƏ KRİPTO", fill="#38BDF8", font=f_sec)
+
+    card_w, card_h, gap_x, gap_y = 468, 128, 32, 22
+    start_x, start_y = 56, 594
+
+    for idx, (label, price_str, pct) in enumerate(markets[:6]):
+        col = idx % 2
+        row = idx // 2
+        x0 = start_x + col * (card_w + gap_x)
+        y0 = start_y + row * (card_h + gap_y)
+        x1, y1 = x0 + card_w, y0 + card_h
+
+        draw.rounded_rectangle([(x0, y0), (x1, y1)], radius=20, fill="#131C31", outline="#1E293B", width=2)
+        draw.text((x0 + 24, y0 + 20), label, fill="#94A3B8", font=f_sub)
+        draw.text((x0 + 24, y0 + 62), price_str, fill="#F8FAFC", font=f_val)
+
+        if pct > 0.05:
+            badge_bg, badge_fg, arrow = "#064E3B", "#34D399", "▲"
+        elif pct < -0.05:
+            badge_bg, badge_fg, arrow = "#4C0519", "#FB7185", "▼"
+        else:
+            badge_bg, badge_fg, arrow = "#1E293B", "#CBD5E1", "•"
+
+        pct_text = f"{arrow} {pct:+.2f}%"
+        tb = draw.textbbox((0, 0), pct_text, font=f_pct)
+        tw, th = tb[2] - tb[0], tb[3] - tb[1]
+        bx1 = x1 - 22
+        bx0 = bx1 - tw - 24
+        by0 = y0 + 62
+        by1 = by0 + th + 16
+        draw.rounded_rectangle([(bx0, by0), (bx1, by1)], radius=10, fill=badge_bg)
+        draw.text((bx0 + 12, by0 + 6), pct_text, fill=badge_fg, font=f_pct)
+
+    draw.text(
+        (64, H - 46),
+        "Mənbə: Azərbaycan Mərkəzi Bankı (cbar.az) • Yahoo Finance • CoinGecko",
+        fill="#64748B",
+        font=f_foot,
+    )
+
+    buf = io.BytesIO()
+    img.save(buf, format="PNG", optimize=True)
+    return buf.getvalue()
 
 
 def generate_market_comment(summary_context: str) -> str:
@@ -152,51 +271,22 @@ def generate_market_comment(summary_context: str) -> str:
     return ""
 
 
-def build_digest_message() -> str:
-    baku_date = get_baku_now().strftime("%d.%m.%Y")
-    cbar_rates, cbar_date = fetch_cbar_rates()
-
-    market_symbols = [
-        ("🛢 Brent neft", "BZ=F", "$"),
-        ("🥇 Qızıl", "GC=F", "$"),
-        ("🇺🇸 S&P 500", "^GSPC", ""),
-        ("🇹🇷 BIST 100", "XU100.IS", ""),
-    ]
-    market_lines: list[str] = []
-    for label, sym, prefix in market_symbols:
-        quote = fetch_yahoo_quote(sym)
-        if quote:
-            price, pct = quote
-            market_lines.append(f"• {label}: <b>{prefix}{price:,.2f}</b> ({_fmt_pct(pct)})")
-
-    crypto = fetch_crypto_quotes()
-    for sym, label in [("BTC", "₿ Bitcoin"), ("ETH", "Ξ Ethereum")]:
-        if sym in crypto:
-            price, pct = crypto[sym]
-            market_lines.append(f"• {label}: <b>${price:,.0f}</b> ({_fmt_pct(pct)})")
-
-    flags = {"USD": "🇺🇸", "EUR": "🇪🇺", "TRY": "🇹🇷", "GBP": "🇬🇧", "RUB": "🇷🇺"}
-    rate_lines: list[str] = []
-    for code in ["USD", "EUR", "TRY", "GBP", "RUB"]:
-        if code in cbar_rates:
-            nominal, val = cbar_rates[code]
-            rate_lines.append(f"{flags[code]} {nominal} {code} = <b>{val:.4f} AZN</b>")
-
-    parts = [f"📊 <b>Günün Maliyyə & Birja Bülleteni | {baku_date}</b>"]
-
-    if rate_lines:
-        parts.append(f"💱 <b>Rəsmi məzənnələr (AMB — {cbar_date}):</b>\n" + "\n".join(rate_lines))
-
-    if market_lines:
-        parts.append("📈 <b>Neft, Qızıl, Birja & Kripto:</b>\n" + "\n".join(market_lines))
-
-    plain_context = "\n".join(parts)
-    comment = generate_market_comment(plain_context)
-    if comment:
-        parts.append(f"💬 <b>Qısa şərh:</b> {html.escape(comment)}")
-
-    parts.append("🏷 #Maliyyə #Birja #Valyuta")
-    return "\n\n".join(parts)
+def pin_telegram_message(bot_token: str, chat_id: str, message_id: int) -> None:
+    try:
+        url = f"https://api.telegram.org/bot{bot_token}/pinChatMessage"
+        resp = requests.post(
+            url,
+            json={
+                "chat_id": chat_id,
+                "message_id": message_id,
+                "disable_notification": True,
+            },
+            timeout=15,
+        )
+        resp.raise_for_status()
+        logger.info("Maliyyə postu kanalda Pin edildi (message_id=%s).", message_id)
+    except Exception as exc:
+        logger.warning("Pin edilmədi (botun Pin Messages icazəsini yoxlayın): %s", exc)
 
 
 def run() -> None:
@@ -206,20 +296,67 @@ def run() -> None:
     if not bot_token or not chat_id:
         raise RuntimeError("TELEGRAM_BOT_TOKEN və TELEGRAM_CHAT_ID təyin edilməlidir.")
 
-    message = build_digest_message()
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    baku_date = get_baku_now().strftime("%d.%m.%Y")
+    cbar_rates, cbar_date = fetch_cbar_rates()
+
+    markets: list[tuple[str, str, float]] = []
+    for label, sym, prefix in [
+        ("Brent Neft", "BZ=F", "$"),
+        ("Qızıl (Gold)", "GC=F", "$"),
+        ("S&P 500", "^GSPC", ""),
+        ("BIST 100", "XU100.IS", ""),
+    ]:
+        quote = fetch_yahoo_quote(sym)
+        if quote:
+            price, pct = quote
+            markets.append((label, f"{prefix}{price:,.2f}", pct))
+
+    crypto = fetch_crypto_quotes()
+    for sym, label in [("BTC", "Bitcoin (BTC)"), ("ETH", "Ethereum (ETH)")]:
+        if sym in crypto:
+            price, pct = crypto[sym]
+            markets.append((label, f"${price:,.0f}", pct))
+
+    card_png = render_market_card(
+        baku_date=baku_date,
+        cbar_date=cbar_date,
+        cbar_rates=cbar_rates,
+        markets=markets,
+    )
+
+    context_lines = [f"Tarix: {baku_date}"]
+    for code, (nom, val) in cbar_rates.items():
+        context_lines.append(f"{nom} {code} = {val:.4f} AZN")
+    for label, price_str, pct in markets:
+        context_lines.append(f"{label}: {price_str} ({pct:+.2f}%)")
+
+    comment = generate_market_comment("\n".join(context_lines))
+
+    caption_parts = [f"📊 <b>Günün Maliyyə & Birja Bülleteni | {baku_date}</b>"]
+    if comment:
+        caption_parts.append(f"💬 {html.escape(comment)}")
+    caption_parts.append("🏷 #Maliyyə #Birja #Valyuta")
+    caption = "\n\n".join(caption_parts)
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
     resp = requests.post(
         url,
-        json={
+        data={
             "chat_id": chat_id,
-            "text": message,
+            "caption": caption[:1024],
             "parse_mode": "HTML",
-            "disable_web_page_preview": True,
+            "disable_notification": "false",
         },
-        timeout=20,
+        files={"photo": ("market_digest.png", card_png, "image/png")},
+        timeout=30,
     )
     resp.raise_for_status()
-    logger.info("Günün Maliyyə & Birja Bülleteni Telegram-a göndərildi!")
+    result = resp.json()
+    message_id = result.get("result", {}).get("message_id")
+    logger.info("Dizaynlı Maliyyə Kartı Telegram-a göndərildi!")
+
+    if message_id:
+        pin_telegram_message(bot_token, chat_id, message_id)
 
 
 if __name__ == "__main__":
