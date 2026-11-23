@@ -416,7 +416,26 @@
     "3892a538030be8d6": "2026-11-23T07:10:28.482152+00:00",
     "5c24b2233aa52ef4": "2026-11-23T07:12:19.677462+00:00",
     "fa676d1500b7c3cc": "2026-11-23T07:15:25.810558+00:00",
-    "b2e01a582de33929": "2026-11-23T07:15:25.810558+00:00"
+    "b2e01a582de33929": "2026-11-23T07:15:25.810558+00:00",
+    "4ff6c7061a317f9e": "2026-11-23T07:30:39.675428+00:00",
+    "5f3c1ef356ae020d": "2026-11-23T07:30:39.675428+00:00",
+    "01dea512d3c62f68": "2026-11-23T07:30:39.675428+00:00",
+    "6faab51d723ba24f": "2026-11-23T07:30:39.675428+00:00",
+    "8a1a18c6ac398073": "2026-11-23T07:30:39.675428+00:00",
+    "1f9c6539c3b08a73": "2026-11-23T07:30:39.675428+00:00",
+    "c3cb7d8bf5270292": "2026-11-23T07:30:39.675428+00:00",
+    "b08ab16901a8ea0f": "2026-11-23T07:30:39.675428+00:00",
+    "e079c994f62bcaa7": "2026-11-23T07:30:39.675428+00:00",
+    "386ba1998889e1bd": "2026-11-23T07:30:39.675428+00:00",
+    "e07bbb74c1840d8d": "2026-11-23T07:30:39.675428+00:00",
+    "d744a6a84b35644a": "2026-11-23T07:30:39.675428+00:00",
+    "741d5a04b1d4603c": "2026-11-23T07:30:39.675428+00:00",
+    "05cbaa01a069d459": "2026-11-23T07:30:39.675428+00:00",
+    "095b6dda4b36adb4": "2026-11-23T07:30:39.675428+00:00",
+    "1c7f88f41a1c06c2": "2026-11-23T07:30:39.675428+00:00",
+    "95eca8a306511228": "2026-11-23T07:30:39.675428+00:00",
+    "5fe47f7070e32a46": "2026-11-23T07:30:39.675428+00:00",
+    "4df8ac64b324808d": "2026-11-23T07:30:39.675428+00:00"
   },
   "published_stories": [
     {
@@ -1755,9 +1774,84 @@
       "sources": [
         "IGN"
       ]
+    },
+    {
+      "published_at": "2026-11-23T07:30:41.241085+00:00",
+      "headline_az": "Azərbaycan para-taekvondoçuları Dünya Çempionatını medalla tamamladılar",
+      "summary_az": "Cənubi Koreyada keçirilən Dünya Para-Taekvondo Çempionatında Azərbaycan idmançıları bir qızıl və bir bürünc medal qazanıblar. Milli komandamız bu uğurlu nəticə ilə ümumi medal sıralamasında beşinci yeri tutub.",
+      "topic_key": "azerbaijan-para-taekwondo-success",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı: Gecə kamerasında görüldü",
+      "summary_az": "İstanbulun Zekeriyaköy və Uskumruköy məhəllələrində dişi aslanın gəzdiyi iddia edilib və təhlükəsizlik kameraları görüntüləri təsdiqləyib. Yerli sakinlər və rəsmilər illərdir belə hadisə ilə qarşılaşmadıqlarını bildirərək bölgədə axtarış tədbirlərinə başlayıblar.",
+      "category": "Maraqlı",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "sariyer-lion-alarm-turkey",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/turkiye/aslanin-bulundugu-mahallenin-muhtari-seyda-ust-cnn-turke-konustu-22-yildir-burada-oturuyorum-hic-boyle-bir-seyle-karsilasmadim-3496766"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T07:30:39.675396+00:00"
+    },
+    {
+      "headline_az": "İordaniyada populyar \"GTA VI\" oyununun qadağan edilməsi planlaşdırılır",
+      "summary_az": "İordaniyanın Telekommunikasiya Tənzimləmə Komissiyası uşaqları və gəncləri qorumaq məqsədilə böyük maraqla gözlənilən \"Grand Theft Auto 6\" oyununu ölkə ərazisində qadağan etməyə hazırlaşır. Qərarın yaxın vaxtlarda rəsmiləşəcəyi gözlənilir.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "jordan-gta-6-ban",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/iordaniyada-gta-vi-qadagan-edilir"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/oKqc5Ln7EPDOcis4iPoPinWNvOVwmp31vV4HomZL:640.webp",
+      "queued_at": "2026-11-23T07:30:39.675396+00:00"
+    },
+    {
+      "headline_az": "Ege dənizində 4.2 bal gücündə zəlzələ baş verib",
+      "summary_az": "Türkiyənin Ege dənizi akvatoriyasında 4.2 bal gücündə zəlzələ qeydə alınıb. Yeraltı təkanlar Muğla və ətraf bölgələrdə də hiss olunub, ilkin məlumatlara görə hər hansı dağıntı yoxdur.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "aegean-sea-earthquake",
+      "source_indices": [
+        17
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHctTFA1TjVkV1g5cnVkbUJsN1ZxalpJREVZdm94WW53LWxSb2xjZUp6eFlnWmJXSmV2UWl0cUhELW5lMzBYc184WGNBWWdHN0hSdjVTZ1NNYTh1Mk4zcUhwTWhoN1AxMWxnTEgzSDhVd18zSXlsbmw1Zzd4dUYwNGc4MWpndDVI?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T07:30:39.675396+00:00"
+    },
     {
       "headline_az": "S&P 500 fyuçersləri texnoji enişdən sonra kəskin bərpa olunur",
       "summary_az": "Ötən həftə süni intellekt bazarındakı narahatlıqlar fonunda çökən əsas indekslər yeni həftəyə 2 faizlik artımla başlayıb. İnvestorların qısa həftənin əvvəlində sərgilədiyi bu nikbinlik qlobal bazarlarda təşvişi qismən səngidib.",
