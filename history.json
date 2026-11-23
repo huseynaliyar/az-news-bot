@@ -330,7 +330,8 @@
     "3a1644eaf31b1a44": "2026-11-23T06:10:26.540098+00:00",
     "ee3a964c67ad0b02": "2026-11-23T06:10:26.540098+00:00",
     "017d6b39d0c1d069": "2026-11-23T06:10:26.540098+00:00",
-    "960f538c0c7a1775": "2026-11-23T06:10:26.540098+00:00"
+    "960f538c0c7a1775": "2026-11-23T06:10:26.540098+00:00",
+    "9ebf036d05502d84": "2026-11-23T06:12:23.861569+00:00"
   },
   "published_stories": [
     {
@@ -1399,31 +1400,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:12:24.371651+00:00",
+      "headline_az": "Jandarma Komandanlığı 9 min uzman erbaş qəbul edəcək",
+      "summary_az": "Türkiyə Jandarma Baş Komandanlığı sıralarını gücləndirmək məqsədilə 9 min uzman erbaş qəbul edəcəyini elan edib. Namizədlər üçün müraciət şərtləri və tələb olunan meyarlar açıqlanıb.",
+      "topic_key": "turkey-jandarma-expert-sergeant-recruitment",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Jandarma Komandanlığı 9 min uzman erbaş qəbul edəcək",
-      "summary_az": "Türkiyə Jandarma Baş Komandanlığı sıralarını gücləndirmək məqsədilə 9 min uzman erbaş qəbul edəcəyini elan edib. Namizədlər üçün müraciət şərtləri və tələb olunan meyarlar açıqlanıb.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-jandarma-expert-sergeant-recruitment",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/yerel-haberler/ankara/jandarma-9-bin-uzman-erbas-alimi-yapacak-3496747"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:06:26.409167+00:00"
-    },
     {
       "headline_az": "Türkiyədə qız istəmə mərasimi qanlı bitib",
       "summary_az": "Türkiyədə baş tutan qız istəmə mərasimi zamanı naməlum səbəbdən mübahisə yaranıb və insident qətlə səbəb olub. Hadisə yerinə gələn hüquq-mühafizə orqanları araşdırma baş浮かdıb.",
