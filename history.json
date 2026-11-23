@@ -403,7 +403,8 @@
     "ba921b5a9da745d3": "2026-11-23T06:54:22.030591+00:00",
     "9ad42073085a658f": "2026-11-23T06:54:22.030591+00:00",
     "d2f0c178269a0db9": "2026-11-23T06:56:31.553807+00:00",
-    "3859e9992b7e784b": "2026-11-23T06:56:31.553807+00:00"
+    "3859e9992b7e784b": "2026-11-23T06:56:31.553807+00:00",
+    "76481b244b177e98": "2026-11-23T06:58:23.386933+00:00"
   },
   "published_stories": [
     {
@@ -1669,6 +1670,15 @@
       "topic_key": "yemen-houthis-saudi-oil-refinery",
       "sources": [
         "CNBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T06:58:23.976559+00:00",
+      "headline_az": "Tataristanda neft obyektlərinə PUA hücumu: Hava limanları bağlanıb",
+      "summary_az": "Tataristanın Almetyevsk yaxınlığındakı neft anbarları və “Drujba” neft kəmərinin stansiyası PUA hədəfi olub. Təhlükə fonunda bölgənin 8 şəhərində hava limanlarının fəaliyyəti müvəqqəti dayandırılıb.",
+      "topic_key": "tatarstan-uav-attack-airports-closed",
+      "sources": [
+        "Google News AZ"
       ]
     }
   ],
