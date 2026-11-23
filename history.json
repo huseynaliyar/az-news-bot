@@ -641,7 +641,26 @@
     "4d1188367b36b9f2": "2026-11-23T10:15:38.812690+00:00",
     "59adb0d7d219917a": "2026-11-23T10:15:38.812690+00:00",
     "45a7bdadb0797581": "2026-11-23T10:15:38.812690+00:00",
-    "01a8a27cc1250dd8": "2026-11-23T10:15:38.812690+00:00"
+    "01a8a27cc1250dd8": "2026-11-23T10:15:38.812690+00:00",
+    "6b7f34868cbdf721": "2026-11-23T10:30:47.476763+00:00",
+    "bdc522eeb8e5cf2e": "2026-11-23T10:30:47.476763+00:00",
+    "e4fcab5f22b39274": "2026-11-23T10:30:47.476763+00:00",
+    "8dc92a4c6a903ad3": "2026-11-23T10:30:47.476763+00:00",
+    "34351ca58a90e583": "2026-11-23T10:30:47.476763+00:00",
+    "b56962d620819fb2": "2026-11-23T10:30:47.476763+00:00",
+    "66662c494d95b444": "2026-11-23T10:30:47.476763+00:00",
+    "05aa04955706ad2d": "2026-11-23T10:30:47.476763+00:00",
+    "c5e5c1994d58ab53": "2026-11-23T10:30:47.476763+00:00",
+    "f14f4d2cf482a320": "2026-11-23T10:30:47.476763+00:00",
+    "dc10e93a4e5353f3": "2026-11-23T10:30:47.476763+00:00",
+    "055274a426af5cf4": "2026-11-23T10:30:47.476763+00:00",
+    "ac47e3eaf48cad49": "2026-11-23T10:30:47.476763+00:00",
+    "857a2378fc4b449d": "2026-11-23T10:30:47.476763+00:00",
+    "c4d0f27ed152e26d": "2026-11-23T10:30:47.476763+00:00",
+    "56df108322f8923d": "2026-11-23T10:30:47.476763+00:00",
+    "d3e8abaee38c16d6": "2026-11-23T10:30:47.476763+00:00",
+    "53ed2bcff02aec2e": "2026-11-23T10:30:47.476763+00:00",
+    "f0b26b7d0f743f3f": "2026-11-23T10:30:47.476763+00:00"
   },
   "published_stories": [
     {
@@ -2116,9 +2135,62 @@
         "Google News World",
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T10:30:49.185393+00:00",
+      "headline_az": "Bakıda tarixi qarşılaşma: «Sabah» «Barselona»nı qəbul edir",
+      "summary_az": "Çempionlar Liqasının beşinci turu çərçivəsində Bakıda baş tutacaq «Sabah» - «Barselona» matçı ərəfəsində maraqlı statistikalar və hazırlıq prosesi diqqət çəkir. Futbolsevərlər bu tarixi qarşılaşmanı böyük maraqla gözləyir.",
+      "topic_key": "sabah-barcelona-clash",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Permdə sənaye obyektinə PUA hücumu: Ölənlər var",
+      "summary_az": "Rusiyanın Perm diyarında sənaye müəssisəsinə edilən pilotsuz uçuş aparatı hücumu nəticəsində dağıntılar və insan tələfatı qeydə alınıb. Yerli hakimiyyət orqanları hücumun nəticələrini aradan qaldırmaq üçün tədbirlər görür.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "perm-uav-attack",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVWmFrMFp0aUx5b0JocGpiMU04SDBhZjM5ajM3NlJBNjZnN0hLSWdKdVJocHpBX1hRR1VlOWJOM0VSZ0pTY19Bb0VYNA?oc=5"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T10:30:47.476721+00:00"
+    },
+    {
+      "headline_az": "Çində yüksək vəzifəli şəxsə casusluq ittihamı ilə ölüm hökmü",
+      "summary_az": "Çində bir nazirlik rəsmisi dövlət sirri sayılan məlumatları xarici kəşfiyyat orqanlarına ötürdüyü üçün məhkəmə tərəfindən ölüm cəzasına məhkum edilib. Ölkədə casusluqla bağlı qanunların sərtləşdirilməsi diqqət çəkir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "china-spy-death-penalty",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/dunya/cinde-bakanlik-gorevlisine-casusluktan-idam-cezasi-3496918"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T10:30:47.476721+00:00"
+    },
     {
       "headline_az": "İtaliya ilə Azərbaycan arasında iqtisadi əməkdaşlıq genişlənir",
       "summary_az": "İtaliyanın baş nazir müavini Antonio Tajani ölkəsinin Azərbaycanla inşaat, kənd təsərrüfatı və mühəndislik sahələrində əməkdaşlığı dərinləşdirməyə hazır olduğunu bildirib. İki ölkə arasında ticarət əlaqələrinin gücləndirilməsi istiqamətində yeni strateji addımlar atılır.",
@@ -2284,70 +2356,48 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
-      "headline_az": "Sıfır avtomobildə tavan boyası döküldü: Yargıtaydan emsal qərar",
-      "summary_az": "Yeni aldığı avtomobilin tavan boyasında istehsal qüsuru çıxan və 9 dəfə servisə getməli olan sürücünün hüquqi mübarizəsi zəfərlə bitib. Məhkəmənin nəqliyyat vasitəsinin dəyişdirilməsi ilə bağlı çıxardığı qərar Yargıtay tərəfindən də təsdiqlənib.",
-      "category": "Maraqlı",
+      "headline_az": "Türkiyədə insansı robotlar dövrü başlayır",
+      "summary_az": "Türkiyənin Sənaye və Texnologiya Nazirliyi insansı robotların istehsalı üçün yeni hibe dəstəyi proqramını elan edib. Bu addım ölkənin robot texnologiyalarında xarici asılılığını azaltmağı və süni intellekt sahəsindəki potensialını artırmağı hədəfləyir.",
+      "category": "Texnologiya",
       "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "car-paint-defect-court-ruling",
+      "topic_key": "turkey-humanoid-robot",
       "source_indices": [
-        16
+        11
       ],
       "sources": [
         {
           "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/ekonomi/sifir-otomobil-icin-emsal-karar-tavan-boyasi-dokuldu-9-kez-servise-gitti-3496889"
+          "url": "https://www.cnnturk.com/ekonomi/sanayi-ve-teknoloji-bakani-mehmet-fatih-kacir-duyurdu-insansi-robotlar-gelistirilecek-3496917"
         }
       ],
       "importance": 7,
       "image_url": "",
-      "queued_at": "2026-11-23T10:15:38.812651+00:00"
+      "queued_at": "2026-11-23T10:30:47.476721+00:00"
     },
     {
-      "headline_az": "Azərbaycan fındıq ləpəsini ilk dəfə Çinə ixrac etdi",
-      "summary_az": "Azərbaycan ilə Çin arasında kənd təsərrüfatı ticarətində yeni mərhələ başlayıb. Ölkəmizdən Çinə ilk dəfə olaraq fındıq ləpəsi ixrac olunub ki, bu da ixrac coğrafiyasının genişlənməsində mühüm addımdır.",
-      "category": "İqtisadiyyat",
+      "headline_az": "Azərbaycan və Çexiya arasında hərbi-texniki əməkdaşlıq rəsmiləşdi",
+      "summary_az": "Prezident İlham Əliyev Azərbaycan və Çexiya hökumətləri arasında hərbi-texniki əməkdaşlıq haqqında sazişi təsdiqləyib. Bu sənəd iki ölkə arasında müdafiə sənayesi sahəsində əlaqələrin yeni mərhələyə keçməsini təmin edəcək.",
+      "category": "Siyasət",
       "region": "az",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "azerbaijan-hazelnut-export-china",
+      "topic_key": "azerbaijan-czech-military-deal",
       "source_indices": [
         3
       ],
       "sources": [
         {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/business/267925.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2023/08/31/hazelnutgrowers.jpg",
-      "queued_at": "2026-11-23T10:00:41.057334+00:00"
-    },
-    {
-      "headline_az": "Meksikada hərbçilərin əməliyyatı: Ən çox axtarılan narkobaron tutuldu",
-      "summary_az": "Meksika hərbçiləri ölkənin ən qorxulu narkobaronlarından biri olan \"El Çapo İsidro\"nu həbs ediblər. Sinaloa ştatında baş verən uğurlu əməliyyatdan sonra bölgədə yeni qanlı qarşıdurmaların baş verə biləcəyi ehtiyat edilir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "mexico-drug-lord-arrested",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
           "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/saxlanilan-narkobaronu-musiqici-evez-edecek-qorxunc-hadiseler-gozlenilir"
+          "url": "https://oxu.az/siyaset/prezident-cexiya-ile-sazisi-tesdiqledi"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/LNAgQlsTQrd7HQ7y21QRXDFjO7w7oe69t96DQ7cS:640.webp",
-      "queued_at": "2026-11-23T10:00:41.057334+00:00"
+      "image_url": "https://images.oxu.az/2026/10/12/3ztBHQFiPqKLfkOf2PTQXniLH8ew9dNg5BKgKNgp:640.jpg",
+      "queued_at": "2026-11-23T10:30:47.476721+00:00"
     }
   ]
 }
