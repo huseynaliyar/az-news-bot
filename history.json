@@ -1089,7 +1089,11 @@
     "1e87e08c426df091": "2026-11-23T21:31:01.971734+00:00",
     "88cb8f8af3296318": "2026-11-23T21:31:01.971734+00:00",
     "c5562263d0dd3c37": "2026-11-23T21:31:01.971734+00:00",
-    "ea39f8a43a60b7b5": "2026-11-23T21:31:01.971734+00:00"
+    "ea39f8a43a60b7b5": "2026-11-23T21:31:01.971734+00:00",
+    "433c1771faed562c": "2026-11-23T21:45:39.487741+00:00",
+    "e8184e5e8a844156": "2026-11-23T21:45:39.487741+00:00",
+    "9542583727c87a9e": "2026-11-23T21:45:39.487741+00:00",
+    "8e84e3770e7a4477": "2026-11-23T21:45:39.487741+00:00"
   },
   "published_stories": [
     {
@@ -2902,6 +2906,15 @@
       "topic_key": "russia-ukraine-casualties-leak",
       "sources": [
         "Google News AZ"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T21:45:40.084852+00:00",
+      "headline_az": "İsrailin Suriyanın cənubuna müdaxiləsi: Yerli əhali tərk etməyə məcbur qalır",
+      "summary_az": "İsrail qüvvələrinin Suriyanın cənub bölgələrinə etdiyi basqınlar bölgədə böyük qorxu və dağıntılara səbəb olub. Koya sakinləri evlərinin yandırıldığını, atəşə məruz qaldıqlarını və evlərini tərk etməyə məcbur qaldıqlarını bildirilər.",
+      "topic_key": "israel-southern-syria-incursion",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
