@@ -758,30 +758,16 @@
       "sources": [
         "Al Jazeera"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T02:10:27.148181+00:00",
       "headline_az": "Liviya ordusu Benqazidəki hücumlardan sonra tam hazirlik vəziyyətindədir",
       "summary_az": "Liviya hərbi qüvvələri Benqazi limanındakı hücumlardan sonra vəziyyətin nəzarət altında olduğunu bildirib. Ordudan verilən açıqlamada yarana biləcək təhdidlərə qarşı tam hazirlik vəziyyətində olunduqları vurğulanıb.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": true,
       "topic_key": "libya-benghazi-military-preparedness",
-      "source_indices": [
-        1
-      ],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T02:08:23.137782+00:00"
+        "Al Jazeera"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
