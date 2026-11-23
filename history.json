@@ -301,7 +301,9 @@
     "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00",
     "2cd745f7f235ea59": "2026-11-23T05:30:36.003002+00:00",
     "5a252a02238b811d": "2026-11-23T05:32:25.258344+00:00",
-    "51fb29cdeb847938": "2026-11-23T05:34:25.503168+00:00"
+    "51fb29cdeb847938": "2026-11-23T05:34:25.503168+00:00",
+    "47fb9342922fb89b": "2026-11-23T05:36:23.268352+00:00",
+    "1b0a61a6f517d28a": "2026-11-23T05:36:23.268352+00:00"
   },
   "published_stories": [
     {
@@ -1253,7 +1255,39 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:36:23.667141+00:00",
+      "headline_az": "Türkiyə Kabinetinin gündəmində təqaüdçülərin maaş artımı və yeni formullar var",
+      "summary_az": "Türkiyə Kabineti ən aşağı pensiya məbləği və təqaüdçülərin refah payı ilə bağlı müzakirələrə başlayıb. Masada müxtəlif artım formulları nəzərdən keçirilir.",
+      "topic_key": "turkey-cabinet-meeting-agenda",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Türkiyədə ailə hakiminin evində baş verən insident hiddət doğurub",
+      "summary_az": "Türkiyədə ailə hakiminin evində baş verən şiddət hadisəsi və yayılan çığlıq səsləri lojmanda narahatlıq yaradıb. Hüquq-mühafizə orqanları məsələ ilə bağlı araşdırmalara başlayıb.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "family-judge-house-incident",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTm9HV19uRTdUM0dEYjdxZWVyYVpITFdHZzZWZlA3ZER0Q0laS19WUDVkeHY5dXRWbDI0M3RMZF9CZG54MDFNejlwUTlNQnlhbGlRX3oyaDdLemF1cWl5R1JhVGI4RElZY3FmUGh2LUFFcTQw0gF3QVVfeXFMT212R2J2dUdHNzVyQ25fVGZudUp0Sk9VSG5PQ2lJUmZfa1RfdzVEUGdIaC1XdmJjYXJMbUdvcjFscmloRXd1TGt6eVBTa0xvU2RncFFCQ0RQMTNNZExiY0p2TXBveFJjZ0hpS01lbDZ1VlIzU0NnQUE?oc=5"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T05:36:23.268328+00:00"
+    }
+  ]
 }
