@@ -486,7 +486,33 @@
     "10b498a97ba2dbd1": "2026-11-23T08:15:30.338923+00:00",
     "c75173c6f148df96": "2026-11-23T08:15:30.338923+00:00",
     "0dc4c14d51689938": "2026-11-23T08:15:30.338923+00:00",
-    "b88644bfbba75e75": "2026-11-23T08:15:30.338923+00:00"
+    "b88644bfbba75e75": "2026-11-23T08:15:30.338923+00:00",
+    "e0a4d328d5ec8537": "2026-11-23T08:30:39.899034+00:00",
+    "251fa6a68043efb3": "2026-11-23T08:30:39.899034+00:00",
+    "70e6a3d2f1f5a12f": "2026-11-23T08:30:39.899034+00:00",
+    "825535d5307ac564": "2026-11-23T08:30:39.899034+00:00",
+    "7874a356095fd96e": "2026-11-23T08:30:39.899034+00:00",
+    "7f50ee6cb6393fca": "2026-11-23T08:30:39.899034+00:00",
+    "cb99bc4ac1ba272a": "2026-11-23T08:30:39.899034+00:00",
+    "d73d08e8b0be0704": "2026-11-23T08:30:39.899034+00:00",
+    "764dc4935075b4c4": "2026-11-23T08:30:39.899034+00:00",
+    "533c45353d997b5e": "2026-11-23T08:30:39.899034+00:00",
+    "98e90eb7f4a33a0c": "2026-11-23T08:30:39.899034+00:00",
+    "2eb73d82c725e20d": "2026-11-23T08:30:39.899034+00:00",
+    "c439544fab97b105": "2026-11-23T08:30:39.899034+00:00",
+    "3ba83e93bd42f5e8": "2026-11-23T08:30:39.899034+00:00",
+    "e0895b393550e86c": "2026-11-23T08:30:39.899034+00:00",
+    "3cb220ba7dcca077": "2026-11-23T08:30:39.899034+00:00",
+    "94dad930bb28f0bd": "2026-11-23T08:30:39.899034+00:00",
+    "9034e188d7f5b38b": "2026-11-23T08:30:39.899034+00:00",
+    "20ae8fb647e720c1": "2026-11-23T08:30:39.899034+00:00",
+    "66635c70180f4d01": "2026-11-23T08:30:39.899034+00:00",
+    "a3d570a080af6eee": "2026-11-23T08:30:39.899034+00:00",
+    "4715b29acb945a91": "2026-11-23T08:30:39.899034+00:00",
+    "c465d83d98928560": "2026-11-23T08:30:39.899034+00:00",
+    "6670aca9a1085150": "2026-11-23T08:30:39.899034+00:00",
+    "b0020388230bd657": "2026-11-23T08:30:39.899034+00:00",
+    "4cb8e9256fa42429": "2026-11-23T08:30:39.899034+00:00"
   },
   "published_stories": [
     {
@@ -1863,6 +1889,26 @@
         "Al Jazeera",
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T08:30:44.279887+00:00",
+      "headline_az": "Ukrayna Liviya sahilində Rusiya hərbi gəmisini batırdı",
+      "summary_az": "Ukrayna qüvvələri Liviyanın Benqazi limanında Rusiyaya məxsus hərbi gəmini PUA zərbələri ilə məhv edib. Prezident Volodimir Zelenski hücuma görə məsuliyyəti öz üzərinə götürdüklərini təsdiqləyib.",
+      "topic_key": "russia-ship-attack-mediterranean",
+      "sources": [
+        "Oxu.az",
+        "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T08:30:44.279904+00:00",
+      "headline_az": "Ermənistanın yeni konstitusiya layihəsində Müstəqillik Bəyannaməsinə istinad yoxdur",
+      "summary_az": "Ermənistanda dərc olunan yeni konstitusiya layihəsində Müstəqillik Bəyannaməsinə heç bir istinad yer almayıb. Baş nazir Nikol Pasinyan sənədin qəbulundan sonra Azərbaycanla sülh sazişinin imzalanacağını vurğulayıb.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "Oxu.az",
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
@@ -1887,6 +1933,72 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Sumqayıtda nişanlı qız dəm qazından boğularaq ölüb",
+      "summary_az": "Sumqayıt şəhərində gənc qız dəm qazının qurbanı olub. Faktla bağlı araşdırma aparılır, ilkin ehtimal asfiksiyadır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "sumqayit-dem-gazi-olum",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/cemiyyet/sumqayitda-nisanli-qiz-dem-qazinin-qurbani-oldu"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/oiiFlj6zpSlViJzdZ295ssDdMB5YL7rgjPi7IfFH:640.webp",
+      "queued_at": "2026-11-23T08:30:39.898975+00:00"
+    },
+    {
+      "headline_az": "AK Partili bələdiyyə sədri Selim Çelenk vəfat etdi",
+      "summary_az": "Trabzonun Düzköy rayonunun AKP-li belediye başqanı Selim Çelenk dünyasını dəyişib. Siyasətçinin ölümü ölkə gündəmində kədərlə qarşılanıb.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "selim-celenk-passed-away",
+      "source_indices": [
+        21
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTnBPdkkxTEpxdnBrWEM2aUtVNlp6NUtaSVQ1VHNBVGE3UV9uMUhnLTRnRGxoMktuV3JjcE8zei10RUVZSlNDN3pkczlVeUFPMjVIZ0txR1hCTWFMajVVa3pZWTdfWDMxUnN1QUpVQUI2NWpYUGNDbExCTVJvbVIteHdSd3ZIZURUYVpjcFRxR0xrdkRUc1JoZjd1emN5U1RGY0hoZA?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:30:39.898975+00:00"
+    },
+    {
+      "headline_az": "GTA 6 həyəcanı oyun konsollarının satışını şövqləndirdi",
+      "summary_az": "Dünyanın səbirsizliklə gözlədiyi \"GTA 6\" qızdırması e-ticarət rəqəmlərinə də təsir edib. Son həftələrdə PlayStation 5 satışları 88 faiz artıb.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "gta-6-ps5-sales-increase",
+      "source_indices": [
+        15
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/teknoloji/ps5-satislari-yuzde-88-artti-3496834"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:30:39.898975+00:00"
     },
     {
       "headline_az": "Peru zəlzələsində canlı yayımı tərk etməyən spiker qəhrəman elan edildi",
@@ -2024,94 +2136,6 @@
       "importance": 7,
       "image_url": "https://www.azernews.az/media/2026/11/23/iraqi-airways-boeing-747sp-yi-alm-zld33kw.png",
       "queued_at": "2026-11-23T07:46:18.613091+00:00"
-    },
-    {
-      "headline_az": "ABŞ-da təbii qaz boru xəttində güclü yanğın baş verib",
-      "summary_az": "Alabama ştatının kənar ərazisində yerləşən təbii qaz boru xəttindəki qəza nəticəsində nəhəng alov və qara duman kütləsi əmələ gəlib, yanğın uzaq məsafələrdən görünüb.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "alabama-gas-pipeline-fire",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/abddeki-yanginda-alevler-kilometrelerce-uzaktan-goruldu-964181.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T07:46:18.613091+00:00"
-    },
-    {
-      "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı: Gecə kamerasında görüldü",
-      "summary_az": "İstanbulun Zekeriyaköy və Uskumruköy məhəllələrində dişi aslanın gəzdiyi iddia edilib və təhlükəsizlik kameraları görüntüləri təsdiqləyib. Yerli sakinlər və rəsmilər illərdir belə hadisə ilə qarşılaşmadıqlarını bildirərək bölgədə axtarış tədbirlərinə başlayıblar.",
-      "category": "Maraqlı",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "sariyer-lion-alarm-turkey",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/turkiye/aslanin-bulundugu-mahallenin-muhtari-seyda-ust-cnn-turke-konustu-22-yildir-burada-oturuyorum-hic-boyle-bir-seyle-karsilasmadim-3496766"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T07:30:39.675396+00:00"
-    },
-    {
-      "headline_az": "İordaniyada populyar \"GTA VI\" oyununun qadağan edilməsi planlaşdırılır",
-      "summary_az": "İordaniyanın Telekommunikasiya Tənzimləmə Komissiyası uşaqları və gəncləri qorumaq məqsədilə böyük maraqla gözlənilən \"Grand Theft Auto 6\" oyununu ölkə ərazisində qadağan etməyə hazırlaşır. Qərarın yaxın vaxtlarda rəsmiləşəcəyi gözlənilir.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "jordan-gta-6-ban",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/iordaniyada-gta-vi-qadagan-edilir"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/oKqc5Ln7EPDOcis4iPoPinWNvOVwmp31vV4HomZL:640.webp",
-      "queued_at": "2026-11-23T07:30:39.675396+00:00"
-    },
-    {
-      "headline_az": "Ege dənizində 4.2 bal gücündə zəlzələ baş verib",
-      "summary_az": "Türkiyənin Ege dənizi akvatoriyasında 4.2 bal gücündə zəlzələ qeydə alınıb. Yeraltı təkanlar Muğla və ətraf bölgələrdə də hiss olunub, ilkin məlumatlara görə hər hansı dağıntı yoxdur.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "aegean-sea-earthquake",
-      "source_indices": [
-        17
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHctTFA1TjVkV1g5cnVkbUJsN1ZxalpJREVZdm94WW53LWxSb2xjZUp6eFlnWmJXSmV2UWl0cUhELW5lMzBYc184WGNBWWdHN0hSdjVTZ1NNYTh1Mk4zcUhwTWhoN1AxMWxnTEgzSDhVd18zSXlsbmw1Zzd4dUYwNGc4MWpndDVI?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T07:30:39.675396+00:00"
     }
   ]
 }
