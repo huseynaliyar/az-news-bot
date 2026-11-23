@@ -255,7 +255,9 @@
     "608eb32445249feb": "2026-11-23T04:00:36.481744+00:00",
     "3efdca4bdc8fce44": "2026-11-23T04:02:29.093489+00:00",
     "f98c810ef619cbe0": "2026-11-23T04:04:30.937016+00:00",
-    "9653439da12433b5": "2026-11-23T04:06:23.105873+00:00"
+    "9653439da12433b5": "2026-11-23T04:06:23.105873+00:00",
+    "8dbe2142ecd89d38": "2026-11-23T04:18:29.683172+00:00",
+    "c8bf503a4a646b1c": "2026-11-23T04:18:29.683172+00:00"
   },
   "published_stories": [
     {
@@ -945,6 +947,15 @@
       "topic_key": "myanmar-genocide-ruling-un",
       "sources": [
         "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:18:30.824195+00:00",
+      "headline_az": "Merkürün yörüngəsinə daxil olan kosmik aparatda problem yaranıb",
+      "summary_az": "Avropa və Yaponiyanın birgə istehsalı olan 'BepiColombo' kosmik aparatı səkkiz illik səyahətdən sonra Merkürün yörüngəsinə çatan ikinci aparat olub. Lakin mütəxəssislər aparatın itkilərində texniki nasazlığın baş verdiyini bildiriblər.",
+      "topic_key": "bepicolombo-mercury-orbit-issue",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
