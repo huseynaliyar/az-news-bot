@@ -1150,31 +1150,18 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:10:29.835835+00:00",
+      "headline_az": "Qızıl qiymətləri yeni həftəyə yüksəlişlə başlayıb",
+      "summary_az": "Ötən həftəni kəskin enişlə bağlayan qızıl bazarı yeni həftənin ilk əməliyyat günündə bahalaşma tendensiyası nümayiş etdirib. İnvestorlar qlobal bazarlardakı iqtisadi dalğalanmaları və qiymətli metalların növbəti hədəflərini diqqətlə izləyirlər.",
+      "topic_key": "gold-price-rise-markets",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Qızıl qiymətləri yeni həftəyə yüksəlişlə başlayıb",
-      "summary_az": "Ötən həftəni kəskin enişlə bağlayan qızıl bazarı yeni həftənin ilk əməliyyat günündə bahalaşma tendensiyası nümayiş etdirib. İnvestorlar qlobal bazarlardakı iqtisadi dalğalanmaları və qiymətli metalların növbəti hədəflərini diqqətlə izləyirlər.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "gold-price-rise-markets",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/finans-haberler/altinda-dengeler-degisti-sari-firtinanin-yeni-hedefi-ne-3496691"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T05:08:35.554975+00:00"
-    },
     {
       "headline_az": "Fərdi Pensiya Sistemində dövlət dəstəyi artırılıb",
       "summary_az": "Fərdi Pensiya Sistemində (BES) 20 il üçün 79 min 272 türk lirəsinə qədər yüksək məbləğdə dövlət dəstəyindən yararlanmaq üçün kritik dövr başlayıb. Mütəxəssislər xüsusilə kredit kartı ilə ödəniş edən iştirakçıların valör müddətlərinə diqqət etməli olduğunu vurğulayırlar.",
