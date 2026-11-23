@@ -790,7 +790,24 @@
     "eae06f24fd05234b": "2026-11-23T12:30:41.518060+00:00",
     "50977062267668ab": "2026-11-23T12:30:41.518060+00:00",
     "a3e10dc9a040bcd0": "2026-11-23T12:30:41.518060+00:00",
-    "5a34705653eb27b3": "2026-11-23T12:30:41.518060+00:00"
+    "5a34705653eb27b3": "2026-11-23T12:30:41.518060+00:00",
+    "c21b3dc7d709780e": "2026-11-23T12:45:28.853358+00:00",
+    "187852229ecca80d": "2026-11-23T12:45:28.853358+00:00",
+    "fcaac57791153b31": "2026-11-23T12:45:28.853358+00:00",
+    "6dbf849cee5d5716": "2026-11-23T12:45:28.853358+00:00",
+    "beb87e5449540dab": "2026-11-23T12:45:28.853358+00:00",
+    "44cb0bb0aaa7d5eb": "2026-11-23T12:45:28.853358+00:00",
+    "f53fe79a38e30685": "2026-11-23T12:45:28.853358+00:00",
+    "5c9bb202b86e56c1": "2026-11-23T12:45:28.853358+00:00",
+    "b8dcb44147f7ff7e": "2026-11-23T12:45:28.853358+00:00",
+    "879d3ad57749e40a": "2026-11-23T12:45:28.853358+00:00",
+    "bdc92c2054c6192a": "2026-11-23T12:45:28.853358+00:00",
+    "0170ef61b9de6926": "2026-11-23T12:45:28.853358+00:00",
+    "d097c76dbe541206": "2026-11-23T12:45:28.853358+00:00",
+    "4bbcb587aba287fc": "2026-11-23T12:45:28.853358+00:00",
+    "0f48fc3f2a45f0d8": "2026-11-23T12:45:28.853358+00:00",
+    "517c89c78b9c3b3e": "2026-11-23T12:45:28.853358+00:00",
+    "9edda987568cd9c2": "2026-11-23T12:45:28.853358+00:00"
   },
   "published_stories": [
     {
@@ -2346,6 +2363,15 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T12:45:29.338150+00:00",
+      "headline_az": "Tokenləşdirilmiş səhmlər bazarına böyük etiraz: 90 faiz şirkət qarşı çıxır",
+      "summary_az": "NYSE və Nasdaq yeni rəqəmsal bazar modellərinə keçid edərkən, təklif olunan səhmlərin 90 faizini təşkil edən şirkətlər tokenləşdirilmiş səhmlərə qarşı sərt etiraz nümayiş etdirirlər. Buna baxmayaraq, yeni platformanın fəaliyyətə başlaması gözlənilir.",
+      "topic_key": "tokenized-stocks-market-pushback",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
@@ -2580,36 +2606,26 @@
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
     },
     {
-      "headline_az": "İstanbulda tramvay ilə avtobus toqquşdu: Yaralılar var",
-      "summary_az": "Fatih rayonunda Haseki tramvay dayanacağı yaxınlığında tramvay və İETT sərnişin avtobusu toqquşub. Qəza nəticəsində xəsarət alan vətəndaşlar təcili yardım maşınları ilə xəstəxanalara çatdırılıb.",
-      "category": "Türkiyə",
-      "region": "tr",
+      "headline_az": "Azərbaycan və Özbəkistandan birgə hərbi təlim",
+      "summary_az": "Azərbaycan və Özbəkistan müdafiə nazirliklərinin illik planına əsasən, ölkələr arasında kompüter dəstəkli \"Maharat-IV\" birgə qərargah-komanda təlimi keçirilir. Hərbi əməkdaşlığın gücləndirilməsinə xidmət edən təlimdə qarşılıqlı əlaqələrin inkişafı diqqət mərkəzindədir.",
+      "category": "Azərbaycan",
+      "region": "az",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "istanbul-tram-bus-crash",
+      "topic_key": "azerbaijan-uzbekistan-military-exercise",
       "source_indices": [
-        6,
-        7,
-        8
+        6
       ],
       "sources": [
         {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbulda-tramvay-ile-otobus-carpisti-964211.html"
-        },
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/istanbulda-tramvay-ile-ozel-halk-otobusu-carpisti-yaralilar-var-1752233"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/son-dakika-fatihte-tramvay-ile-otobus-carpisti-3496977"
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/events/267942.html"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
-      "queued_at": "2026-11-23T12:30:41.493909+00:00"
+      "image_url": "https://www.azernews.az/media/2026/11/23/449dc5614dc516e716d7086fa1abc0cb.jpg",
+      "queued_at": "2026-11-23T12:45:28.810857+00:00"
     }
   ]
 }
