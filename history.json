@@ -807,7 +807,31 @@
     "4bbcb587aba287fc": "2026-11-23T12:45:28.853358+00:00",
     "0f48fc3f2a45f0d8": "2026-11-23T12:45:28.853358+00:00",
     "517c89c78b9c3b3e": "2026-11-23T12:45:28.853358+00:00",
-    "9edda987568cd9c2": "2026-11-23T12:45:28.853358+00:00"
+    "9edda987568cd9c2": "2026-11-23T12:45:28.853358+00:00",
+    "8fe55f455c88851c": "2026-11-23T13:00:56.061087+00:00",
+    "e4840d258a9b0437": "2026-11-23T13:00:56.061087+00:00",
+    "1b79571def9b1b88": "2026-11-23T13:00:56.061087+00:00",
+    "c1bdc36351883377": "2026-11-23T13:00:56.061087+00:00",
+    "23347aa3d2493a78": "2026-11-23T13:00:56.061087+00:00",
+    "e62d8dc576a2740d": "2026-11-23T13:00:56.061087+00:00",
+    "8001a8d1ccfeb33c": "2026-11-23T13:00:56.061087+00:00",
+    "6517b059efcd3660": "2026-11-23T13:00:56.061087+00:00",
+    "31a23d7d295e7b64": "2026-11-23T13:00:56.061087+00:00",
+    "85e6fe348c94b4c1": "2026-11-23T13:00:56.061087+00:00",
+    "52fa3127b986307c": "2026-11-23T13:00:56.061087+00:00",
+    "d9b9cf53f53c0d92": "2026-11-23T13:00:56.061087+00:00",
+    "f452fbad07010a89": "2026-11-23T13:00:56.061087+00:00",
+    "7dbb6d0911f8223f": "2026-11-23T13:00:56.061087+00:00",
+    "3a24b28abcaea6a0": "2026-11-23T13:00:56.061087+00:00",
+    "b56c161635b1ea77": "2026-11-23T13:00:56.061087+00:00",
+    "6ab309ed6a385e25": "2026-11-23T13:00:56.061087+00:00",
+    "e77880bd5ab5c9ee": "2026-11-23T13:00:56.061087+00:00",
+    "07fe583dc47733d1": "2026-11-23T13:00:56.061087+00:00",
+    "c82d96d6e68cf0c1": "2026-11-23T13:00:56.061087+00:00",
+    "0c1ee0e95a56a214": "2026-11-23T13:00:56.061087+00:00",
+    "3e3b449445cebb18": "2026-11-23T13:00:56.061087+00:00",
+    "2689ffd966504fe7": "2026-11-23T13:00:56.061087+00:00",
+    "2e08a3893b9b5daa": "2026-11-23T13:00:56.061087+00:00"
   },
   "published_stories": [
     {
@@ -2372,6 +2396,16 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T13:00:57.039877+00:00",
+      "headline_az": "Dmitri Medvedevdən nüvə zərbəsi ilə bağlı təhdid",
+      "summary_az": "Rusiya Təhlükəsizlik Şurasının sədr müavini Dmitri Medvedev ölkəsinin suverenliyinə və təhlükəsizliyinə qarşı hərbi təhdid yaranarsa, qabaqlayıcı nüvə zərbəsi endirə biləcəklərini açıqlayıb. Bu bəyanat beynəlxalq gərginliyi daha da artırıb.",
+      "topic_key": "medvedev-nuclear-threat",
+      "sources": [
+        "Google News AZ",
+        "NTV Dünya"
+      ]
     }
   ],
   "pending_queue": [
@@ -2606,26 +2640,26 @@
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
     },
     {
-      "headline_az": "Azərbaycan və Özbəkistandan birgə hərbi təlim",
-      "summary_az": "Azərbaycan və Özbəkistan müdafiə nazirliklərinin illik planına əsasən, ölkələr arasında kompüter dəstəkli \"Maharat-IV\" birgə qərargah-komanda təlimi keçirilir. Hərbi əməkdaşlığın gücləndirilməsinə xidmət edən təlimdə qarşılıqlı əlaqələrin inkişafı diqqət mərkəzindədir.",
-      "category": "Azərbaycan",
-      "region": "az",
+      "headline_az": "Dünyanın ən böyük elektrikli yük gəmisi Çində istehsal edildi",
+      "summary_az": "Çinli mütəxəssislər 23.5 meqavat-saatlıq güclü akkumulyatorla təchiz olunmuş nəhəng elektrikli quru yük gəmisini istifadəyə verib. Bu texnoloji yenilik dəniz nəqliyyatında ekoloji təmiz enerjiyə keçid üçün mühüm addım hesab olunur.",
+      "category": "Texnologiya",
+      "region": "world",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "azerbaijan-uzbekistan-military-exercise",
+      "topic_key": "china-electric-cargo-ship",
       "source_indices": [
-        6
+        2
       ],
       "sources": [
         {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/events/267942.html"
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/cinde-dunyanin-en-boyuk-elektrikli-yuk-gemisi-hazirlandi"
         }
       ],
       "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/449dc5614dc516e716d7086fa1abc0cb.jpg",
-      "queued_at": "2026-11-23T12:45:28.810857+00:00"
+      "image_url": "https://images.oxu.az/2026/11/23/Gxkl7iRyNEvj2A55s52bGDnV2GuyPKWJTYgjHwYi:640.jpg",
+      "queued_at": "2026-11-23T13:00:56.016850+00:00"
     }
   ]
 }
