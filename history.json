@@ -1118,7 +1118,9 @@
     "9b3f24c192d6b6e4": "2026-11-23T22:30:32.146346+00:00",
     "470be7b45b4f2d7a": "2026-11-23T22:30:32.146346+00:00",
     "66403463587777bc": "2026-11-23T22:30:32.146346+00:00",
-    "fa9136539de5ecb7": "2026-11-23T22:30:32.146346+00:00"
+    "fa9136539de5ecb7": "2026-11-23T22:30:32.146346+00:00",
+    "b600f031328118a2": "2026-11-23T22:45:36.696840+00:00",
+    "179fd3db322f1a8d": "2026-11-23T22:45:36.696840+00:00"
   },
   "published_stories": [
     {
@@ -2968,9 +2970,40 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T22:45:37.189683+00:00",
+      "headline_az": "İnternet dünyasında yenilik: \"Ladybird\" brauzeri sınağa açıldı",
+      "summary_az": "İllər sonra sıfırdan hazırlanan ilk müstəqil brauzer mühərriki olan \"Ladybird\" artıq istifadəçilərin sınağına təqdim edilib. Hazırda macOS və Linux sistemlərində alfa versiyası mövcud olan bu layihə, veb texnologiyalarına yeni nəfəs gətirməyi hədəfləyir.",
+      "topic_key": "ladybird-browser-launch",
+      "sources": [
+        "The Verge"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Ceki Çan geri qayıdır: \"Pik saatı 4\" rəsmən təsdiqləndi",
+      "summary_az": "Dünya kinosunun əfsanəsi Ceki Çan uzun sürən danışıqlardan sonra \"Pik saatı 4\" filmi üçün müqavilə imzalayıb. Çəkilişlərin 2027-ci ildə start götürməsi planlaşdırılır, azarkeşlər isə Kris Takerin də layihəyə qayıdıb-qayıtmayacağını maraqla gözləyir.",
+      "category": "Maraqlı",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "jackie-chan-rush-hour-4",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/shou-biznes/ceki-can-qayidir-pik-saati-4-filmi-uzun-danisiqlardan-sonra-tesdiqlendi"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/nnb7OISYOsOLF13fmfZCQ2SEqCm6KXsJJwbORgu3:640.jpg",
+      "queued_at": "2026-11-23T22:45:36.678898+00:00"
+    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
