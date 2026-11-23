@@ -320,7 +320,12 @@
     "56156e90051e245d": "2026-11-23T06:00:48.027573+00:00",
     "7ad811a6af7432e4": "2026-11-23T06:00:48.027573+00:00",
     "30c2af910c8bcc40": "2026-11-23T06:00:48.027573+00:00",
-    "bcb6a995f86c0d25": "2026-11-23T06:00:48.027573+00:00"
+    "bcb6a995f86c0d25": "2026-11-23T06:00:48.027573+00:00",
+    "39673b8508aaea2a": "2026-11-23T06:06:26.409206+00:00",
+    "6d84396741bde3d4": "2026-11-23T06:06:26.409206+00:00",
+    "33744c8240c62bb1": "2026-11-23T06:06:26.409206+00:00",
+    "f2b8eb0bf9d1f3e2": "2026-11-23T06:06:26.409206+00:00",
+    "c3ce428d39705292": "2026-11-23T06:06:26.409206+00:00"
   },
   "published_stories": [
     {
@@ -1362,9 +1367,62 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:06:27.300246+00:00",
+      "headline_az": "İstanbulda mütəşəkkil cinayətkar dəstəyə qarşı əməliyyatda 51 nəfər saxlanılıb",
+      "summary_az": "İstanbul polisinin keçirdiyi uğurlu mütəşəkkil cinayətkarlıqla mübarizə əməliyyatı nəticəsində 51 şübhəli şəxs yaxalanıb. Saxlanılanların dindirilməsi və istintaq tədbirləri davam etdirilir.",
+      "topic_key": "istanbul-crime-gang-operation-detentions",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Jandarma Komandanlığı 9 min uzman erbaş qəbul edəcək",
+      "summary_az": "Türkiyə Jandarma Baş Komandanlığı sıralarını gücləndirmək məqsədilə 9 min uzman erbaş qəbul edəcəyini elan edib. Namizədlər üçün müraciət şərtləri və tələb olunan meyarlar açıqlanıb.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-jandarma-expert-sergeant-recruitment",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/yerel-haberler/ankara/jandarma-9-bin-uzman-erbas-alimi-yapacak-3496747"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:06:26.409167+00:00"
+    },
+    {
+      "headline_az": "Türkiyədə qız istəmə mərasimi qanlı bitib",
+      "summary_az": "Türkiyədə baş tutan qız istəmə mərasimi zamanı naməlum səbəbdən mübahisə yaranıb və insident qətlə səbəb olub. Hadisə yerinə gələn hüquq-mühafizə orqanları araşdırma baş浮かdıb.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "karaman-girl-proposal-fight",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFlRTVMtSm93X1QyaDI0ZkRvMGpIZl9yX0Z6MmFlSUVaVjRRWTl1cnoyRXkyc3MydURmalYtclMxOEJwc3c2ZTJ6T0JIWTM5bElkcGFpcEU0bkhEbmNYZzlsc1p6UURULTJOQlV2dkY5akZmd05lMVBLNlAxdFJYRlRfd2dicGc?oc=5"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:06:26.409167+00:00"
+    },
     {
       "headline_az": "Türkiyə Daxili İşlər Nazirliyi 1170 müqaviləli işçi qəbul edəcək",
       "summary_az": "Türkiyə Daxili İşlər Nazirliyi mərkəzi və regional strukturlarında çalışmaq üzrə ümumilikdə 1170 müqaviləli işçi qəbul edəcəyini açıqlayıb. Dövlət qurumlarında işləmək istəyən namizədlər üçün müraciət şərtləri və tarixi yaxın vaxtlarda ictimaiyyətə təqdim olunacaq.",
