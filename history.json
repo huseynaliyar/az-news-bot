@@ -230,7 +230,8 @@
     "5dde6b9f07092779": "2026-11-23T02:04:24.779106+00:00",
     "4a78beca74d536d0": "2026-11-23T02:08:23.137807+00:00",
     "44f336840b6d2d1f": "2026-11-23T02:08:23.137807+00:00",
-    "00b54d0a0ffbf31a": "2026-11-23T02:20:38.638647+00:00"
+    "00b54d0a0ffbf31a": "2026-11-23T02:20:38.638647+00:00",
+    "ad1100d21d262751": "2026-11-23T02:26:20.462247+00:00"
   },
   "published_stories": [
     {
@@ -776,6 +777,15 @@
       "topic_key": "turkey-gaza-humanitarian-aid",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T02:26:20.856022+00:00",
+      "headline_az": "ABŞ ordusunun Ayovada partlayıcı planı narahatlıq doğurub",
+      "summary_az": "ABŞ ordusu məhkəmənin qadağasına baxmayaraq, Ayova ştatında 4 ton qurğuşun azidini partlatmaq üçün fövqəladə səlahiyyətlərdən istifadə etməyi planlaşdırır. Yerli sakinlər və mütəxəssislər bu addımı ekoloji baxımdan ekstremal dərəcədə təhlükəli hesab edirlər.",
+      "topic_key": "us-army-iowa-lead-detonation",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
