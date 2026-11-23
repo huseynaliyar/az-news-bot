@@ -311,7 +311,9 @@
     "76d433e5734bd0a8": "2026-11-23T05:48:27.586744+00:00",
     "4a665209cbf731f7": "2026-11-23T05:48:27.586744+00:00",
     "63b3fde43a63e760": "2026-11-23T05:48:27.586744+00:00",
-    "50cac082e08a295f": "2026-11-23T05:48:27.586744+00:00"
+    "50cac082e08a295f": "2026-11-23T05:48:27.586744+00:00",
+    "620fae6705032e5a": "2026-11-23T05:50:28.974875+00:00",
+    "0ac05bd1e466c433": "2026-11-23T05:50:28.974875+00:00"
   },
   "published_stories": [
     {
@@ -1308,31 +1310,18 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:50:30.241287+00:00",
+      "headline_az": "Braziliyada elm adamları xəstəlik yayan ağcaqanadlara qarşı yeni üsul tapıblar",
+      "summary_az": "Aparılan yeni araşdırma göstərib ki, 'Wolbachia' bakteriyası daşıyan xüsusi ağcaqanad növü dang humması və çikunqunya kimi təhlükəli infeksiyaların yayılmasını təxminən 69 faiz azaldır. Bu təbii üsul virusların ötürülməsinin qarşısını almaqda mühüm irəliləyiş hesab olunur.",
+      "topic_key": "wolbachia-mosquito-disease-reduction",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Braziliyada elm adamları xəstəlik yayan ağcaqanadlara qarşı yeni üsul tapıblar",
-      "summary_az": "Aparılan yeni araşdırma göstərib ki, 'Wolbachia' bakteriyası daşıyan xüsusi ağcaqanad növü dang humması və çikunqunya kimi təhlükəli infeksiyaların yayılmasını təxminən 69 faiz azaldır. Bu təbii üsul virusların ötürülməsinin qarşısını almaqda mühüm irəliləyiş hesab olunur.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "wolbachia-mosquito-disease-reduction",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/bilim-insanlarindan-sivrisinek-kaynakli-hastaliklara-sivrisinekle-cozum-964174.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T05:48:27.586719+00:00"
-    },
     {
       "headline_az": "Türkiyə Daxili İşlər Nazirliyi 1170 müqaviləli işçi qəbul edəcək",
       "summary_az": "Türkiyə Daxili İşlər Nazirliyi mərkəzi və regional strukturlarında çalışmaq üzrə ümumilikdə 1170 müqaviləli işçi qəbul edəcəyini açıqlayıb. Dövlət qurumlarında işləmək istəyən namizədlər üçün müraciət şərtləri və tarixi yaxın vaxtlarda ictimaiyyətə təqdim olunacaq.",
