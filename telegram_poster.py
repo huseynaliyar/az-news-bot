@@ -173,7 +173,7 @@ def publish_stories(
     for story in stories:
         message = format_telegram_message(story)
         primary_url = story.sources[0]["url"] if story.sources else ""
-        silent = night_mode and (story.importance < urgent_threshold)
+        silent = story.importance < urgent_threshold
 
         video_watch_url = primary_url if _is_youtube_url(primary_url) else ""
         image_url = story.image_url
