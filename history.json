@@ -2433,31 +2433,18 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-23T14:17:13.453878+00:00",
+      "headline_az": "İnsan Genomundan 50% böyük genoma sahib hörümçək tapıldı",
+      "summary_az": "Kaliforniyada kəşf edilən kiçik ölçülü tələçi hörümçəyin genomunun insan genomundan təxminən 50 faiz böyük olduğu üzə çıxıb. Alimlər 4.6 milyard DNT əsas cütlüyünə malik bu nadir canlının təkamül sirrlərini öyrənirlər.",
+      "topic_key": "stephen-colbert-spider-genome",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İnsan Genomundan 50% böyük genoma sahib hörümçək tapıldı",
-      "summary_az": "Kaliforniyada kəşf edilən kiçik ölçülü tələçi hörümçəyin genomunun insan genomundan təxminən 50 faiz böyük olduğu üzə çıxıb. Alimlər 4.6 milyard DNT əsas cütlüyünə malik bu nadir canlının təkamül sirrlərini öyrənirlər.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "stephen-colbert-spider-genome",
-      "source_indices": [
-        16
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T12:00:41.150050+00:00"
-    },
     {
       "headline_az": "Kritik iddia: Rusiya bu il uzaya nükleer silahlı uydu göndərə bilər",
       "summary_az": "NATO ölkələrinin kəşfiyyat xidmətləri Rusiyanın yaxın vaxtlarda uzaya nükleer başlıqlı uydu yerləşdirməyi planlaşdırdığı ehtimalında birləşirlər. Rusiya tərəfi isə bu iddiaları qəti şəkildə təkzib edib.",
