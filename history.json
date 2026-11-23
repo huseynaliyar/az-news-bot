@@ -2487,41 +2487,20 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T15:46:02.203078+00:00",
+      "headline_az": "PKK İraqın şimalında 14 düşərgəni boşaltdı",
+      "summary_az": "Türk təhlükəsizlik mənbələrinin yaydığı məlumata görə, terror təşkilatı PKK İraqın şimalındakı Hakurk bölgəsində daha 14 barınma sahəsini boşaltmaq məcburiyyətində qalıb. Bölgədə antiterror əməliyyatları qətiyyətlə davam etdirilir.",
+      "topic_key": "pkk-hakurk-camps-evacuated",
+      "sources": [
+        "TRT Haber",
+        "NTV Gündem",
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "PKK İraqın şimalında 14 düşərgəni boşaltdı",
-      "summary_az": "Türk təhlükəsizlik mənbələrinin yaydığı məlumata görə, terror təşkilatı PKK İraqın şimalındakı Hakurk bölgəsində daha 14 barınma sahəsini boşaltmaq məcburiyyətində qalıb. Bölgədə antiterror əməliyyatları qətiyyətlə davam etdirilir.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "pkk-hakurk-camps-evacuated",
-      "source_indices": [
-        7,
-        8,
-        13
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/teror-orgutu-pkk-irakin-kuzeyindeki-14-barinma-alanini-daha-bosaltti-964202.html"
-        },
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/son-dakika-haberi-pkk-irakin-kuzeyinden-cekiliyor-3496893"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
-      "queued_at": "2026-11-23T10:15:38.812651+00:00"
-    },
     {
       "headline_az": "Süni intellektli smart linza dövrü gəlir: Telefonlara ehtiyac qalmaya bilər",
       "summary_az": "Birləşmiş Ərəb Əmirlikləri və Çin tədqiqatçıları rəqəmsal məlumatları birbaşa göz önünə proyeksiya edən smart kontakt linzalar üzərində işləyirlər. Süni intellektlə təchiz olunan bu texnologiya gələcəkdə smartfonlardan istifadə vərdişlərini kökündən dəyişə bilər.",
