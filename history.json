@@ -267,7 +267,9 @@
     "327c4100e104745a": "2026-11-23T04:26:29.909874+00:00",
     "cf9ea893d908d43e": "2026-11-23T04:26:29.909874+00:00",
     "5c14cf1d9e15b823": "2026-11-23T04:30:34.588856+00:00",
-    "4fc130b3e831ca5c": "2026-11-23T04:30:34.588856+00:00"
+    "4fc130b3e831ca5c": "2026-11-23T04:30:34.588856+00:00",
+    "445b54b344b7aa28": "2026-11-23T04:34:23.165101+00:00",
+    "2404c3516a2daba8": "2026-11-23T04:34:23.165101+00:00"
   },
   "published_stories": [
     {
@@ -1021,9 +1023,40 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:34:24.331472+00:00",
+      "headline_az": "Trabzonsporun baş məşqçisi Tomas Reis 35 illik rekordu yeniləyib",
+      "summary_az": "Alman mütəxəssis Tomas Reis Trabzonsporun başında çıxdığı son 7 Super Liqa matçının hamısında qələbə qazanaraq tarixi seriyaya imza atıb. O, 1991-92 mövsümündə Urbain Braemsin 6 oyunluq seriyasını geridə qoyaraq klub tarixində ən uzun qələbə seriyası qazanan əcnəbi məşqçi olub.",
+      "topic_key": "trabzonspor-thomas-reis-record",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Egey dənizində 4,2 bal gücündə zəlzələ olub",
+      "summary_az": "Türkiyənin Egey dənizi sahillərində, Bodrum yaxınlığında 4,2 bal gücündə zəlzələ qeydə alınıb. İlkin məlumatlara görə, yeraltı təkanlar nəticəsində hər hansı bir neqativ hal və ya dağıntı qeydə alınmayıb.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "aegean-sea-earthquake-4-2",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/ege-denizinde-4-2-buyuklugunde-deprem-3496685"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-23T04:34:23.165075+00:00"
+    },
     {
       "headline_az": "Azərbaycanlı keçmiş televiziya aparıcısı Ada Süleyman vəfat edib",
       "summary_az": "ARB TV-nin keçmiş aparıcısı Ada Süleyman doğum gününü qeyd edərkən faciəli şəkildə dünyasını dəyişib. Hadisə ictimaiyyət arasında kədərlə qarşılanıb və hüquq-mühafizə orqanları tərəfindən araşdırma aparılır.",
