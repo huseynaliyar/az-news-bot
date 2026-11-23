@@ -2460,31 +2460,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T15:01:54.569920+00:00",
+      "headline_az": "Permdə sənaye obyektinə PUA hücumu: Ölənlər var",
+      "summary_az": "Rusiyanın Perm diyarında sənaye müəssisəsinə edilən pilotsuz uçuş aparatı hücumu nəticəsində dağıntılar və insan tələfatı qeydə alınıb. Yerli hakimiyyət orqanları hücumun nəticələrini aradan qaldırmaq üçün tədbirlər görür.",
+      "topic_key": "perm-uav-attack",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Permdə sənaye obyektinə PUA hücumu: Ölənlər var",
-      "summary_az": "Rusiyanın Perm diyarında sənaye müəssisəsinə edilən pilotsuz uçuş aparatı hücumu nəticəsində dağıntılar və insan tələfatı qeydə alınıb. Yerli hakimiyyət orqanları hücumun nəticələrini aradan qaldırmaq üçün tədbirlər görür.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "perm-uav-attack",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVWmFrMFp0aUx5b0JocGpiMU04SDBhZjM5ajM3NlJBNjZnN0hLSWdKdVJocHpBX1hRR1VlOWJOM0VSZ0pTY19Bb0VYNA?oc=5"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T10:30:47.476721+00:00"
-    },
     {
       "headline_az": "Çində yüksək vəzifəli şəxsə casusluq ittihamı ilə ölüm hökmü",
       "summary_az": "Çində bir nazirlik rəsmisi dövlət sirri sayılan məlumatları xarici kəşfiyyat orqanlarına ötürdüyü üçün məhkəmə tərəfindən ölüm cəzasına məhkum edilib. Ölkədə casusluqla bağlı qanunların sərtləşdirilməsi diqqət çəkir.",
