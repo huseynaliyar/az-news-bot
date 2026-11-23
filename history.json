@@ -212,7 +212,8 @@
     "2cc503b3ce688ad6": "2026-11-23T00:12:19.877243+00:00",
     "d261340b7ee964fd": "2026-11-23T00:20:32.143535+00:00",
     "68381f78beeb7f14": "2026-11-23T00:24:20.831027+00:00",
-    "9d3363f4e53a1c0f": "2026-11-23T00:32:21.575643+00:00"
+    "9d3363f4e53a1c0f": "2026-11-23T00:32:21.575643+00:00",
+    "fcd73df2673a39ec": "2026-11-23T00:34:23.411778+00:00"
   },
   "published_stories": [
     {
@@ -641,6 +642,15 @@
       "topic_key": "uk-eu-landmark-deal-brexit-rollback",
       "sources": [
         "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T00:34:24.455899+00:00",
+      "headline_az": "Kventin Tarantino üçüncü dəfə ata olub",
+      "summary_az": "63 yaşlı məşhur amerikalı kinorejissor Kventin Tarantino və həyat yoldaşı Daniella Pik üçüncü dəfə valideyn olublar. Cütlüyün bu xəbəri sosial mediada və dünya mediasında geniş əks səda doğurub.",
+      "topic_key": "quentin-tarantino-third-child",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
