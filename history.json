@@ -1713,31 +1713,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T07:08:19.333697+00:00",
+      "headline_az": "Donald Trampdanköçkün seçicilərə: «Anlamadan tetiğe basdınız»",
+      "summary_az": "ABŞ Prezidenti Donald Tramp Respublikaçıların məğlubiyyəti ilə nəticələnən aralıq seçkilərdən sonra seçiciləri sərt tənqid edib. O, ölkədəki siyasi prosesləri dəyərləndirərək vətəndaşların qərarlarının gözlənilməz nəticələr doğurduğunu bildirib.",
+      "topic_key": "trump-midterm-elections-reaction",
+      "sources": [
+        "NTV Dünya"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Donald Trampdanköçkün seçicilərə: «Anlamadan tetiğe basdınız»",
-      "summary_az": "ABŞ Prezidenti Donald Tramp Respublikaçıların məğlubiyyəti ilə nəticələnən aralıq seçkilərdən sonra seçiciləri sərt tənqid edib. O, ölkədəki siyasi prosesləri dəyərləndirərək vətəndaşların qərarlarının gözlənilməz nəticələr doğurduğunu bildirib.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "trump-midterm-elections-reaction",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/trumptan-abdli-secmenlere-anlamadan-tetige-basmaniz-kotu-oldu-1752150"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.ntv.com.tr/images/2026-11-20T192528Z_130355272_RC2UROA3K99Q_RTRMADP_3_USA-TRUMP-478875(2).JPG",
-      "queued_at": "2026-11-23T06:54:22.030559+00:00"
-    },
     {
       "headline_az": "«Hunger Games» yeni filmi ilə rekord qırdı",
       "summary_az": "Seriyanın yeni filmi «The Hunger Games: Sunrise on the Reaping» nümayişinin ilk həftəsonunda dünya üzrə 225 milyon dollar gəlir əldə edib. Ekran əsəri hətta böyük gözləntilər yaradan «GTA 6» həyəcanını da kölgədə qoymağı bacarıb.",
