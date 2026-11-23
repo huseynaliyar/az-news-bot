@@ -247,7 +247,8 @@
     "7af1a6c66b8632b9": "2026-11-23T03:26:21.927215+00:00",
     "8cb8eace3cb3d8d1": "2026-11-23T03:32:22.590285+00:00",
     "6c3f028f7418e378": "2026-11-23T03:36:19.390745+00:00",
-    "8c4d0428eb118cff": "2026-11-23T03:38:22.021913+00:00"
+    "8c4d0428eb118cff": "2026-11-23T03:38:22.021913+00:00",
+    "3fb179661fec9da8": "2026-11-23T03:44:18.756223+00:00"
   },
   "published_stories": [
     {
@@ -892,6 +893,15 @@
       "topic_key": "global-measles-outbreak-record",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T03:44:19.188767+00:00",
+      "headline_az": "Ukraynada yaşayış binasına raket zərbəsi: 7 yaşlı uşaq xilas edilib",
+      "summary_az": "Rusiyanın Ukraynanın paytaxtı yaxınlığındakı yaşayış binasına endirdiyi zərbə nəticəsində həlak olanlar var, dağıntılar altında qalanların axtarışı davam edir. Xilasedicilər dağıntılar altından 7 yaşlı uşağı sağ çıxarıblar.",
+      "topic_key": "ukraine-residential-strike-survivor",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
