@@ -435,7 +435,22 @@
     "1c7f88f41a1c06c2": "2026-11-23T07:30:39.675428+00:00",
     "95eca8a306511228": "2026-11-23T07:30:39.675428+00:00",
     "5fe47f7070e32a46": "2026-11-23T07:30:39.675428+00:00",
-    "4df8ac64b324808d": "2026-11-23T07:30:39.675428+00:00"
+    "4df8ac64b324808d": "2026-11-23T07:30:39.675428+00:00",
+    "b86f622eeb8866ac": "2026-11-23T07:46:18.613129+00:00",
+    "e3a9c324a4dbde1c": "2026-11-23T07:46:18.613129+00:00",
+    "9f1a906b30b7a3ab": "2026-11-23T07:46:18.613129+00:00",
+    "07701a3d7923aae4": "2026-11-23T07:46:18.613129+00:00",
+    "2607b04d29c24ea2": "2026-11-23T07:46:18.613129+00:00",
+    "f45e5c3158ab1d6e": "2026-11-23T07:46:18.613129+00:00",
+    "595c4aa436dd574d": "2026-11-23T07:46:18.613129+00:00",
+    "a5484e0036af20b0": "2026-11-23T07:46:18.613129+00:00",
+    "d3a6c8cf12089e4a": "2026-11-23T07:46:18.613129+00:00",
+    "98327a6e5255a8ba": "2026-11-23T07:46:18.613129+00:00",
+    "d1967fef6aa2808f": "2026-11-23T07:46:18.613129+00:00",
+    "59186dc9b1703a30": "2026-11-23T07:46:18.613129+00:00",
+    "57415818e92a559c": "2026-11-23T07:46:18.613129+00:00",
+    "2c0721ee349c62d2": "2026-11-23T07:46:18.613129+00:00",
+    "593c7e5d28ab803a": "2026-11-23T07:46:18.613129+00:00"
   },
   "published_stories": [
     {
@@ -1783,9 +1798,62 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T07:46:19.355456+00:00",
+      "headline_az": "Mark Markes motosiklet idmanında tarixi rekorda imza atdı",
+      "summary_az": "Əfsanəvi sürücü Mark Markes karyerasında səkkizinci dəfə əsas sinif üzrə dünya çempionu adını qazanaraq italyanlar əfsanəsi Ciacomo Aqostini ilə bərabərləşib.",
+      "topic_key": "motogp-marquez-eighth-title",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İraq Səddam Hüseynin prezident təyyarəsini satışa çıxardı",
+      "summary_az": "İraqın Nəqliyyat Nazirliyi sabiq prezident Səddam Hüseynə məxsus olan və 1991-ci ildən Tunisdə saxlanılan «Boeing 747» markalı təyyarəni 900 min dollara satışa çıxarıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "iraq-saddam-hussein-aircraft-sale",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/267911.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2026/11/23/iraqi-airways-boeing-747sp-yi-alm-zld33kw.png",
+      "queued_at": "2026-11-23T07:46:18.613091+00:00"
+    },
+    {
+      "headline_az": "ABŞ-da təbii qaz boru xəttində güclü yanğın baş verib",
+      "summary_az": "Alabama ştatının kənar ərazisində yerləşən təbii qaz boru xəttindəki qəza nəticəsində nəhəng alov və qara duman kütləsi əmələ gəlib, yanğın uzaq məsafələrdən görünüb.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "alabama-gas-pipeline-fire",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/abddeki-yanginda-alevler-kilometrelerce-uzaktan-goruldu-964181.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T07:46:18.613091+00:00"
+    },
     {
       "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı: Gecə kamerasında görüldü",
       "summary_az": "İstanbulun Zekeriyaköy və Uskumruköy məhəllələrində dişi aslanın gəzdiyi iddia edilib və təhlükəsizlik kameraları görüntüləri təsdiqləyib. Yerli sakinlər və rəsmilər illərdir belə hadisə ilə qarşılaşmadıqlarını bildirərək bölgədə axtarış tədbirlərinə başlayıblar.",
