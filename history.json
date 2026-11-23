@@ -1112,7 +1112,13 @@
     "e7143b306720d093": "2026-11-23T22:15:53.841845+00:00",
     "e4e09724161528d9": "2026-11-23T22:15:53.841845+00:00",
     "dc485661b550ada2": "2026-11-23T22:15:53.841845+00:00",
-    "aca3a6c9594f9d03": "2026-11-23T22:15:53.841845+00:00"
+    "aca3a6c9594f9d03": "2026-11-23T22:15:53.841845+00:00",
+    "3a395d208c28c3ad": "2026-11-23T22:30:32.146346+00:00",
+    "6666ca067c6277b4": "2026-11-23T22:30:32.146346+00:00",
+    "9b3f24c192d6b6e4": "2026-11-23T22:30:32.146346+00:00",
+    "470be7b45b4f2d7a": "2026-11-23T22:30:32.146346+00:00",
+    "66403463587777bc": "2026-11-23T22:30:32.146346+00:00",
+    "fa9136539de5ecb7": "2026-11-23T22:30:32.146346+00:00"
   },
   "published_stories": [
     {
@@ -2953,31 +2959,18 @@
       "sources": [
         "TechCrunch"
       ]
+    },
+    {
+      "published_at": "2026-11-23T22:30:32.586857+00:00",
+      "headline_az": "Neft qiymətləri iki alov arasında: Təklif artımı qiymətləri aşağı salır",
+      "summary_az": "Brent nefti $89,34/varrəyə düşdü. Təklifin artması və Yaxın Şərqin dəstəyi qiymətləri təzyiq altında saxlayır. Analitiklər bazarın dalğalanmasını izləyir.",
+      "topic_key": "oil-price-pressure",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Neft qiymətləri iki alov arasında: Təklif artımı qiymətləri aşağı salır",
-      "summary_az": "Brent nefti $89,34/varrəyə düşdü. Təklifin artması və Yaxın Şərqin dəstəyi qiymətləri təzyiq altında saxlayır. Analitiklər bazarın dalğalanmasını izləyir.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "oil-price-pressure",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlLUtXZWlKcU9ndzFCaTl0TlV2aXdPR2NLY2VkdVJ4dUZmZ3EyZ0hlZUhaR0RwRGxiX1ppOG1EdWdaWHl5Qm9RVU8yek1DQVcteFE3d1NIZzg3cVZ4cTRqakFnTVZHNGc?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T21:31:01.954434+00:00"
-    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
