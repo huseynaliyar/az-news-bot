@@ -274,7 +274,9 @@
     "c36fe291528b3b53": "2026-11-23T04:40:26.829782+00:00",
     "990ed7c9cd5697a6": "2026-11-23T04:42:27.014122+00:00",
     "f533361b4769f18a": "2026-11-23T04:42:27.014122+00:00",
-    "a2a442e0e777ab04": "2026-11-23T04:46:21.792227+00:00"
+    "a2a442e0e777ab04": "2026-11-23T04:46:21.792227+00:00",
+    "765a6fc865113225": "2026-11-23T04:48:20.655743+00:00",
+    "48a67c5205ae214c": "2026-11-23T04:48:20.655743+00:00"
   },
   "published_stories": [
     {
@@ -1072,6 +1074,15 @@
       "topic_key": "turkey-cabinet-meeting-agenda",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:48:21.289975+00:00",
+      "headline_az": "İstanbulun Sarıyer rayonunda aslan həyəcanı: Vətəndaşlara evdən çıxmamaq xəbərdarlığı edilib",
+      "summary_az": "Türkiyənin İstanbul şəhərinin Sarıyer rayonunda dişi bir aslanın görüldüyü barədə təcili xəbərdarlıq daxil olub. Təhlükəsizlik kameralarından əldə edilən görüntülər iddianı təsdiqləyib və aidiyyəti qurumlar heyvanın tutulması üçün əməliyyat başlanıb. Yerli sakinlərdən ehtiyat tədbiri olaraq çölə çıxmamaq tələb olunub.",
+      "topic_key": "sariyer-lion-alarm-turkey",
+      "sources": [
+        "CNN Türk"
       ]
     }
   ],
