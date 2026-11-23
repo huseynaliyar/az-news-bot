@@ -229,7 +229,8 @@
     "4221c3a1682df224": "2026-11-23T01:50:25.872794+00:00",
     "5dde6b9f07092779": "2026-11-23T02:04:24.779106+00:00",
     "4a78beca74d536d0": "2026-11-23T02:08:23.137807+00:00",
-    "44f336840b6d2d1f": "2026-11-23T02:08:23.137807+00:00"
+    "44f336840b6d2d1f": "2026-11-23T02:08:23.137807+00:00",
+    "00b54d0a0ffbf31a": "2026-11-23T02:20:38.638647+00:00"
   },
   "published_stories": [
     {
@@ -766,6 +767,15 @@
       "topic_key": "libya-benghazi-military-preparedness",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T02:20:39.177705+00:00",
+      "headline_az": "Türkiyədən Qəzzaya humanitar yardım və ərzaq dəstəyi",
+      "summary_az": "Türkiyə rəsmiləri Qəzzadakı humanitar böhranla bağlı açıqlamalar verərək bölgəyə minlərlə insan üçün ərzaq yardımının çatdırıldığını bildiriblər. Hazırda yüz minlərlə ailənin evsiz qaldığı Qəzzada humanitar vəziyyətin kritik həddə çatdığı vurğulanır.",
+      "topic_key": "turkey-gaza-humanitarian-aid",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
