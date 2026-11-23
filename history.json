@@ -366,7 +366,10 @@
     "093ec688a345ed92": "2026-11-23T06:40:27.909640+00:00",
     "dfd10ea7479272f9": "2026-11-23T06:42:23.839024+00:00",
     "b91ac4d8ecce79a9": "2026-11-23T06:42:23.839024+00:00",
-    "bd3a62d6ec3a5edf": "2026-11-23T06:44:22.771958+00:00"
+    "bd3a62d6ec3a5edf": "2026-11-23T06:44:22.771958+00:00",
+    "d707dd72d7aba524": "2026-11-23T06:48:23.191375+00:00",
+    "3668026728dd9903": "2026-11-23T06:48:23.191375+00:00",
+    "63fd92877e9bf7db": "2026-11-23T06:48:23.191375+00:00"
   },
   "published_stories": [
     {
@@ -1588,6 +1591,15 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:48:23.664291+00:00",
+      "headline_az": "Perm diyarında sənaye obyektinə PUA hücumu olub",
+      "summary_az": "Ukrayna Silahlı Qüvvələri Rusiyanın sərhəddən 1500 kilometr məsafədə yerləşən Perm diyarındakı sənaye müəssisəsinə PUA zərbəsi endirib. Hücum səbəbindən Perm hava limanında təyyarələrin qəbulu və buraxılışına müvəqqəti məhdudiyyətlər tətbiq olunub.",
+      "topic_key": "perm-industrial-plant-uav-attack",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
@@ -1612,204 +1624,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T06:40:27.909607+00:00"
-    },
-    {
-      "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
-      "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
-      "category": "İqtisadiyyat",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-trade-ministry-inspections-fines",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-10-ayda-401-bin-firma-ve-477-milyon-urune-denetim-964176.html"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:18:21.652416+00:00"
-    },
-    {
-      "headline_az": "İstanbulun Bakırköy rayonunda kimsəsiz bina çöküb",
-      "summary_az": "İstanbulun Bakırköy rayonunda ikimərtəbəli kimsəsiz binanın bir hissəsində çökmə qeydə alınıb. Hadisə yerinə dərhal yanğınsöndürmə və xilasetmə qrupları cəlb olunub, araşdırmalar aparılır.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "istanbul-bakirkoy-building-collapse",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/bakirkoyde-2-katli-metruk-binada-kismi-cokme-3496748"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:14:22.808487+00:00"
-    },
-    {
-      "headline_az": "Türkiyədə qız istəmə mərasimi qanlı bitib",
-      "summary_az": "Türkiyədə baş tutan qız istəmə mərasimi zamanı naməlum səbəbdən mübahisə yaranıb və insident qətlə səbəb olub. Hadisə yerinə gələn hüquq-mühafizə orqanları araşdırma baş浮かdıb.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "karaman-girl-proposal-fight",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFlRTVMtSm93X1QyaDI0ZkRvMGpIZl9yX0Z6MmFlSUVaVjRRWTl1cnoyRXkyc3MydURmalYtclMxOEJwc3c2ZTJ6T0JIWTM5bElkcGFpcEU0bkhEbmNYZzlsc1p6UURULTJOQlV2dkY5akZmd05lMVBLNlAxdFJYRlRfd2dicGc?oc=5"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:06:26.409167+00:00"
-    },
-    {
-      "headline_az": "Türkiyə Daxili İşlər Nazirliyi 1170 müqaviləli işçi qəbul edəcək",
-      "summary_az": "Türkiyə Daxili İşlər Nazirliyi mərkəzi və regional strukturlarında çalışmaq üzrə ümumilikdə 1170 müqaviləli işçi qəbul edəcəyini açıqlayıb. Dövlət qurumlarında işləmək istəyən namizədlər üçün müraciət şərtləri və tarixi yaxın vaxtlarda ictimaiyyətə təqdim olunacaq.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": true,
-      "topic_key": "turkey-interior-ministry-personnel-recruitment",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-icisleri-bakanligi-1170-personel-alimi-yapacak-basvurular-ne-zaman-sartlar-neler-1752134"
-        }
-      ],
-      "importance": 6,
-      "image_url": "https://images.ntv.com.tr/images/thumbs_b_c_b1248a85b185a6ebc9e161bc97d815f0-226790.jpg",
-      "queued_at": "2026-11-23T05:48:27.586719+00:00"
-    },
-    {
-      "headline_az": "Türkiyədə 'həmişə ucuz' şüarı ilə reklam edən marketə 1 milyon lirədən çox cəza kəsilib",
-      "summary_az": "Ticarət Nazirliyi tərəfindən aparılan yoxlamalar zamanı 'həmişə ucuz' şüarından istifadə edən bir şəbəkə marketin bu iddiasını sübut edəcək kifayət qədər dəlil tapılmayıb. Market rəhbərliyinə qanunsuz reklam və əsassız iddialara görə 1 milyon 83 min 706 lirə məbləğində inzibati cərimə tətbiq olunub.",
-      "category": "İqtisadiyyat",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "turkey-market-fine-cheap-slogan",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/ekonomi/hep-ucuz-sloganina-1-milyon-tl-ceza-bakanligin-denetimine-takildi-3496697"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T05:48:27.586719+00:00"
-    },
-    {
-      "headline_az": "Azərbaycan Vyetnamdakı Beynəlxalq Qida Festivalında təmsil olunub",
-      "summary_az": "Hanoide Vyetnam Xarici İşlər Nazirliyinin təşkilatçılığı ilə keçirilən 14-cü Beynəlxalq Kulinar Mədəniyyəti Xeyriyyə Sərgisində Azərbaycanın milli mətbəxi nümayiş etdirilib. Tədbir ölkəmizin mədəni irsinin beynəlxalq səviyyədə təbliği baxımından mühüm əhəmiyyət daşıyır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "azerbaijan-food-festival-hanoi",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/culture/267907.html"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://www.azernews.az/media/2026/11/23/1795410473535136016_1200x630.jpg",
-      "queued_at": "2026-11-23T06:42:23.838990+00:00"
-    },
-    {
-      "headline_az": "İstanbulun TEM magistral yolunda yeni şerit tənzimləməsi tətbiq olunub",
-      "summary_az": "İstanbuldakı TEM otoyolunda həyata keçirilən yeni tənzimləməyə əsasən şerit sayı 4-ə yüksəldilib və müəyyən hissələrdə quraşdırılan EDS kameraları sökülüb. Sürücülərə həmin zolaqdan istifadəyə görə artıq cəza kəsilməyəcəyi bildirilib.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "istanbul-tem-highway-eds-cameras-removed",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTVpRkJsc2U0VnAyM3BKMXZTUEVwRnBUUnctSTByTU9WTGJvckRXTlpUNEl0OHk4eE0wN0RUN2xuaWpJOG9VTEp0R3RTbHNkRjJ0MENKek5nMVVBcGJsc0JtSE80aUMyUW9QRTdGTGdMWS1fUk8tYjdXZTQxQS1sUWpfMHJhRVRFSjgtcE9Na2dzRjFXcTFFdEc2YXlRREczT3lET0VsVzNQX2ppN2lYZXZacEFGc1dJRzlV?oc=5"
-        }
-      ],
-      "importance": 5,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:18:21.652416+00:00"
-    },
-    {
-      "headline_az": "Almaniyanın Ştutqart şəhərində tanınmış bəstəkar Musa Mirzəyevin xatirəsinə həsr olunmuş konsert keçirilib",
-      "summary_az": "Almaniyanın Ştutqart şəhərində Azərbaycanın görkəmli bəstəkarı, Xalq artisti, professor Musa Mirzəyevin xatirəsinə həsr olunan tədbir təşkil olunub. Konsertdə sənətkarın əsərləri səsləndirilib və onun Azərbaycan musiqi mədəniyyətindəki xidmətləri qeyd edilib.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "stuttgart-musa-mirzayev-concert",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/culture/267905.html"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://www.azernews.az/media/2026/11/23/1795407070402536106_1200x630.jpg",
-      "queued_at": "2026-11-23T06:00:48.027541+00:00"
-    },
-    {
-      "headline_az": "Bakıda daha 9 kəsişmədə velosiped bölmələri quraşdırılıb",
-      "summary_az": "Paytaxtda mikromobilliyin inkişafı və yol hərəkəti təhlükəsizliyinin təmin edilməsi məqsədilə mühüm addım atılıb. Görülən işlər çərçivəsində Bakının 9 prospekt və küçəsinin kəsişməsindəki mövcud işıqforlara velosiped bölmələri əlavə olunaraq istifadəyə verilib.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "baku-traffic-bicycle-signals",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/cemiyyet/bakinin-9-prospekt-ve-kucesinin-kesismesinde-yenilik-foto-video"
-        }
-      ],
-      "importance": 5,
-      "image_url": "https://images.oxu.az/2026/11/23/4TgqZVBITPNq1RdCdY5IO27CkzNEyFf95M0FOu5H:640.jpg",
-      "queued_at": "2026-11-23T05:52:21.815491+00:00"
     }
   ]
 }
