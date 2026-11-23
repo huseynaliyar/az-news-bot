@@ -405,7 +405,10 @@
     "d2f0c178269a0db9": "2026-11-23T06:56:31.553807+00:00",
     "3859e9992b7e784b": "2026-11-23T06:56:31.553807+00:00",
     "76481b244b177e98": "2026-11-23T06:58:23.386933+00:00",
-    "6d3179fe182e91eb": "2026-11-23T07:00:36.635003+00:00"
+    "6d3179fe182e91eb": "2026-11-23T07:00:36.635003+00:00",
+    "676fb6abed2d9213": "2026-11-23T07:04:33.706415+00:00",
+    "a39fa8198cbe87ff": "2026-11-23T07:04:33.706415+00:00",
+    "b3ef1a624a2c67c5": "2026-11-23T07:04:33.706415+00:00"
   },
   "published_stories": [
     {
@@ -1689,6 +1692,15 @@
       "topic_key": "baku-azerbaijan-italy-business-forum",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T07:04:34.148958+00:00",
+      "headline_az": "Türkiyədə kabinet toplanır: Təqaüdçülərin maaş artımı ilə bağlı yeni formullar masa üzərindədir",
+      "summary_az": "Türkiyə Prezident Kabineti bu gün vacib gündəmlə toplanır. Toplantıda əsas müzakirə mövzularından biri təqaüdçülərin maaş artımı, yaş və prim günü ilə bağlı yeni hesablamalar olacaq.",
+      "topic_key": "turkey-cabinet-meeting-agenda",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
