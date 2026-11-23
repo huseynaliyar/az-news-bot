@@ -326,7 +326,11 @@
     "33744c8240c62bb1": "2026-11-23T06:06:26.409206+00:00",
     "f2b8eb0bf9d1f3e2": "2026-11-23T06:06:26.409206+00:00",
     "c3ce428d39705292": "2026-11-23T06:06:26.409206+00:00",
-    "922a29c46955da65": "2026-11-23T06:08:20.524256+00:00"
+    "922a29c46955da65": "2026-11-23T06:08:20.524256+00:00",
+    "3a1644eaf31b1a44": "2026-11-23T06:10:26.540098+00:00",
+    "ee3a964c67ad0b02": "2026-11-23T06:10:26.540098+00:00",
+    "017d6b39d0c1d069": "2026-11-23T06:10:26.540098+00:00",
+    "960f538c0c7a1775": "2026-11-23T06:10:26.540098+00:00"
   },
   "published_stories": [
     {
@@ -1383,6 +1387,15 @@
       "headline_az": "Bakıda MTK rəhbəri 1 milyonluq dələduzluğa görə həbs edilib",
       "summary_az": "\"Vesta Construction\" MTK-nın rəhbəri Ceyhun Quliyev eyni mənzili bir neçə şəxsə sataraq vətəndaşlara ümumilikdə 1 milyon manata yaxın ziyan vurmaqda ittiham olunur. Hüquq-mühafizə orqanlarının keçirdiyi əməliyyat nəticəsində o, saxlanılaraq barəsində həbs qətimkan tədbiri seçilib. Faktla bağlı istintaq araşdırmaları davam etdirilir.",
       "topic_key": "vesta-construction-director-arrested",
+      "sources": [
+        "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T06:10:27.549058+00:00",
+      "headline_az": "Prezident İlham Əliyev Asif Əsgərovu \"Şöhrət\" ordeni ilə təltif edib",
+      "summary_az": "Azərbaycan Prezidenti İlham Əliyev Asif Yunis oğlu Əsgərovun \"Şöhrət\" ordeni ilə təltif edilməsi haqqında sərəncam imzalayıb. Sənədə əsasən, o, ölkə ictimai həyatındakı səmərəli fəaliyyətinə görə bu yüksək mükafata layiq görülüb.",
+      "topic_key": "ilham-aliyev-asif-asgarov-shohrat-order",
       "sources": [
         "Oxu.az"
       ]
