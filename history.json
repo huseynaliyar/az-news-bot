@@ -373,7 +373,10 @@
     "40bcff525ebe238e": "2026-11-23T06:50:28.168808+00:00",
     "273304d97c0f1a54": "2026-11-23T06:50:28.168808+00:00",
     "936f42dee91229e9": "2026-11-23T06:50:28.168808+00:00",
-    "6c2a0e661d59dad2": "2026-11-23T06:50:28.168808+00:00"
+    "6c2a0e661d59dad2": "2026-11-23T06:50:28.168808+00:00",
+    "52719d936867da00": "2026-11-23T06:52:18.316719+00:00",
+    "1a6823688fc7688f": "2026-11-23T06:52:18.316719+00:00",
+    "3e5e6f148c559ee6": "2026-11-23T06:52:18.316719+00:00"
   },
   "published_stories": [
     {
@@ -1613,31 +1616,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:52:19.451274+00:00",
+      "headline_az": "Ələtdə inşa edilən yeni hava limanının açılacağı tarix açıqlanıb",
+      "summary_az": "Ələt Azad İqtisadi Zonasında tikintisi davam etdirilən yeni hava limanının 2027-ci ilin ortalarında istifadəyə verilməsi planlaşdırılır. Bu layihə regionun nəqliyyat və logistika imkanlarını daha da genişləndirəcək.",
+      "topic_key": "alat-new-airport-opening-date",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Ələtdə inşa edilən yeni hava limanının açılacağı tarix açıqlanıb",
-      "summary_az": "Ələt Azad İqtisadi Zonasında tikintisi davam etdirilən yeni hava limanının 2027-ci ilin ortalarında istifadəyə verilməsi planlaşdırılır. Bu layihə regionun nəqliyyat və logistika imkanlarını daha da genişləndirəcək.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "alat-new-airport-opening-date",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/eletde-yeni-hava-limaninin-acilacagi-tarix-bilindi"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/O3i35kxj2LY2ph2xj37TLUnyRngefrkFPkju12tB:640.png",
-      "queued_at": "2026-11-23T06:50:28.168779+00:00"
-    },
     {
       "headline_az": "Finlandiya körfəzində Rusiya gəmisinə PUA hücumu olub",
       "summary_az": "Finlandiya körfəzində Kalininqrada gedən Rusiya gəmisi PUA hücumuna məruz qalıb. Hadisə nəticəsində gəmidə yanğın baş verib və Ukraynada bu insident müzakirələrə səbəb olub.",
