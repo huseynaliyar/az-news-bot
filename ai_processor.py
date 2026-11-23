@@ -66,10 +66,12 @@ def build_prompt(
         )
 
     history_lines = []
-    for s in recent_stories:
+    for s in recent_stories[:50]:
         date_str = s.get("published_at", "")[:10]
+        short_sum = str(s.get("summary_az", "")).strip()[:130]
+        extra = f" — {short_sum}" if short_sum else ""
         history_lines.append(
-            f"- [{date_str}] ({s.get('topic_key', '')}) {s.get('headline_az', '')}"
+            f"- [{date_str}] ({s.get('topic_key', '')}) {s.get('headline_az', '')}{extra}"
         )
 
     history_block = "\n".join(history_lines) if history_lines else "(Son günlərdə paylaşılmış xəbər yoxdur)"
@@ -80,16 +82,18 @@ Sənə Azərbaycan, Türkiyə, dünya, texnologiya, elm və biznes RSS mənbəl�
 
 VƏZİFƏLƏRİN:
 1. EYNİ HADİSƏNİ BİRLƏŞDİR: Fərqli saytlardan eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
-2. TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR" siyahısında artıq olan mövzuları TAMAMİLƏ ÇIXAR (yalnız ciddi yeni inkişaf varsa `is_update: true` saxla).
+2. OXŞAR VƏ TƏKRAR MÖVZULARI SƏRT BLOKLA (ƏN VACİB QAYDA):
+   - Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR" siyahısını diqqətlə oxu.
+   - Orada artıq verilmiş hadisə, münaqişə, görüş, qərar, rəsmi səfər və ya bəyanat haqqında başqa saytın fərqli sözlərlə, fərqli bucaqdan və ya kiçik əlavə ilə yazdığı xəbərləri QƏTİYYƏN SEÇMƏ.
+   - Yeni xəbərlərin hamısı artıq paylaşılmış mövzulara oxşayırsa, boş siyahı (`"stories": []`) qaytarmaq təkrar paylaşmaqdan qat-qat yaxşıdır!
+   - `is_update: true` YALNIZ əvvəlki xəbərin nəticəsini köklü dəyişən yeni rəsmi fakt (məsələn, saziş imzalandı, qərar ləğv olundu) olanda icazəlidir.
 3. DOĞRULUĞU VƏ VACİBLİYİ QİYMƏTLƏNDİR:
    - 2+ müstəqil mənbə təsdiqləyirsə və ya etibarlı rəsmi mənbədirsə: `verified: true`, `verification_note: "Təsdiqlənmiş"`.
    - Yalnız 1 mənbədədirsə: `verified: false`, `verification_note: "Tək mənbə / Yoxlanılmalıdır"`.
-   - `importance` (1-10): 9-10 = fövqəladə/son dəqiqə böyük hadisə; 7-8 = çox maraqlı və ya mühüm gündəm/texnologiya/elm xəbəri; 5-6 = sıradan xəbər; 1-4 = əhəmiyyətsiz. Yalnız həqiqətən oxucunun diqqətini çəkən, paylaşılmağa dəyər xəbərlərə 7+ bal ver.
+   - `importance` (1-10): 9-10 = fövqəladə/son dəqiqə böyük hadisə; 7-8 = çox maraqlı və ya mühüm gündəm/texnologiya/elm xəbəri; 5-6 = sıradan xəbər; 1-4 = əhəmiyyətsiz. Yalnız həqiqətən oxumağa dəyər, tam yeni mövzulara 7+ bal ver.
 4. MÜASİR YAZI ÜSLUBU VƏ MÖVZU BALANSI:
-   - Maksimum {max_posts} xəbər seç. Ard-arda təkcə ağır siyasi xəbər yox, maraqlı texnologiya, elm, iqtisadiyyat və qeyri-adi dünya hadisələrini də mütləq qat.
-   - Quru, darıxdırıcı rəsmi agentlik dilindən UZAQ DUR ("çərçivəsində müvafiq tədbirlər həyata keçirilib" kimi şablonlar yazma).
-   - Başlıq (`headline_az`) qısa, kəskin və maraq oyadan olsun (klikbeyt yox, əsas faktı dərhal verən).
-   - Xülasə (`summary_az`) 2-3 cümləlik canlı, axıcı və insan kimi yazılmış Azərbaycan dilində olsun; faciə/ciddi hadisələrdə hörmətli və ciddi, texnologiya/maraqlı mövzularda isə dinamik və yaddaqalan üslub seç.
+   - Maksimum {max_posts} xəbər seç. Ağır siyasi xəbərlərin arasına maraqlı texnologiya, elm, iqtisadiyyat və qeyri-adi dünya hadisələrini də mütləq qat.
+   - Quru, rəsmi agentlik dilindən uzaq dur. Başlıq qısa və maraq oyadan, xülasə 2-3 cümləlik canlı və axıcı Azərbaycan dilində olsun.
 
 SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR:
 {history_block}
@@ -133,7 +137,7 @@ def _call_gemini(prompt: str, api_key: str, model: str, timeout: int = 45) -> st
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.3,
+            "temperature": 0.25,
             "responseMimeType": "application/json",
         },
     }
@@ -151,12 +155,12 @@ def _call_groq(prompt: str, api_key: str, model: str, timeout: int = 45) -> str:
     }
     payload = {
         "model": model,
-        "temperature": 0.3,
+        "temperature": 0.25,
         "response_format": {"type": "json_object"},
         "messages": [
             {
                 "role": "system",
-                "content": "You are a sharp, modern Azerbaijani news editor. Always respond with valid JSON only.",
+                "content": "You are a sharp, modern Azerbaijani news editor who strictly avoids duplicate or similar stories. Always respond with valid JSON only.",
             },
             {"role": "user", "content": prompt},
         ],
