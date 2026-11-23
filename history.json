@@ -203,7 +203,9 @@
     "4424eaa0e33d14eb": "2026-11-22T23:50:43.716559+00:00",
     "c9917ea98dc948a1": "2026-11-22T23:50:43.716559+00:00",
     "3cf133f15cecda71": "2026-11-22T23:56:30.463330+00:00",
-    "3a49a5c9adad9bca": "2026-11-23T00:02:22.074667+00:00"
+    "3a49a5c9adad9bca": "2026-11-23T00:02:22.074667+00:00",
+    "06059ffd2c091845": "2026-11-23T00:08:58.698279+00:00",
+    "77ea94995dc52567": "2026-11-23T00:08:58.698279+00:00"
   },
   "published_stories": [
     {
@@ -594,6 +596,15 @@
       "headline_az": "İstanbulda güclü fırtına başlayıb, hava temperaturu kəskin enəcək",
       "summary_az": "İstanbul şəhəri güclü fırtına və leysan yağışların təsirinə məruz qalıb. Sinoptiklərin məlumatına görə, sabah hava temperaturu 12 dərəcə aşağı düşəcək və hündür ərazilərdə yağışın sulu qara çevriləcəyi gözlənilir.",
       "topic_key": "istanbul-storm-temperature-drop",
+      "sources": [
+        "NTV Gündem"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T00:08:59.894082+00:00",
+      "headline_az": "Muğla sahillərində zəlzələ baş verib",
+      "summary_az": "Ege dənizində, Muğla açılarında 4,2 bal gücündə zəlzələ qeydə alınıb. Təbii fəlakət nəticəsində ilkin məlumata görə heç bir dağıntı və ya tələfat yoxdur.",
+      "topic_key": "mugla-earthquake-4-2",
       "sources": [
         "NTV Gündem"
       ]
