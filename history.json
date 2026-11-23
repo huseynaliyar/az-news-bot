@@ -1021,7 +1021,17 @@
     "28f7a594bd684f87": "2026-11-23T19:45:39.294328+00:00",
     "2c587d9dc3e32cab": "2026-11-23T19:45:39.294328+00:00",
     "12a3dcf71a473eeb": "2026-11-23T19:45:39.294328+00:00",
-    "357aee899bf00d65": "2026-11-23T19:45:39.294328+00:00"
+    "357aee899bf00d65": "2026-11-23T19:45:39.294328+00:00",
+    "8eeffc5f48299fe6": "2026-11-23T20:01:23.237476+00:00",
+    "0cf5cee2da3cc538": "2026-11-23T20:01:23.237476+00:00",
+    "ffc0cd7d6ad2d658": "2026-11-23T20:01:23.237476+00:00",
+    "3748b1e158afcc9b": "2026-11-23T20:01:23.237476+00:00",
+    "93f5ec533a157c13": "2026-11-23T20:01:23.237476+00:00",
+    "1241dea4a9a9be76": "2026-11-23T20:01:23.237476+00:00",
+    "e44edfd586567d82": "2026-11-23T20:01:23.237476+00:00",
+    "6545db87281ad58e": "2026-11-23T20:01:23.237476+00:00",
+    "72c65d25e7ff950d": "2026-11-23T20:01:23.237476+00:00",
+    "ba7fe03235f718d9": "2026-11-23T20:01:23.237476+00:00"
   },
   "published_stories": [
     {
@@ -2770,9 +2780,73 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T20:01:23.838097+00:00",
+      "headline_az": "NATO Rusiyanın gərginliyinə cavab olaraq təcili iclas çağırdı",
+      "summary_az": "Rusiya ilə bağlı bir sıra hadisələrin artması fonunda NATO təcili iclas toplayaraq üzvləri arasında koordinasiyanı gücləndirməyi planlaşdırır. Görüşdə yeni xəbərdarlıq sistemləri və müdafiə tədbirləri müzakirə olunacaq.",
+      "topic_key": "nato-urgent-meeting-russia-tensions",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Jensen Huang yenidən Nvidia-nın CEO-su oldu – Trumpun da dəstəyi var",
+      "summary_az": "Nvidia-nın qurucusu Jensen Huang, CEO vəzifəsinə qayıtdı. ABŞ prezidenti Donald Trumpun şirkətlə görüşərək Huangı yenidən rəhbərlik etməyə inandırdığı bildirildi. Şirkət işçiləri bu dönüşü coşquyla qarşıladı.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "nvidia-ceo-jensen-huang-return",
+      "source_indices": [
+        1,
+        4,
+        8,
+        9
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-ettim-964235.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T20:01:23.214558+00:00"
+    },
+    {
+      "headline_az": "Claude AI artıq kodu öz-özünə yoxlayıb düzəldə bilir",
+      "summary_az": "Anthropic şirkəti Claude AI üçün yeni funksiyalar təqdim etdi – alət indi pull request-ləri avtomatik olaraq incələyir, səhvləri düzəldir və kodu təsdiqləyə bilir. Bu, proqramçıların işini sürətləndirəcək.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "claude-ai-pull-request-review",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T20:01:23.214558+00:00"
+    },
     {
       "headline_az": "Danimarkada məktəblərdə telefon qadağası gəlir",
       "summary_az": "Danimarka hökuməti 2027-2028-ci tədris ilindən etibarən ibtidai və orta məktəblərdə mobil telefonlardan istifadəni tamamilə qadağan etməyə hazırlaşır. Bu addım şagirdlərin diqqətini dərslərə cəmləmək və rəqəmsal asılılığı azaltmaq məqsədi daşıyır.",
