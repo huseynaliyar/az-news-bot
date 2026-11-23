@@ -345,7 +345,10 @@
     "5030a011a79cff06": "2026-11-23T06:20:30.223708+00:00",
     "543da1d26ade6b78": "2026-11-23T06:20:30.223708+00:00",
     "161d420459930787": "2026-11-23T06:20:30.223708+00:00",
-    "ac41edf25840da16": "2026-11-23T06:20:30.223708+00:00"
+    "ac41edf25840da16": "2026-11-23T06:20:30.223708+00:00",
+    "c1eaab089b117cab": "2026-11-23T06:24:19.336739+00:00",
+    "918f974673cb9348": "2026-11-23T06:24:19.336739+00:00",
+    "ea06e299d2d31b86": "2026-11-23T06:24:19.336739+00:00"
   },
   "published_stories": [
     {
@@ -1468,31 +1471,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:24:19.844330+00:00",
+      "headline_az": "Suriya və Aİ arasında danışıqlar irəliləyir, əsas müzakirə mövzusu miqrasiyadır",
+      "summary_az": "Suriya ilə Avropa İttifaqı arasında ticarət və siyasi əlaqələrin bərpası istiqamətində danışıqlar davam edir. Diplomatlar prosesdə əsas diqqətin qaçqınların geri qaytarılması məsələsinə yönələcəyindən ehtiyat edirlər.",
+      "topic_key": "syria-eu-talks-migration-focus",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Suriya və Aİ arasında danışıqlar irəliləyir, əsas müzakirə mövzusu miqrasiyadır",
-      "summary_az": "Suriya ilə Avropa İttifaqı arasında ticarət və siyasi əlaqələrin bərpası istiqamətində danışıqlar davam edir. Diplomatlar prosesdə əsas diqqətin qaçqınların geri qaytarılması məsələsinə yönələcəyindən ehtiyat edirlər.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "syria-eu-talks-migration-focus",
-      "source_indices": [
-        7
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:20:30.223670+00:00"
-    },
     {
       "headline_az": "\"Beşiktaş\" səfərdə \"Konyaspor\"u məğlub edərək vacib qələbə qazandı",
       "summary_az": "Trendyol Super Liqasında mübarizə aparan \"Beşiktaş\" səfərdə \"Konyaspor\"u 4-2 hesabı ilə məğlub edib. Qara-ağrılılar bu nəticə ilə mövsümdə İstanbul xaricində ilk üç xalını qazanmış olub.",
