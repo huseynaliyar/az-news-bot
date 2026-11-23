@@ -265,7 +265,9 @@
     "779b0d3be45d1412": "2026-11-23T04:26:29.909874+00:00",
     "a0eccb1934e38d34": "2026-11-23T04:26:29.909874+00:00",
     "327c4100e104745a": "2026-11-23T04:26:29.909874+00:00",
-    "cf9ea893d908d43e": "2026-11-23T04:26:29.909874+00:00"
+    "cf9ea893d908d43e": "2026-11-23T04:26:29.909874+00:00",
+    "5c14cf1d9e15b823": "2026-11-23T04:30:34.588856+00:00",
+    "4fc130b3e831ca5c": "2026-11-23T04:30:34.588856+00:00"
   },
   "published_stories": [
     {
@@ -1001,6 +1003,15 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:30:36.259370+00:00",
+      "headline_az": "COP31 İqlim Sammiti qlobal razılaşma uğursuzluğu ilə başa çatıb",
+      "summary_az": "İrlandiyada keçirilən COP31 İqlim Sammiti əsas saziş əldə olunmadan, fosil yanacaqlar üzrə dərin fikir ayrılıqları fonunda yekunlaşdı. Ekspertlər Bakıdakı COP29 təcrübəsinin bu kontekstdə fərqli və göstərici alternativ olduğunu qeyd edirlər.",
+      "topic_key": "cop31-climate-summit-antalya",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
@@ -1025,6 +1036,28 @@
       "importance": 6,
       "image_url": "",
       "queued_at": "2026-11-23T04:26:29.909845+00:00"
+    },
+    {
+      "headline_az": "Azərbaycanlı keçmiş televiziya aparıcısı Ada Süleyman vəfat edib",
+      "summary_az": "ARB TV-nin keçmiş aparıcısı Ada Süleyman doğum gününü qeyd edərkən faciəli şəkildə dünyasını dəyişib. Hadisə ictimaiyyət arasında kədərlə qarşılanıb və hüquq-mühafizə orqanları tərəfindən araşdırma aparılır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "ada-suleyman-passed-away",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/cemiyyet/dogum-gununu-qeyd-eden-azerbaycanli-aparici-facieli-sekilde-oldu"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://images.oxu.az/2026/11/23/k5G5mrKb7ceSYYJjxtY3FDEIqMuuui9BGe38wvnu:640.png",
+      "queued_at": "2026-11-23T04:30:34.588811+00:00"
     }
   ]
 }
