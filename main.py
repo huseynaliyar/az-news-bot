@@ -77,23 +77,28 @@ def run() -> int:
 
     if unseen_items:
         recent_stories = memory.get_recent_stories(memory_days=memory_days)
-        curated = curate_news(
-            candidates=unseen_items,
-            recent_stories=recent_stories,
-            max_posts=max_curate_per_run,
-        )
-        curated = [s for s in curated if s.importance >= min_importance]
-        if only_verified:
-            curated = [s for s in curated if s.verified]
+        try:
+            curated = curate_news(
+                candidates=unseen_items,
+                recent_stories=recent_stories,
+                max_posts=max_curate_per_run,
+            )
+            curated = [s for s in curated if s.importance >= min_importance]
+            if only_verified:
+                curated = [s for s in curated if s.verified]
 
-        memory.enqueue_stories([s.to_dict() for s in curated])
-        memory.mark_urls_seen([item.url for item in unseen_items])
-        logger.info(
-            "AI %d mühüm xəbəri (>=%d bal) növbəyə əlavə etdi. Ümumi növbə: %d",
-            len(curated),
-            min_importance,
-            len(memory.pending_queue),
-        )
+            memory.enqueue_stories([s.to_dict() for s in curated])
+            memory.mark_urls_seen([item.url for item in unseen_items])
+            logger.info(
+                "AI %d mühüm xəbəri (>=%d bal) növbəyə əlavə etdi. Ümumi növbə: %d",
+                len(curated),
+                min_importance,
+                len(memory.pending_queue),
+            )
+        except Exception as exc:
+            logger.warning(
+                "AI müvəqqəti əlçatan deyil, növbədəki xəbərlə davam edilir: %s", exc
+            )
 
     to_publish_dicts = memory.pop_stories_to_publish(
         posts_per_run=posts_per_run,
