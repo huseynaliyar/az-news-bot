@@ -586,7 +586,24 @@
     "a69b661e506af5c0": "2026-11-23T09:30:42.431751+00:00",
     "476e3de4bfff99a8": "2026-11-23T09:30:42.431751+00:00",
     "1feaef85738675d1": "2026-11-23T09:30:42.431751+00:00",
-    "3197a3ee068917cc": "2026-11-23T09:30:42.431751+00:00"
+    "3197a3ee068917cc": "2026-11-23T09:30:42.431751+00:00",
+    "c850880b9f2be83f": "2026-11-23T09:45:29.775751+00:00",
+    "521a97b3d0d51793": "2026-11-23T09:45:29.775751+00:00",
+    "96bcc4d3733c5c5a": "2026-11-23T09:45:29.775751+00:00",
+    "99bb82bb92e5b293": "2026-11-23T09:45:29.775751+00:00",
+    "46994e8764f9895a": "2026-11-23T09:45:29.775751+00:00",
+    "08da113745c9f695": "2026-11-23T09:45:29.775751+00:00",
+    "dbb2a88a05e34f7c": "2026-11-23T09:45:29.775751+00:00",
+    "8f43b1abacba689c": "2026-11-23T09:45:29.775751+00:00",
+    "c50eb3b9cc753fc5": "2026-11-23T09:45:29.775751+00:00",
+    "2a3eba6f13b388e4": "2026-11-23T09:45:29.775751+00:00",
+    "e8ab59461e7fc73e": "2026-11-23T09:45:29.775751+00:00",
+    "0b12a2088bbb86cf": "2026-11-23T09:45:29.775751+00:00",
+    "2573c175d851450e": "2026-11-23T09:45:29.775751+00:00",
+    "d2d8970beda1d00b": "2026-11-23T09:45:29.775751+00:00",
+    "e0b871c192589d49": "2026-11-23T09:45:29.775751+00:00",
+    "3e4453762f3d5642": "2026-11-23T09:45:29.775751+00:00",
+    "946a6895071ed0dd": "2026-11-23T09:45:29.775751+00:00"
   },
   "published_stories": [
     {
@@ -2021,9 +2038,40 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T09:45:30.272545+00:00",
+      "headline_az": "İsrailin hücumları Qəzzanı zəhərli səhraya çevirib",
+      "summary_az": "Britaniyanın \"Oxfam\" xeyriyyə təşkilatının yeni hesabatına əsasən, İsrailin hərbi əməliyyatları Qəzza zolağında kütləvi ekoloji çirklənməyə səbəb olub. Ərazinin 99%-də təbiət ciddi zərər görüb.",
+      "topic_key": "gaza-toxic-wasteland-report",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Meta rəsmisi: Süni intellekt superintellekti qapıdadır",
+      "summary_az": "Meta-nın baş süni intellekt direktoru Aleksandr Vanq bəyan edib ki, bəşəriyyətin qarşıdakı ildə atacağı addımlar dünyanın gələcəyi üçün həlledici əhəmiyyət daşıyacaq. Ekspert yaxın gələcəkdə süni superintellektin yaranacağını xəbərdar edir.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "meta-ai-superintelligence-warning",
+      "source_indices": [
+        14
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T09:45:29.775711+00:00"
+    },
     {
       "headline_az": "Süni intellekt dövrü: Türkiyədə insansı robot istehsalı üçün hibe dəstəyi başlayır",
       "summary_az": "Sənaye və texnologiya naziri Mehmet Fatih Kacır sənayedə süni intellekt əsaslı robot həllərinin artırılması məqsədilə yeni proqramın elan edildiyini bildirib. 'Sanayi Uygulamaları İçin İnsansı Robot Geliştirme Çağrısı' çərçivəsində bu sahədə addım atan şirkətlərə maliyyə dəstəyi veriləcək.",
@@ -2089,6 +2137,28 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Braziliyada 74 yaşlı kişi 11 gün cəngəllikdə təkbaşına qaldı",
+      "summary_az": "Amazon cəngəlliklərində itkin düşən Altsheymer xəstəsi olan 74 yaşlı kişi 11 gündən sonra sağ tapılıb. O, bu müddət ərzində yalnız yabanı meyvələrlə qidalanaraq həyatda qalmağı bacarıb.",
+      "category": "Maraqlı",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "brazil-elderly-survives-jungle",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/braziliyada-itkin-dusen-74-yasli-kisi-11-gun-sonra-cengellikden-sag-tapildi"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/9EY7008afybtTH9vsBtUkkbnBDXe5CCrUmX4f5zH:640.webp",
+      "queued_at": "2026-11-23T09:45:29.775711+00:00"
     },
     {
       "headline_az": "Azərbaycan və Özbəkistan parlamentlərarası yeni əməkdaşlığa hazırlaşır",
@@ -2221,50 +2291,6 @@
       "importance": 7,
       "image_url": "https://www.azernews.az/media/2026/11/23/s5tawlfyrsl5w2drvzypu24w8owukoandlrpop6e_1200.png",
       "queued_at": "2026-11-23T09:00:42.633233+00:00"
-    },
-    {
-      "headline_az": "Antalyada baş tutan İqlim Konfransında 36 başlıkta ortaq qərar qəbul edildi",
-      "summary_az": "Türkiyənin ev sahibliyi ilə keçirilən BMT-nin İqlim Dəyişikliyi Konfransında fosil yanacaqlar üzrə ümumi razılıq əldə olunmasa da, iklim maliyyəsi və adil keçid daxil olmaqla 36 mühüm istiqamətdə konkret qərarlar imzalanıb.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "cop31-antalya-decisions",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/cop31de-36-baslikta-somut-kararlar-alindi-964189.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T09:00:42.633233+00:00"
-    },
-    {
-      "headline_az": "Türkiyə kənd təsərrüfatında yeni dövrə başlayır: OECD-dən geniş hesabat",
-      "summary_az": "İqtisadi Əməkdaşlıq və İnkişaf Təşkilatı (OECD) Türkiyənin 2024-cü ildən etibarən tarımsal istehsalda planlaşdırma yanaşmasını gücləndirdiyini və əsaslı islahatlar həyata keçirdiyini açıqlayıb. Bu addım ölkənin qida təhlükəsizliyini və kənd təsərrüfatı potensialını gücləndirməyə hədəflənib.",
-      "category": "İqtisadiyyat",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-oecd-agriculture-reform",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/ekonomi/oecd-acikladi-turkiyede-tarim-politikalari-kapsamli-reform-964191.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:45:27.269843+00:00"
     }
   ]
 }
