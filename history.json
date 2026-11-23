@@ -307,7 +307,11 @@
     "d9739bbb345c61ce": "2026-11-23T05:40:25.524689+00:00",
     "10b6b04ecee27ed7": "2026-11-23T05:42:23.097071+00:00",
     "843a43ced1cc0806": "2026-11-23T05:44:19.038500+00:00",
-    "86580df5f36aca08": "2026-11-23T05:44:19.038500+00:00"
+    "86580df5f36aca08": "2026-11-23T05:44:19.038500+00:00",
+    "76d433e5734bd0a8": "2026-11-23T05:48:27.586744+00:00",
+    "4a665209cbf731f7": "2026-11-23T05:48:27.586744+00:00",
+    "63b3fde43a63e760": "2026-11-23T05:48:27.586744+00:00",
+    "50cac082e08a295f": "2026-11-23T05:48:27.586744+00:00"
   },
   "published_stories": [
     {
@@ -1295,7 +1299,83 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:48:28.128640+00:00",
+      "headline_az": "Liviya limanında Rusiya gəmisinin hücuma məruz qalması araşdırılır",
+      "summary_az": "Liviyanın Benqazi limanında dayanan Rusiya hərbi gəmisinin ehtimal olunan Ukrayna dron zərbəsi nəticəsində partlayışa məruz qaldığı bildirilir. Hadisə ilə bağlı Liviyanın şərqi hökuməti tərəfindən araşdırmalara başlanılıb və beynəlxalq KİV-də müxtəlif təsdiqlənməmiş detallar yayılıb.",
+      "topic_key": "russia-ship-attack-mediterranean",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Braziliyada elm adamları xəstəlik yayan ağcaqanadlara qarşı yeni üsul tapıblar",
+      "summary_az": "Aparılan yeni araşdırma göstərib ki, 'Wolbachia' bakteriyası daşıyan xüsusi ağcaqanad növü dang humması və çikunqunya kimi təhlükəli infeksiyaların yayılmasını təxminən 69 faiz azaldır. Bu təbii üsul virusların ötürülməsinin qarşısını almaqda mühüm irəliləyiş hesab olunur.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "wolbachia-mosquito-disease-reduction",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/bilim-insanlarindan-sivrisinek-kaynakli-hastaliklara-sivrisinekle-cozum-964174.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "Türkiyə Daxili İşlər Nazirliyi 1170 müqaviləli işçi qəbul edəcək",
+      "summary_az": "Türkiyə Daxili İşlər Nazirliyi mərkəzi və regional strukturlarında çalışmaq üzrə ümumilikdə 1170 müqaviləli işçi qəbul edəcəyini açıqlayıb. Dövlət qurumlarında işləmək istəyən namizədlər üçün müraciət şərtləri və tarixi yaxın vaxtlarda ictimaiyyətə təqdim olunacaq.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": true,
+      "topic_key": "turkey-interior-ministry-personnel-recruitment",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/galeri-icisleri-bakanligi-1170-personel-alimi-yapacak-basvurular-ne-zaman-sartlar-neler-1752134"
+        }
+      ],
+      "importance": 6,
+      "image_url": "https://images.ntv.com.tr/images/thumbs_b_c_b1248a85b185a6ebc9e161bc97d815f0-226790.jpg",
+      "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "Türkiyədə 'həmişə ucuz' şüarı ilə reklam edən marketə 1 milyon lirədən çox cəza kəsilib",
+      "summary_az": "Ticarət Nazirliyi tərəfindən aparılan yoxlamalar zamanı 'həmişə ucuz' şüarından istifadə edən bir şəbəkə marketin bu iddiasını sübut edəcək kifayət qədər dəlil tapılmayıb. Market rəhbərliyinə qanunsuz reklam və əsassız iddialara görə 1 milyon 83 min 706 lirə məbləğində inzibati cərimə tətbiq olunub.",
+      "category": "İqtisadiyyat",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "turkey-market-fine-cheap-slogan",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/ekonomi/hep-ucuz-sloganina-1-milyon-tl-ceza-bakanligin-denetimine-takildi-3496697"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    }
+  ]
 }
