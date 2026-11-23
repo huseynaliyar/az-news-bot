@@ -360,7 +360,10 @@
     "df4028eab837f661": "2026-11-23T06:34:20.258872+00:00",
     "a136fdb52d0513fd": "2026-11-23T06:36:23.049317+00:00",
     "3650748ad24aa9ca": "2026-11-23T06:36:23.049317+00:00",
-    "89d54806132c4895": "2026-11-23T06:36:23.049317+00:00"
+    "89d54806132c4895": "2026-11-23T06:36:23.049317+00:00",
+    "103492dce6cd105e": "2026-11-23T06:40:27.909640+00:00",
+    "3350081ef781da99": "2026-11-23T06:40:27.909640+00:00",
+    "093ec688a345ed92": "2026-11-23T06:40:27.909640+00:00"
   },
   "published_stories": [
     {
@@ -1555,9 +1558,40 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:40:29.010441+00:00",
+      "headline_az": "İsrail ordusu İrana qarşı ehtimal olunan hücumla bağlı rəsmi xəbərdarlıq yayıb",
+      "summary_az": "İsrail silahlı qüvvələri İrana qarşı mümkün hərbi addımlar və gözlənilən hücumlarla əlaqədar rəsmi xəbərdarlıq edib. Regional gərginliyin artdığı bir dövrdə bu bəyanat beynəlxalq ictimaiyyətin diqqətini çəkib.",
+      "topic_key": "israel-iran-military-warning",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Finlandiya körfəzində Rusiya gəmisinə PUA hücumu olub",
+      "summary_az": "Finlandiya körfəzində Kalininqrada gedən Rusiya gəmisi PUA hücumuna məruz qalıb. Hadisə nəticəsində gəmidə yanğın baş verib və Ukraynada bu insident müzakirələrə səbəb olub.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "russia-ship-finland-gulf-uav-attack",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95UV9EY0dWeVBpYk1scVpEZXVrVFh1cHpyczBWcklKRzl5NkcwdDlocUFsbkFrQWo2MDlHMDJ2UFIya0hNZWRr?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:40:27.909607+00:00"
+    },
     {
       "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
       "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
