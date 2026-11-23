@@ -254,7 +254,8 @@
     "cc007f7e6b3995da": "2026-11-23T04:00:36.481744+00:00",
     "608eb32445249feb": "2026-11-23T04:00:36.481744+00:00",
     "3efdca4bdc8fce44": "2026-11-23T04:02:29.093489+00:00",
-    "f98c810ef619cbe0": "2026-11-23T04:04:30.937016+00:00"
+    "f98c810ef619cbe0": "2026-11-23T04:04:30.937016+00:00",
+    "9653439da12433b5": "2026-11-23T04:06:23.105873+00:00"
   },
   "published_stories": [
     {
@@ -935,6 +936,15 @@
       "topic_key": "george-washington-hair-auction",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:06:23.640275+00:00",
+      "headline_az": "BMT-nin ali məhkəməsi Myanmanı soyqırımda məsuliyyətli görüb",
+      "summary_az": "BMT-nin ən ali məhkəməsi tarixində ilk dəfə olaraq bir ölkəni soyqırımda məsuliyyətli hesab edib. Qərardan sonra ABŞ-nin Nobel mükafatlı hakimə qarşı sanksiya tətbiq edə biləcəyi ilə bağlı narahatlıqlar artır. Beynəlxalq ictimaiyyət rohingya qaçqınlarına dəstək ifadə edərək addımlar atmağa çağırır.",
+      "topic_key": "myanmar-genocide-ruling-un",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
