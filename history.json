@@ -1137,7 +1137,16 @@
     "214d181c17ccbb83": "2026-11-23T23:15:34.663041+00:00",
     "1d7a95b35b38959e": "2026-11-23T23:15:34.663041+00:00",
     "54a453cbd6408060": "2026-11-23T23:15:34.663041+00:00",
-    "f80183e28ec2b8be": "2026-11-23T23:15:34.663041+00:00"
+    "f80183e28ec2b8be": "2026-11-23T23:15:34.663041+00:00",
+    "d00a4a00e14f09bf": "2026-11-23T23:30:36.720949+00:00",
+    "c09df5321d05a286": "2026-11-23T23:30:36.720949+00:00",
+    "918d9663f0af1eb5": "2026-11-23T23:30:36.720949+00:00",
+    "6ea1baca1adde901": "2026-11-23T23:30:36.720949+00:00",
+    "d0cee3445916b536": "2026-11-23T23:30:36.720949+00:00",
+    "16ad84bc2a008b00": "2026-11-23T23:30:36.720949+00:00",
+    "d42171599ff14870": "2026-11-23T23:30:36.720949+00:00",
+    "bc892a2eb0b7659c": "2026-11-23T23:30:36.720949+00:00",
+    "38a232d9dbda58b1": "2026-11-23T23:30:36.720949+00:00"
   },
   "published_stories": [
     {
@@ -3014,9 +3023,40 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T23:30:37.807060+00:00",
+      "headline_az": "700 milyonluq boşanma: Cənubi Koreyada 9 illik məhkəmə bitdi",
+      "summary_az": "Cənubi Koreyanın ən varlı iş adamlarından biri, \"SK Group\"un rəhbəri Çve Te Von ölkə tarixinin ən səs-küylü və bahalı boşanma prosesinə son qoyub. Məhkəmənin qərarı ilə iş adamı keçmiş həyat yoldaşına nəhəng kompensasiya ödəməli olub.",
+      "topic_key": "south-korea-billionaire-divorce",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Trump Ayovada zəhərli partlayıcıların məhv edilməsini təxirə saldı",
+      "summary_az": "ABŞ Prezidenti Donald Trump ordu tərəfindən Ayova ştatında həyata keçirilməsi planlaşdırılan təxminən beş ton qurğuşun azid tərkibli zəhərli partlayıcı maddənin partladılmasını yenidən təxirə salıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "trump-iowa-explosives-postponed",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T23:30:36.702830+00:00"
+    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
