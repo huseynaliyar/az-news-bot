@@ -4,6 +4,7 @@ import html
 import logging
 import re
 import time
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -37,6 +38,13 @@ VIDEO_INDICATOR_RE = re.compile(
 def _is_youtube_url(url: str) -> bool:
     u = url.lower()
     return "youtube.com/watch" in u or "youtu.be/" in u or "youtube.com/shorts/" in u
+
+
+def is_baku_night(start_hour: int = 0, end_hour: int = 8) -> bool:
+    baku_hour = (datetime.now(timezone.utc) + timedelta(hours=4)).hour
+    if start_hour < end_hour:
+        return start_hour <= baku_hour < end_hour
+    return baku_hour >= start_hour or baku_hour < end_hour
 
 
 def fetch_article_media(article_url: str, timeout: int = 8) -> tuple[str, str]:
@@ -107,6 +115,7 @@ def send_telegram_message(
     chat_id: str,
     text: str,
     disable_preview: bool = True,
+    disable_notification: bool = False,
     reply_markup: dict | None = None,
     timeout: int = 20,
 ) -> dict:
@@ -116,6 +125,7 @@ def send_telegram_message(
         "text": text,
         "parse_mode": "HTML",
         "disable_web_page_preview": disable_preview,
+        "disable_notification": disable_notification,
     }
     if reply_markup:
         payload["reply_markup"] = reply_markup
@@ -129,6 +139,7 @@ def send_telegram_photo(
     chat_id: str,
     photo_url: str,
     caption: str,
+    disable_notification: bool = False,
     reply_markup: dict | None = None,
     timeout: int = 25,
 ) -> dict:
@@ -138,6 +149,7 @@ def send_telegram_photo(
         "photo": photo_url,
         "caption": caption[:1024],
         "parse_mode": "HTML",
+        "disable_notification": disable_notification,
     }
     if reply_markup:
         payload["reply_markup"] = reply_markup
@@ -152,11 +164,16 @@ def publish_stories(
     chat_id: str,
     dry_run: bool = False,
     delay_seconds: float = 1.5,
+    urgent_threshold: int = 9,
+    silent_night: bool = True,
 ) -> int:
     sent_count = 0
+    night_mode = silent_night and is_baku_night(0, 8)
+
     for story in stories:
         message = format_telegram_message(story)
         primary_url = story.sources[0]["url"] if story.sources else ""
+        silent = night_mode and (story.importance < urgent_threshold)
 
         video_watch_url = primary_url if _is_youtube_url(primary_url) else ""
         image_url = story.image_url
@@ -175,9 +192,10 @@ def publish_stories(
 
         if dry_run:
             logger.info(
-                "[DRY_RUN] Telegram (img=%s | video_btn=%s):\n%s\n%s",
+                "[DRY_RUN] Telegram (img=%s | video_btn=%s | silent=%s):\n%s\n%s",
                 bool(image_url),
                 video_watch_url or "yox",
+                silent,
                 message,
                 "-" * 40,
             )
@@ -192,6 +210,7 @@ def publish_stories(
                     chat_id=chat_id,
                     photo_url=image_url,
                     caption=message,
+                    disable_notification=silent,
                     reply_markup=reply_markup,
                 )
                 posted = True
@@ -204,6 +223,7 @@ def publish_stories(
                 chat_id=chat_id,
                 text=message,
                 disable_preview=not _is_youtube_url(primary_url),
+                disable_notification=silent,
                 reply_markup=reply_markup,
             )
 
