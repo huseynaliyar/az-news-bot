@@ -335,7 +335,9 @@
     "2658de370fe86db8": "2026-11-23T06:14:22.808522+00:00",
     "6404881c1ec12e76": "2026-11-23T06:14:22.808522+00:00",
     "a910f5a9c9390344": "2026-11-23T06:14:22.808522+00:00",
-    "faddf5176bdb4fc2": "2026-11-23T06:16:28.339488+00:00"
+    "faddf5176bdb4fc2": "2026-11-23T06:16:28.339488+00:00",
+    "f31befbfb94e8a88": "2026-11-23T06:18:21.652449+00:00",
+    "0c1631ac68fdb58b": "2026-11-23T06:18:21.652449+00:00"
   },
   "published_stories": [
     {
@@ -1431,30 +1433,39 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:18:22.129950+00:00",
+      "headline_az": "Rusiya bölgələrində PUA təhlükəsi elan edilib",
+      "summary_az": "Rusiyanın Ukrayna sərhədindən təxminən 2000 kilometr məsafədə yerləşən Çelyabinsk və Sverdlovsk vilayətlərində pilotsuz uçuş aparatları təhlükəsi səbəbindən xəbərdarlıq elan olunub. Hadisə ilə əlaqədar aidiyyəti qurumlar gücləndirilmiş iş rejiminə keçib.",
+      "topic_key": "russia-ural-uav-alert",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
     {
-      "headline_az": "Rusiya bölgələrində PUA təhlükəsi elan edilib",
-      "summary_az": "Rusiyanın Ukrayna sərhədindən təxminən 2000 kilometr məsafədə yerləşən Çelyabinsk və Sverdlovsk vilayətlərində pilotsuz uçuş aparatları təhlükəsi səbəbindən xəbərdarlıq elan olunub. Hadisə ilə əlaqədar aidiyyəti qurumlar gücləndirilmiş iş rejiminə keçib.",
-      "category": "Dünya",
-      "region": "world",
+      "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
+      "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
+      "category": "İqtisadiyyat",
+      "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "russia-ural-uav-alert",
+      "topic_key": "turkey-trade-ministry-inspections-fines",
       "source_indices": [
-        1
+        0
       ],
       "sources": [
         {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTi1KYzBwcEhLeXhMc0pPUXJ2TWp2NVFuZGgtYzBxdUZFV05WUzFURVdyaTd2QzA1VHVZOWRDYXE2ZGZ4c216ejN2a2czUzBZRDd2alJPQ2JvZlVkNlNYRUtwd0xqSGpxaFlHdlJCOXI2dlNiQV9KdW9ReWVzdldWc0VQUnVORHF2cXF4Q1dOV0pfbEs5ZjJOUkVnbUpQTjUxaXd2bC0tdUh4VzZMdGNTaGRHMUdsMVZJcWNoQ25xTWNFd9IBxwFBVV95cUxNeGVDd2w3X0RhbFNaRGQwMENjSE9KMzJOaXk5RldpZFYtVlpobVNDNS1WWlZ2OHNfemgyd3VOYjV6cFdrdXBRb0JWX1p5LU9JV3A3clB4TUtEUktsQ1pDZzVnd1RHMFA5R1JIbTUtNmxHNzdIZV9ZRXJmbFZndXJYcFg5NlEzNFhlYzlCaVVXczJYdm9CUnhOZnIzSmR0bS1JVG9XeFFNUUJraDJxSU1YdWMyMkZtRURMNlVQbHJPQ1MzMFM1Wlhn?oc=5"
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-10-ayda-401-bin-firma-ve-477-milyon-urune-denetim-964176.html"
         }
       ],
-      "importance": 7,
+      "importance": 6,
       "image_url": "",
-      "queued_at": "2026-11-23T06:14:22.808487+00:00"
+      "queued_at": "2026-11-23T06:18:21.652416+00:00"
     },
     {
       "headline_az": "İstanbulun Bakırköy rayonunda kimsəsiz bina çöküb",
@@ -1543,6 +1554,28 @@
       "importance": 6,
       "image_url": "",
       "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "İstanbulun TEM magistral yolunda yeni şerit tənzimləməsi tətbiq olunub",
+      "summary_az": "İstanbuldakı TEM otoyolunda həyata keçirilən yeni tənzimləməyə əsasən şerit sayı 4-ə yüksəldilib və müəyyən hissələrdə quraşdırılan EDS kameraları sökülüb. Sürücülərə həmin zolaqdan istifadəyə görə artıq cəza kəsilməyəcəyi bildirilib.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "istanbul-tem-highway-eds-cameras-removed",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTVpRkJsc2U0VnAyM3BKMXZTUEVwRnBUUnctSTByTU9WTGJvckRXTlpUNEl0OHk4eE0wN0RUN2xuaWpJOG9VTEp0R3RTbHNkRjJ0MENKek5nMVVBcGJsc0JtSE80aUMyUW9QRTdGTGdMWS1fUk8tYjdXZTQxQS1sUWpfMHJhRVRFSjgtcE9Na2dzRjFXcTFFdEc2YXlRREczT3lET0VsVzNQX2ppN2lYZXZacEFGc1dJRzlV?oc=5"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:18:21.652416+00:00"
     },
     {
       "headline_az": "Almaniyanın Ştutqart şəhərində tanınmış bəstəkar Musa Mirzəyevin xatirəsinə həsr olunmuş konsert keçirilib",
