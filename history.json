@@ -278,7 +278,10 @@
     "765a6fc865113225": "2026-11-23T04:48:20.655743+00:00",
     "48a67c5205ae214c": "2026-11-23T04:48:20.655743+00:00",
     "2bbed429bff67971": "2026-11-23T04:50:27.349853+00:00",
-    "954474cdd993f13b": "2026-11-23T04:52:19.916603+00:00"
+    "954474cdd993f13b": "2026-11-23T04:52:19.916603+00:00",
+    "72070b6a19838555": "2026-11-23T04:54:20.339491+00:00",
+    "e6ba7cbefba9bcdd": "2026-11-23T04:54:20.339491+00:00",
+    "b46f94b191a6614a": "2026-11-23T04:54:20.339491+00:00"
   },
   "published_stories": [
     {
@@ -1086,7 +1089,39 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:54:20.879269+00:00",
+      "headline_az": "Ukraynada dron hücumu zamanı dağıntılar altında qalan 7 yaşlı uşaq xilas edilib",
+      "summary_az": "Ukraynada yaşayış binasına edilən hücum nəticəsində baş verən dağıntılar altından 7 yaşlı uşaq sağ xilas olunub. Xilasetmə əməliyyatı 14 saat davam edib.",
+      "topic_key": "ukraine-residential-strike-survivor",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Çində qanadları olmayan uçan avtomobil sınaqdan keçirilib",
+      "summary_az": "Çinin Hunan əyalətinin Çanşa şəhərində yenilikçi nəqliyyat vasitəsinin prototipi ilk uğurlu uçuşunu həyata keçirib. Qanadları olmayan uçan avtomobil mütəxəssislərin və vətəndaşların marağına səbəb olub.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "china-flying-car-test",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/cinde-ucan-avtomobil-sinaqdan-kecirildi-video"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://images.oxu.az/2026/11/22/U48tB1E0UTtVJSiu3TxVveOA2lpUQXEPASrFcSMY:640.jpg",
+      "queued_at": "2026-11-23T04:54:20.339467+00:00"
+    }
+  ]
 }
