@@ -252,7 +252,8 @@
     "54fc3f599fccb214": "2026-11-23T03:50:36.798317+00:00",
     "f2e9dee65ad8f331": "2026-11-23T03:56:20.885489+00:00",
     "cc007f7e6b3995da": "2026-11-23T04:00:36.481744+00:00",
-    "608eb32445249feb": "2026-11-23T04:00:36.481744+00:00"
+    "608eb32445249feb": "2026-11-23T04:00:36.481744+00:00",
+    "3efdca4bdc8fce44": "2026-11-23T04:02:29.093489+00:00"
   },
   "published_stories": [
     {
@@ -915,6 +916,15 @@
       "topic_key": "turkey-storm-rain-warning",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:02:29.458397+00:00",
+      "headline_az": "Mauricio Pochettino-nun 'Mançester Yunayted'də kabuslu debütü",
+      "summary_az": "Mauricio Pochettino \"Mançester Yunayted\"in baş məşqçisi kimi ilk oyununda ağır məğlubiyyətlə üzləşib. Komanda \"Liverpul\"a 0-4 hesabı ilə uduzaraq mövsümə uğursuz start çəkib.",
+      "topic_key": "pochettino-man-utd-liverpool-defeat",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
