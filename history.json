@@ -239,7 +239,8 @@
     "be09cc46d74d570e": "2026-11-23T03:00:41.948363+00:00",
     "88ba4b4797cf6601": "2026-11-23T03:10:30.305113+00:00",
     "6352bd0d59b48f2b": "2026-11-23T03:10:30.305113+00:00",
-    "76dc4ef358138785": "2026-11-23T03:10:30.305113+00:00"
+    "76dc4ef358138785": "2026-11-23T03:10:30.305113+00:00",
+    "8944159f24ba8394": "2026-11-23T03:18:31.320186+00:00"
   },
   "published_stories": [
     {
@@ -848,6 +849,15 @@
       "topic_key": "san-francisco-ai-boom-crash-worry",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T03:18:31.898113+00:00",
+      "headline_az": "Türkiyədə Sözcü TV əməliyyatı: 4 şübhəli azadlığa buraxılıb",
+      "summary_az": "Türkiyədə Sözcü Televiziyasının sahibi Burak Akbay ilə bağlı aparılan istintaq çərçivəsində saxlanılan 4 nəfər məhkəmə nəzarəti şərtilə sərbəst buraxılıb. Hadisə media sektorunda geniş rezonans doğurub və müzakirələrə səbəb olub.",
+      "topic_key": "turkey-sozcu-tv-investigation",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
