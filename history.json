@@ -463,7 +463,30 @@
     "1124ce019d0a87b1": "2026-11-23T08:00:40.098213+00:00",
     "661a0aec0c585c76": "2026-11-23T08:00:40.098213+00:00",
     "41b4fee66a0a6f5b": "2026-11-23T08:00:40.098213+00:00",
-    "6e3cc82c463e7615": "2026-11-23T08:00:40.098213+00:00"
+    "6e3cc82c463e7615": "2026-11-23T08:00:40.098213+00:00",
+    "7404047ec530c56e": "2026-11-23T08:15:30.338923+00:00",
+    "fc8fc01dea6c14be": "2026-11-23T08:15:30.338923+00:00",
+    "258750bef2449b3f": "2026-11-23T08:15:30.338923+00:00",
+    "313f19932229a0be": "2026-11-23T08:15:30.338923+00:00",
+    "b20f955e70b76d18": "2026-11-23T08:15:30.338923+00:00",
+    "cea7a7e385a27208": "2026-11-23T08:15:30.338923+00:00",
+    "16406ea3f188c1b3": "2026-11-23T08:15:30.338923+00:00",
+    "980dc5017823eb7e": "2026-11-23T08:15:30.338923+00:00",
+    "d348a385f9acaa57": "2026-11-23T08:15:30.338923+00:00",
+    "e3931717de1c8af4": "2026-11-23T08:15:30.338923+00:00",
+    "9c394f9ac8ab82be": "2026-11-23T08:15:30.338923+00:00",
+    "c7250a47da5eb548": "2026-11-23T08:15:30.338923+00:00",
+    "e5fd1e887c9f3cf9": "2026-11-23T08:15:30.338923+00:00",
+    "65aa2b8095b3ebc5": "2026-11-23T08:15:30.338923+00:00",
+    "291b87b01ae25e81": "2026-11-23T08:15:30.338923+00:00",
+    "2a28ba77ca378ec5": "2026-11-23T08:15:30.338923+00:00",
+    "1cfd9703bfc112a3": "2026-11-23T08:15:30.338923+00:00",
+    "071ecea3c5d18216": "2026-11-23T08:15:30.338923+00:00",
+    "49907e0bb8d1867c": "2026-11-23T08:15:30.338923+00:00",
+    "10b498a97ba2dbd1": "2026-11-23T08:15:30.338923+00:00",
+    "c75173c6f148df96": "2026-11-23T08:15:30.338923+00:00",
+    "0dc4c14d51689938": "2026-11-23T08:15:30.338923+00:00",
+    "b88644bfbba75e75": "2026-11-23T08:15:30.338923+00:00"
   },
   "published_stories": [
     {
@@ -1829,9 +1852,113 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T08:15:31.360653+00:00",
+      "headline_az": "Ukrayna Liviya sahilində Rusiya hərbi gəmisini vurduğunu təsdiqlədi",
+      "summary_az": "Ukrayna qüvvələri Liviya sahillərində Rusiya gəmisinə qarşı uğurlu PUA əməliyyatı həyata keçirdiyini bəyan edib. BMT baş verənlərlə bağlı dərhal və şəffaf araşdırma aparılmasına çağırış edib.",
+      "topic_key": "russia-ship-attack-mediterranean",
+      "sources": [
+        "AzerNews",
+        "Al Jazeera",
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Prezident İlham Əliyev İtaliyanın baş nazir müavinini qəbul edib",
+      "summary_az": "Azərbaycan Prezidenti İlham Əliyev İtaliyanın nazirlər şurası sədrinin müavini, xarici işlər və beynəlxalq əməkdaşlıq naziri Antonio Tayanini qəbul edib. Görüşdə ölkələrarası strateji tərəfdaşlıq və ikitərəfli əməkdaşlığın perspektivləri müzakirə olunub.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-italy-high-level-meeting",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/siyaset/ilham-eliyev-italiya-nazirler-surasi-sedrinin-muavinini-qebul-edib-foto"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
+      "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Peru zəlzələsində canlı yayımı tərk etməyən spiker qəhrəman elan edildi",
+      "summary_az": "Peruda baş verən 6.7 bal gücündə güclü zəlzələ zamanı ekran qarşısında panikaya düşmədən xəbər oxumağa davam edən spiker Carla Harada sosial medianın gündəminə oturub. O, soyuqqanlılığı ilə ilin ən yaxşı işçisi adına namizəd olub.",
+      "category": "Maraqlı",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "peru-earthquake-anchorwoman",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/67lik-depremde-haber-sunmaya-devam-etti-yilin-elemani-olmaya-aday-1752166"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.ntv.com.tr/images/kanal-919194.jpg",
+      "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "WhatsApp qrup həvəskarları üçün limiti artırdı",
+      "summary_az": "Populyar mesencer platforması WhatsApp qrup söhbətlərində iştirakçı sayını artırmaq qərarına gəlib. Yeniliyə əsasən, qruplardakı üzv limiti 1.024 nəfərdən 1.500 nəfərə yüksəldilir.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "whatsapp-group-limit-increase",
+      "source_indices": [
+        12
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/teknoloji/buyuk-topluluklar-icin-yeni-donem-3496826"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Tanınmış aparıcı Merve Dinçkol və 4 aylıq körpəsi qəzaya düşdü",
+      "summary_az": "Türkiyənin tanınmış xəbər spikeri Merve Dinçkol Şerifoğlu körpəsi və bakıcısı ilə birlikdə TEM otoyolunda ağır yol qəzası keçirib. Arxadan gələn yük maşınının çarptığı avtomobildəki sərnişinlər xəstəxana nəzarətindən sonra evə buraxılıblar.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "merve-dinckol-traffic-accident",
+      "source_indices": [
+        15,
+        16
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/magazin/feyyaz-serifoglunun-esi-merve-dinckol-serifoglu-minik-kiziyla-trafik-kazasi-gecirdi-3496822"
+        },
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFVSeTJkOTFYOEJ0b1BYOHpBczlIVWlBdFZ4MlpBZzdTbUdtdFhEVVlYU19meUlkVG1VT0JGSXVkWXZ0cUplQzZ6UXRnSmtqMjlhTUV1UTlMMWNFX2RXUnp6V3dMazNsMGxLU1h6cHBMR0syVDJLcnN6NkY2ZzRDd1dneDhFa1lnS0ZsSHdYajFHS1oyTGhkWUpKRlUxMDdkZ1psZmlvY0k5UXRsWEhuQ2t2aUF6UQ?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
     {
       "headline_az": "Türk ordusunun yeni silahı: “GÖKDENİZ” otonom rejimdə hədəfləri məhv etdi",
       "summary_az": "Türkiyənin yaxın hava savunma sistemi olan GÖKDENİZ Karadenizdə keçirilən real atışlı sınaqlarda yüksək sürətli hava hədəflərini uğurla zərərsizləşdirib. Sistem artıq bir neçə dünya donanması tərəfindən də seçilib.",
@@ -1985,50 +2112,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T07:30:39.675396+00:00"
-    },
-    {
-      "headline_az": "S&P 500 fyuçersləri texnoji enişdən sonra kəskin bərpa olunur",
-      "summary_az": "Ötən həftə süni intellekt bazarındakı narahatlıqlar fonunda çökən əsas indekslər yeni həftəyə 2 faizlik artımla başlayıb. İnvestorların qısa həftənin əvvəlində sərgilədiyi bu nikbinlik qlobal bazarlarda təşvişi qismən səngidib.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "sp500-markets-rebound-ai",
-      "source_indices": [
-        20
-      ],
-      "sources": [
-        {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:54:22.030559+00:00"
-    },
-    {
-      "headline_az": "Finlandiya körfəzində Rusiya gəmisinə PUA hücumu olub",
-      "summary_az": "Finlandiya körfəzində Kalininqrada gedən Rusiya gəmisi PUA hücumuna məruz qalıb. Hadisə nəticəsində gəmidə yanğın baş verib və Ukraynada bu insident müzakirələrə səbəb olub.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "russia-ship-finland-gulf-uav-attack",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95UV9EY0dWeVBpYk1scVpEZXVrVFh1cHpyczBWcklKRzl5NkcwdDlocUFsbkFrQWo2MDlHMDJ2UFIya0hNZWRr?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:40:27.909607+00:00"
     }
   ]
 }
