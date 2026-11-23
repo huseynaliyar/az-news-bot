@@ -348,7 +348,10 @@
     "ac41edf25840da16": "2026-11-23T06:20:30.223708+00:00",
     "c1eaab089b117cab": "2026-11-23T06:24:19.336739+00:00",
     "918f974673cb9348": "2026-11-23T06:24:19.336739+00:00",
-    "ea06e299d2d31b86": "2026-11-23T06:24:19.336739+00:00"
+    "ea06e299d2d31b86": "2026-11-23T06:24:19.336739+00:00",
+    "40bfe8dbd37fa151": "2026-11-23T06:26:17.542443+00:00",
+    "eb339baba5f53638": "2026-11-23T06:26:17.542443+00:00",
+    "6b602133ffdf12c4": "2026-11-23T06:26:17.542443+00:00"
   },
   "published_stories": [
     {
@@ -1480,9 +1483,40 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:26:18.025275+00:00",
+      "headline_az": "Alkaras dünya nömrə biri Zverevi məğlub edərək ilk dəfə ATP Finalının qalibi olub",
+      "summary_az": "İspaniyalı tennisçi Karlos Alkaras finalda dünya 1 nömrəsi Aleksandr Zverevi məğlub edərək karyerasında ilk dəfə ATP Finals çempionluğunu qazanıb. Bununla o, bütün dərəcələri və ATP Finalını qazanan dörd kişidən biri kimi adını tennis tarixinə yazdırıb.",
+      "topic_key": "alcaraz-atp-finals-win",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Qlobal bazarlar yeni həftəyə qeyri-müəyyənliklə başlayır",
+      "summary_az": "Qlobal maliyyə bazarlarında Asiya bazarlarındakı texnologiya səhmlərinin satış təzyiqi ilə ABŞ-dakı müsbət fyuçers meyilləri arasında tarazlıq axtarılır. İnvestorlar yeni həftədə istiqamətin müəyyənləşməsi üçün vacib iqtisadi göstəriciləri izləyirlər.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "global-markets-new-week",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yeni-haftada-yon-arayisinda-964177.html"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:26:17.542410+00:00"
+    },
     {
       "headline_az": "\"Beşiktaş\" səfərdə \"Konyaspor\"u məğlub edərək vacib qələbə qazandı",
       "summary_az": "Trendyol Super Liqasında mübarizə aparan \"Beşiktaş\" səfərdə \"Konyaspor\"u 4-2 hesabı ilə məğlub edib. Qara-ağrılılar bu nəticə ilə mövsümdə İstanbul xaricində ilk üç xalını qazanmış olub.",
