@@ -271,7 +271,9 @@
     "445b54b344b7aa28": "2026-11-23T04:34:23.165101+00:00",
     "2404c3516a2daba8": "2026-11-23T04:34:23.165101+00:00",
     "21ed00e5a2eb00c1": "2026-11-23T04:38:22.081458+00:00",
-    "c36fe291528b3b53": "2026-11-23T04:40:26.829782+00:00"
+    "c36fe291528b3b53": "2026-11-23T04:40:26.829782+00:00",
+    "990ed7c9cd5697a6": "2026-11-23T04:42:27.014122+00:00",
+    "f533361b4769f18a": "2026-11-23T04:42:27.014122+00:00"
   },
   "published_stories": [
     {
@@ -1051,6 +1053,15 @@
       "topic_key": "ada-suleyman-passed-away",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:42:28.147210+00:00",
+      "headline_az": "OpenAI süni intellektin inkişafı üçün ortaq sərhədlər təklif edib",
+      "summary_az": "OpenAI-ın baş alimi Yakub Paçotski sürətlə inkişaf edən süni intellekt modellərinin yaratdığı risklərə qarşı sektorda ortaq təhlükəsizlik sərhədlərinin müəyyən edilməsini təklif edib. O, yeni meyarlar əsasında qlobal tənzimləmə mexanizmlərinin vacibliyini vurğulayıb.",
+      "topic_key": "openai-ai-safety-limits",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
