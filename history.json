@@ -1344,31 +1344,18 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:02:22.055745+00:00",
+      "headline_az": "ABŞ, Çin və Rusiya liderlərinin tarixi görüşü müzakirələrə səbəb olub",
+      "summary_az": "Noyabrın 19-da ABŞ, Çin və Rusiya liderləri qlobal qeyri-müəyyənliklər fonunda ilk dəfə eyni masa arxasında bir araya gəliblər. Ekspertlər bu görüşün geosiyasi tarazlıqlara və regionların, o cümlədən Qafqazın təhlükəsizliyinə təsirlərini müzakirə edirlər.",
+      "topic_key": "us-china-russia-leaders-summit",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "ABŞ, Çin və Rusiya liderlərinin tarixi görüşü müzakirələrə səbəb olub",
-      "summary_az": "Noyabrın 19-da ABŞ, Çin və Rusiya liderləri qlobal qeyri-müəyyənliklər fonunda ilk dəfə eyni masa arxasında bir araya gəliblər. Ekspertlər bu görüşün geosiyasi tarazlıqlara və regionların, o cümlədən Qafqazın təhlükəsizliyinə təsirlərini müzakirə edirlər.",
-      "category": "Siyasət",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "us-china-russia-leaders-summit",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/uc-nehengin-gorusu-abs-ile-cin-putini-qafqaz-ucun-tehdide-cevirir"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/23/ilCvDkp27JZQeSglQyKt8U20QQvFteqelH6BWRt2:640.png",
-      "queued_at": "2026-11-23T06:00:48.027541+00:00"
-    },
     {
       "headline_az": "İstanbulda mütəşəkkil cinayətkar dəstəyə qarşı əməliyyat: 51 nəfər saxlanılıb",
       "summary_az": "Türkiyənin İstanbul şəhərində hüquq-mühafizə orqanlarının keçirdiyi əməliyyat nəticəsində cinayətkar təşkilatla əlaqədə şübhəli bilinən 51 nəfər saxlanılıb. Əməliyyat çərçivəsində axtarışlar və araşdırmalar davam etdirilir.",
