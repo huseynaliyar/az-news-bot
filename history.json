@@ -261,7 +261,11 @@
     "abd1483c48768d96": "2026-11-23T04:20:27.267637+00:00",
     "45fa1822606331e3": "2026-11-23T04:24:20.275267+00:00",
     "102537eabb79b510": "2026-11-23T04:24:20.275267+00:00",
-    "236f5c4d2d386501": "2026-11-23T04:24:20.275267+00:00"
+    "236f5c4d2d386501": "2026-11-23T04:24:20.275267+00:00",
+    "779b0d3be45d1412": "2026-11-23T04:26:29.909874+00:00",
+    "a0eccb1934e38d34": "2026-11-23T04:26:29.909874+00:00",
+    "327c4100e104745a": "2026-11-23T04:26:29.909874+00:00",
+    "cf9ea893d908d43e": "2026-11-23T04:26:29.909874+00:00"
   },
   "published_stories": [
     {
@@ -979,7 +983,61 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:26:30.598110+00:00",
+      "headline_az": "\"GTA VI\" ilk gün satışları ilə bütün rekordları qırıb",
+      "summary_az": "\"Grand Theft Auto VI\" oyunu çıxış etdiyi ilk gündə 3,79 milyar dollarlıq gəlir əldə edərək əyləncə sektorunda tarix yazdı. Oyun həm əvvəlki versiyanın, həm də \"Avengers: Endgame\" filminin rekordunu geridə qoyub.",
+      "topic_key": "gta-vi-record-sales-launch",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Prezident İlham Əliyev azərbaycançılıq məfkurəsi ilə bağlı videoçarx paylaşıb",
+      "summary_az": "Azərbaycan Respublikasının Prezidenti İlham Əliyevin sosial media hesablarında azərbaycançılıq ənənələri və bu məfkurənin uğurların təməlində dayanması ilə bağlı videoçarx yayımlanıb.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijanism-ideology-video-aliyev",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/siyaset/ilham-eliyev-azerbaycanciliq-mefkuresi-bizim-butun-ugurlarimizin-temelinde-dayanan-felsefedir-video"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2024/05/25/SELpEUYvPDiajahCYO4PhU02ylbgpsyKh52xCK4z:640.jpg",
+      "queued_at": "2026-11-23T04:26:29.909845+00:00"
+    },
+    {
+      "headline_az": "Jandarma Komandanlığı 9 min uzman erbaş qəbul edəcək",
+      "summary_az": "Jandarma və Sahil Təhlükəsizlik Akademiyası Başçılığı tərəfindən verilən açıqlamaya əsasən, Jandarma Baş Komandanlığına 9 min uzman erbaş qəbul ediləcək.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-jandarma-expert-sergeant-recruitment",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/turkiye/jandarma-9-bin-uzman-erbas-alimi-yapacak-964168.html"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T04:26:29.909845+00:00"
+    }
+  ]
 }
