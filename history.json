@@ -298,7 +298,8 @@
     "9aae0db974dad61c": "2026-11-23T05:24:23.653814+00:00",
     "06d2c560ec885018": "2026-11-23T05:26:22.071515+00:00",
     "8107d02eb378a978": "2026-11-23T05:26:22.071515+00:00",
-    "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00"
+    "fd4caf3aec721365": "2026-11-23T05:26:22.071515+00:00",
+    "2cd745f7f235ea59": "2026-11-23T05:30:36.003002+00:00"
   },
   "published_stories": [
     {
@@ -1222,6 +1223,15 @@
       "topic_key": "istanbul-traffic-congestion-after-break",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:30:37.159192+00:00",
+      "headline_az": "Ermənistanda yeni Konstitusiya layihəsi ictimaiyyətə təqdim edilib",
+      "summary_az": "Ermənistanda hazırlanan yeni Konstitusiya layihəsinin mətni rəsmən dərc olunub. Diqqət çəkən əsas məqam odur ki, sənəddən Müstəqillik Bəyannaməsinə edilən istinadlar çıxarılıb.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
