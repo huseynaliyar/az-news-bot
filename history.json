@@ -2498,31 +2498,18 @@
         "NTV Gündem",
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T16:01:03.006242+00:00",
+      "headline_az": "Süni intellektli smart linza dövrü gəlir: Telefonlara ehtiyac qalmaya bilər",
+      "summary_az": "Birləşmiş Ərəb Əmirlikləri və Çin tədqiqatçıları rəqəmsal məlumatları birbaşa göz önünə proyeksiya edən smart kontakt linzalar üzərində işləyirlər. Süni intellektlə təchiz olunan bu texnologiya gələcəkdə smartfonlardan istifadə vərdişlərini kökündən dəyişə bilər.",
+      "topic_key": "scientists-smart-contact-lenses",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Süni intellektli smart linza dövrü gəlir: Telefonlara ehtiyac qalmaya bilər",
-      "summary_az": "Birləşmiş Ərəb Əmirlikləri və Çin tədqiqatçıları rəqəmsal məlumatları birbaşa göz önünə proyeksiya edən smart kontakt linzalar üzərində işləyirlər. Süni intellektlə təchiz olunan bu texnologiya gələcəkdə smartfonlardan istifadə vərdişlərini kökündən dəyişə bilər.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "scientists-smart-contact-lenses",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/267918.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/23/wwggjh3orcutg54rmpnwbv.jpg",
-      "queued_at": "2026-11-23T10:00:41.057334+00:00"
-    },
     {
       "headline_az": "Meta rəsmisi: Süni intellekt superintellekti qapıdadır",
       "summary_az": "Meta-nın baş süni intellekt direktoru Aleksandr Vanq bəyan edib ki, bəşəriyyətin qarşıdakı ildə atacağı addımlar dünyanın gələcəyi üçün həlledici əhəmiyyət daşıyacaq. Ekspert yaxın gələcəkdə süni superintellektin yaranacağını xəbərdar edir.",
