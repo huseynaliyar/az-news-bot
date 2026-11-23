@@ -992,31 +992,18 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T04:28:30.837226+00:00",
+      "headline_az": "Prezident İlham Əliyev azərbaycançılıq məfkurəsi ilə bağlı videoçarx paylaşıb",
+      "summary_az": "Azərbaycan Respublikasının Prezidenti İlham Əliyevin sosial media hesablarında azərbaycançılıq ənənələri və bu məfkurənin uğurların təməlində dayanması ilə bağlı videoçarx yayımlanıb.",
+      "topic_key": "azerbaijanism-ideology-video-aliyev",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Prezident İlham Əliyev azərbaycançılıq məfkurəsi ilə bağlı videoçarx paylaşıb",
-      "summary_az": "Azərbaycan Respublikasının Prezidenti İlham Əliyevin sosial media hesablarında azərbaycançılıq ənənələri və bu məfkurənin uğurların təməlində dayanması ilə bağlı videoçarx yayımlanıb.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijanism-ideology-video-aliyev",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/ilham-eliyev-azerbaycanciliq-mefkuresi-bizim-butun-ugurlarimizin-temelinde-dayanan-felsefedir-video"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2024/05/25/SELpEUYvPDiajahCYO4PhU02ylbgpsyKh52xCK4z:640.jpg",
-      "queued_at": "2026-11-23T04:26:29.909845+00:00"
-    },
     {
       "headline_az": "Jandarma Komandanlığı 9 min uzman erbaş qəbul edəcək",
       "summary_az": "Jandarma və Sahil Təhlükəsizlik Akademiyası Başçılığı tərəfindən verilən açıqlamaya əsasən, Jandarma Baş Komandanlığına 9 min uzman erbaş qəbul ediləcək.",
