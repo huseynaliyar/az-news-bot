@@ -831,7 +831,16 @@
     "0c1ee0e95a56a214": "2026-11-23T13:00:56.061087+00:00",
     "3e3b449445cebb18": "2026-11-23T13:00:56.061087+00:00",
     "2689ffd966504fe7": "2026-11-23T13:00:56.061087+00:00",
-    "2e08a3893b9b5daa": "2026-11-23T13:00:56.061087+00:00"
+    "2e08a3893b9b5daa": "2026-11-23T13:00:56.061087+00:00",
+    "604573fa2a035020": "2026-11-23T13:15:37.700772+00:00",
+    "3fb4b0a16fa71843": "2026-11-23T13:15:37.700772+00:00",
+    "6d08c3a23a669b9e": "2026-11-23T13:15:37.700772+00:00",
+    "24dca8d3a3d4688c": "2026-11-23T13:15:37.700772+00:00",
+    "6d32e5271f27dadb": "2026-11-23T13:15:37.700772+00:00",
+    "9274c4abfcf6b1e3": "2026-11-23T13:15:37.700772+00:00",
+    "2313e10455bb3c19": "2026-11-23T13:15:37.700772+00:00",
+    "5739bef7d9700cde": "2026-11-23T13:15:37.700772+00:00",
+    "fd65ed96d6ea8ffd": "2026-11-23T13:15:37.700772+00:00"
   },
   "published_stories": [
     {
@@ -2406,6 +2415,15 @@
         "Google News AZ",
         "NTV Dünya"
       ]
+    },
+    {
+      "published_at": "2026-11-23T13:15:38.814552+00:00",
+      "headline_az": "Nvidia çiplərinin qanunsuz tədarükü: ABŞ-da böyük araşdırma",
+      "summary_az": "ABŞ rəsmiləri \"Megaspeed\" şirkətinin keçmiş rəhbəri Elis Huanqın Çin kəşfiyyatı ilə əlaqəli olduğu və \"Nvidia\" çiplərinin qanunsuz yollarla Çinə ötürülməsində iştirak etdiyi iddiası ilə bağlı genişmiqyaslı araşdırmaya başlayıb. Hadisə texnologiya dünyasında ciddi rezonans doğurub.",
+      "topic_key": "nvidia-chip-smuggling-probe",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
@@ -2640,26 +2658,26 @@
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
     },
     {
-      "headline_az": "Dünyanın ən böyük elektrikli yük gəmisi Çində istehsal edildi",
-      "summary_az": "Çinli mütəxəssislər 23.5 meqavat-saatlıq güclü akkumulyatorla təchiz olunmuş nəhəng elektrikli quru yük gəmisini istifadəyə verib. Bu texnoloji yenilik dəniz nəqliyyatında ekoloji təmiz enerjiyə keçid üçün mühüm addım hesab olunur.",
-      "category": "Texnologiya",
-      "region": "world",
+      "headline_az": "Yargıtaydan avtomobil sahiblərini sevindirən qərar",
+      "summary_az": "Türkiyədə Yargıtay, dəfələrlə texniki nasazlıq verən və servislərdən çıxmayan sıfır kilometr avtomobillərin dəyişdirilməsi ilə bağlı emsal xarakterli qərar qəbul edib. Məhkəmə, istehlakçı hüquqlarını qoruyaraq, qüsurlu məhsulun yenisi ilə əvəz olunmasını təsdiqləyib.",
+      "category": "Türkiyə",
+      "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "china-electric-cargo-ship",
+      "topic_key": "yargitay-car-warranty-ruling",
       "source_indices": [
-        2
+        7
       ],
       "sources": [
         {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/cinde-dunyanin-en-boyuk-elektrikli-yuk-gemisi-hazirlandi"
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRXZQcEdha091bXNQTDY3cjR6UHhpYWVsZVNsN3VCZkRXdjVBeTVwRlRxOWVjbUNNUG1pUjNtVUFRVnZYbzk0ZmphbUR1ZmFmQXJDWW9WOFNKUHNTMGxjZXFyWG56d1VLN0Z5ZnRUVkRoVlJRZzg4RmtkR3ljeXdnSDZMTWN5R3psbHp2WGhxeXczSlpGMVdZLU9WRnNLbW00Sm1vTjZLN0VOc3pJUmU0eUkyb2lhYWlWam9MZVdDQzl4aE1WU3dpSzhaTXliRXQ4?oc=5"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/Gxkl7iRyNEvj2A55s52bGDnV2GuyPKWJTYgjHwYi:640.jpg",
-      "queued_at": "2026-11-23T13:00:56.016850+00:00"
+      "image_url": "",
+      "queued_at": "2026-11-23T13:15:37.685046+00:00"
     }
   ]
 }
