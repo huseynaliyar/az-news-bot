@@ -365,7 +365,8 @@
     "3350081ef781da99": "2026-11-23T06:40:27.909640+00:00",
     "093ec688a345ed92": "2026-11-23T06:40:27.909640+00:00",
     "dfd10ea7479272f9": "2026-11-23T06:42:23.839024+00:00",
-    "b91ac4d8ecce79a9": "2026-11-23T06:42:23.839024+00:00"
+    "b91ac4d8ecce79a9": "2026-11-23T06:42:23.839024+00:00",
+    "bd3a62d6ec3a5edf": "2026-11-23T06:44:22.771958+00:00"
   },
   "published_stories": [
     {
@@ -1577,6 +1578,15 @@
       "topic_key": "peskov-ukraine-negotiations-round",
       "sources": [
         "Google News AZ"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T06:44:23.783292+00:00",
+      "headline_az": "Nikol Paşinyan: Yeni konstitusiya qəbul olunduqdan sonra Azərbaycanla sülh sazişi imzalanacaq",
+      "summary_az": "Ermənistanın baş naziri Nikol Paşinyan xalqa müraciətində ölkəsinin yeni konstitusiyasının qəbulundan sonra Azərbaycanla sülh sazişinin imzalanacağını açıqlayıb. O, bununla da regionda dayanıqlı və institusional sülhün təmin ediləcəyini vurğulayıb. Xatırladaq ki, Ermənistanda yeni Konstitusiya layihəsi ictimaiyyətə təqdim edilib.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
