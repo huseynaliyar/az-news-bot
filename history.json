@@ -736,7 +736,31 @@
     "5144016923108ae2": "2026-11-23T11:45:38.511682+00:00",
     "a8ddc87552816105": "2026-11-23T11:45:38.511682+00:00",
     "6e127d0baede6277": "2026-11-23T11:45:38.511682+00:00",
-    "6a27349e0adb725d": "2026-11-23T11:45:38.511682+00:00"
+    "6a27349e0adb725d": "2026-11-23T11:45:38.511682+00:00",
+    "78ec7715c729be01": "2026-11-23T12:00:41.178456+00:00",
+    "2b6626606afacdbe": "2026-11-23T12:00:41.178456+00:00",
+    "327fae25d6088289": "2026-11-23T12:00:41.178456+00:00",
+    "bdea38020f474405": "2026-11-23T12:00:41.178456+00:00",
+    "3a78f2cf728be9c9": "2026-11-23T12:00:41.178456+00:00",
+    "613f8952953f9c82": "2026-11-23T12:00:41.178456+00:00",
+    "1e8e914b0eca745b": "2026-11-23T12:00:41.178456+00:00",
+    "d44795cc8fea0308": "2026-11-23T12:00:41.178456+00:00",
+    "af82f441c27e6feb": "2026-11-23T12:00:41.178456+00:00",
+    "fe67941931874d45": "2026-11-23T12:00:41.178456+00:00",
+    "3c617ac17a6e46dc": "2026-11-23T12:00:41.178456+00:00",
+    "caf8d273bafb700a": "2026-11-23T12:00:41.178456+00:00",
+    "b80aa4c6b36612e2": "2026-11-23T12:00:41.178456+00:00",
+    "84560bcb3af5a3d6": "2026-11-23T12:00:41.178456+00:00",
+    "41b0206145d96089": "2026-11-23T12:00:41.178456+00:00",
+    "499bb522cf94157f": "2026-11-23T12:00:41.178456+00:00",
+    "4ad86a1fd7c6a3f3": "2026-11-23T12:00:41.178456+00:00",
+    "eca160b62f4d6980": "2026-11-23T12:00:41.178456+00:00",
+    "81ea18f2f5e526e3": "2026-11-23T12:00:41.178456+00:00",
+    "a816a2c016ac7d02": "2026-11-23T12:00:41.178456+00:00",
+    "0adf9bff8f04a64b": "2026-11-23T12:00:41.178456+00:00",
+    "8905f67bb6ffa64b": "2026-11-23T12:00:41.178456+00:00",
+    "5bde5055fc0bce8b": "2026-11-23T12:00:41.178456+00:00",
+    "c629daf2518ca757": "2026-11-23T12:00:41.178456+00:00"
   },
   "published_stories": [
     {
@@ -2265,9 +2289,84 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T12:00:41.826016+00:00",
+      "headline_az": "Kosmosun qaranlığında elm adamlarını çaşdıran nəhəng qara dəliklər",
+      "summary_az": "Astronomlar Böyük Partlayışdan cəmi 900 milyon il sonra mövcud olmuş ən qədim kvasar cütlüyünü aşkar ediblər. Günəşdən yüz milyonlarla dəfə ağır olan bu kosmik nəhənglər mövcud nəzəriyyələrlə izah oluna bilməyəcək qədər sürətlə böyüyüblər.",
+      "topic_key": "monster-black-holes-early-universe",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "8 yaşlı azərbaycanlı rəssamın əsərləri Luvrda sərgiləndi",
+      "summary_az": "Azərbaycanlı azyaşlı istedad Emiliya Ağayeva dörd yaşından başladığı yaradıcılığı ilə beynəlxalq aləmdə diqqət çəkir. Onun əsərləri dünyanın məşhur muzeylərindən biri olan Luvrda nümayiş etdirilib.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijani-artist-louvre-exhibition",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/culture/267941.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/23/17954197643141634378_1200x630.jpg",
+      "queued_at": "2026-11-23T12:00:41.150050+00:00"
+    },
+    {
+      "headline_az": "Yaponiyadan diş əti xəstəliklərinə qarşı inqilabi üsul",
+      "summary_az": "Tədqiqatçılar yumurta sarısı antikorları və yaxın infragüç işıqdan istifadə edərək zərərli bakteriyaları məhv edən yeni müalicə üsulu hazırlayıblar. Bu yanaşma ağız boşluğunun təbii balansını və faydalı mikrobları qorumağa imkan verir.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "new-gum-disease-treatment-science",
+      "source_indices": [
+        15
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T12:00:41.150050+00:00"
+    },
+    {
+      "headline_az": "İnsan Genomundan 50% böyük genoma sahib hörümçək tapıldı",
+      "summary_az": "Kaliforniyada kəşf edilən kiçik ölçülü tələçi hörümçəyin genomunun insan genomundan təxminən 50 faiz böyük olduğu üzə çıxıb. Alimlər 4.6 milyard DNT əsas cütlüyünə malik bu nadir canlının təkamül sirrlərini öyrənirlər.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "stephen-colbert-spider-genome",
+      "source_indices": [
+        16
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T12:00:41.150050+00:00"
+    },
     {
       "headline_az": "Kritik iddia: Rusiya bu il uzaya nükleer silahlı uydu göndərə bilər",
       "summary_az": "NATO ölkələrinin kəşfiyyat xidmətləri Rusiyanın yaxın vaxtlarda uzaya nükleer başlıqlı uydu yerləşdirməyi planlaşdırdığı ehtimalında birləşirlər. Rusiya tərəfi isə bu iddiaları qəti şəkildə təkzib edib.",
@@ -2453,72 +2552,6 @@
       "importance": 8,
       "image_url": "",
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
-    },
-    {
-      "headline_az": "Süni intellekt dövrü: Türkiyədə insansı robot istehsalı üçün hibe dəstəyi başlayır",
-      "summary_az": "Sənaye və texnologiya naziri Mehmet Fatih Kacır sənayedə süni intellekt əsaslı robot həllərinin artırılması məqsədilə yeni proqramın elan edildiyini bildirib. 'Sanayi Uygulamaları İçin İnsansı Robot Geliştirme Çağrısı' çərçivəsində bu sahədə addım atan şirkətlərə maliyyə dəstəyi veriləcək.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-humanoid-robot-grants",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/insansi-robot-gelistirecek-firmalara-hibe-destegi-saglanacak-964194.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T09:15:32.857222+00:00"
-    },
-    {
-      "headline_az": "ABŞ limanlarına qarşı miqyası böyüyən kiberhücum dalgası",
-      "summary_az": "Amerikanın əsas limanları və nəhəng dəniz daşımacılığı şirkətləri kütləvi kiberhücumlarla üzləşib. Təkcə Los-Anceles limanı avqust ayında 120 milyon hücum cəhdinin qarşısını alıb.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "us-ports-cyber-attacks",
-      "source_indices": [
-        14
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/dunya/abd-limanlarina-siber-saldiri-yagmuru-her-gun-binlerce-girisim-engelleniyor-3496840"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:45:27.269843+00:00"
-    },
-    {
-      "headline_az": "Prezident İlham Əliyev İtaliyanın baş nazir müavinini qəbul edib",
-      "summary_az": "Azərbaycan Prezidenti İlham Əliyev İtaliyanın nazirlər şurası sədrinin müavini, xarici işlər və beynəlxalq əməkdaşlıq naziri Antonio Tayanini qəbul edib. Görüşdə ölkələrarası strateji tərəfdaşlıq və ikitərəfli əməkdaşlığın perspektivləri müzakirə olunub.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijan-italy-high-level-meeting",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/ilham-eliyev-italiya-nazirler-surasi-sedrinin-muavinini-qebul-edib-foto"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
-      "queued_at": "2026-11-23T08:15:30.338883+00:00"
     }
   ]
 }
