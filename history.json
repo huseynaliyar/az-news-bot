@@ -1146,7 +1146,10 @@
     "16ad84bc2a008b00": "2026-11-23T23:30:36.720949+00:00",
     "d42171599ff14870": "2026-11-23T23:30:36.720949+00:00",
     "bc892a2eb0b7659c": "2026-11-23T23:30:36.720949+00:00",
-    "38a232d9dbda58b1": "2026-11-23T23:30:36.720949+00:00"
+    "38a232d9dbda58b1": "2026-11-23T23:30:36.720949+00:00",
+    "b71ae8933a004796": "2026-11-23T23:45:29.272672+00:00",
+    "9ed99978c1e0f247": "2026-11-23T23:45:29.272672+00:00",
+    "bfc1c0d37136195f": "2026-11-23T23:45:29.272672+00:00"
   },
   "published_stories": [
     {
@@ -3032,31 +3035,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T23:45:29.868279+00:00",
+      "headline_az": "Trump Ayovada zəhərli partlayıcıların məhv edilməsini təxirə saldı",
+      "summary_az": "ABŞ Prezidenti Donald Trump ordu tərəfindən Ayova ştatında həyata keçirilməsi planlaşdırılan təxminən beş ton qurğuşun azid tərkibli zəhərli partlayıcı maddənin partladılmasını yenidən təxirə salıb.",
+      "topic_key": "trump-iowa-explosives-postponed",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Trump Ayovada zəhərli partlayıcıların məhv edilməsini təxirə saldı",
-      "summary_az": "ABŞ Prezidenti Donald Trump ordu tərəfindən Ayova ştatında həyata keçirilməsi planlaşdırılan təxminən beş ton qurğuşun azid tərkibli zəhərli partlayıcı maddənin partladılmasını yenidən təxirə salıb.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "trump-iowa-explosives-postponed",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T23:30:36.702830+00:00"
-    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
