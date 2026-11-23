@@ -355,7 +355,9 @@
     "c1ad50b0c4d5b39c": "2026-11-23T06:28:24.312187+00:00",
     "72ee737201c2438b": "2026-11-23T06:28:24.312187+00:00",
     "dc3f25c07580d364": "2026-11-23T06:28:24.312187+00:00",
-    "7874c6cb9661c090": "2026-11-23T06:30:30.903510+00:00"
+    "7874c6cb9661c090": "2026-11-23T06:30:30.903510+00:00",
+    "6647bb1652d04cfb": "2026-11-23T06:34:20.258872+00:00",
+    "df4028eab837f661": "2026-11-23T06:34:20.258872+00:00"
   },
   "published_stories": [
     {
@@ -1523,31 +1525,18 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:34:20.967352+00:00",
+      "headline_az": "\"Beşiktaş\" səfərdə \"Konyaspor\"u məğlub edərək vacib qələbə qazandı",
+      "summary_az": "Trendyol Super Liqasında mübarizə aparan \"Beşiktaş\" səfərdə \"Konyaspor\"u 4-2 hesabı ilə məğlub edib. Qara-ağrılılar bu nəticə ilə mövsümdə İstanbul xaricində ilk üç xalını qazanmış olub.",
+      "topic_key": "besiktas-konyaspor-match-win",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "\"Beşiktaş\" səfərdə \"Konyaspor\"u məğlub edərək vacib qələbə qazandı",
-      "summary_az": "Trendyol Super Liqasında mübarizə aparan \"Beşiktaş\" səfərdə \"Konyaspor\"u 4-2 hesabı ilə məğlub edib. Qara-ağrılılar bu nəticə ilə mövsümdə İstanbul xaricində ilk üç xalını qazanmış olub.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "besiktas-konyaspor-match-win",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/spor/futbol/besiktas-istanbul-disinda-ilk-galibiyetini-konyadan-aldi-3496752"
-        }
-      ],
-      "importance": 6,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:20:30.223670+00:00"
-    },
     {
       "headline_az": "Türkiyə Ticarət Nazirliyi 10 ayda 400 mindən çox firmanı yoxlayıb",
       "summary_az": "Türkiyə Ticarət Nazirliyi ilin ilk 10 ayında 401 mindən çox firmada və təxminən 47,8 milyon məhsul üzərində yoxlamalar aparıb. Qaydaları pozan şirkətlərə ümumilikdə təxminən 3 milyard lirə məbləğində inzibati cərimə tətbiq olunub.",
