@@ -2424,31 +2424,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T14:02:10.284408+00:00",
+      "headline_az": "Yaponiyadan diş əti xəstəliklərinə qarşı inqilabi üsul",
+      "summary_az": "Tədqiqatçılar yumurta sarısı antikorları və yaxın infragüç işıqdan istifadə edərək zərərli bakteriyaları məhv edən yeni müalicə üsulu hazırlayıblar. Bu yanaşma ağız boşluğunun təbii balansını və faydalı mikrobları qorumağa imkan verir.",
+      "topic_key": "new-gum-disease-treatment-science",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Yaponiyadan diş əti xəstəliklərinə qarşı inqilabi üsul",
-      "summary_az": "Tədqiqatçılar yumurta sarısı antikorları və yaxın infragüç işıqdan istifadə edərək zərərli bakteriyaları məhv edən yeni müalicə üsulu hazırlayıblar. Bu yanaşma ağız boşluğunun təbii balansını və faydalı mikrobları qorumağa imkan verir.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "new-gum-disease-treatment-science",
-      "source_indices": [
-        15
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T12:00:41.150050+00:00"
-    },
     {
       "headline_az": "İnsan Genomundan 50% böyük genoma sahib hörümçək tapıldı",
       "summary_az": "Kaliforniyada kəşf edilən kiçik ölçülü tələçi hörümçəyin genomunun insan genomundan təxminən 50 faiz böyük olduğu üzə çıxıb. Alimlər 4.6 milyard DNT əsas cütlüyünə malik bu nadir canlının təkamül sirrlərini öyrənirlər.",
