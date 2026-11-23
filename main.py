@@ -36,11 +36,13 @@ def run() -> int:
     max_news_age_hours = int(os.getenv("MAX_NEWS_AGE_HOURS", "12"))
     max_curate_per_run = int(os.getenv("MAX_CURATE_PER_RUN", "5"))
     posts_per_run = int(os.getenv("MAX_POSTS_PER_RUN", "1"))
+    min_importance = int(os.getenv("MIN_IMPORTANCE", "7"))
     urgent_threshold = int(os.getenv("URGENT_THRESHOLD", "9"))
     queue_max_age_hours = int(os.getenv("QUEUE_MAX_AGE_HOURS", "8"))
     memory_days = int(os.getenv("MEMORY_DAYS", "7"))
     retention_days = int(os.getenv("HISTORY_RETENTION_DAYS", "14"))
     only_verified = _env_bool("ONLY_VERIFIED", default=False)
+    silent_night = _env_bool("SILENT_NIGHT", default=True)
     dry_run = _env_bool("DRY_RUN", default=False)
 
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -54,6 +56,9 @@ def run() -> int:
     feeds = load_feeds_config(feeds_path)
     memory = NewsMemory(history_path, retention_days=retention_days)
     memory.prune(queue_max_age_hours=queue_max_age_hours)
+    memory.pending_queue = [
+        q for q in memory.pending_queue if int(q.get("importance", 6)) >= min_importance
+    ]
 
     logger.info("%d RSS mənbəsi oxunur (son %d saat)...", len(feeds), max_news_age_hours)
     raw_items = fetch_all_feeds(
@@ -77,14 +82,16 @@ def run() -> int:
             recent_stories=recent_stories,
             max_posts=max_curate_per_run,
         )
+        curated = [s for s in curated if s.importance >= min_importance]
         if only_verified:
             curated = [s for s in curated if s.verified]
 
         memory.enqueue_stories([s.to_dict() for s in curated])
         memory.mark_urls_seen([item.url for item in unseen_items])
         logger.info(
-            "AI %d xəbəri növbəyə əlavə etdi. Ümumi növbə: %d",
+            "AI %d mühüm xəbəri (>=%d bal) növbəyə əlavə etdi. Ümumi növbə: %d",
             len(curated),
+            min_importance,
             len(memory.pending_queue),
         )
 
@@ -94,7 +101,7 @@ def run() -> int:
     )
 
     if not to_publish_dicts:
-        logger.info("Paylaşılacaq xəbər yoxdur. Çıxılır.")
+        logger.info("Paylaşılacaq mühüm xəbər yoxdur. Çıxılır.")
         memory.save(queue_max_age_hours=queue_max_age_hours)
         return 0
 
@@ -104,6 +111,8 @@ def run() -> int:
         bot_token=bot_token,
         chat_id=chat_id,
         dry_run=dry_run,
+        urgent_threshold=urgent_threshold,
+        silent_night=silent_night,
     )
 
     for story in to_publish:
