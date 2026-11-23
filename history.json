@@ -685,7 +685,21 @@
     "a807e5b7a0449c70": "2026-11-23T11:00:46.450967+00:00",
     "53e71061f78cf72c": "2026-11-23T11:00:46.450967+00:00",
     "599ec3a9c12f02c6": "2026-11-23T11:00:46.450967+00:00",
-    "06a976236340c3bf": "2026-11-23T11:00:46.450967+00:00"
+    "06a976236340c3bf": "2026-11-23T11:00:46.450967+00:00",
+    "904fcae2f7a7bd3b": "2026-11-23T11:15:33.940112+00:00",
+    "79bc77ae5ba36845": "2026-11-23T11:15:33.940112+00:00",
+    "2314e4857e350153": "2026-11-23T11:15:33.940112+00:00",
+    "916a3490e2a2778a": "2026-11-23T11:15:33.940112+00:00",
+    "4c5b2fc0c48065dc": "2026-11-23T11:15:33.940112+00:00",
+    "6faf5dc98c013777": "2026-11-23T11:15:33.940112+00:00",
+    "9bba2d9352b787d6": "2026-11-23T11:15:33.940112+00:00",
+    "f8128a57f7b027bd": "2026-11-23T11:15:33.940112+00:00",
+    "98104922c623b514": "2026-11-23T11:15:33.940112+00:00",
+    "e69aa450dd31ce90": "2026-11-23T11:15:33.940112+00:00",
+    "f4ac56d0def07e6a": "2026-11-23T11:15:33.940112+00:00",
+    "f3b9ee837a401924": "2026-11-23T11:15:33.940112+00:00",
+    "a33f652e8cbdcb6d": "2026-11-23T11:15:33.940112+00:00",
+    "4c4adc78f31e4d8d": "2026-11-23T11:15:33.940112+00:00"
   },
   "published_stories": [
     {
@@ -2187,9 +2201,40 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T11:15:36.185528+00:00",
+      "headline_az": "Ermənistanın konstitusiya layihəsində ərazi iddialarının olmaması müsbət qiymətləndirilir",
+      "summary_az": "Azərbaycan tərəfi Ermənistanın yeni konstitusiya layihəsində ölkəmizə qarşı ərazi iddialarının olmamasını müsbət addım kimi qarşılayır. Bu dəyişiklik gələcəkdə shülh sazişinin imzalanması üçün əsas şərtlərdən biri idi.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "ASELSAN-ın \"Gökdeniz\" sistemi hədəfləri darmadağın etdi",
+      "summary_az": "Türkiyənin dəniz təhlükəsizliyi üçün hazırladığı \"Gökdeniz\" Yaxın Hava Müdafiə Sistemi real atışlı testlərdə uğur qazanıb. Sistem insansız rejimdə təhlükələri sürətlə zərərsizləşdirmə qabiliyyətini nümayiş etdirib.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-gokdeniz-air-defense-test",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/turkiye/gokdenizden-gercek-atisli-test-yakin-hava-savunma-sistemi-hedefleri-imha-etti-3496922"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T11:15:33.940068+00:00"
+    },
     {
       "headline_az": "Permdə sənaye obyektinə PUA hücumu: Ölənlər var",
       "summary_az": "Rusiyanın Perm diyarında sənaye müəssisəsinə edilən pilotsuz uçuş aparatı hücumu nəticəsində dağıntılar və insan tələfatı qeydə alınıb. Yerli hakimiyyət orqanları hücumun nəticələrini aradan qaldırmaq üçün tədbirlər görür.",
@@ -2399,48 +2444,26 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
-      "headline_az": "Meta-nın süni intellekt agenti sizin əvəzinizə alış-veriş edəcək",
-      "summary_az": "Walmart və Meta yeni əməkdaşlığa imza atıb. İndi Meta Muse süni intellekt agenti məxfiliyinizi qorumaqla Qara Cümə endirimlərini sizin əvəzinizə tapıb satın ala biləcək.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "meta-muse-walmart-shopping",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T11:00:46.450928+00:00"
-    },
-    {
-      "headline_az": "Azərbaycanda tikinti xərcləri kəskin bahalaşıb",
-      "summary_az": "Ölkədə tikinti materialları və xərclərində artım qeydə alınıb. Sentyabr ayı ilə müqayisədə xərclər 3%, ötən ilin dekabrından bəri isə ümumilikdə 13.5 faiz bahalaşıb.",
-      "category": "İqtisadiyyat",
+      "headline_az": "Şokolad qutularında dollar, alt paltarında xərçəng dərmanları gizlətdi",
+      "summary_az": "Türkiyədən Bakıya gələn sərnişin gömrükdə qeyri-adi üsula əl atıb. O, 50 min dolları şokolad qutularında, bahalı dərmanları isə alt paltarında keçirməyə çalışarkən yaxalanıb.",
+      "category": "Maraqlı",
       "region": "az",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "azerbaijan-construction-costs-increase",
+      "topic_key": "baku-customs-smuggling-hidden",
       "source_indices": [
-        5
+        1
       ],
       "sources": [
         {
           "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/azerbaycanda-tikinti-xercleri-artib-ev-sahibi-olmaq-neceye-basa-gelir"
+          "url": "https://oxu.az/kriminal/sokolad-qutularinda-50-min-dollar-alt-paltarinda-xerceng-dermanlari-getirdi"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/fkyiSJ6YSPqg9etr1eZJYDr6oe23zQwmUmz6AqNn:640.webp",
-      "queued_at": "2026-11-23T11:00:46.450928+00:00"
+      "image_url": "https://images.oxu.az/2026/11/23/ZaXFLMvHo3TU7rga2XVaIVplFdU9AJ8oPkFOe54M:640.png",
+      "queued_at": "2026-11-23T11:15:33.940068+00:00"
     }
   ]
 }
