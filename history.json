@@ -1127,7 +1127,17 @@
     "b90bd42f2b179e33": "2026-11-23T23:00:45.109124+00:00",
     "f7f08ad958400db8": "2026-11-23T23:00:45.109124+00:00",
     "f1d6c12532be945c": "2026-11-23T23:00:45.109124+00:00",
-    "33342b1855bbbcea": "2026-11-23T23:00:45.109124+00:00"
+    "33342b1855bbbcea": "2026-11-23T23:00:45.109124+00:00",
+    "84af1dd240247f26": "2026-11-23T23:15:34.663041+00:00",
+    "1f4010f579b7aa8e": "2026-11-23T23:15:34.663041+00:00",
+    "629663a9418ef52c": "2026-11-23T23:15:34.663041+00:00",
+    "17994de1ac37c9c8": "2026-11-23T23:15:34.663041+00:00",
+    "b8bb9b15845ecf13": "2026-11-23T23:15:34.663041+00:00",
+    "eb835ebd70df51bd": "2026-11-23T23:15:34.663041+00:00",
+    "214d181c17ccbb83": "2026-11-23T23:15:34.663041+00:00",
+    "1d7a95b35b38959e": "2026-11-23T23:15:34.663041+00:00",
+    "54a453cbd6408060": "2026-11-23T23:15:34.663041+00:00",
+    "f80183e28ec2b8be": "2026-11-23T23:15:34.663041+00:00"
   },
   "published_stories": [
     {
@@ -2995,31 +3005,18 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T23:15:35.913108+00:00",
+      "headline_az": "Ceki Çan geri qayıdır: \"Pik saatı 4\" rəsmən təsdiqləndi",
+      "summary_az": "Dünya kinosunun əfsanəsi Ceki Çan uzun sürən danışıqlardan sonra \"Pik saatı 4\" filmi üçün müqavilə imzalayıb. Çəkilişlərin 2027-ci ildə start götürməsi planlaşdırılır, azarkeşlər isə Kris Takerin də layihəyə qayıdıb-qayıtmayacağını maraqla gözləyir.",
+      "topic_key": "jackie-chan-rush-hour-4",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Ceki Çan geri qayıdır: \"Pik saatı 4\" rəsmən təsdiqləndi",
-      "summary_az": "Dünya kinosunun əfsanəsi Ceki Çan uzun sürən danışıqlardan sonra \"Pik saatı 4\" filmi üçün müqavilə imzalayıb. Çəkilişlərin 2027-ci ildə start götürməsi planlaşdırılır, azarkeşlər isə Kris Takerin də layihəyə qayıdıb-qayıtmayacağını maraqla gözləyir.",
-      "category": "Maraqlı",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "jackie-chan-rush-hour-4",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/shou-biznes/ceki-can-qayidir-pik-saati-4-filmi-uzun-danisiqlardan-sonra-tesdiqlendi"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/nnb7OISYOsOLF13fmfZCQ2SEqCm6KXsJJwbORgu3:640.jpg",
-      "queued_at": "2026-11-23T22:45:36.678898+00:00"
-    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
