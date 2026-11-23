@@ -351,7 +351,10 @@
     "ea06e299d2d31b86": "2026-11-23T06:24:19.336739+00:00",
     "40bfe8dbd37fa151": "2026-11-23T06:26:17.542443+00:00",
     "eb339baba5f53638": "2026-11-23T06:26:17.542443+00:00",
-    "6b602133ffdf12c4": "2026-11-23T06:26:17.542443+00:00"
+    "6b602133ffdf12c4": "2026-11-23T06:26:17.542443+00:00",
+    "c1ad50b0c4d5b39c": "2026-11-23T06:28:24.312187+00:00",
+    "72ee737201c2438b": "2026-11-23T06:28:24.312187+00:00",
+    "dc3f25c07580d364": "2026-11-23T06:28:24.312187+00:00"
   },
   "published_stories": [
     {
@@ -1492,9 +1495,40 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:28:26.447512+00:00",
+      "headline_az": "Bakıda Azərbaycan-İtaliya Biznes Forumu keçirilir",
+      "summary_az": "Paytaxtda iki ölkədən 250-dən çox şirkətin nümayəndəsinin qatıldığı Azərbaycan-İtaliya Biznes Forumu işə başlayıb. Tədbir çərçivəsində ticarət, sərmayə və iqtisadi əməkdaşlığa dair 9 sənədin imzalanması nəzərdə tutulub.",
+      "topic_key": "baku-azerbaijan-italy-business-forum",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "\"AzInTelecom\" və \"Presight\" SİMA-nın beynəlxalq bazara çıxarılması üçün əməkdaşlıq edəcək",
+      "summary_az": "Azərbaycanın \"AzInTelecom\" şirkəti ilə qlobal süni intellekt lideri \"Presight\" arasında Əməkdaşlıq Memorandumu imzalanıb. Razılaşma SİMA rəqəmsal həllinin beynəlxalq bazarlara çıxarılmasını hədəfləyir.",
+      "category": "Texnologiya",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azintelecom-presight-sima-cooperation",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/digar/azintelecom-ve-presight-sima-nin-beynelxalq-bazara-cixarilmasi-ucun-emekdasliq-edecek-foto"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/IxGjqgLnnwMuvOORl7smya9iXA5mgOWQArbeZpJ0:640.jpg",
+      "queued_at": "2026-11-23T06:28:24.312154+00:00"
+    },
     {
       "headline_az": "Qlobal bazarlar yeni həftəyə qeyri-müəyyənliklə başlayır",
       "summary_az": "Qlobal maliyyə bazarlarında Asiya bazarlarındakı texnologiya səhmlərinin satış təzyiqi ilə ABŞ-dakı müsbət fyuçers meyilləri arasında tarazlıq axtarılır. İnvestorlar yeni həftədə istiqamətin müəyyənləşməsi üçün vacib iqtisadi göstəriciləri izləyirlər.",
