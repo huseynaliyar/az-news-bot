@@ -1214,30 +1214,16 @@
       "sources": [
         "TRT Haber"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T05:28:18.699253+00:00",
       "headline_az": "İstanbulda payız tətilinin başa çatması ilə yollarda sıxlıq yaranıb",
       "summary_az": "Türkiyənin İstanbul şəhərində məktəblərdə payız tətilinin başa çatmasından sonra yeni həftənin ilk iş günündə böyük tıxaclar qeydə alınıb. Səhər saatlarından etibarən şəhər üzrə nəqliyyatın sıxlığı əhəmiyyətli dərəcədə artaraq yüksək həddə çatıb. Sürücülərə alternativ marşrutlardan istifadə etmək tövsiyə olunub.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "istanbul-traffic-congestion-after-break",
-      "source_indices": [
-        1
-      ],
       "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/istanbulda-ara-tatilin-ardindan-trafik-yogunlugu-3496695"
-        }
-      ],
-      "importance": 5,
-      "image_url": "",
-      "queued_at": "2026-11-23T05:24:23.653791+00:00"
+        "CNN Türk"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
