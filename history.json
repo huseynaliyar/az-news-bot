@@ -248,7 +248,8 @@
     "8cb8eace3cb3d8d1": "2026-11-23T03:32:22.590285+00:00",
     "6c3f028f7418e378": "2026-11-23T03:36:19.390745+00:00",
     "8c4d0428eb118cff": "2026-11-23T03:38:22.021913+00:00",
-    "3fb179661fec9da8": "2026-11-23T03:44:18.756223+00:00"
+    "3fb179661fec9da8": "2026-11-23T03:44:18.756223+00:00",
+    "54fc3f599fccb214": "2026-11-23T03:50:36.798317+00:00"
   },
   "published_stories": [
     {
@@ -902,6 +903,15 @@
       "topic_key": "ukraine-residential-strike-survivor",
       "sources": [
         "Google News World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T03:50:37.959914+00:00",
+      "headline_az": "Türkiyədə hava şəraiti kəskin pisləşir: Temperatur 10 dərəcə aşağı düşəcək",
+      "summary_az": "Türkiyə daxilində hava temperaturunun yarından etibarən 6-10 dərəcə azalacağı gözlənilir. Sinoptiklər güclü leysan yağışları, saatda 80 kilometr sürətə çatacaq fırtına və şərq rayonlarında qar yağacağı barədə xəbərdarlıq ediblər.",
+      "topic_key": "turkey-storm-rain-warning",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
