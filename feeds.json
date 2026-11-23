@@ -14,13 +14,6 @@
     "language": "en"
   },
   {
-    "name": "Day.az",
-    "url": "https://news.day.az/rss",
-    "region": "az",
-    "tier": "standard",
-    "language": "ru"
-  },
-  {
     "name": "Google News AZ",
     "url": "https://news.google.com/rss?hl=az&gl=AZ&ceid=AZ:az",
     "region": "az",
@@ -81,6 +74,41 @@
     "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
     "region": "world",
     "tier": "aggregator",
+    "language": "en"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "region": "world",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "region": "world",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/rss/top.xml",
+    "region": "world",
+    "tier": "reliable",
+    "language": "en"
+  },
+  {
+    "name": "IGN",
+    "url": "https://feeds.feedburner.com/ign/all",
+    "region": "world",
+    "tier": "standard",
+    "language": "en"
+  },
+  {
+    "name": "CNBC World",
+    "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+    "region": "world",
+    "tier": "reliable",
     "language": "en"
   }
 ]
