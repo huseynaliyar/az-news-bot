@@ -215,7 +215,8 @@
     "9d3363f4e53a1c0f": "2026-11-23T00:32:21.575643+00:00",
     "fcd73df2673a39ec": "2026-11-23T00:34:23.411778+00:00",
     "88506ad090139691": "2026-11-23T00:36:19.655624+00:00",
-    "4ddeb0f3bd5e75fd": "2026-11-23T00:44:18.469907+00:00"
+    "4ddeb0f3bd5e75fd": "2026-11-23T00:44:18.469907+00:00",
+    "b0ef54c743b348f2": "2026-11-23T01:00:47.464942+00:00"
   },
   "published_stories": [
     {
@@ -671,6 +672,15 @@
       "topic_key": "who-congo-ebola-fighting",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T01:00:48.000379+00:00",
+      "headline_az": "İranda enerji böhranı: Prezident işıqları söndürdü, elektrik kəsintiləri elan olundu",
+      "summary_az": "İran prezidenti enerji qənaətinə çağırış edərək ofisinin işıqlarını söndürüb. Ölkədə yanacaq qıtlığı və qış mövsümü ilə əlaqədar gündəlik elektrik kəsintiləri tətbiq olunmağa başlayıb. ABŞ və İsrailin zərbələri nəticəsində enerji şəbəkəsinin ciddi zərər gördüyü bildirilir.",
+      "topic_key": "iran-electricity-shortage-energy-crisis",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
