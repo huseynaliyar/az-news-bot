@@ -760,7 +760,25 @@
     "0adf9bff8f04a64b": "2026-11-23T12:00:41.178456+00:00",
     "8905f67bb6ffa64b": "2026-11-23T12:00:41.178456+00:00",
     "5bde5055fc0bce8b": "2026-11-23T12:00:41.178456+00:00",
-    "c629daf2518ca757": "2026-11-23T12:00:41.178456+00:00"
+    "c629daf2518ca757": "2026-11-23T12:00:41.178456+00:00",
+    "daa9da25a5e28303": "2026-11-23T12:15:39.258154+00:00",
+    "b4501b96e6fdb944": "2026-11-23T12:15:39.258154+00:00",
+    "46a44ef449480ade": "2026-11-23T12:15:39.258154+00:00",
+    "35b517cbfe46e32a": "2026-11-23T12:15:39.258154+00:00",
+    "01922361381be71b": "2026-11-23T12:15:39.258154+00:00",
+    "2915a0c1bd506103": "2026-11-23T12:15:39.258154+00:00",
+    "5afd481f2c8874d9": "2026-11-23T12:15:39.258154+00:00",
+    "68b5b956291e966a": "2026-11-23T12:15:39.258154+00:00",
+    "e68b27b57dc25e7c": "2026-11-23T12:15:39.258154+00:00",
+    "ffa9caacdb0218d2": "2026-11-23T12:15:39.258154+00:00",
+    "8ad1b014c3bdf7d2": "2026-11-23T12:15:39.258154+00:00",
+    "9af1e446686d7fd0": "2026-11-23T12:15:39.258154+00:00",
+    "81800622d8bc9a04": "2026-11-23T12:15:39.258154+00:00",
+    "1a67c979a6d70941": "2026-11-23T12:15:39.258154+00:00",
+    "121eb076d5f022e2": "2026-11-23T12:15:39.258154+00:00",
+    "c182f65232bb741c": "2026-11-23T12:15:39.258154+00:00",
+    "e4577623c71940b3": "2026-11-23T12:15:39.258154+00:00",
+    "2268597f16462cfa": "2026-11-23T12:15:39.258154+00:00"
   },
   "published_stories": [
     {
@@ -2298,31 +2316,18 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-23T12:15:40.284828+00:00",
+      "headline_az": "8 yaşlı azərbaycanlı rəssamın əsərləri Luvrda sərgiləndi",
+      "summary_az": "Azərbaycanlı azyaşlı istedad Emiliya Ağayeva dörd yaşından başladığı yaradıcılığı ilə beynəlxalq aləmdə diqqət çəkir. Onun əsərləri dünyanın məşhur muzeylərindən biri olan Luvrda nümayiş etdirilib.",
+      "topic_key": "azerbaijani-artist-louvre-exhibition",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "8 yaşlı azərbaycanlı rəssamın əsərləri Luvrda sərgiləndi",
-      "summary_az": "Azərbaycanlı azyaşlı istedad Emiliya Ağayeva dörd yaşından başladığı yaradıcılığı ilə beynəlxalq aləmdə diqqət çəkir. Onun əsərləri dünyanın məşhur muzeylərindən biri olan Luvrda nümayiş etdirilib.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijani-artist-louvre-exhibition",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/culture/267941.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/23/17954197643141634378_1200x630.jpg",
-      "queued_at": "2026-11-23T12:00:41.150050+00:00"
-    },
     {
       "headline_az": "Yaponiyadan diş əti xəstəliklərinə qarşı inqilabi üsul",
       "summary_az": "Tədqiqatçılar yumurta sarısı antikorları və yaxın infragüç işıqdan istifadə edərək zərərli bakteriyaları məhv edən yeni müalicə üsulu hazırlayıblar. Bu yanaşma ağız boşluğunun təbii balansını və faydalı mikrobları qorumağa imkan verir.",
@@ -2552,6 +2557,28 @@
       "importance": 8,
       "image_url": "",
       "queued_at": "2026-11-23T09:45:29.775711+00:00"
+    },
+    {
+      "headline_az": "Yunanıstandan İsraillə milyardlıq gizli silah bazarlığı",
+      "summary_az": "İqtisadi çətinliklərlə mübarizə aparan Yunanıstan yeni hərbi sazişə imza atmağa hazırlaşır. İki ölkə arasında təxminən 1 milyard avro dəyərində yeni silah sistemləri və əməkdaşlıq danışıqları aparılır.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "greece-israel-arms-deal",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/yunanistandan-israille-1-milyar-euroluk-yeni-silah-anlasmasi-964210.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T12:15:39.246059+00:00"
     }
   ]
 }
