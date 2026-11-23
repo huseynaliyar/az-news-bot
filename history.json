@@ -273,7 +273,8 @@
     "21ed00e5a2eb00c1": "2026-11-23T04:38:22.081458+00:00",
     "c36fe291528b3b53": "2026-11-23T04:40:26.829782+00:00",
     "990ed7c9cd5697a6": "2026-11-23T04:42:27.014122+00:00",
-    "f533361b4769f18a": "2026-11-23T04:42:27.014122+00:00"
+    "f533361b4769f18a": "2026-11-23T04:42:27.014122+00:00",
+    "a2a442e0e777ab04": "2026-11-23T04:46:21.792227+00:00"
   },
   "published_stories": [
     {
@@ -1062,6 +1063,15 @@
       "topic_key": "openai-ai-safety-limits",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:46:22.251352+00:00",
+      "headline_az": "Türkiyə Kabinetinin əsas gündəmi: Təqaüdçülərin və məmurların maaş artımı müzakirə olunur",
+      "summary_az": "Türkiyə Kabinetinin növbəti iclasında əsas müzakirə mövzusu milyonlarla insanı maraqlandıran təqaüdçü və məmur maaşlarının artırılması olub. Hökumət tərəfindən 17 milyon vətəndaş üçün nəzərdə tutulan refah payı və yeni il zammı ilə bağlı mexanizmlər masadadır.",
+      "topic_key": "turkey-cabinet-meeting-agenda",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
