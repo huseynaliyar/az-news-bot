@@ -62,13 +62,13 @@ def build_prompt(
         candidate_lines.append(
             f"[{idx}] ({item.source} | region={item.region} | tier={item.tier} | lang={item.language})\n"
             f"Başlıq: {item.title}\n"
-            f"Məzmun: {item.summary or '-'}"
+            f"Məzmun: {item.summary[:220] if item.summary else '-'}"
         )
 
     history_lines = []
-    for s in recent_stories[:50]:
+    for s in recent_stories[:35]:
         date_str = s.get("published_at", "")[:10]
-        short_sum = str(s.get("summary_az", "")).strip()[:130]
+        short_sum = str(s.get("summary_az", "")).strip()[:100]
         extra = f" — {short_sum}" if short_sum else ""
         history_lines.append(
             f"- [{date_str}] ({s.get('topic_key', '')}) {s.get('headline_az', '')}{extra}"
@@ -180,30 +180,34 @@ def curate_news(
     if not candidates:
         return []
 
-    batch = candidates[:40]
+    # Compact batch size so both Gemini and Groq free-tier token limits stay happy
+    batch = candidates[:25]
     prompt = build_prompt(batch, recent_stories, max_posts=max_posts)
 
     gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
     groq_key = os.getenv("GROQ_API_KEY", "").strip()
     gemini_model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
-    groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile").strip()
+    groq_model = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b").strip()
     preferred = (primary_provider or os.getenv("AI_PROVIDER", "gemini")).strip().lower()
 
     gemini_models = list(
         dict.fromkeys([gemini_model, "gemini-3.1-flash-lite", "gemini-3.8-flash"])
     )
+    groq_models = list(
+        dict.fromkeys([groq_model, "qwen/qwen3.8-27b", "openai/gpt-oss-20b"])
+    )
 
     providers: list[tuple[str, str, str]] = []
     if preferred == "groq":
         if groq_key:
-            providers.append(("groq", groq_key, groq_model))
+            providers.extend(("groq", groq_key, m) for m in groq_models)
         if gemini_key:
             providers.extend(("gemini", gemini_key, m) for m in gemini_models)
     else:
         if gemini_key:
             providers.extend(("gemini", gemini_key, m) for m in gemini_models)
         if groq_key:
-            providers.append(("groq", groq_key, groq_model))
+            providers.extend(("groq", groq_key, m) for m in groq_models)
 
     if not providers:
         raise RuntimeError(
