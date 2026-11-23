@@ -292,7 +292,10 @@
     "85ea5eb61f7f942f": "2026-11-23T05:16:29.399560+00:00",
     "6173817f566019a2": "2026-11-23T05:18:19.555626+00:00",
     "aef46205cd67dc84": "2026-11-23T05:18:19.555626+00:00",
-    "654c3a52be390cee": "2026-11-23T05:20:28.919260+00:00"
+    "654c3a52be390cee": "2026-11-23T05:20:28.919260+00:00",
+    "f180917627445265": "2026-11-23T05:24:23.653814+00:00",
+    "5f020f19736c4615": "2026-11-23T05:24:23.653814+00:00",
+    "9aae0db974dad61c": "2026-11-23T05:24:23.653814+00:00"
   },
   "published_stories": [
     {
@@ -1190,7 +1193,39 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:24:24.698354+00:00",
+      "headline_az": "Bərdədə həyat yoldaşının ölümünə səbəb olan sürücü barəsində məhkəmə hökmü oxunub",
+      "summary_az": "Bərdə rayonunda həyat yoldaşının ölümü ilə nəticələnən yol-nəqliyyat hadisəsini törədən Nadir Həsənovun cinayət işi üzrə məhkəmə prosesi yekunlaşıb. Məhkəmənin qərarı ilə təqsirləndirilən şəxsə müvafiq cəza təyin edilib. Hadisənin təfərrüatları və məhkəmənin hökmü ilə bağlı digər detallar açıqlanıb.",
+      "topic_key": "barda-wife-death-driver-sentenced",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "İstanbulda payız tətilinin başa çatması ilə yollarda sıxlıq yaranıb",
+      "summary_az": "Türkiyənin İstanbul şəhərində məktəblərdə payız tətilinin başa çatmasından sonra yeni həftənin ilk iş günündə böyük tıxaclar qeydə alınıb. Səhər saatlarından etibarən şəhər üzrə nəqliyyatın sıxlığı əhəmiyyətli dərəcədə artaraq yüksək həddə çatıb. Sürücülərə alternativ marşrutlardan istifadə etmək tövsiyə olunub.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "istanbul-traffic-congestion-after-break",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/istanbulda-ara-tatilin-ardindan-trafik-yogunlugu-3496695"
+        }
+      ],
+      "importance": 5,
+      "image_url": "",
+      "queued_at": "2026-11-23T05:24:23.653791+00:00"
+    }
+  ]
 }
