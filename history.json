@@ -621,30 +621,16 @@
       "sources": [
         "Al Jazeera"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T00:14:21.098061+00:00",
       "headline_az": "Türkiyənin Rize vilayətində çay qırmızı rəngə boyanıb",
       "summary_az": "Türkiyənin Rize şəhərindəki Deyirməndərə çayının qırmızı rəngə dönməsi yerli əhalidə təşviş yaradıb. Yerli səlahiyyətlilər hadisənin səbəblərini araşdırmaq üçün təhqiqat başlatırlar.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "rize-degirmendere-stream-red-mystery",
-      "source_indices": [
-        1
-      ],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss"
-        }
-      ],
-      "importance": 5,
-      "image_url": "",
-      "queued_at": "2026-11-23T00:12:19.877216+00:00"
+        "Al Jazeera"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
