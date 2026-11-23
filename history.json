@@ -699,7 +699,28 @@
     "f4ac56d0def07e6a": "2026-11-23T11:15:33.940112+00:00",
     "f3b9ee837a401924": "2026-11-23T11:15:33.940112+00:00",
     "a33f652e8cbdcb6d": "2026-11-23T11:15:33.940112+00:00",
-    "4c4adc78f31e4d8d": "2026-11-23T11:15:33.940112+00:00"
+    "4c4adc78f31e4d8d": "2026-11-23T11:15:33.940112+00:00",
+    "e14c05fb1c60a096": "2026-11-23T11:30:37.297130+00:00",
+    "1a774442c969c570": "2026-11-23T11:30:37.297130+00:00",
+    "8ba2e076a7ebcbc1": "2026-11-23T11:30:37.297130+00:00",
+    "1fc56d11448b18e2": "2026-11-23T11:30:37.297130+00:00",
+    "d1555f1a5a7e2762": "2026-11-23T11:30:37.297130+00:00",
+    "8189656f0bd3b109": "2026-11-23T11:30:37.297130+00:00",
+    "28ca1f734a7c7d9f": "2026-11-23T11:30:37.297130+00:00",
+    "a02ffe6d7f6c569a": "2026-11-23T11:30:37.297130+00:00",
+    "fe6eae5cba65e35f": "2026-11-23T11:30:37.297130+00:00",
+    "16013f85ccc1edf5": "2026-11-23T11:30:37.297130+00:00",
+    "59358ce50f441b31": "2026-11-23T11:30:37.297130+00:00",
+    "6af22bda8a851427": "2026-11-23T11:30:37.297130+00:00",
+    "6104f1119680a6af": "2026-11-23T11:30:37.297130+00:00",
+    "9c32130a433b408d": "2026-11-23T11:30:37.297130+00:00",
+    "095f79b3bbec821b": "2026-11-23T11:30:37.297130+00:00",
+    "4843d1bc74336450": "2026-11-23T11:30:37.297130+00:00",
+    "1c6b72b462318351": "2026-11-23T11:30:37.297130+00:00",
+    "7e362b1195acf02f": "2026-11-23T11:30:37.297130+00:00",
+    "c3f0c850050ebaf6": "2026-11-23T11:30:37.297130+00:00",
+    "7b93f44f5ba367dd": "2026-11-23T11:30:37.297130+00:00",
+    "2665f0e28999430b": "2026-11-23T11:30:37.297130+00:00"
   },
   "published_stories": [
     {
@@ -2210,9 +2231,40 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T11:30:38.011517+00:00",
+      "headline_az": "Azərbaycanın SİMA imzası qlobal bazara çıxır: BƏƏ ilə strateji tərəfdaşlıq",
+      "summary_az": "\"AzInTelecom\" BƏƏ-nin tanınmış \"Presight\" şirkəti ilə mühüm memorandum imzalayıb. Bu tərəfdaşlıq yerli SİMA rəqəmsal imza texnologiyasının beynəlxalq miqyasda tanıdılması və genişlənməsi üçün yeni qapılar açır.",
+      "topic_key": "azintelecom-presight-sima-cooperation",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Kritik iddia: Rusiya bu il uzaya nükleer silahlı uydu göndərə bilər",
+      "summary_az": "NATO ölkələrinin kəşfiyyat xidmətləri Rusiyanın yaxın vaxtlarda uzaya nükleer başlıqlı uydu yerləşdirməyi planlaşdırdığı ehtimalında birləşirlər. Rusiya tərəfi isə bu iddiaları qəti şəkildə təkzib edib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "russia-nuclear-satellite-space-claim",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/alman-basininda-rusya-bu-yil-uzaya-nukleer-silahli-uydu-gonderecek-iddiasi-1752211"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/images/iStock-1186864557-748981.jpg",
+      "queued_at": "2026-11-23T11:30:37.297078+00:00"
+    },
     {
       "headline_az": "ASELSAN-ın \"Gökdeniz\" sistemi hədəfləri darmadağın etdi",
       "summary_az": "Türkiyənin dəniz təhlükəsizliyi üçün hazırladığı \"Gökdeniz\" Yaxın Hava Müdafiə Sistemi real atışlı testlərdə uğur qazanıb. Sistem insansız rejimdə təhlükələri sürətlə zərərsizləşdirmə qabiliyyətini nümayiş etdirib.",
@@ -2442,28 +2494,6 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
-    },
-    {
-      "headline_az": "Şokolad qutularında dollar, alt paltarında xərçəng dərmanları gizlətdi",
-      "summary_az": "Türkiyədən Bakıya gələn sərnişin gömrükdə qeyri-adi üsula əl atıb. O, 50 min dolları şokolad qutularında, bahalı dərmanları isə alt paltarında keçirməyə çalışarkən yaxalanıb.",
-      "category": "Maraqlı",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "baku-customs-smuggling-hidden",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/kriminal/sokolad-qutularinda-50-min-dollar-alt-paltarinda-xerceng-dermanlari-getirdi"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/ZaXFLMvHo3TU7rga2XVaIVplFdU9AJ8oPkFOe54M:640.png",
-      "queued_at": "2026-11-23T11:15:33.940068+00:00"
     }
   ]
 }
