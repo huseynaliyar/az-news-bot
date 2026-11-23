@@ -315,7 +315,12 @@
     "620fae6705032e5a": "2026-11-23T05:50:28.974875+00:00",
     "0ac05bd1e466c433": "2026-11-23T05:50:28.974875+00:00",
     "b618f13e869e5784": "2026-11-23T05:52:21.815517+00:00",
-    "acc97403fc3ae2fd": "2026-11-23T05:52:21.815517+00:00"
+    "acc97403fc3ae2fd": "2026-11-23T05:52:21.815517+00:00",
+    "dadfbd50c30dbbd1": "2026-11-23T06:00:48.027573+00:00",
+    "56156e90051e245d": "2026-11-23T06:00:48.027573+00:00",
+    "7ad811a6af7432e4": "2026-11-23T06:00:48.027573+00:00",
+    "30c2af910c8bcc40": "2026-11-23T06:00:48.027573+00:00",
+    "bcb6a995f86c0d25": "2026-11-23T06:00:48.027573+00:00"
   },
   "published_stories": [
     {
@@ -1330,9 +1335,62 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:00:48.498208+00:00",
+      "headline_az": "Tataristanda PUA təhlükəsi: 8 şəhərdə hava limanlarının fəaliyyəti dayandırılıb",
+      "summary_az": "Rusiyanın Tatarstan Respublikasında PUA hücumu təhlükəsi səbəbindən 8 şəhərdə hava limanlarının işi dayandırılıb. Альmetyevsk yaxınlığındakı neft çənlərinə yenidən PUA hücumlarının olduğu bildirilir.",
+      "topic_key": "tatarstan-uav-attack-airports-closed",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "ABŞ, Çin və Rusiya liderlərinin tarixi görüşü müzakirələrə səbəb olub",
+      "summary_az": "Noyabrın 19-da ABŞ, Çin və Rusiya liderləri qlobal qeyri-müəyyənliklər fonunda ilk dəfə eyni masa arxasında bir araya gəliblər. Ekspertlər bu görüşün geosiyasi tarazlıqlara və regionların, o cümlədən Qafqazın təhlükəsizliyinə təsirlərini müzakirə edirlər.",
+      "category": "Siyasət",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-china-russia-leaders-summit",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/siyaset/uc-nehengin-gorusu-abs-ile-cin-putini-qafqaz-ucun-tehdide-cevirir"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/23/ilCvDkp27JZQeSglQyKt8U20QQvFteqelH6BWRt2:640.png",
+      "queued_at": "2026-11-23T06:00:48.027541+00:00"
+    },
+    {
+      "headline_az": "İstanbulda mütəşəkkil cinayətkar dəstəyə qarşı əməliyyat: 51 nəfər saxlanılıb",
+      "summary_az": "Türkiyənin İstanbul şəhərində hüquq-mühafizə orqanlarının keçirdiyi əməliyyat nəticəsində cinayətkar təşkilatla əlaqədə şübhəli bilinən 51 nəfər saxlanılıb. Əməliyyat çərçivəsində axtarışlar və araşdırmalar davam etdirilir.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "istanbul-crime-gang-operation-detentions",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/istanbulda-suc-orgutu-operasyonu-51-gozalti-964175.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:00:48.027541+00:00"
+    },
     {
       "headline_az": "Türkiyə Daxili İşlər Nazirliyi 1170 müqaviləli işçi qəbul edəcək",
       "summary_az": "Türkiyə Daxili İşlər Nazirliyi mərkəzi və regional strukturlarında çalışmaq üzrə ümumilikdə 1170 müqaviləli işçi qəbul edəcəyini açıqlayıb. Dövlət qurumlarında işləmək istəyən namizədlər üçün müraciət şərtləri və tarixi yaxın vaxtlarda ictimaiyyətə təqdim olunacaq.",
@@ -1376,6 +1434,28 @@
       "importance": 6,
       "image_url": "",
       "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "Almaniyanın Ştutqart şəhərində tanınmış bəstəkar Musa Mirzəyevin xatirəsinə həsr olunmuş konsert keçirilib",
+      "summary_az": "Almaniyanın Ştutqart şəhərində Azərbaycanın görkəmli bəstəkarı, Xalq artisti, professor Musa Mirzəyevin xatirəsinə həsr olunan tədbir təşkil olunub. Konsertdə sənətkarın əsərləri səsləndirilib və onun Azərbaycan musiqi mədəniyyətindəki xidmətləri qeyd edilib.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "stuttgart-musa-mirzayev-concert",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/culture/267905.html"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://www.azernews.az/media/2026/11/23/1795407070402536106_1200x630.jpg",
+      "queued_at": "2026-11-23T06:00:48.027541+00:00"
     },
     {
       "headline_az": "Bakıda daha 9 kəsişmədə velosiped bölmələri quraşdırılıb",
