@@ -548,7 +548,29 @@
     "b1abe10c7afdbf1c": "2026-11-23T09:00:42.633276+00:00",
     "3ae269eb237f137d": "2026-11-23T09:00:42.633276+00:00",
     "ec6e2698d6abb307": "2026-11-23T09:00:42.633276+00:00",
-    "39069fe8b2015d42": "2026-11-23T09:00:42.633276+00:00"
+    "39069fe8b2015d42": "2026-11-23T09:00:42.633276+00:00",
+    "511c45ab09b760a7": "2026-11-23T09:15:32.857265+00:00",
+    "ac8d7a055aa65d67": "2026-11-23T09:15:32.857265+00:00",
+    "53737c4e80bccd9f": "2026-11-23T09:15:32.857265+00:00",
+    "679b00e21986d46b": "2026-11-23T09:15:32.857265+00:00",
+    "fff3cb891bd8bffd": "2026-11-23T09:15:32.857265+00:00",
+    "b4f7ab8b119c4891": "2026-11-23T09:15:32.857265+00:00",
+    "af061c6f7e1adc82": "2026-11-23T09:15:32.857265+00:00",
+    "4b2e5054f9395b6f": "2026-11-23T09:15:32.857265+00:00",
+    "ae3b980fd3bf29d6": "2026-11-23T09:15:32.857265+00:00",
+    "2ab3094f55d93dd0": "2026-11-23T09:15:32.857265+00:00",
+    "45830c6e468d05d3": "2026-11-23T09:15:32.857265+00:00",
+    "3cbde73245b47175": "2026-11-23T09:15:32.857265+00:00",
+    "847622711083d570": "2026-11-23T09:15:32.857265+00:00",
+    "6ebff1bdc1692ec7": "2026-11-23T09:15:32.857265+00:00",
+    "722fdb66b6d6a76b": "2026-11-23T09:15:32.857265+00:00",
+    "09d1fa66f778da42": "2026-11-23T09:15:32.857265+00:00",
+    "8704adbdfe1fdb0e": "2026-11-23T09:15:32.857265+00:00",
+    "f0cdc551ca458fee": "2026-11-23T09:15:32.857265+00:00",
+    "a11bfce2ea36631a": "2026-11-23T09:15:32.857265+00:00",
+    "2f8ef48b42314fcd": "2026-11-23T09:15:32.857265+00:00",
+    "aac5ac1493f6ff31": "2026-11-23T09:15:32.857265+00:00",
+    "3a62eb3867e6fca8": "2026-11-23T09:15:32.857265+00:00"
   },
   "published_stories": [
     {
@@ -1964,9 +1986,41 @@
         "Oxu.az",
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-23T09:15:34.772952+00:00",
+      "headline_az": "Ermənistanın yeni Konstitusiya layihəsində Azərbaycana qarşı ərazi iddiaları çıxarıldı",
+      "summary_az": "Ermənistan hökumətinin yayımladığı yeni anayasa layihəsində ölkənin sərhədlərindən kənarda torpaq iddiaları ehtiva edən 'Bağımsızlık Bildirgəsi'nə istinadlar ləğv edilib. Baş nazir Nikol Paşinyan bu addımdan sonra 'Dördüncü Cumhuriyet' vurğusu edərək sülh sazişinin yaxınlaşdığını bildirib.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "NTV Dünya",
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Süni intellekt dövrü: Türkiyədə insansı robot istehsalı üçün hibe dəstəyi başlayır",
+      "summary_az": "Sənaye və texnologiya naziri Mehmet Fatih Kacır sənayedə süni intellekt əsaslı robot həllərinin artırılması məqsədilə yeni proqramın elan edildiyini bildirib. 'Sanayi Uygulamaları İçin İnsansı Robot Geliştirme Çağrısı' çərçivəsində bu sahədə addım atan şirkətlərə maliyyə dəstəyi veriləcək.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-humanoid-robot-grants",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/insansi-robot-gelistirecek-firmalara-hibe-destegi-saglanacak-964194.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-23T09:15:32.857222+00:00"
+    },
     {
       "headline_az": "ABŞ limanlarına qarşı miqyası böyüyən kiberhücum dalgası",
       "summary_az": "Amerikanın əsas limanları və nəhəng dəniz daşımacılığı şirkətləri kütləvi kiberhücumlarla üzləşib. Təkcə Los-Anceles limanı avqust ayında 120 milyon hücum cəhdinin qarşısını alıb.",
@@ -2010,6 +2064,50 @@
       "importance": 8,
       "image_url": "https://images.oxu.az/2026/11/23/GHAQibuDxNRkvSTuHGPZIjrkTDAa4KUZs1Rp3Y9O:640.jpg",
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
+    },
+    {
+      "headline_az": "Türkiyə Sakarya qaz yatağından milyonlarla xanənin qaz ehtiyacını təmin edəcək",
+      "summary_az": "Enerji və təbii sərvətlər naziri Alparslan Bayraktar Sakarya qaz yatağı ilə bağlı iddialı hədəfləri açıqlayıb. Onun sözlərinə görə, 2027-ci ildə 8 milyon, 2028-ci ildə isə 17 milyon evin təbii qaz ehtiyacı məhz bu yataqdan qarşılanacaq.",
+      "category": "İqtisadiyyat",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-sakarya-gas-field",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-bayraktar-2028-yilinda-17-milyon-hanenin-dogal-gaz-ihtiyacini-sakarya-gaz-sahasindan-karsilayacagiz-964195.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T09:15:32.857222+00:00"
+    },
+    {
+      "headline_az": "Dünya Bankı Cənubi Qafqazın bank sistemində kredit riskləri barədə xəbərdarlıq edib",
+      "summary_az": "Dünya Bankının yaydığı son hesabatda Cənubi Qafqaz ölkələrində maliyyə sistemlərinin yüksək dollarlaşma və sürətli istehlak kreditləşməsi fonunda ciddi kredit və valyuta riskləri ilə üz-üzə qaldığı qeyd olunub. Ekspertlər bu istiqamətdə tənzimləyici tədbirlərin gücləndirilməsini tövsiyə edirlər.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "world-bank-south-caucasus-risks",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/business/267923.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://www.azernews.az/media/2024/07/30/world-bank-1024x570-1.jpg",
+      "queued_at": "2026-11-23T09:15:32.857222+00:00"
     },
     {
       "headline_az": "Azərbaycanda yeni yaşıl enerjiyə keçid çərçivəsində nəhəng xətt çəkilir",
@@ -2142,72 +2240,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T08:30:39.898975+00:00"
-    },
-    {
-      "headline_az": "GTA 6 həyəcanı oyun konsollarının satışını şövqləndirdi",
-      "summary_az": "Dünyanın səbirsizliklə gözlədiyi \"GTA 6\" qızdırması e-ticarət rəqəmlərinə də təsir edib. Son həftələrdə PlayStation 5 satışları 88 faiz artıb.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "gta-6-ps5-sales-increase",
-      "source_indices": [
-        15
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/teknoloji/ps5-satislari-yuzde-88-artti-3496834"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:30:39.898975+00:00"
-    },
-    {
-      "headline_az": "Peru zəlzələsində canlı yayımı tərk etməyən spiker qəhrəman elan edildi",
-      "summary_az": "Peruda baş verən 6.7 bal gücündə güclü zəlzələ zamanı ekran qarşısında panikaya düşmədən xəbər oxumağa davam edən spiker Carla Harada sosial medianın gündəminə oturub. O, soyuqqanlılığı ilə ilin ən yaxşı işçisi adına namizəd olub.",
-      "category": "Maraqlı",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "peru-earthquake-anchorwoman",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/67lik-depremde-haber-sunmaya-devam-etti-yilin-elemani-olmaya-aday-1752166"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.ntv.com.tr/images/kanal-919194.jpg",
-      "queued_at": "2026-11-23T08:15:30.338883+00:00"
-    },
-    {
-      "headline_az": "WhatsApp qrup həvəskarları üçün limiti artırdı",
-      "summary_az": "Populyar mesencer platforması WhatsApp qrup söhbətlərində iştirakçı sayını artırmaq qərarına gəlib. Yeniliyə əsasən, qruplardakı üzv limiti 1.024 nəfərdən 1.500 nəfərə yüksəldilir.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "whatsapp-group-limit-increase",
-      "source_indices": [
-        12
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/teknoloji/buyuk-topluluklar-icin-yeni-donem-3496826"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T08:15:30.338883+00:00"
     }
   ]
 }
