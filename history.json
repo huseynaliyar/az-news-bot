@@ -1003,7 +1003,15 @@
     "8528e46c5f5113b4": "2026-11-23T19:15:57.531918+00:00",
     "abf312705ccb9081": "2026-11-23T19:15:57.531918+00:00",
     "25f33d1df44504de": "2026-11-23T19:15:57.531918+00:00",
-    "f878ab62338f7472": "2026-11-23T19:15:57.531918+00:00"
+    "f878ab62338f7472": "2026-11-23T19:15:57.531918+00:00",
+    "536ec0175873798b": "2026-11-23T19:31:28.895067+00:00",
+    "8b710364f15a0167": "2026-11-23T19:31:28.895067+00:00",
+    "7cbca44a7a68909c": "2026-11-23T19:31:28.895067+00:00",
+    "c8d0596279d36f9c": "2026-11-23T19:31:28.895067+00:00",
+    "3c5c902a15176394": "2026-11-23T19:31:28.895067+00:00",
+    "882fbc5a5be38b1d": "2026-11-23T19:31:28.895067+00:00",
+    "a0e5af69ee07da17": "2026-11-23T19:31:28.895067+00:00",
+    "40639258b1705412": "2026-11-23T19:31:28.895067+00:00"
   },
   "published_stories": [
     {
@@ -2734,30 +2742,61 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T19:31:29.539908+00:00",
+      "headline_az": "Google-dan süni intellekt inqilabı: Şəxsi məlumatlar artıq əlinizin altında",
+      "summary_az": "Google özünün süni intellekt rejimini yeniləyərək onu \"Drive\" və \"Wallet\" tətbiqləri ilə inteqrasiya edib. Bu yenilik istifadəçilərə öz şəxsi məlumatları əsasında daha dəqiq və fərdiləşdirilmiş cavablar almağa imkan verəcək.",
+      "topic_key": "google-ai-personal-intelligence",
+      "sources": [
+        "TechCrunch"
+      ]
     }
   ],
   "pending_queue": [
     {
-      "headline_az": "Google-dan süni intellekt inqilabı: Şəxsi məlumatlar artıq əlinizin altında",
-      "summary_az": "Google özünün süni intellekt rejimini yeniləyərək onu \"Drive\" və \"Wallet\" tətbiqləri ilə inteqrasiya edib. Bu yenilik istifadəçilərə öz şəxsi məlumatları əsasında daha dəqiq və fərdiləşdirilmiş cavablar almağa imkan verəcək.",
-      "category": "Texnologiya",
-      "region": "world",
+      "headline_az": "Danimarkada məktəblərdə telefon qadağası gəlir",
+      "summary_az": "Danimarka hökuməti 2027-2028-ci tədris ilindən etibarən ibtidai və orta məktəblərdə mobil telefonlardan istifadəni tamamilə qadağan etməyə hazırlaşır. Bu addım şagirdlərin diqqətini dərslərə cəmləmək və rəqəmsal asılılığı azaltmaq məqsədi daşıyır.",
+      "category": "Dünya",
+      "region": "tr",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "google-ai-personal-intelligence",
+      "topic_key": "denmark-school-phone-ban",
       "source_indices": [
-        9
+        2
       ],
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/danimarkada-okullarda-cep-telefonu-kullanimi-yasaklaniyor-964234.html"
         }
       ],
-      "importance": 8,
+      "importance": 7,
       "image_url": "",
-      "queued_at": "2026-11-23T19:15:57.500917+00:00"
+      "queued_at": "2026-11-23T19:31:28.873130+00:00"
+    },
+    {
+      "headline_az": "İzmirdə şok cinayət: Ata qızının qurbanı oldu",
+      "summary_az": "",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "izmir-murder-case",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkpFa3NIWWt6MlJHTUQxbV9Wdi1QMkpfNDY2NHJ3cVBDM0tJTjlFdjZIT01YYl9DSlJRMlFGYVRUY1NLSEZ6dlR3OXkyX1F2cjNQbC1EcW9qYmgydjNNSkt1ajVjMmpRMTN1YmpsUUN0UG9FZ0Jad2c3VFViTHlYWmhSY2VaUzh1dzRqLVVjakhMYzg?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T19:31:28.873130+00:00"
     },
     {
       "headline_az": "Türkiyədə \"Bayğaralar\" cinayətkar dəstəsinə ağır zərbə",
