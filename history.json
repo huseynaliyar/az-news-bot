@@ -253,7 +253,8 @@
     "f2e9dee65ad8f331": "2026-11-23T03:56:20.885489+00:00",
     "cc007f7e6b3995da": "2026-11-23T04:00:36.481744+00:00",
     "608eb32445249feb": "2026-11-23T04:00:36.481744+00:00",
-    "3efdca4bdc8fce44": "2026-11-23T04:02:29.093489+00:00"
+    "3efdca4bdc8fce44": "2026-11-23T04:02:29.093489+00:00",
+    "f98c810ef619cbe0": "2026-11-23T04:04:30.937016+00:00"
   },
   "published_stories": [
     {
@@ -925,6 +926,15 @@
       "topic_key": "pochettino-man-utd-liverpool-defeat",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:04:32.056350+00:00",
+      "headline_az": "Corc Vaşinqtonun saç teli hərracda satılıb",
+      "summary_az": "ABŞ-nin ilk prezidenti Corc Vaşinqtonun iki əsrdən artıq müddət ərzində çərçivədə saxlanılan saç teli hərracda 4 min dollara alıcı tapıb. Nadir tarixi relikt kolleksiyaçıların marağına səbəb olub.",
+      "topic_key": "george-washington-hair-auction",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
