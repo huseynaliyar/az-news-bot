@@ -257,7 +257,8 @@
     "f98c810ef619cbe0": "2026-11-23T04:04:30.937016+00:00",
     "9653439da12433b5": "2026-11-23T04:06:23.105873+00:00",
     "8dbe2142ecd89d38": "2026-11-23T04:18:29.683172+00:00",
-    "c8bf503a4a646b1c": "2026-11-23T04:18:29.683172+00:00"
+    "c8bf503a4a646b1c": "2026-11-23T04:18:29.683172+00:00",
+    "abd1483c48768d96": "2026-11-23T04:20:27.267637+00:00"
   },
   "published_stories": [
     {
@@ -956,6 +957,15 @@
       "topic_key": "bepicolombo-mercury-orbit-issue",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T04:20:27.731244+00:00",
+      "headline_az": "Türkiyənin Karaman şəhərində qız istəmə mərasimi qanlı bitib",
+      "summary_az": "Karaman şəhərində qız istəmə məsələsi üzrə baş verən silahlı və bıçaqlı qovğada 1 nəfər həlak olub, 5 nəfər yaralanıb. Hadisə yerinə çoxsaylı polis və tibb qrupları cəlb edilib, araşdırma aparılır.",
+      "topic_key": "karaman-girl-proposal-fight",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
