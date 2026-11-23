@@ -1059,7 +1059,18 @@
     "99de1a2cbf0f26a6": "2026-11-23T20:46:01.554308+00:00",
     "c98aad68c66f305f": "2026-11-23T20:46:01.554308+00:00",
     "f45946c4edf4941a": "2026-11-23T20:46:01.554308+00:00",
-    "d70157d1228f26a0": "2026-11-23T20:46:01.554308+00:00"
+    "d70157d1228f26a0": "2026-11-23T20:46:01.554308+00:00",
+    "e26e29b8ebc01e59": "2026-11-23T21:02:34.970548+00:00",
+    "714e2e68b458a685": "2026-11-23T21:02:34.970548+00:00",
+    "5359d58519589cbe": "2026-11-23T21:02:34.970548+00:00",
+    "a949c86351050ca4": "2026-11-23T21:02:34.970548+00:00",
+    "bbda11c63d1fbcc9": "2026-11-23T21:02:34.970548+00:00",
+    "11628aa18df5429b": "2026-11-23T21:02:34.970548+00:00",
+    "ca66ba8838ebb9e6": "2026-11-23T21:02:34.970548+00:00",
+    "8b0993be5d17e9fa": "2026-11-23T21:02:34.970548+00:00",
+    "899fec35b34ee0aa": "2026-11-23T21:02:34.970548+00:00",
+    "12da15583cde7765": "2026-11-23T21:02:34.970548+00:00",
+    "525e0013527206c9": "2026-11-23T21:02:34.970548+00:00"
   },
   "published_stories": [
     {
@@ -2846,9 +2857,62 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-23T21:02:35.678654+00:00",
+      "headline_az": "İstanbul, Ankara və İzmirdə son dəqiqə zəlzələ xəbərləri",
+      "summary_az": "AFAD‑ın məlumatına görə, 24‑Noyabr 2026 tarixində bir neçə şəhərdə güclü titrəyişlər qeydə alınıb, artçı zəlzələlər də davam edir.",
+      "topic_key": "turkiye-deqiqe-zelzele-2026",
+      "sources": [
+        "NTV Gündem"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "ABŞ‑lı Kongres üzvü Brendan F. Boyle NATO Parlamentar Asamblesinin yeni prezidenti seçildi",
+      "summary_az": "Berlin‑də keçirilən ümumi yığıncaqda NATO PA‑nın başçısı olaraq Brendan F. Boyle təyin olundu.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "nato-pa-boshqan-boyle",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/nato-panin-yeni-baskani-abdli-kongre-uyesi-brendan-f-boyle-secildi-964238.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T21:02:34.940285+00:00"
+    },
+    {
+      "headline_az": "İranın xarici işlər naziri ABŞ‑a “paketlənmiş” cavab xəbərdarlığı verdi",
+      "summary_az": "Təhlükəsizlik məsələlərində gərginlik artarkən, İranın rəsmi sözcüsü İsmail Bekayi, ABŞ‑ın İran limanlarına tətbiq etdiyi blokada qarşı “cavab paketlənmiş” olduğunu bildirdi.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "iran-abss-tehdidi-paketlenmis",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/dunya/irandan-abdye-tehdit-yanit-paketlenmis-olarak-teslim-edilecek-3497153"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T21:02:34.940285+00:00"
+    },
     {
       "headline_az": "GTA 6 dünyasında sirli tapıntı: YouTuber kodu 3 günə qırdı",
       "summary_az": "Oyun dünyasının ən çox gözlənilən layihəsi olan GTA 6-da gizlədilən çətin tapmacanı bir YouTuber cəmi 3 günə həll edib. Oyunçuları heyrətləndirən bu sirli tapıntının sonunda gözlənilməz bir sürpriz ortaya çıxıb.",
@@ -3045,28 +3109,6 @@
       ],
       "importance": 7,
       "image_url": "https://www.azernews.az/media/2026/11/23/414160.jpg",
-      "queued_at": "2026-11-23T18:16:12.755235+00:00"
-    },
-    {
-      "headline_az": "Lionel Skaloni dünya çempionatına vəsiqə qazandı",
-      "summary_az": "Argentina millisinin baş məşqçisi Lionel Skaloni velosiped idmanı üzrə keçirilən yarışda uğurlu çıxış edib. O, öz yaş kateqoriyasında üçüncü yeri tutaraq 2027-ci ildə Fransada keçiriləcək dünya çempionatına qatılmaq hüququ əldə edib.",
-      "category": "Maraqlı",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "lionel-scaloni-cycling",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/idman/lionel-skaloni-velosiped-idmani-uzre-dunya-cempionatina-vesiqe-qazanib-foto"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/1P1Mu014o188P4QUy0VyDe1yc8BmocBxkAltFfq1:640.webp",
       "queued_at": "2026-11-23T18:16:12.755235+00:00"
     }
   ]
