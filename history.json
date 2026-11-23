@@ -674,7 +674,18 @@
     "ef35ec2042e6daf8": "2026-11-23T10:45:42.779445+00:00",
     "49dd569045e02bad": "2026-11-23T10:45:42.779445+00:00",
     "6b875e0de4bcf0eb": "2026-11-23T10:45:42.779445+00:00",
-    "9b0cc2d11fd6bf7b": "2026-11-23T10:45:42.779445+00:00"
+    "9b0cc2d11fd6bf7b": "2026-11-23T10:45:42.779445+00:00",
+    "476b08114081642e": "2026-11-23T11:00:46.450967+00:00",
+    "c87cc960ce9545ef": "2026-11-23T11:00:46.450967+00:00",
+    "951be32ab33ed8f3": "2026-11-23T11:00:46.450967+00:00",
+    "7d7b3a50527723f2": "2026-11-23T11:00:46.450967+00:00",
+    "f5156e7c2d2cb94e": "2026-11-23T11:00:46.450967+00:00",
+    "392ae0b5d71ec24f": "2026-11-23T11:00:46.450967+00:00",
+    "3f2a774a4f6024f8": "2026-11-23T11:00:46.450967+00:00",
+    "a807e5b7a0449c70": "2026-11-23T11:00:46.450967+00:00",
+    "53e71061f78cf72c": "2026-11-23T11:00:46.450967+00:00",
+    "599ec3a9c12f02c6": "2026-11-23T11:00:46.450967+00:00",
+    "06a976236340c3bf": "2026-11-23T11:00:46.450967+00:00"
   },
   "published_stories": [
     {
@@ -2167,6 +2178,15 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T11:00:46.946526+00:00",
+      "headline_az": "CrowdStrike-dan nəhəng alış: Zscaler 43.9 milyard dollara alınır",
+      "summary_az": "Kibertəhlükəsizlik bazarında ilin en səs-küylü anlaşması baş tutub. CrowdStrike şəbəkə təhlükəsizliyini gücləndirmək məqsədilə Zscaler şirkətini 43.9 milyard dollarlıq səhm mübadiləsi ilə satın alacağını açıqlayıb.",
+      "topic_key": "crowdstrike-zscaler-acquisition",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
@@ -2379,53 +2399,48 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
-      "headline_az": "İstanbuldakı “aslan” həyəcanı: Səlahiyyətlilərdən təcili xəbərdarlıq",
-      "summary_az": "Sarıyer səmtində sərbəst gəzən aslanla bağlı axtarışlar davam edərkən, baytarlar sakinlərə təşvişə düşməmək və heyvanla göz təmasından qaçmaq barədə xəbərdarlıq edib. Sosial mediada aslanın məşhur futbolçuya məxsus olması ilə bağlı iddialar isə gündəm yaradıb.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "sariyer-lion-alarm",
-      "source_indices": [
-        6,
-        8
-      ],
-      "sources": [
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/video-kayip-aslan-icin-uyari-gozlerinin-icine-bakmayin-kosmayin-1752208"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/sariyerdeki-aslan-abdulkerim-bardakcinin-mi-sariyerde-kacan-aslan-kimin-sahibi-galatasarayli-futbolcu-abdulkerim-bardakci-mi-3496921"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.ntv.com.tr/images/sdfdsfdsf-782301.png",
-      "queued_at": "2026-11-23T10:45:42.779406+00:00"
-    },
-    {
-      "headline_az": "Fransa seçki anketi: Le Pen rəqiblərini qabaqlayır",
-      "summary_az": "Fransada gələn il keçiriləcək prezident seçkiləri öncəsi dərc olunan son rəy sorğuları aşırı sağçı lider Marine Le Penin bütün rəqiblərini qabaqlayaraq yarışda lider olduğunu göstərir. Oktyabr ayı ilə müqayisədə bir qədər səs itirsə də, o, mövqeyini qorumağı bacarıb.",
-      "category": "Dünya",
+      "headline_az": "Meta-nın süni intellekt agenti sizin əvəzinizə alış-veriş edəcək",
+      "summary_az": "Walmart və Meta yeni əməkdaşlığa imza atıb. İndi Meta Muse süni intellekt agenti məxfiliyinizi qorumaqla Qara Cümə endirimlərini sizin əvəzinizə tapıb satın ala biləcək.",
+      "category": "Texnologiya",
       "region": "world",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
       "is_update": false,
-      "topic_key": "france-le-pen-polls",
+      "topic_key": "meta-muse-walmart-shopping",
       "source_indices": [
-        7
+        9
       ],
       "sources": [
         {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/fransada-cumhurbaskanligi-secimi-anketinde-le-pen-acik-ara-onde-1752199"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
         }
       ],
       "importance": 7,
-      "image_url": "https://images.ntv.com.tr/images/2026-11-16T201728Z_506856476_RC28POAECYNY_RTRMADP_3_FRANCE-POLITICS-351612.JPG",
-      "queued_at": "2026-11-23T10:45:42.779406+00:00"
+      "image_url": "",
+      "queued_at": "2026-11-23T11:00:46.450928+00:00"
+    },
+    {
+      "headline_az": "Azərbaycanda tikinti xərcləri kəskin bahalaşıb",
+      "summary_az": "Ölkədə tikinti materialları və xərclərində artım qeydə alınıb. Sentyabr ayı ilə müqayisədə xərclər 3%, ötən ilin dekabrından bəri isə ümumilikdə 13.5 faiz bahalaşıb.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-construction-costs-increase",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/iqtisadiyyat/azerbaycanda-tikinti-xercleri-artib-ev-sahibi-olmaq-neceye-basa-gelir"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/fkyiSJ6YSPqg9etr1eZJYDr6oe23zQwmUmz6AqNn:640.webp",
+      "queued_at": "2026-11-23T11:00:46.450928+00:00"
     }
   ]
 }
