@@ -313,7 +313,9 @@
     "63b3fde43a63e760": "2026-11-23T05:48:27.586744+00:00",
     "50cac082e08a295f": "2026-11-23T05:48:27.586744+00:00",
     "620fae6705032e5a": "2026-11-23T05:50:28.974875+00:00",
-    "0ac05bd1e466c433": "2026-11-23T05:50:28.974875+00:00"
+    "0ac05bd1e466c433": "2026-11-23T05:50:28.974875+00:00",
+    "b618f13e869e5784": "2026-11-23T05:52:21.815517+00:00",
+    "acc97403fc3ae2fd": "2026-11-23T05:52:21.815517+00:00"
   },
   "published_stories": [
     {
@@ -1319,6 +1321,15 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-23T05:52:22.164103+00:00",
+      "headline_az": "Tatyana Kim \"Wildberries\" şirkətinin baş direktoru vəzifəsindən ayrılıb",
+      "summary_az": "Məşhur e-ticarət nəhəngi \"Wildberries\"də rəhbərlik dəyişikliyi baş verib və Tatyana Kim baş direktor postunu tərk edib. Onun yerinə \"Russ\" şirkətindən olan nümayəndə təyin olunub, həmçinin şirkətin pay bölgüsündə dəyişikliklər qeydə alınıb.",
+      "topic_key": "tatyana-kim-leaves-wildberries-ceo",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
@@ -1365,6 +1376,28 @@
       "importance": 6,
       "image_url": "",
       "queued_at": "2026-11-23T05:48:27.586719+00:00"
+    },
+    {
+      "headline_az": "Bakıda daha 9 kəsişmədə velosiped bölmələri quraşdırılıb",
+      "summary_az": "Paytaxtda mikromobilliyin inkişafı və yol hərəkəti təhlükəsizliyinin təmin edilməsi məqsədilə mühüm addım atılıb. Görülən işlər çərçivəsində Bakının 9 prospekt və küçəsinin kəsişməsindəki mövcud işıqforlara velosiped bölmələri əlavə olunaraq istifadəyə verilib.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "baku-traffic-bicycle-signals",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/cemiyyet/bakinin-9-prospekt-ve-kucesinin-kesismesinde-yenilik-foto-video"
+        }
+      ],
+      "importance": 5,
+      "image_url": "https://images.oxu.az/2026/11/23/4TgqZVBITPNq1RdCdY5IO27CkzNEyFf95M0FOu5H:640.jpg",
+      "queued_at": "2026-11-23T05:52:21.815491+00:00"
     }
   ]
 }
