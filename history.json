@@ -705,30 +705,16 @@
       "sources": [
         "Google News World"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-23T01:16:25.721785+00:00",
       "headline_az": "Kuşnerdən NATO və Rusiya açıqlaması: Gələcəkdə qarşılıqlı təhlükəsizlik təmin edilməlidir",
       "summary_az": "Rusiya mediasında yer alan məlumatlara görə, gələcəkdə Rusiyanın NATO-dan, NATO-nun isə Rusiyadan heç bir təhlükə hiss etməməsi üçün təminatlar verilməlidir. Bu istiqamətdə qarşıdakı dövrdə müvafiq məsləhətləşmələrin aparılması nəzərdə tutulur. Açıqlama beynəlxalq mediada geniş müzakirələrə səbəb olub.",
-      "category": "Siyasət",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "kushner-russia-nato-security",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "Google News AZ",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jLXJtRk5vTDcxdkdEcFpZUWtDeTJkSjV4cXVsN3RJQklzY0treVlVa0FhcE5Kcm9HUjRNVTFzQU1wejFPSkNqZ1lQbzJzLVRiaHRyMg?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T01:14:24.781989+00:00"
+        "Google News AZ"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
