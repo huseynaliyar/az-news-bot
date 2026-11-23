@@ -450,7 +450,20 @@
     "59186dc9b1703a30": "2026-11-23T07:46:18.613129+00:00",
     "57415818e92a559c": "2026-11-23T07:46:18.613129+00:00",
     "2c0721ee349c62d2": "2026-11-23T07:46:18.613129+00:00",
-    "593c7e5d28ab803a": "2026-11-23T07:46:18.613129+00:00"
+    "593c7e5d28ab803a": "2026-11-23T07:46:18.613129+00:00",
+    "98fbeccfadf3ff42": "2026-11-23T08:00:40.098213+00:00",
+    "17d10173f7e7e4bd": "2026-11-23T08:00:40.098213+00:00",
+    "0a59428f9af11a41": "2026-11-23T08:00:40.098213+00:00",
+    "cb35f929763fb234": "2026-11-23T08:00:40.098213+00:00",
+    "092208fe649edf70": "2026-11-23T08:00:40.098213+00:00",
+    "f2420854d1915d45": "2026-11-23T08:00:40.098213+00:00",
+    "b8a47d906c6c62cd": "2026-11-23T08:00:40.098213+00:00",
+    "432f6f1f39acfa48": "2026-11-23T08:00:40.098213+00:00",
+    "1d234f695a77c26a": "2026-11-23T08:00:40.098213+00:00",
+    "1124ce019d0a87b1": "2026-11-23T08:00:40.098213+00:00",
+    "661a0aec0c585c76": "2026-11-23T08:00:40.098213+00:00",
+    "41b4fee66a0a6f5b": "2026-11-23T08:00:40.098213+00:00",
+    "6e3cc82c463e7615": "2026-11-23T08:00:40.098213+00:00"
   },
   "published_stories": [
     {
@@ -1807,9 +1820,62 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-23T08:00:40.816642+00:00",
+      "headline_az": "İndoneziyada şirniyyat fabrikində dəhşətli yanğın: 20-dən çox ölən var",
+      "summary_az": "Banten bölgəsində yerləşən fabrikdə baş verən güclü yanğın nəticəsində həyatını itirənlərin sayı 24 nəfərə çatıb. Çökmə təhlükəsinə baxmayaraq, onlarla itkin işçinin axtarışları davam etdirilir.",
+      "topic_key": "indonesia-factory-fire-casualties",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Türk ordusunun yeni silahı: “GÖKDENİZ” otonom rejimdə hədəfləri məhv etdi",
+      "summary_az": "Türkiyənin yaxın hava savunma sistemi olan GÖKDENİZ Karadenizdə keçirilən real atışlı sınaqlarda yüksək sürətli hava hədəflərini uğurla zərərsizləşdirib. Sistem artıq bir neçə dünya donanması tərəfindən də seçilib.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "gokdeniz-air-defense-test",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/savunma/gokdeniz-karadenizdeki-gercek-atisli-testten-tam-basariyla-cikti-964184.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:00:40.098171+00:00"
+    },
+    {
+      "headline_az": "Milli kamikaze dronu ALKAN FPV təhlükəsizlik qüvvələrinə təslim edildi",
+      "summary_az": "Müasir döyüş meydanının tələblərinə uyğun olaraq hazırlanan yerli FPV kamikaze dronu qəbul sınaqlarını uğurla başa vurub. Texnologiya artıq türk təhlükəsizlik qüvvələrinin inventarına daxil edilib.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "alkan-fpv-kamikaze-drone-inventory",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/savunma/milli-kamikaze-dronu-alkan-fpv-envantere-girdi-964182.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T08:00:40.098171+00:00"
+    },
     {
       "headline_az": "İraq Səddam Hüseynin prezident təyyarəsini satışa çıxardı",
       "summary_az": "İraqın Nəqliyyat Nazirliyi sabiq prezident Səddam Hüseynə məxsus olan və 1991-ci ildən Tunisdə saxlanılan «Boeing 747» markalı təyyarəni 900 min dollara satışa çıxarıb.",
