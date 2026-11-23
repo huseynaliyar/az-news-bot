@@ -414,7 +414,9 @@
     "0427cac3a650a175": "2026-11-23T07:10:28.482152+00:00",
     "a810592893800d28": "2026-11-23T07:10:28.482152+00:00",
     "3892a538030be8d6": "2026-11-23T07:10:28.482152+00:00",
-    "5c24b2233aa52ef4": "2026-11-23T07:12:19.677462+00:00"
+    "5c24b2233aa52ef4": "2026-11-23T07:12:19.677462+00:00",
+    "fa676d1500b7c3cc": "2026-11-23T07:15:25.810558+00:00",
+    "b2e01a582de33929": "2026-11-23T07:15:25.810558+00:00"
   },
   "published_stories": [
     {
@@ -1744,31 +1746,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-23T07:15:26.231512+00:00",
+      "headline_az": "«Hunger Games» yeni filmi ilə rekord qırdı",
+      "summary_az": "Seriyanın yeni filmi «The Hunger Games: Sunrise on the Reaping» nümayişinin ilk həftəsonunda dünya üzrə 225 milyon dollar gəlir əldə edib. Ekran əsəri hətta böyük gözləntilər yaradan «GTA 6» həyəcanını da kölgədə qoymağı bacarıb.",
+      "topic_key": "hunger-games-box-office-opening",
+      "sources": [
+        "IGN"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "«Hunger Games» yeni filmi ilə rekord qırdı",
-      "summary_az": "Seriyanın yeni filmi «The Hunger Games: Sunrise on the Reaping» nümayişinin ilk həftəsonunda dünya üzrə 225 milyon dollar gəlir əldə edib. Ekran əsəri hətta böyük gözləntilər yaradan «GTA 6» həyəcanını da kölgədə qoymağı bacarıb.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "hunger-games-box-office-opening",
-      "source_indices": [
-        16
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "url": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-plows-through-gta-6-hype-with-225-million-opening-weekend"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://assets-prd.ignimgs.com/2026/09/16/hungerthumb-1789565141804.png",
-      "queued_at": "2026-11-23T06:54:22.030559+00:00"
-    },
     {
       "headline_az": "S&P 500 fyuçersləri texnoji enişdən sonra kəskin bərpa olunur",
       "summary_az": "Ötən həftə süni intellekt bazarındakı narahatlıqlar fonunda çökən əsas indekslər yeni həftəyə 2 faizlik artımla başlayıb. İnvestorların qısa həftənin əvvəlində sərgilədiyi bu nikbinlik qlobal bazarlarda təşvişi qismən səngidib.",
