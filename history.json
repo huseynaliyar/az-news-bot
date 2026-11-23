@@ -956,7 +956,19 @@
     "65244f455426fb74": "2026-11-23T18:16:12.784620+00:00",
     "b8f2eab0b0198b2a": "2026-11-23T18:16:12.784620+00:00",
     "d8c85d2b1e429791": "2026-11-23T18:16:12.784620+00:00",
-    "b9d82ee3d5620255": "2026-11-23T18:16:12.784620+00:00"
+    "b9d82ee3d5620255": "2026-11-23T18:16:12.784620+00:00",
+    "522be867b0b8be11": "2026-11-23T18:36:34.100756+00:00",
+    "db3000d09d62388b": "2026-11-23T18:36:34.100756+00:00",
+    "8d89a2c43d6c5f01": "2026-11-23T18:36:34.100756+00:00",
+    "4f96ee8e00f4cace": "2026-11-23T18:36:34.100756+00:00",
+    "2610073d292106fb": "2026-11-23T18:36:34.100756+00:00",
+    "fa0ea9c5506ce6e4": "2026-11-23T18:36:34.100756+00:00",
+    "e200d3de530018b1": "2026-11-23T18:36:34.100756+00:00",
+    "10fa856d81f29108": "2026-11-23T18:36:34.100756+00:00",
+    "f8dd5bbb0a81a23d": "2026-11-23T18:36:34.100756+00:00",
+    "d422458ca9898974": "2026-11-23T18:36:34.100756+00:00",
+    "b250dd281b48665b": "2026-11-23T18:36:34.100756+00:00",
+    "609c363594e66867": "2026-11-23T18:36:34.100756+00:00"
   },
   "published_stories": [
     {
@@ -2651,9 +2663,84 @@
         "Oxu.az",
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T18:36:34.561185+00:00",
+      "headline_az": "Avropa İttifaqından Rusiyaya qarşı yeni sanksiyalar paketi",
+      "summary_az": "Avropa Komissiyası Rusiyaya qarşı 22-ci sanksiyalar paketini təqdim edib. Yeni tədbirlər çərçivəsində müharibə iştirakçılarına viza verilməsinin məhdudlaşdırılması və rusiyalı idmançıların beynəlxalq turnirlərdən kənarlaşdırılması nəzərdə tutulur.",
+      "topic_key": "eu-russia-sanctions-22",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "SpaceX-ə qarşı \"Grok\" iddiası: Ştatlar məhkəməyə müraciət etdi",
+      "summary_az": "Oreqon və Virciniya ştatlarının baş prokurorları SpaceX şirkətini məhkəməyə verib. İddiaya görə, şirkət süni intellekt aləti olan \"Grok\" vasitəsilə yayılan pornoqrafik deepfake görüntülərin qarşısını almaq üçün təhlükəsizlik standartlarına əməl etməyib.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "spacex-grok-lawsuit",
+      "source_indices": [
+        11
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T18:36:34.059208+00:00"
+    },
+    {
+      "headline_az": "Avropada \"hazırlıqlı ol\" trendi: Hökumətlər vətəndaşlara xəbərdarlıq edir",
+      "summary_az": "Avropa ölkələrində vətəndaşların fövqəladə hallara hazırlıq görməsi dövlət səviyyəsində təşviq olunur. Bu, sadəcə internetdəki şayiələr deyil, rəsmi qurumların təhlükəsizlik üçün verdiyi tövsiyələr əsasında formalaşan yeni bir sosial tendensiyadır.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "europe-prepping-trend",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "Google News World",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1TRElnUzZ1b1FWakQxbThWeUVRTGZEbWV0R1NSV0o3a2NzbWYxWlgwMW9rdjNvb1RtNzkxNFdWSWcyckFTYWgyZHRndUJnRnBEeTd6ZEdlMXNuUko0NGoyNncyVEtmVUFVdDE0R1BIN1dBS3FyVUhQUTBpSkYwRDdhbzBQYm5oMzA2eFV4M3Q2WHFHaE5VYw?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T18:36:34.059208+00:00"
+    },
+    {
+      "headline_az": "Danimarkada \"Getto qanunu\" ilə bağlı məhkəmə qərarı",
+      "summary_az": "Danimarkanın ali məhkəməsi ölkənin mübahisəli miqrasiya siyasətini dəstəkləyən qərar qəbul edib. Qərara əsasən, \"qeyri-qərb\" mənşəli ailələrin yaşadıqları evlərdən çıxarılması ayrı-seçkilik kimi qiymətləndirilməyib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "denmark-ghetto-law",
+      "source_indices": [
+        6
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T18:36:34.059208+00:00"
+    },
     {
       "headline_az": "Avropa Komissiyası Coca-Cola-ya qarşı araşdırma başladıb",
       "summary_az": "Avropa Komissiyası Coca-Cola Europacific Partners şirkətinin bazardakı dominant mövqeyindən sui-istifadə edib-etmədiyi ilə bağlı rəsmi antimonopoliya araşdırmasına start verib. Şirkətin sərhədlərarası ticarəti məhdudlaşdırdığı iddia edilir.",
