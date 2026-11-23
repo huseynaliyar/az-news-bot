@@ -401,7 +401,9 @@
     "d7d7f3c77fe797c0": "2026-11-23T06:54:22.030591+00:00",
     "77928b37a167c2c7": "2026-11-23T06:54:22.030591+00:00",
     "ba921b5a9da745d3": "2026-11-23T06:54:22.030591+00:00",
-    "9ad42073085a658f": "2026-11-23T06:54:22.030591+00:00"
+    "9ad42073085a658f": "2026-11-23T06:54:22.030591+00:00",
+    "d2f0c178269a0db9": "2026-11-23T06:56:31.553807+00:00",
+    "3859e9992b7e784b": "2026-11-23T06:56:31.553807+00:00"
   },
   "published_stories": [
     {
@@ -1659,30 +1661,39 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:56:32.096908+00:00",
+      "headline_az": "Yəmən husiləri Səudiyyə Ərəbistanının neft zavodunu hədəfə aldı",
+      "summary_az": "Yəməndəki husi qruplaşması Səudiyyə Ərəbistanının Rabiq neft emalı zavoduna qarşı hücum həyata keçirdiyini açıqlayıb. Bu hadisə bölgədə diplomatik səylərin nəticəsiz qaldığı bir dövrdə gərginliyi yenidən pik həddə çatdırıb.",
+      "topic_key": "yemen-houthis-saudi-oil-refinery",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
     {
-      "headline_az": "Yəmən husiləri Səudiyyə Ərəbistanının neft zavodunu hədəfə aldı",
-      "summary_az": "Yəməndəki husi qruplaşması Səudiyyə Ərəbistanının Rabiq neft emalı zavoduna qarşı hücum həyata keçirdiyini açıqlayıb. Bu hadisə bölgədə diplomatik səylərin nəticəsiz qaldığı bir dövrdə gərginliyi yenidən pik həddə çatdırıb.",
+      "headline_az": "ABŞ-da aviasiya böhranı aradan qaldırıldı",
+      "summary_az": "\"Delta Air Lines\" şirkətini və minlərlə sərnişini çətin vəziyyətdə qoyan texniki nasazlıq tamamilə aradan qaldırılıb. Reyslər yenidən cədvəl üzrə bərpa olunur.",
       "category": "Dünya",
       "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
       "is_update": false,
-      "topic_key": "yemen-houthis-saudi-oil-refinery",
+      "topic_key": "delta-airlines-tech-issue-resolved",
       "source_indices": [
-        21
+        0
       ],
       "sources": [
         {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/abs-de-minlerle-reysin-texire-salinmasina-sebeb-olan-problem-hell-edildi"
         }
       ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T06:54:22.030559+00:00"
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/vmYKxn94F8flXOKOJ8qBRYuIQn41As9SPZqgBoa5:640.jpg",
+      "queued_at": "2026-11-23T06:56:31.553778+00:00"
     },
     {
       "headline_az": "Donald Trampdanköçkün seçicilərə: «Anlamadan tetiğe basdınız»",
