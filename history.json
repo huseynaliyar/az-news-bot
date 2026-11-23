@@ -209,7 +209,8 @@
     "c4de91d4ac5b374d": "2026-11-23T00:11:04.365931+00:00",
     "408e825ba5315210": "2026-11-23T00:11:04.365931+00:00",
     "c60435f0a8e629e4": "2026-11-23T00:12:19.877243+00:00",
-    "2cc503b3ce688ad6": "2026-11-23T00:12:19.877243+00:00"
+    "2cc503b3ce688ad6": "2026-11-23T00:12:19.877243+00:00",
+    "d261340b7ee964fd": "2026-11-23T00:20:32.143535+00:00"
   },
   "published_stories": [
     {
@@ -629,6 +630,15 @@
       "topic_key": "rize-degirmendere-stream-red-mystery",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T00:20:32.610321+00:00",
+      "headline_az": "Böyük Britaniya və Avropa İttifaqı Brexit-dən sonra əlaqələri gücləndirmək üçün tarixi razılaşma əldə ediblər",
+      "summary_az": "Böyük Britaniya və Avropa İttifaqı rəsmiləri post-Brexit dövründə münasibətləri yenidən qurmaq və əməkdaşlığı dərinləşdirmək məqsədilə mühüm sazişə imza atıblar. Bu razılaşmanın qarşıdakı onillikdə iqtisadi və siyasi əlaqələrə müsbət təsir göstərəcəyi gözlənilir. Liderlər bu addımın tərəflər arasında qarşılıqlı etimadı bərpa edəcəyini vurğulayırlar.",
+      "topic_key": "uk-eu-landmark-deal-brexit-rollback",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
