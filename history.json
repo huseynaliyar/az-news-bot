@@ -1070,7 +1070,14 @@
     "8b0993be5d17e9fa": "2026-11-23T21:02:34.970548+00:00",
     "899fec35b34ee0aa": "2026-11-23T21:02:34.970548+00:00",
     "12da15583cde7765": "2026-11-23T21:02:34.970548+00:00",
-    "525e0013527206c9": "2026-11-23T21:02:34.970548+00:00"
+    "525e0013527206c9": "2026-11-23T21:02:34.970548+00:00",
+    "24bf33a0266b841f": "2026-11-23T21:15:38.711921+00:00",
+    "77fcb68f867d5384": "2026-11-23T21:15:38.711921+00:00",
+    "d612c722d11c77c0": "2026-11-23T21:15:38.711921+00:00",
+    "85f9cc802007196b": "2026-11-23T21:15:38.711921+00:00",
+    "5d6fc9d047005878": "2026-11-23T21:15:38.711921+00:00",
+    "b6aa410db677fb56": "2026-11-23T21:15:38.711921+00:00",
+    "a5308ba62a5f2de2": "2026-11-23T21:15:38.711921+00:00"
   },
   "published_stories": [
     {
@@ -2866,9 +2873,40 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-23T21:15:39.403538+00:00",
+      "headline_az": "Türkiyədə 2026-cı il üçün yenidən qiymətləndirmə əmsalı açıqlandı",
+      "summary_az": "Xəzinə və Maliyyə Nazirliyi 2026-cı il üçün yenidən qiymətləndirmə dərəcəsini 27.83 faiz olaraq müəyyənləşdirib. Qərar Vergi Prosessual Qanununun Ümumi Komünikesi ilə rəsmən elan edilib.",
+      "topic_key": "turkey-2026-revaluation-rate",
+      "sources": [
+        "NTV Gündem"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
+      "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "russia-ukraine-underground-warfare",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/dunya/rusya-ukrayna-savasinda-cephe-yer-altina-indi-3497156"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T21:15:38.690775+00:00"
+    },
     {
       "headline_az": "ABŞ‑lı Kongres üzvü Brendan F. Boyle NATO Parlamentar Asamblesinin yeni prezidenti seçildi",
       "summary_az": "Berlin‑də keçirilən ümumi yığıncaqda NATO PA‑nın başçısı olaraq Brendan F. Boyle təyin olundu.",
@@ -3088,28 +3126,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T18:36:34.059208+00:00"
-    },
-    {
-      "headline_az": "Avropa Komissiyası Coca-Cola-ya qarşı araşdırma başladıb",
-      "summary_az": "Avropa Komissiyası Coca-Cola Europacific Partners şirkətinin bazardakı dominant mövqeyindən sui-istifadə edib-etmədiyi ilə bağlı rəsmi antimonopoliya araşdırmasına start verib. Şirkətin sərhədlərarası ticarəti məhdudlaşdırdığı iddia edilir.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "cocacola-antitrust-probe",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/267963.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/414160.jpg",
-      "queued_at": "2026-11-23T18:16:12.755235+00:00"
     }
   ]
 }
