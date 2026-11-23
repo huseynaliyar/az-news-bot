@@ -977,7 +977,22 @@
     "2bc804dedc98261d": "2026-11-23T18:46:56.396173+00:00",
     "2ed9e7f7d8f83852": "2026-11-23T18:46:56.396173+00:00",
     "ca6bde5081daf871": "2026-11-23T18:46:56.396173+00:00",
-    "c1970030946a5f26": "2026-11-23T18:46:56.396173+00:00"
+    "c1970030946a5f26": "2026-11-23T18:46:56.396173+00:00",
+    "acaa17fe8aa5e143": "2026-11-23T19:00:46.988688+00:00",
+    "76904bcc2bee6114": "2026-11-23T19:00:46.988688+00:00",
+    "79cdd2aca565675e": "2026-11-23T19:00:46.988688+00:00",
+    "4ac1125bd1bd32de": "2026-11-23T19:00:46.988688+00:00",
+    "17a4b9e4b93b2676": "2026-11-23T19:00:46.988688+00:00",
+    "35b114de0ff383fc": "2026-11-23T19:00:46.988688+00:00",
+    "47e46bb37ae4a97a": "2026-11-23T19:00:46.988688+00:00",
+    "fdad49a1fbed3f49": "2026-11-23T19:00:46.988688+00:00",
+    "2c8e3f4d54b53cc5": "2026-11-23T19:00:46.988688+00:00",
+    "9382d51ed58dfb36": "2026-11-23T19:00:46.988688+00:00",
+    "23422814e9f816f9": "2026-11-23T19:00:46.988688+00:00",
+    "dd9311f786502921": "2026-11-23T19:00:46.988688+00:00",
+    "8d2dc6a8f07c9e08": "2026-11-23T19:00:46.988688+00:00",
+    "76a9a8cb4724f75d": "2026-11-23T19:00:46.988688+00:00",
+    "7f70444049d70557": "2026-11-23T19:00:46.988688+00:00"
   },
   "published_stories": [
     {
@@ -2690,31 +2705,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T19:00:47.601157+00:00",
+      "headline_az": "SpaceX-ə qarşı \"Grok\" iddiası: Ştatlar məhkəməyə müraciət etdi",
+      "summary_az": "Oreqon və Virciniya ştatlarının baş prokurorları SpaceX şirkətini məhkəməyə verib. İddiaya görə, şirkət süni intellekt aləti olan \"Grok\" vasitəsilə yayılan pornoqrafik deepfake görüntülərin qarşısını almaq üçün təhlükəsizlik standartlarına əməl etməyib.",
+      "topic_key": "spacex-grok-lawsuit",
+      "sources": [
+        "The Verge"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "SpaceX-ə qarşı \"Grok\" iddiası: Ştatlar məhkəməyə müraciət etdi",
-      "summary_az": "Oreqon və Virciniya ştatlarının baş prokurorları SpaceX şirkətini məhkəməyə verib. İddiaya görə, şirkət süni intellekt aləti olan \"Grok\" vasitəsilə yayılan pornoqrafik deepfake görüntülərin qarşısını almaq üçün təhlükəsizlik standartlarına əməl etməyib.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "spacex-grok-lawsuit",
-      "source_indices": [
-        11
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T18:36:34.059208+00:00"
-    },
     {
       "headline_az": "Avropada \"hazırlıqlı ol\" trendi: Hökumətlər vətəndaşlara xəbərdarlıq edir",
       "summary_az": "Avropa ölkələrində vətəndaşların fövqəladə hallara hazırlıq görməsi dövlət səviyyəsində təşviq olunur. Bu, sadəcə internetdəki şayiələr deyil, rəsmi qurumların təhlükəsizlik üçün verdiyi tövsiyələr əsasında formalaşan yeni bir sosial tendensiyadır.",
