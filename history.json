@@ -325,7 +325,8 @@
     "6d84396741bde3d4": "2026-11-23T06:06:26.409206+00:00",
     "33744c8240c62bb1": "2026-11-23T06:06:26.409206+00:00",
     "f2b8eb0bf9d1f3e2": "2026-11-23T06:06:26.409206+00:00",
-    "c3ce428d39705292": "2026-11-23T06:06:26.409206+00:00"
+    "c3ce428d39705292": "2026-11-23T06:06:26.409206+00:00",
+    "922a29c46955da65": "2026-11-23T06:08:20.524256+00:00"
   },
   "published_stories": [
     {
@@ -1375,6 +1376,15 @@
       "topic_key": "istanbul-crime-gang-operation-detentions",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T06:08:21.540959+00:00",
+      "headline_az": "Bakıda MTK rəhbəri 1 milyonluq dələduzluğa görə həbs edilib",
+      "summary_az": "\"Vesta Construction\" MTK-nın rəhbəri Ceyhun Quliyev eyni mənzili bir neçə şəxsə sataraq vətəndaşlara ümumilikdə 1 milyon manata yaxın ziyan vurmaqda ittiham olunur. Hüquq-mühafizə orqanlarının keçirdiyi əməliyyat nəticəsində o, saxlanılaraq barəsində həbs qətimkan tədbiri seçilib. Faktla bağlı istintaq araşdırmaları davam etdirilir.",
+      "topic_key": "vesta-construction-director-arrested",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
