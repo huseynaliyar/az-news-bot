@@ -410,7 +410,10 @@
     "a39fa8198cbe87ff": "2026-11-23T07:04:33.706415+00:00",
     "b3ef1a624a2c67c5": "2026-11-23T07:04:33.706415+00:00",
     "d6a9e865b4b3843a": "2026-11-23T07:06:21.544569+00:00",
-    "ac940137c64fa6f2": "2026-11-23T07:06:21.544569+00:00"
+    "ac940137c64fa6f2": "2026-11-23T07:06:21.544569+00:00",
+    "0427cac3a650a175": "2026-11-23T07:10:28.482152+00:00",
+    "a810592893800d28": "2026-11-23T07:10:28.482152+00:00",
+    "3892a538030be8d6": "2026-11-23T07:10:28.482152+00:00"
   },
   "published_stories": [
     {
@@ -1721,6 +1724,15 @@
       "topic_key": "trump-midterm-elections-reaction",
       "sources": [
         "NTV Dünya"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T07:10:30.034655+00:00",
+      "headline_az": "Azərbaycan ilə İtaliya arasında ticarət dövriyyəsi 12 milyarda yaxınlaşıb",
+      "summary_az": "İtaliya Azərbaycanın əsas ticarət tərəfdaşı və ixrac bazarı olaraq qalır. İqtisadiyyat nazirinin müavini Anar Əxundov bildirib ki, ölkəmizdə İtaliya kapitallı 124 şirkət fəaliyyət göstərir.",
+      "topic_key": "baku-azerbaijan-italy-business-forum",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
