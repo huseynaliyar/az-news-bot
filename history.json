@@ -331,7 +331,10 @@
     "ee3a964c67ad0b02": "2026-11-23T06:10:26.540098+00:00",
     "017d6b39d0c1d069": "2026-11-23T06:10:26.540098+00:00",
     "960f538c0c7a1775": "2026-11-23T06:10:26.540098+00:00",
-    "9ebf036d05502d84": "2026-11-23T06:12:23.861569+00:00"
+    "9ebf036d05502d84": "2026-11-23T06:12:23.861569+00:00",
+    "2658de370fe86db8": "2026-11-23T06:14:22.808522+00:00",
+    "6404881c1ec12e76": "2026-11-23T06:14:22.808522+00:00",
+    "a910f5a9c9390344": "2026-11-23T06:14:22.808522+00:00"
   },
   "published_stories": [
     {
@@ -1409,9 +1412,62 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-23T06:14:23.986724+00:00",
+      "headline_az": "Ermənistanda yeni Konstitusiya layihəsi ictimaiyyətə təqdim edilib",
+      "summary_az": "Ermənistanın Baş naziri Nikol Paşinyan ölkənin yeni Konstitusiya layihəsini xüsusi yaradılmış saytda dərc edib. Sənəddə müstəqillik bəyannaməsinə istinadların çıxarıldığı və vətəndaşların müzakirəsinə təqdim olunduğu bildirilir.",
+      "topic_key": "armenia-new-constitution-draft",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Rusiya bölgələrində PUA təhlükəsi elan edilib",
+      "summary_az": "Rusiyanın Ukrayna sərhədindən təxminən 2000 kilometr məsafədə yerləşən Çelyabinsk və Sverdlovsk vilayətlərində pilotsuz uçuş aparatları təhlükəsi səbəbindən xəbərdarlıq elan olunub. Hadisə ilə əlaqədar aidiyyəti qurumlar gücləndirilmiş iş rejiminə keçib.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "russia-ural-uav-alert",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Google News AZ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTi1KYzBwcEhLeXhMc0pPUXJ2TWp2NVFuZGgtYzBxdUZFV05WUzFURVdyaTd2QzA1VHVZOWRDYXE2ZGZ4c216ejN2a2czUzBZRDd2alJPQ2JvZlVkNlNYRUtwd0xqSGpxaFlHdlJCOXI2dlNiQV9KdW9ReWVzdldWc0VQUnVORHF2cXF4Q1dOV0pfbEs5ZjJOUkVnbUpQTjUxaXd2bC0tdUh4VzZMdGNTaGRHMUdsMVZJcWNoQ25xTWNFd9IBxwFBVV95cUxNeGVDd2w3X0RhbFNaRGQwMENjSE9KMzJOaXk5RldpZFYtVlpobVNDNS1WWlZ2OHNfemgyd3VOYjV6cFdrdXBRb0JWX1p5LU9JV3A3clB4TUtEUktsQ1pDZzVnd1RHMFA5R1JIbTUtNmxHNzdIZV9ZRXJmbFZndXJYcFg5NlEzNFhlYzlCaVVXczJYdm9CUnhOZnIzSmR0bS1JVG9XeFFNUUJraDJxSU1YdWMyMkZtRURMNlVQbHJPQ1MzMFM1Wlhn?oc=5"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:14:22.808487+00:00"
+    },
+    {
+      "headline_az": "İstanbulun Bakırköy rayonunda kimsəsiz bina çöküb",
+      "summary_az": "İstanbulun Bakırköy rayonunda ikimərtəbəli kimsəsiz binanın bir hissəsində çökmə qeydə alınıb. Hadisə yerinə dərhal yanğınsöndürmə və xilasetmə qrupları cəlb olunub, araşdırmalar aparılır.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "istanbul-bakirkoy-building-collapse",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/bakirkoyde-2-katli-metruk-binada-kismi-cokme-3496748"
+        }
+      ],
+      "importance": 6,
+      "image_url": "",
+      "queued_at": "2026-11-23T06:14:22.808487+00:00"
+    },
     {
       "headline_az": "Türkiyədə qız istəmə mərasimi qanlı bitib",
       "summary_az": "Türkiyədə baş tutan qız istəmə mərasimi zamanı naməlum səbəbdən mübahisə yaranıb və insident qətlə səbəb olub. Hadisə yerinə gələn hüquq-mühafizə orqanları araşdırma baş浮かdıb.",
