@@ -413,7 +413,8 @@
     "ac940137c64fa6f2": "2026-11-23T07:06:21.544569+00:00",
     "0427cac3a650a175": "2026-11-23T07:10:28.482152+00:00",
     "a810592893800d28": "2026-11-23T07:10:28.482152+00:00",
-    "3892a538030be8d6": "2026-11-23T07:10:28.482152+00:00"
+    "3892a538030be8d6": "2026-11-23T07:10:28.482152+00:00",
+    "5c24b2233aa52ef4": "2026-11-23T07:12:19.677462+00:00"
   },
   "published_stories": [
     {
@@ -1733,6 +1734,15 @@
       "topic_key": "baku-azerbaijan-italy-business-forum",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T07:12:20.712962+00:00",
+      "headline_az": "Almaniya sərhəddə kamikadze dronlarını sınaqdan keçirdi",
+      "summary_az": "Almaniya Silahlı Qüvvələri Litvada, Belarus sərhədi yaxınlığında keçirilən təlimlərdə ilk dəfə kamikadze PUA-larının taktiki sınaqlarını həyata keçirib. Manevrlər zamanı zirehli texnikalar hədəfə alınıb.",
+      "topic_key": "germany-lithuania-kamikaze-drone-test",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
