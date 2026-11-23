@@ -621,7 +621,27 @@
     "fcbff21cf2de2e00": "2026-11-23T10:00:41.057378+00:00",
     "6afd80b74c9234c5": "2026-11-23T10:00:41.057378+00:00",
     "2e5cd9adae41420c": "2026-11-23T10:00:41.057378+00:00",
-    "18825d370e1d94a6": "2026-11-23T10:00:41.057378+00:00"
+    "18825d370e1d94a6": "2026-11-23T10:00:41.057378+00:00",
+    "c6f0f7eb096e95b1": "2026-11-23T10:15:38.812690+00:00",
+    "1123b5d967c76d6c": "2026-11-23T10:15:38.812690+00:00",
+    "5a5efff9fc2d7f09": "2026-11-23T10:15:38.812690+00:00",
+    "f089f395e7bfad37": "2026-11-23T10:15:38.812690+00:00",
+    "017b8bf24db1d2f6": "2026-11-23T10:15:38.812690+00:00",
+    "3b064a3512a2a85e": "2026-11-23T10:15:38.812690+00:00",
+    "18ab703d02d57507": "2026-11-23T10:15:38.812690+00:00",
+    "18ba7015b2897eb3": "2026-11-23T10:15:38.812690+00:00",
+    "ae935bfae4467983": "2026-11-23T10:15:38.812690+00:00",
+    "a0657e11861d4beb": "2026-11-23T10:15:38.812690+00:00",
+    "d547993621f83a21": "2026-11-23T10:15:38.812690+00:00",
+    "c7e0f3184eb50282": "2026-11-23T10:15:38.812690+00:00",
+    "e67efbb701ab6179": "2026-11-23T10:15:38.812690+00:00",
+    "3f37840b43c34975": "2026-11-23T10:15:38.812690+00:00",
+    "bb55b9a03c66f195": "2026-11-23T10:15:38.812690+00:00",
+    "ec876cd8c41a1284": "2026-11-23T10:15:38.812690+00:00",
+    "4d1188367b36b9f2": "2026-11-23T10:15:38.812690+00:00",
+    "59adb0d7d219917a": "2026-11-23T10:15:38.812690+00:00",
+    "45a7bdadb0797581": "2026-11-23T10:15:38.812690+00:00",
+    "01a8a27cc1250dd8": "2026-11-23T10:15:38.812690+00:00"
   },
   "published_stories": [
     {
@@ -2075,9 +2095,84 @@
         "Oxu.az",
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T10:15:43.154179+00:00",
+      "headline_az": "Liviya sahilində Rusiya hərbi gəmisinin vurulması təsdiqləndi",
+      "summary_az": "Ukrayna Prezidenti Volodimir Zelenskiy Liviya sahilində Rusiya donanmasına məxsus \"Merkuriy\" korvetinə və yük gəmisinə uğurlu PUA zərbəsi endirildiyini açıqlayıb. Beynəlxalq mediada geniş əks səda doğuran əməliyyat dəniz müharibəsində yeni mərhələ kimi qiymətləndirilir.",
+      "topic_key": "russia-ship-attack-mediterranean",
+      "sources": [
+        "Google News AZ",
+        "NTV Dünya",
+        "CNBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T10:15:43.154191+00:00",
+      "headline_az": "COP31 iqlim sammiti fiasko ilə başa çatdı",
+      "summary_az": "Fosil yanacaqlar və maliyyə məsələləri üzrə kəskin fikir ayrılıqları səbəbindən COP31 iqlim danışıqları heç bir razılaşma əldə olunmadan çöküb. Ekspertlər sammiti tarixə \"ən pis COP\" kimi düşdüyünü qeyd edərək əsas tərəflər arasında barışmaz xətlərin qaldığını bildirirlər.",
+      "topic_key": "cop31-climate-talks-collapse",
+      "sources": [
+        "Google News World",
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İtaliya ilə Azərbaycan arasında iqtisadi əməkdaşlıq genişlənir",
+      "summary_az": "İtaliyanın baş nazir müavini Antonio Tajani ölkəsinin Azərbaycanla inşaat, kənd təsərrüfatı və mühəndislik sahələrində əməkdaşlığı dərinləşdirməyə hazır olduğunu bildirib. İki ölkə arasında ticarət əlaqələrinin gücləndirilməsi istiqamətində yeni strateji addımlar atılır.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "italy-azerbaijan-economic-cooperation",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/business/267926.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/23/17954214334176241781_1200x630.jpg",
+      "queued_at": "2026-11-23T10:15:38.812651+00:00"
+    },
+    {
+      "headline_az": "PKK İraqın şimalında 14 düşərgəni boşaltdı",
+      "summary_az": "Türk təhlükəsizlik mənbələrinin yaydığı məlumata görə, terror təşkilatı PKK İraqın şimalındakı Hakurk bölgəsində daha 14 barınma sahəsini boşaltmaq məcburiyyətində qalıb. Bölgədə antiterror əməliyyatları qətiyyətlə davam etdirilir.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "pkk-hakurk-camps-evacuated",
+      "source_indices": [
+        7,
+        8,
+        13
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/teror-orgutu-pkk-irakin-kuzeyindeki-14-barinma-alanini-daha-bosaltti-964202.html"
+        },
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/son-dakika-haberi-pkk-irakin-kuzeyinden-cekiliyor-3496893"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/son-dakika-gorselleri/son-kirmizi(6).jpg",
+      "queued_at": "2026-11-23T10:15:38.812651+00:00"
+    },
     {
       "headline_az": "Süni intellektli smart linza dövrü gəlir: Telefonlara ehtiyac qalmaya bilər",
       "summary_az": "Birləşmiş Ərəb Əmirlikləri və Çin tədqiqatçıları rəqəmsal məlumatları birbaşa göz önünə proyeksiya edən smart kontakt linzalar üzərində işləyirlər. Süni intellektlə təchiz olunan bu texnologiya gələcəkdə smartfonlardan istifadə vərdişlərini kökündən dəyişə bilər.",
@@ -2189,6 +2284,28 @@
       "queued_at": "2026-11-23T08:15:30.338883+00:00"
     },
     {
+      "headline_az": "Sıfır avtomobildə tavan boyası döküldü: Yargıtaydan emsal qərar",
+      "summary_az": "Yeni aldığı avtomobilin tavan boyasında istehsal qüsuru çıxan və 9 dəfə servisə getməli olan sürücünün hüquqi mübarizəsi zəfərlə bitib. Məhkəmənin nəqliyyat vasitəsinin dəyişdirilməsi ilə bağlı çıxardığı qərar Yargıtay tərəfindən də təsdiqlənib.",
+      "category": "Maraqlı",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "car-paint-defect-court-ruling",
+      "source_indices": [
+        16
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/ekonomi/sifir-otomobil-icin-emsal-karar-tavan-boyasi-dokuldu-9-kez-servise-gitti-3496889"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-23T10:15:38.812651+00:00"
+    },
+    {
       "headline_az": "Azərbaycan fındıq ləpəsini ilk dəfə Çinə ixrac etdi",
       "summary_az": "Azərbaycan ilə Çin arasında kənd təsərrüfatı ticarətində yeni mərhələ başlayıb. Ölkəmizdən Çinə ilk dəfə olaraq fındıq ləpəsi ixrac olunub ki, bu da ixrac coğrafiyasının genişlənməsində mühüm addımdır.",
       "category": "İqtisadiyyat",
@@ -2231,94 +2348,6 @@
       "importance": 7,
       "image_url": "https://images.oxu.az/2026/11/23/LNAgQlsTQrd7HQ7y21QRXDFjO7w7oe69t96DQ7cS:640.webp",
       "queued_at": "2026-11-23T10:00:41.057334+00:00"
-    },
-    {
-      "headline_az": "Braziliyanı qasırğa vurdu: Minlərlə sakin evlərini tərk etməli olub",
-      "summary_az": "Braziliyanın Tupantsireta qəsəbəsində qeydə alınan güclü superhüceyrə qasırğası ciddi dağıntılara səbəb olub. Təbii fəlakət nəticəsində minlərlə insan evlərindən didərgin düşüb, xilasetmə işləri davam edir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "brazil-storm-displaced",
-      "source_indices": [
-        14
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T10:00:41.057334+00:00"
-    },
-    {
-      "headline_az": "Braziliyada 74 yaşlı kişi 11 gün cəngəllikdə təkbaşına qaldı",
-      "summary_az": "Amazon cəngəlliklərində itkin düşən Altsheymer xəstəsi olan 74 yaşlı kişi 11 gündən sonra sağ tapılıb. O, bu müddət ərzində yalnız yabanı meyvələrlə qidalanaraq həyatda qalmağı bacarıb.",
-      "category": "Maraqlı",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "brazil-elderly-survives-jungle",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/braziliyada-itkin-dusen-74-yasli-kisi-11-gun-sonra-cengellikden-sag-tapildi"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/9EY7008afybtTH9vsBtUkkbnBDXe5CCrUmX4f5zH:640.webp",
-      "queued_at": "2026-11-23T09:45:29.775711+00:00"
-    },
-    {
-      "headline_az": "Azərbaycan və Özbəkistan parlamentlərarası yeni əməkdaşlığa hazırlaşır",
-      "summary_az": "Bakıda iki ölkə arasında 2027–2028-ci illər üçün yeni parlamentlərarası əməkdaşlıq xəritəsi müzakirə olunacaq. Noyabrın 25-də keçiriləcək İkinci Azərbaycan-Özbəkistan Parlamentlərarası Forumu strateji tərəfdaşlığı daha da gücləndirəcək.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijan-uzbekistan-parliamentary-forum",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/nation/267924.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://www.azernews.az/media/2026/11/23/z9wf4xq5rmyb.jpg",
-      "queued_at": "2026-11-23T09:30:42.431709+00:00"
-    },
-    {
-      "headline_az": "İstanbulda sürücülərə otopark cəriməsi yağdı",
-      "summary_az": "İstanbulda ilk üç saatın pulsuz olması qaydasına əməl etməyən 50 ticarət və iş mərkəzinə ümumilikdə 2,4 milyon lirədən çox cərimə kəsilib. Şəhər rəhbərliyi vətəndaşların hüquqlarının qorunması üçün nəzarəti gücləndirib.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "istanbul-parking-rule-fines",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/galeri-otoparkta-ilk-uc-saat-kuralina-uymayanlara-ceza-yagdi-1752188"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.ntv.com.tr/images/AA-20261123-43156026-43156017-ISTANBULDA_OTOPARKLARDA_ILK_3_SAAT_UCRETSIZ_KURALINA_UYMAYAN_ALISVERIS_IS_VE_TICARET_MERKEZLERINE_CEZA-812607.jpg",
-      "queued_at": "2026-11-23T09:30:42.431709+00:00"
     }
   ]
 }
