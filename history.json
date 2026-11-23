@@ -289,7 +289,9 @@
     "c222c346ddc138f8": "2026-11-23T05:08:35.555004+00:00",
     "cddd379eb0dd1b70": "2026-11-23T05:08:35.555004+00:00",
     "fc3011511b723a6e": "2026-11-23T05:08:35.555004+00:00",
-    "85ea5eb61f7f942f": "2026-11-23T05:16:29.399560+00:00"
+    "85ea5eb61f7f942f": "2026-11-23T05:16:29.399560+00:00",
+    "6173817f566019a2": "2026-11-23T05:18:19.555626+00:00",
+    "aef46205cd67dc84": "2026-11-23T05:18:19.555626+00:00"
   },
   "published_stories": [
     {
@@ -1177,6 +1179,15 @@
       "topic_key": "hull-city-brighton-match",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T05:18:20.344284+00:00",
+      "headline_az": "Dieqo Simeone İspaniya çempionatında yeni rekorda imza atıb",
+      "summary_az": "\"Atletiko Madrid\" klubunun argentinalı baş məşqçisi Dieqo Simeone İspaniya çempionatında qazandığı qələbələrin sayına görə tarixi rekorda imza atıb. O, La Liqada ən çox qələbə qazanan məşqçilər sırasındakı mövqeyini daha da möhkəmlədib.",
+      "topic_key": "diego-simeone-laliga-record",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
