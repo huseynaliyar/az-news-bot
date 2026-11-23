@@ -231,7 +231,8 @@
     "4a78beca74d536d0": "2026-11-23T02:08:23.137807+00:00",
     "44f336840b6d2d1f": "2026-11-23T02:08:23.137807+00:00",
     "00b54d0a0ffbf31a": "2026-11-23T02:20:38.638647+00:00",
-    "ad1100d21d262751": "2026-11-23T02:26:20.462247+00:00"
+    "ad1100d21d262751": "2026-11-23T02:26:20.462247+00:00",
+    "88c733fd76be2f9c": "2026-11-23T02:36:24.873650+00:00"
   },
   "published_stories": [
     {
@@ -786,6 +787,15 @@
       "topic_key": "us-army-iowa-lead-detonation",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-23T02:36:25.904600+00:00",
+      "headline_az": "Böyük Britaniyada kənd hökumətin miqrant planına etiraz olaraq ölkədən ayrılmağa səs verdi",
+      "summary_az": "Böyük Britaniyanın Saffolk qraflığındakı Barnem kəndinin sakinləri hökumətin yaxınlıqda miqrantlar üçün mərkəz yaratmaq planlarına etiraz ediblər. Yerli sakinlər buna cavab olaraq Böyük Britaniyanın tərkibindən çıxmaq barədə qərar qəbul ediblər. Qəribə protest addımı ölkə miqyasında diqqət çəkib.",
+      "topic_key": "uk-village-secession-migrant-center",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
