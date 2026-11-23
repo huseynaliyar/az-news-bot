@@ -75,17 +75,21 @@ def build_prompt(
     history_block = "\n".join(history_lines) if history_lines else "(Son günlərdə paylaşılmış xəbər yoxdur)"
     candidates_block = "\n\n".join(candidate_lines)
 
-    return f"""Sən peşəkar azərbaycanlı xəbər redaktoru və fakt-yoxlayıcısısan.
-Sənə Azərbaycan, Türkiyə və dünya RSS mənbələrindən gələn yeni xəbərlər verilir.
+    return f"""Sən müasir, zövqlü və oxucuların sevdiyi Azərbaycan Telegram xəbər kanalının baş redaktorusan.
+Sənə Azərbaycan, Türkiyə, dünya, texnologiya, elm və biznes RSS mənbələrindən xəbərlər gəlir.
 
 VƏZİFƏLƏRİN:
-1. EYNİ HADİSƏNİ BİRLƏŞDİR: Müxtəlif saytlardan eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
-2. ÇOXGÜNLÜK YADDAŞI YOXLAYIB TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR" siyahısını yoxla. Əgər xəbər artıq orada varsa və ciddi yeni inkişaf yoxdursa, onu TAMAMİLƏ ÇIXAR. Yalnız mühüm yeni detal varsa `is_update: true` kimi saxla.
+1. EYNİ HADİSƏNİ BİRLƏŞDİR: Fərqli saytlardan eyni hadisə haqqında gələn xəbərləri BİR xəbər kimi birləşdir və bütün uyğun indeksləri `source_indices` siyahısına yaz.
+2. TƏKRARI ÇIXAR: Aşağıdakı "SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR" siyahısında artıq olan mövzuları TAMAMİLƏ ÇIXAR (yalnız ciddi yeni inkişaf varsa `is_update: true` saxla).
 3. DOĞRULUĞU VƏ VACİBLİYİ QİYMƏTLƏNDİR:
    - 2+ müstəqil mənbə təsdiqləyirsə və ya etibarlı rəsmi mənbədirsə: `verified: true`, `verification_note: "Təsdiqlənmiş"`.
    - Yalnız 1 mənbədədirsə: `verified: false`, `verification_note: "Tək mənbə / Yoxlanılmalıdır"`.
-   - `importance` (1-10): 9-10 = fövqəladə/son dəqiqə böyük hadisə; 7-8 = çox mühüm gündəm xəbəri; 5-6 = normal xəbər; 1-4 = əhəmiyyətsiz (bunları seçmə).
-4. AZƏRBAYCAN DİLİNDƏ YAZ: Ən vacib maksimum {max_posts} xəbəri seç (Azərbaycan, Türkiyə və dünya balansını qoru). Səlis, təbii Azərbaycan dilində başlıq (`headline_az`) və 2-3 cümləlik xülasə (`summary_az`) yaz. Reklam, klikbeyt və xırda şou xəbərlərini çıxar.
+   - `importance` (1-10): 9-10 = fövqəladə/son dəqiqə böyük hadisə; 7-8 = çox maraqlı və ya mühüm gündəm/texnologiya/elm xəbəri; 5-6 = sıradan xəbər; 1-4 = əhəmiyyətsiz. Yalnız həqiqətən oxucunun diqqətini çəkən, paylaşılmağa dəyər xəbərlərə 7+ bal ver.
+4. MÜASİR YAZI ÜSLUBU VƏ MÖVZU BALANSI:
+   - Maksimum {max_posts} xəbər seç. Ard-arda təkcə ağır siyasi xəbər yox, maraqlı texnologiya, elm, iqtisadiyyat və qeyri-adi dünya hadisələrini də mütləq qat.
+   - Quru, darıxdırıcı rəsmi agentlik dilindən UZAQ DUR ("çərçivəsində müvafiq tədbirlər həyata keçirilib" kimi şablonlar yazma).
+   - Başlıq (`headline_az`) qısa, kəskin və maraq oyadan olsun (klikbeyt yox, əsas faktı dərhal verən).
+   - Xülasə (`summary_az`) 2-3 cümləlik canlı, axıcı və insan kimi yazılmış Azərbaycan dilində olsun; faciə/ciddi hadisələrdə hörmətli və ciddi, texnologiya/maraqlı mövzularda isə dinamik və yaddaqalan üslub seç.
 
 SON GÜNLƏRDƏ PAYLAŞILMIŞ VƏ NÖVBƏDƏ OLAN XƏBƏRLƏR:
 {history_block}
@@ -97,9 +101,9 @@ CAVABI YALNIZ DÜZGÜN JSON FORMATINDA VER:
 {{
   "stories": [
     {{
-      "headline_az": "Qısa və aydın Azərbaycan dilində başlıq",
-      "summary_az": "2-3 cümləlik dəqiq və neytral xülasə.",
-      "category": "Siyasət | İqtisadiyyat | Texnologiya | Dünya | Türkiyə | Azərbaycan | Təhlükəsizlik",
+      "headline_az": "Qısa, maraq oyadan və aydın başlıq",
+      "summary_az": "2-3 cümləlik canlı və axıcı Azərbaycan dilində xülasə.",
+      "category": "Siyasət | İqtisadiyyat | Texnologiya | Elm | Dünya | Türkiyə | Azərbaycan | Maraqlı",
       "region": "az | tr | world",
       "verified": true,
       "verification_note": "Təsdiqlənmiş",
@@ -129,7 +133,7 @@ def _call_gemini(prompt: str, api_key: str, model: str, timeout: int = 45) -> st
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.2,
+            "temperature": 0.3,
             "responseMimeType": "application/json",
         },
     }
@@ -147,12 +151,12 @@ def _call_groq(prompt: str, api_key: str, model: str, timeout: int = 45) -> str:
     }
     payload = {
         "model": model,
-        "temperature": 0.2,
+        "temperature": 0.3,
         "response_format": {"type": "json_object"},
         "messages": [
             {
                 "role": "system",
-                "content": "You are a precise Azerbaijani news editor. Always respond with valid JSON only.",
+                "content": "You are a sharp, modern Azerbaijani news editor. Always respond with valid JSON only.",
             },
             {"role": "user", "content": prompt},
         ],
