@@ -2469,31 +2469,18 @@
       "sources": [
         "Google News AZ"
       ]
+    },
+    {
+      "published_at": "2026-11-23T15:16:00.535890+00:00",
+      "headline_az": "Çində yüksək vəzifəli şəxsə casusluq ittihamı ilə ölüm hökmü",
+      "summary_az": "Çində bir nazirlik rəsmisi dövlət sirri sayılan məlumatları xarici kəşfiyyat orqanlarına ötürdüyü üçün məhkəmə tərəfindən ölüm cəzasına məhkum edilib. Ölkədə casusluqla bağlı qanunların sərtləşdirilməsi diqqət çəkir.",
+      "topic_key": "china-spy-death-penalty",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Çində yüksək vəzifəli şəxsə casusluq ittihamı ilə ölüm hökmü",
-      "summary_az": "Çində bir nazirlik rəsmisi dövlət sirri sayılan məlumatları xarici kəşfiyyat orqanlarına ötürdüyü üçün məhkəmə tərəfindən ölüm cəzasına məhkum edilib. Ölkədə casusluqla bağlı qanunların sərtləşdirilməsi diqqət çəkir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "china-spy-death-penalty",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/dunya/cinde-bakanlik-gorevlisine-casusluktan-idam-cezasi-3496918"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-23T10:30:47.476721+00:00"
-    },
     {
       "headline_az": "İtaliya ilə Azərbaycan arasında iqtisadi əməkdaşlıq genişlənir",
       "summary_az": "İtaliyanın baş nazir müavini Antonio Tajani ölkəsinin Azərbaycanla inşaat, kənd təsərrüfatı və mühəndislik sahələrində əməkdaşlığı dərinləşdirməyə hazır olduğunu bildirib. İki ölkə arasında ticarət əlaqələrinin gücləndirilməsi istiqamətində yeni strateji addımlar atılır.",
