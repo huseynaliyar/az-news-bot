@@ -1204,7 +1204,8 @@
     "c48dcaf318821941": "2026-11-24T02:00:40.375999+00:00",
     "9a25a756cd2c8b8e": "2026-11-24T02:15:35.983088+00:00",
     "360a0a2cb16de260": "2026-11-24T02:15:35.983088+00:00",
-    "e2d746a8bd72fc73": "2026-11-24T02:30:35.461472+00:00"
+    "e2d746a8bd72fc73": "2026-11-24T02:30:35.461472+00:00",
+    "ab30efbf5c450fad": "2026-11-24T02:45:33.258327+00:00"
   },
   "published_stories": [
     {
@@ -3197,6 +3198,15 @@
       "topic_key": "ted-lasso-season-5-renewal",
       "sources": [
         "IGN"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T02:45:34.183211+00:00",
+      "headline_az": "Arıqlamaq istəyənlər üçün əsl tapıntı: Diyetoloq bu giləmeyvəni məsləhət gördü",
+      "summary_az": "Məşhur diyetoloq Emili Laxtrupp çəki saxlamaq və arıqlamaq istəyənlərə rasionlarına moruq əlavə etməyi tövsiyə edib. Lif və antioksidantlarla zəngin olan bu giləmeyvə maddələr mübadiləsini sürətləndirərək prosesə güclü dəstək olur.",
+      "topic_key": "dietitian-raspberry-weight-loss",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
