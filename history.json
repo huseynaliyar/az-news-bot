@@ -1423,7 +1423,30 @@
     "58b2b71f2bba5c19": "2026-11-24T07:45:31.667052+00:00",
     "c2d8990c4b9f1e11": "2026-11-24T07:45:31.667052+00:00",
     "36f9cddca947cfd3": "2026-11-24T07:45:31.667052+00:00",
-    "11db72ccc70638c0": "2026-11-24T07:45:31.667052+00:00"
+    "11db72ccc70638c0": "2026-11-24T07:45:31.667052+00:00",
+    "247fd1a55a114acb": "2026-11-24T08:00:37.518105+00:00",
+    "d262610dde2f5bea": "2026-11-24T08:00:37.518105+00:00",
+    "497a3cad7fb36e77": "2026-11-24T08:00:37.518105+00:00",
+    "8042dad1d43e1461": "2026-11-24T08:00:37.518105+00:00",
+    "463837528fd86ffb": "2026-11-24T08:00:37.518105+00:00",
+    "9a81448eadad0189": "2026-11-24T08:00:37.518105+00:00",
+    "fe5d4e091541683f": "2026-11-24T08:00:37.518105+00:00",
+    "33d05aca8fe5a8a4": "2026-11-24T08:00:37.518105+00:00",
+    "adeb6291ff2fdfdd": "2026-11-24T08:00:37.518105+00:00",
+    "36e8e7f14bc8a079": "2026-11-24T08:00:37.518105+00:00",
+    "d516732f3b1ccd45": "2026-11-24T08:00:37.518105+00:00",
+    "fb018a8ca2cbc339": "2026-11-24T08:00:37.518105+00:00",
+    "31d02e5cd9135d3d": "2026-11-24T08:00:37.518105+00:00",
+    "a136987dfce7d672": "2026-11-24T08:00:37.518105+00:00",
+    "7ea0cd867707aff4": "2026-11-24T08:00:37.518105+00:00",
+    "552e481f9e9da28c": "2026-11-24T08:00:37.518105+00:00",
+    "bcbc1aba2b047a23": "2026-11-24T08:00:37.518105+00:00",
+    "ae2894a620c30e19": "2026-11-24T08:00:37.518105+00:00",
+    "85c7b53157137db7": "2026-11-24T08:00:37.518105+00:00",
+    "d9a95cf9e29d40c1": "2026-11-24T08:00:37.518105+00:00",
+    "42429200f27a3313": "2026-11-24T08:00:37.518105+00:00",
+    "5e82a48437f46339": "2026-11-24T08:00:37.518105+00:00",
+    "60ff4181ea451538": "2026-11-24T08:00:37.518105+00:00"
   },
   "published_stories": [
     {
@@ -3597,7 +3620,39 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-24T08:00:38.748921+00:00",
+      "headline_az": "Azərbaycanda məmurlara hədiyyə və haqq almaqla bağlı sərt qadağalar gəlir",
+      "summary_az": "Milli Məclis \"Maraqlar toqquşması haqqında\" yeni qanun layihəsini birinci oxunuşda qəbul edib. Sənəd dövlət qulluqçularının fəaliyyətində şəffaflığın artırılması və korrupsiya hallarını minimuma endirməyi hədəfləyir.",
+      "topic_key": "azerbaijan-conflict-of-interest-law",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Abşeron dəniz blokunun kəşfiyyatı ilə bağlı mühüm saziş təsdiqləndi",
+      "summary_az": "Milli Məclis Xəzər dənizinin Azərbaycan sektorundakı Abşeron dəniz blokunun kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Sazişin həyata keçirilməsinə icazə verilməsi barədə qanun layihəsini təsdiq edib. Bu addım ölkənin enerji sektorunda yeni investisiyaların yolunu açacaq.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "absheron-block-exploration-agreement",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/iqtisadiyyat/abseron-deniz-blokunun-kesfiyyati-ile-bagli-sazis-tesdiqlendi"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/23/6XSrGY2Pm3mNxvIjxtoc823IiI2taTJPzly0Hbxi:640.jpg",
+      "queued_at": "2026-11-24T08:00:37.490017+00:00"
+    }
+  ]
 }
