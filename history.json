@@ -1244,7 +1244,13 @@
     "9425e28f39d65d06": "2026-11-24T04:30:35.340374+00:00",
     "79f60558154e3f40": "2026-11-24T04:45:26.039018+00:00",
     "748f8f58ad29bfd7": "2026-11-24T04:45:26.039018+00:00",
-    "e39668d78d566929": "2026-11-24T04:45:26.039018+00:00"
+    "e39668d78d566929": "2026-11-24T04:45:26.039018+00:00",
+    "abd0827e45773ad6": "2026-11-24T05:00:44.753720+00:00",
+    "c493862da68517a9": "2026-11-24T05:00:44.753720+00:00",
+    "a9ed9669ebbf8b8d": "2026-11-24T05:00:44.753720+00:00",
+    "16440f149913dc3c": "2026-11-24T05:00:44.753720+00:00",
+    "63260d6dca6fd252": "2026-11-24T05:00:44.753720+00:00",
+    "d4df5017b5bbed97": "2026-11-24T05:00:44.753720+00:00"
   },
   "published_stories": [
     {
@@ -3319,9 +3325,62 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-24T05:00:45.836706+00:00",
+      "headline_az": "Çempionlar Liqasında həyəcanlı beşinci tur başlayır",
+      "summary_az": "Bu gün UEFA Çempionlar Liqasının əsas mərhələsində V tur oyunlarına start verilir. Futbol azarkeşlərini gecənin supermatçları və \"Qalatasaray\"ın vacib sınağı gözləyir.",
+      "topic_key": "champions-league-round-5-start",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Danimarka məhkəməsindən sərt 'getto qanunu' qərarı",
+      "summary_az": "Danimarka Ali Məhkəməsi 'qeyri-qərbi' sakinlərin yaşayış sahələrindən çıxarılması üçün istifadə edilən mübahisəli qanunu dəstəkləyib. Qərar hüquq müdafiəçilərinin narazılığına səbəb olub.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "denmark-court-ghetto-law",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-24T05:00:44.733579+00:00"
+    },
+    {
+      "headline_az": "Kolumbiyada valilik binası yaxınlığında güclü partlayış baş verib",
+      "summary_az": "Kolumbiyanın Meta departamentində yerləşən Villavicensio şəhərində valilik binası hədəf alınaraq avtomobilə quraşdırılmış bomba partladılıb. Hadisə bölgədə təhlükəsizlik tədbirlərinin gücləndirilməsinə səbəb olub.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "colombia-meta-car-bomb",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-24T05:00:44.733579+00:00"
+    },
     {
       "headline_az": "ABŞ ticarət 'qara siyahısı'na yeni şirkətlər əlavə edilib",
       "summary_az": "Birləşmiş Ştatlar ixrac nəzarəti qaydalarının pozulması və qabaqcıl texnologiyaların ötürülməsi narahatlıqları səbəbindən Megaspeed daxil olmaqla bir neçə şirkəti ticarət qara siyahısına daxil edib. Qərar qlobal texnologiya bazarında yeni müzakirələrə yol açıb.",
