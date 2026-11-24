@@ -1692,7 +1692,18 @@
     "290705286ca4f3e1": "2026-11-24T11:30:55.989249+00:00",
     "8e1aab14a1edce27": "2026-11-24T11:30:55.989249+00:00",
     "762d3a7d13459def": "2026-11-24T11:30:55.989249+00:00",
-    "a113b4268e2b4ad6": "2026-11-24T11:30:55.989249+00:00"
+    "a113b4268e2b4ad6": "2026-11-24T11:30:55.989249+00:00",
+    "2ab27de38513da21": "2026-11-24T11:45:37.775908+00:00",
+    "98c5dee27876b11f": "2026-11-24T11:45:37.775908+00:00",
+    "6c7adc58300829d8": "2026-11-24T11:45:37.775908+00:00",
+    "f2d177c1d7e35673": "2026-11-24T11:45:37.775908+00:00",
+    "59fd6a58f7997557": "2026-11-24T11:45:37.775908+00:00",
+    "83c0dc6ece5769e8": "2026-11-24T11:45:37.775908+00:00",
+    "1e4f1e68455a1960": "2026-11-24T11:45:37.775908+00:00",
+    "ae82fdee8b77d260": "2026-11-24T11:45:37.775908+00:00",
+    "107bbea8370ea3f5": "2026-11-24T11:45:37.775908+00:00",
+    "2a5656c2928bcec7": "2026-11-24T11:45:37.775908+00:00",
+    "661f9f6366e8b6a2": "2026-11-24T11:45:37.775908+00:00"
   },
   "published_stories": [
     {
@@ -4001,6 +4012,15 @@
       "topic_key": "ibm-quantum-computer-milestone",
       "sources": [
         "ScienceDaily"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T11:45:38.422739+00:00",
+      "headline_az": "İraq hökumətindən sərt addım: Kürd bölgəsindəki neft yataqları nəzarətə götürülür",
+      "summary_az": "İraqın baş naziri Əli əl-Zeyidi ölkənin şimalındakı kürd bölgəsində yerləşən neft yataqlarının və sərhəd-keçid məntəqələrinin mərkəzi hökumətə verilməsi barədə əmr imzalayıb. Qərar qaçaqmalçılıq iddiaları üzrə aparılan araşdırmalardan sonra verilib.",
+      "topic_key": "iraq-kurdish-oilfields-takeover",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
