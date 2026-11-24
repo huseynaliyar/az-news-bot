@@ -56,8 +56,25 @@ def _post_with_retry(url: str, payload: dict, timeout: int, attempts: int = 3) -
             return resp.json()
         except requests.RequestException as exc:
             last_exc = exc
-            # Do not retry 4xx client errors (bad photo URL, invalid HTML, etc.)
-            if getattr(exc, "response", None) is not None and 400 <= exc.response.status_code < 500:
+            resp_obj = getattr(exc, "response", None)
+            if resp_obj is not None and resp_obj.status_code == 429:
+                retry_after = 5
+                try:
+                    retry_after = int(resp_obj.json().get("parameters", {}).get("retry_after", 5))
+                except Exception:
+                    pass
+                wait_sec = min(retry_after + 1, 35)
+                logger.warning(
+                    "Telegram 429 limiti: %d saniyə gözlənilir (cəhd %d/%d)...",
+                    wait_sec,
+                    attempt,
+                    attempts,
+                )
+                if attempt < attempts:
+                    time.sleep(wait_sec)
+                    continue
+                raise
+            if resp_obj is not None and 400 <= resp_obj.status_code < 500:
                 raise
             logger.warning("Telegram cəhd %d/%d xətası: %s", attempt, attempts, exc)
             if attempt < attempts:
