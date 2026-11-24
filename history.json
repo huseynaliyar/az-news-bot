@@ -1177,7 +1177,9 @@
     "a551170d9bbb825e": "2026-11-24T00:45:48.710343+00:00",
     "892ae2ddd12cfa8a": "2026-11-24T00:45:48.710343+00:00",
     "7202b33f6b0c5d85": "2026-11-24T00:45:48.710343+00:00",
-    "290dfe0ee4b02eab": "2026-11-24T00:45:48.710343+00:00"
+    "290dfe0ee4b02eab": "2026-11-24T00:45:48.710343+00:00",
+    "23a60a477205ee26": "2026-11-24T01:00:42.442210+00:00",
+    "caf4545da42d65e9": "2026-11-24T01:00:42.442210+00:00"
   },
   "published_stories": [
     {
@@ -3107,6 +3109,15 @@
       "topic_key": "istanbul-fake-lion-panic",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T01:00:43.030633+00:00",
+      "headline_az": "Amazon PUA-sı Miçiqanda qəzaya uğradı: FAA tərəfindən araşdırma başlandı",
+      "summary_az": "Amazon-a məxsus çatdırılma PUA-sı uçuş zamanı fiber-optik kabelə və yaşayış evinin qarajına çırpılaraq elektrik xətlərinə dolaşıb. Hadisədən sonra ABŞ-ın Federal Aviasiya Administrasiyası (FAA) rəsmi araşdırmaya başlayıb.",
+      "topic_key": "amazon-drone-faa-probe",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
