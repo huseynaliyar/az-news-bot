@@ -1201,7 +1201,9 @@
     "d13d176f87414bca": "2026-11-24T02:00:40.375999+00:00",
     "5ac271d3605a4ec5": "2026-11-24T02:00:40.375999+00:00",
     "0dacbdeafd6405d3": "2026-11-24T02:00:40.375999+00:00",
-    "c48dcaf318821941": "2026-11-24T02:00:40.375999+00:00"
+    "c48dcaf318821941": "2026-11-24T02:00:40.375999+00:00",
+    "9a25a756cd2c8b8e": "2026-11-24T02:15:35.983088+00:00",
+    "360a0a2cb16de260": "2026-11-24T02:15:35.983088+00:00"
   },
   "published_stories": [
     {
@@ -3176,6 +3178,15 @@
       "topic_key": "gta6-playstation-launch-record",
       "sources": [
         "IGN"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T02:15:37.220284+00:00",
+      "headline_az": "Türkiyədə qanunsuz mərc və dələduzluq yayan 407 sayt bağlanıb",
+      "summary_az": "Ankara İl Jandarma Komutanlığının həyata keçirdiyi sanal devriye fəaliyyətləri nəticəsində yasa dışı bahis, dələduzluq və müstehcen məzmun yayan 407 internet saytına giriş əngəllənib. Təhlükəsizlik qüvvələri kibercinayətkarlığa qarşı mübarizəni sərtləşdirib.",
+      "topic_key": "turkey-illegal-betting-sites-blocked",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
