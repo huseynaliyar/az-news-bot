@@ -1716,7 +1716,18 @@
     "aa728008ba53d632": "2026-11-24T12:00:46.263580+00:00",
     "afcd0b5e2a1f2511": "2026-11-24T12:00:46.263580+00:00",
     "1af25dbe31819f04": "2026-11-24T12:00:46.263580+00:00",
-    "9b11c676af2579b4": "2026-11-24T12:00:46.263580+00:00"
+    "9b11c676af2579b4": "2026-11-24T12:00:46.263580+00:00",
+    "6a5826aed3132d95": "2026-11-24T12:16:06.440824+00:00",
+    "943d46b8abccc517": "2026-11-24T12:16:06.440824+00:00",
+    "08f9f388991ff2fc": "2026-11-24T12:16:06.440824+00:00",
+    "b8ac5712870b243b": "2026-11-24T12:16:06.440824+00:00",
+    "ec13dd7e33db2897": "2026-11-24T12:16:06.440824+00:00",
+    "857911a13fb1b4e3": "2026-11-24T12:16:06.440824+00:00",
+    "dd79de803d0f7b78": "2026-11-24T12:16:06.440824+00:00",
+    "442f45299d8f3ef5": "2026-11-24T12:16:06.440824+00:00",
+    "c5a63ab813cd836a": "2026-11-24T12:16:06.440824+00:00",
+    "1d0e3400ffceba62": "2026-11-24T12:16:06.440824+00:00",
+    "95409503e917c1fb": "2026-11-24T12:16:06.440824+00:00"
   },
   "published_stories": [
     {
@@ -4044,31 +4055,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-24T12:16:07.586822+00:00",
+      "headline_az": "Antik Roma gəmisində şok kəşf: Sukeçirməzliyin sirri üzə çıxdı",
+      "summary_az": "2200 illik Roma gəmisinin qalıqları üzərində aparılan araşdırmalar qədim dənizçilərin istifadə etdiyi mürəkkəb sukeçirməzlik texnikalarını üzə çıxarıb. Şam qətranı və bal mumu ilə örtülmüş gəmidən tapılan tozcuqlar alimlərə qədim dövrü yenidən qurmağa kömək edir.",
+      "topic_key": "roman-shipwreck-waterproofing-discovery",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Antik Roma gəmisində şok kəşf: Sukeçirməzliyin sirri üzə çıxdı",
-      "summary_az": "2200 illik Roma gəmisinin qalıqları üzərində aparılan araşdırmalar qədim dənizçilərin istifadə etdiyi mürəkkəb sukeçirməzlik texnikalarını üzə çıxarıb. Şam qətranı və bal mumu ilə örtülmüş gəmidən tapılan tozcuqlar alimlərə qədim dövrü yenidən qurmağa kömək edir.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "roman-shipwreck-waterproofing-discovery",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T11:30:55.961368+00:00"
-    },
     {
       "headline_az": "Alimlər depressiyanın tamamilə yeni növünü aşkar etdilər",
       "summary_az": "Tədqiqatçılar ağır və təkrarlanan depressiyadan əziyyət çəkən hər dörd nəfərdən birində müşahidə olunan \"sirkadiyane depressiya\" adlı yeni alt tip kəşf ediblər. Bu növ adi antidepressantların təsir etmədiyi daxili bədən saatı pozğunluqları ilə əlaqədardır.",
