@@ -1162,7 +1162,16 @@
     "25ddd4deb804b01e": "2026-11-24T00:15:31.663747+00:00",
     "af06335a87cf5f9a": "2026-11-24T00:15:31.663747+00:00",
     "a27e42cd8dae5f65": "2026-11-24T00:15:31.663747+00:00",
-    "0ff2877103f30dc0": "2026-11-24T00:15:31.663747+00:00"
+    "0ff2877103f30dc0": "2026-11-24T00:15:31.663747+00:00",
+    "5c4969cc960b3e9b": "2026-11-24T00:30:35.870710+00:00",
+    "a3a9dfddbd6e4283": "2026-11-24T00:30:35.870710+00:00",
+    "9c70fb43fc323cb1": "2026-11-24T00:30:35.870710+00:00",
+    "5c1ec28e7e20cd38": "2026-11-24T00:30:35.870710+00:00",
+    "aa25ffdbb351f74c": "2026-11-24T00:30:35.870710+00:00",
+    "11c3e30818ab8482": "2026-11-24T00:30:35.870710+00:00",
+    "95d231423298a2c3": "2026-11-24T00:30:35.870710+00:00",
+    "10acb92b7a758f3b": "2026-11-24T00:30:35.870710+00:00",
+    "0e521f4b67cccd0d": "2026-11-24T00:30:35.870710+00:00"
   },
   "published_stories": [
     {
@@ -3075,31 +3084,18 @@
       "sources": [
         "The Verge"
       ]
+    },
+    {
+      "published_at": "2026-11-24T00:30:36.983469+00:00",
+      "headline_az": "Agent 007-nin yeni reytinqi: Ceyms Bond rolunun ən yaraşıqlı aktyoru seçildi",
+      "summary_az": "Britaniyalı plastik cərrah qızıl nisbət qaydasına əsaslanaraq Ceyms Bond rolunu canlandıran aktyorların xarici görünüşünü təhlil edib. Reytinqin nəticəsində siyahının lideri müəyyənləşib və maraqlı fiziki göstəricilər ortaya çıxıb.",
+      "topic_key": "james-bond-golden-ratio-ranking",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Agent 007-nin yeni reytinqi: Ceyms Bond rolunun ən yaraşıqlı aktyoru seçildi",
-      "summary_az": "Britaniyalı plastik cərrah qızıl nisbət qaydasına əsaslanaraq Ceyms Bond rolunu canlandıran aktyorların xarici görünüşünü təhlil edib. Reytinqin nəticəsində siyahının lideri müəyyənləşib və maraqlı fiziki göstəricilər ortaya çıxıb.",
-      "category": "Maraqlı",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "james-bond-golden-ratio-ranking",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/shou-biznes/ceyms-bond-rolunun-en-yarasiqli-ifacisi-secildi-foto"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/23/n5SFAjHQJMzblqoT5S32szvIQ5RZgWUi5TK9rnoG:640.webp",
-      "queued_at": "2026-11-24T00:15:31.639236+00:00"
-    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
