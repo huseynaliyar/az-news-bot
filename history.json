@@ -1510,7 +1510,23 @@
     "3c5992104fc44514": "2026-11-24T08:45:28.659097+00:00",
     "cf32f8329e3a179f": "2026-11-24T08:45:28.659097+00:00",
     "7897a4670908e3d7": "2026-11-24T08:45:28.659097+00:00",
-    "23eb0aba3f704872": "2026-11-24T08:45:28.659097+00:00"
+    "23eb0aba3f704872": "2026-11-24T08:45:28.659097+00:00",
+    "1c20b3eb15db68fb": "2026-11-24T09:00:52.234794+00:00",
+    "d82291a22c0c78d0": "2026-11-24T09:00:52.234794+00:00",
+    "406770211f3d64b6": "2026-11-24T09:00:52.234794+00:00",
+    "da4a450c52b13f90": "2026-11-24T09:00:52.234794+00:00",
+    "21bae8c3944c14b7": "2026-11-24T09:00:52.234794+00:00",
+    "58de17eccb76027e": "2026-11-24T09:00:52.234794+00:00",
+    "e65fdffd821f218c": "2026-11-24T09:00:52.234794+00:00",
+    "e81ccd4898974b49": "2026-11-24T09:00:52.234794+00:00",
+    "b2da93045b5df391": "2026-11-24T09:00:52.234794+00:00",
+    "94b13fba55defec7": "2026-11-24T09:00:52.234794+00:00",
+    "d2f3fe37d5f2e7cb": "2026-11-24T09:00:52.234794+00:00",
+    "892a18bb9d42b679": "2026-11-24T09:00:52.234794+00:00",
+    "070490013a47ae98": "2026-11-24T09:00:52.234794+00:00",
+    "e9b3b2fc4afa2d82": "2026-11-24T09:00:52.234794+00:00",
+    "02ef38d2c266e521": "2026-11-24T09:00:52.234794+00:00",
+    "242b30e9064feeaa": "2026-11-24T09:00:52.234794+00:00"
   },
   "published_stories": [
     {
@@ -3720,9 +3736,40 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-24T09:00:53.090427+00:00",
+      "headline_az": "Qara siyahıya düşdü: Çin şirkəti ABŞ-nin hədəfində",
+      "summary_az": "ABŞ mərkəzli süni intellekt çipi istehsalçısı \"Nvidia\" ətrafındakı casusluq və gizli əlaqələr skandalının mərkəzində yer alan Çinin \"Megaspeed\" şirkəti ABŞ-də rəsmi olaraq qara siyahıya salınıb. Hadisə texnologiya bazarında böyük rezonans doğurub.",
+      "topic_key": "megaspeed-nvidia-us-blacklist",
+      "sources": [
+        "NTV Dünya"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Türkiyədən enerji sahəsində nəhəng addım: Sakarya qaz yatağı açılır",
+      "summary_az": "Türkiyənin Enerji və Təbii Sərvətlər Nazirliyi Sakarya Qaz Sahəsində ikinci faz işlərinin 2026-cı ilin sonuna qədər tam yekunlaşaraq istismara veriləcəyini açıqlayıb. Bu layihə ölkənin təbii qaz təminatında mühüm dönüş nöqtəsi olacaq.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-sakarya-gas-field-phase-two",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/ekonomi/bakan-bayraktar-duyurdu-sakarya-gaz-sahasinda-ikinci-faz-yil-sonuna-kadar-devreye-alinacak-3497381"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T09:00:52.207196+00:00"
+    },
     {
       "headline_az": "Kuşner Ukrayna böhranı ilə bağlı əsas məqsədi açıqladı",
       "summary_az": "ABŞ prezidenti Donald Trampın xüsusi elçisi Cared Kuşner bildirib ki, Ukrayna ətrafında aparılan danışıqlarda əsas hədəf sadəcə atəşkəs deyil, Rusiya və Avropa arasındakı əlaqələrin bərpasıdır.",
