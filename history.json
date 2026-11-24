@@ -1154,7 +1154,15 @@
     "695e5fdcbcf0ecec": "2026-11-24T00:00:45.971901+00:00",
     "992e39c481e99801": "2026-11-24T00:00:45.971901+00:00",
     "bc697b1564f3d6d8": "2026-11-24T00:00:45.971901+00:00",
-    "2267662cadeb0596": "2026-11-24T00:00:45.971901+00:00"
+    "2267662cadeb0596": "2026-11-24T00:00:45.971901+00:00",
+    "02d4bb3fe1237642": "2026-11-24T00:15:31.663747+00:00",
+    "921ff9160e0744f1": "2026-11-24T00:15:31.663747+00:00",
+    "72487f1b9ae921cd": "2026-11-24T00:15:31.663747+00:00",
+    "ff449c043bd9b046": "2026-11-24T00:15:31.663747+00:00",
+    "25ddd4deb804b01e": "2026-11-24T00:15:31.663747+00:00",
+    "af06335a87cf5f9a": "2026-11-24T00:15:31.663747+00:00",
+    "a27e42cd8dae5f65": "2026-11-24T00:15:31.663747+00:00",
+    "0ff2877103f30dc0": "2026-11-24T00:15:31.663747+00:00"
   },
   "published_stories": [
     {
@@ -3058,9 +3066,40 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T00:15:32.220805+00:00",
+      "headline_az": "Axtarış sistemindən sonra növbə: Kagi öz e-poçt xidmətini təqdim etdi",
+      "summary_az": "Google Search-ə pullu alternativ kimi tanınan Kagi indi də Gmail-ə meydan oxuyur. Şirkət \"Kagi Mail\" adlı yeni e-poçt xidmətinin ictimai beta testinə başladığını elan edib.",
+      "topic_key": "kagi-mail-launch",
+      "sources": [
+        "The Verge"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Agent 007-nin yeni reytinqi: Ceyms Bond rolunun ən yaraşıqlı aktyoru seçildi",
+      "summary_az": "Britaniyalı plastik cərrah qızıl nisbət qaydasına əsaslanaraq Ceyms Bond rolunu canlandıran aktyorların xarici görünüşünü təhlil edib. Reytinqin nəticəsində siyahının lideri müəyyənləşib və maraqlı fiziki göstəricilər ortaya çıxıb.",
+      "category": "Maraqlı",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "james-bond-golden-ratio-ranking",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/shou-biznes/ceyms-bond-rolunun-en-yarasiqli-ifacisi-secildi-foto"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/23/n5SFAjHQJMzblqoT5S32szvIQ5RZgWUi5TK9rnoG:640.webp",
+      "queued_at": "2026-11-24T00:15:31.639236+00:00"
+    },
     {
       "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
       "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
