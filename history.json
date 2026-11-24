@@ -1286,7 +1286,21 @@
     "fe9d3927dc9eb49d": "2026-11-24T06:00:58.025117+00:00",
     "5d7ed82bc8c9a118": "2026-11-24T06:00:58.025117+00:00",
     "1cd8087f0a18ce9d": "2026-11-24T06:00:58.025117+00:00",
-    "4acc4486706bb165": "2026-11-24T06:00:58.025117+00:00"
+    "4acc4486706bb165": "2026-11-24T06:00:58.025117+00:00",
+    "64375c9e918301f7": "2026-11-24T06:15:38.936080+00:00",
+    "299d215163ff321a": "2026-11-24T06:15:38.936080+00:00",
+    "64352cd7d55436eb": "2026-11-24T06:15:38.936080+00:00",
+    "4b11746e89975b24": "2026-11-24T06:15:38.936080+00:00",
+    "d1eba9d46f145ca7": "2026-11-24T06:15:38.936080+00:00",
+    "da0efbd23259a300": "2026-11-24T06:15:38.936080+00:00",
+    "3b234839975715c3": "2026-11-24T06:15:38.936080+00:00",
+    "ade6cf9c24f51cbc": "2026-11-24T06:15:38.936080+00:00",
+    "f20f3a76e570aa7e": "2026-11-24T06:15:38.936080+00:00",
+    "efa478646a92f3d6": "2026-11-24T06:15:38.936080+00:00",
+    "92994daf1b9311e1": "2026-11-24T06:15:38.936080+00:00",
+    "894d9ec4a1ca6b30": "2026-11-24T06:15:38.936080+00:00",
+    "7637d55679cc99c0": "2026-11-24T06:15:38.936080+00:00",
+    "2809969384cceffe": "2026-11-24T06:15:38.936080+00:00"
   },
   "published_stories": [
     {
@@ -3406,31 +3420,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T06:15:40.776614+00:00",
+      "headline_az": "Pakistan ilk dəfə kosmosa astronavt göndərir",
+      "summary_az": "Pakistan Çinin \"Shenzhou-24\" kosmik missiyasında iştirak edərək tarixdə ilk dəfə kosmosa öz astronavtını göndərməyə hazırlaşır. Bu addım ölkənin kosmik tədqiqatlar proqramında tarixi bir mərhələ hesab olunur.",
+      "topic_key": "pakistan-first-astronaut-china-mission",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Pakistan ilk dəfə kosmosa astronavt göndərir",
-      "summary_az": "Pakistan Çinin \"Shenzhou-24\" kosmik missiyasında iştirak edərək tarixdə ilk dəfə kosmosa öz astronavtını göndərməyə hazırlaşır. Bu addım ölkənin kosmik tədqiqatlar proqramında tarixi bir mərhələ hesab olunur.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "pakistan-first-astronaut-china-mission",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/267973.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/24/b2ac2189-c775-4b06-bb3a-e9f57ba21725.jpg",
-      "queued_at": "2026-11-24T06:00:58.001340+00:00"
-    },
     {
       "headline_az": "Azərbaycanda nağdsız ödənişlər üçün yeni dövr başlayır",
       "summary_az": "Azərbaycan Mərkəzi Bankı 2027-2030-cu illəri əhatə edəcək maliyyə sektorunun rəqəmsal transformasiyası üzrə yeni dövlət proqramı hazırlayır. Layihə ölkədə nağdsız ödənişlərin əhatə dairəsini daha da genişləndirməyi hədəfləyir.",
