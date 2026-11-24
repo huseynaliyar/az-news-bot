@@ -1675,7 +1675,24 @@
     "48bc04b9783f46f9": "2026-11-24T11:15:27.411076+00:00",
     "44f3d4e2383b81b8": "2026-11-24T11:15:27.411076+00:00",
     "01c44e477db1726e": "2026-11-24T11:15:27.411076+00:00",
-    "b90aea0752bf72f4": "2026-11-24T11:15:27.411076+00:00"
+    "b90aea0752bf72f4": "2026-11-24T11:15:27.411076+00:00",
+    "5a1d480c87758deb": "2026-11-24T11:30:55.989249+00:00",
+    "56f6b1f8f579bdb9": "2026-11-24T11:30:55.989249+00:00",
+    "9fb741722e16b4be": "2026-11-24T11:30:55.989249+00:00",
+    "eaf3fad5fb7bf030": "2026-11-24T11:30:55.989249+00:00",
+    "0985edd03287db66": "2026-11-24T11:30:55.989249+00:00",
+    "9818e789a155a9b7": "2026-11-24T11:30:55.989249+00:00",
+    "7bc5b910676e4886": "2026-11-24T11:30:55.989249+00:00",
+    "61b80de2385dff11": "2026-11-24T11:30:55.989249+00:00",
+    "0e46d8ec9971c814": "2026-11-24T11:30:55.989249+00:00",
+    "0645993f86cf81cc": "2026-11-24T11:30:55.989249+00:00",
+    "9ab5a26a6b8ba7fb": "2026-11-24T11:30:55.989249+00:00",
+    "d83e678a69dc6f57": "2026-11-24T11:30:55.989249+00:00",
+    "23695dd036375dae": "2026-11-24T11:30:55.989249+00:00",
+    "290705286ca4f3e1": "2026-11-24T11:30:55.989249+00:00",
+    "8e1aab14a1edce27": "2026-11-24T11:30:55.989249+00:00",
+    "762d3a7d13459def": "2026-11-24T11:30:55.989249+00:00",
+    "a113b4268e2b4ad6": "2026-11-24T11:30:55.989249+00:00"
   },
   "published_stories": [
     {
@@ -3976,9 +3993,62 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-24T11:30:56.820551+00:00",
+      "headline_az": "IBM-in kvant kompüteri klassiklərin bacarmadığı məsələni 15 dəqiqəyə həll etdi",
+      "summary_az": "",
+      "topic_key": "ibm-quantum-computer-milestone",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Antik Roma gəmisində şok kəşf: Sukeçirməzliyin sirri üzə çıxdı",
+      "summary_az": "2200 illik Roma gəmisinin qalıqları üzərində aparılan araşdırmalar qədim dənizçilərin istifadə etdiyi mürəkkəb sukeçirməzlik texnikalarını üzə çıxarıb. Şam qətranı və bal mumu ilə örtülmüş gəmidən tapılan tozcuqlar alimlərə qədim dövrü yenidən qurmağa kömək edir.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "roman-shipwreck-waterproofing-discovery",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T11:30:55.961368+00:00"
+    },
+    {
+      "headline_az": "Alimlər depressiyanın tamamilə yeni növünü aşkar etdilər",
+      "summary_az": "Tədqiqatçılar ağır və təkrarlanan depressiyadan əziyyət çəkən hər dörd nəfərdən birində müşahidə olunan \"sirkadiyane depressiya\" adlı yeni alt tip kəşf ediblər. Bu növ adi antidepressantların təsir etmədiyi daxili bədən saatı pozğunluqları ilə əlaqədardır.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "new-circadian-depression-subtype",
+      "source_indices": [
+        12
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T11:30:55.961368+00:00"
+    },
     {
       "headline_az": "Ukrayna və Almaniyadan dron istehsalı üçün strateji saziş",
       "summary_az": "Ukrayna və Almaniya birgə kəşfiyyat dronlarının istehsalı ilə bağlı razılığa gəliblər. Bu addım Ukrayna ordusunun texnoloji imkanlarını gücləndirmək məqsədi daşıyır.",
