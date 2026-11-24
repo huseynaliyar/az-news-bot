@@ -1213,7 +1213,10 @@
     "d5d2228e02af8ab1": "2026-11-24T03:00:41.621217+00:00",
     "ad724bcf8f7740f0": "2026-11-24T03:00:41.621217+00:00",
     "3af28e87626eba89": "2026-11-24T03:00:41.621217+00:00",
-    "ca4f4523fdcd83d5": "2026-11-24T03:00:41.621217+00:00"
+    "ca4f4523fdcd83d5": "2026-11-24T03:00:41.621217+00:00",
+    "33082d5286f8dc43": "2026-11-24T03:15:32.334957+00:00",
+    "887ff98f2113ff68": "2026-11-24T03:15:32.334957+00:00",
+    "f43c331c9208ea9c": "2026-11-24T03:15:32.334957+00:00"
   },
   "published_stories": [
     {
@@ -3225,9 +3228,40 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T03:15:32.946002+00:00",
+      "headline_az": "BMT baş katibindən çağırış: Süni intellektə nəzarət üçün bir il vaxtımız var",
+      "summary_az": "BMT-nin baş katibi Antoniu Guterris səlahiyyət müddətinin sonuna yaxınlaşarkən süni intellekt texnologiyalarına nəzarət mexanizmlərinin yaradılmasının vacibliyini vurğulayıb. O, dünya ölkələrini bu məsələdə bir il ərzində ümumi razılığa gəlməyə çağırıb.",
+      "topic_key": "un-chief-ai-oversight",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Himalayda müqəddəs göl təhlükədə: Ekskavator görüntüləri qəzəb doğurdu",
+      "summary_az": "Hindistanın nəzarətində olan Kəşmirdəki müqəddəs Şeşnaq gölünün yaxınlığında ekskavatorun çəkilmiş görüntüləri yerli əhali və ekoloqlar tərəfindən sərt etirazla qarşılanıb. Bu addım bölgənin unikal təbiətinə və dini irsinə ciddi təhlükə kimi qiymətləndirilir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "himalayas-sacred-lake-excavator",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-24T03:15:32.306514+00:00"
+    },
     {
       "headline_az": "Kral Çarlz və Elton Con Avstraliya musiqi əfsanəsini anıblar",
       "summary_az": "Kral III Çarlz və məşhur musiqiçi Elton Con onilliklər ərzində Avstraliyanın musiqi zövqünü formalaşdıran tanınmış prodüser Molli Meldrumun xatirəsini ehtiramla yad ediblər. Onlar mərhum sənətçinin ölkənin mədəniyyət tarixinə verdiyi əvəzsiz töhfələri vurğulayıblar.",
@@ -3447,28 +3481,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T19:31:28.873130+00:00"
-    },
-    {
-      "headline_az": "Türkiyədə \"Bayğaralar\" cinayətkar dəstəsinə ağır zərbə",
-      "summary_az": "Adana mərkəzli 13 vilayətdə keçirilən genişmiqyaslı əməliyyat nəticəsində \"Bayğaralar\" kimi tanınan silahlı cinayətkar dəstənin 105 üzvü saxlanılıb. Onlardan 90 nəfəri barəsində məhkəmə tərəfindən həbs qətimkan tədbiri seçilib.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "baygaralar-turkey-operation",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/baygaralar-suc-orgutune-operasyon-yakalanan-105-zanlidan-90i-tutuklandi-3497143"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T19:15:57.500917+00:00"
     }
   ]
 }
