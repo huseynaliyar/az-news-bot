@@ -1332,7 +1332,32 @@
     "21a2ea84f472a5ae": "2026-11-24T06:45:37.841807+00:00",
     "138888b919ef97aa": "2026-11-24T06:45:37.841807+00:00",
     "8a740a957c132aa7": "2026-11-24T06:45:37.841807+00:00",
-    "942c84e08485d5f8": "2026-11-24T06:45:37.841807+00:00"
+    "942c84e08485d5f8": "2026-11-24T06:45:37.841807+00:00",
+    "ceb67e0d3d435fe6": "2026-11-24T07:00:44.385468+00:00",
+    "b51a9afa95303d7f": "2026-11-24T07:00:44.385468+00:00",
+    "cd14fda250efbc96": "2026-11-24T07:00:44.385468+00:00",
+    "13bda8d4afc917fb": "2026-11-24T07:00:44.385468+00:00",
+    "7321a84acf81fb23": "2026-11-24T07:00:44.385468+00:00",
+    "38563ea89507bdcd": "2026-11-24T07:00:44.385468+00:00",
+    "56d1cf8506d0d77b": "2026-11-24T07:00:44.385468+00:00",
+    "694cadf7272d9990": "2026-11-24T07:00:44.385468+00:00",
+    "2f168256936913db": "2026-11-24T07:00:44.385468+00:00",
+    "16658e4d75606038": "2026-11-24T07:00:44.385468+00:00",
+    "cd0e09f6135edc54": "2026-11-24T07:00:44.385468+00:00",
+    "0f4eae74f1797ef3": "2026-11-24T07:00:44.385468+00:00",
+    "a3c1c40f98be4a09": "2026-11-24T07:00:44.385468+00:00",
+    "6517632ae390ba77": "2026-11-24T07:00:44.385468+00:00",
+    "68e902c292ff83dd": "2026-11-24T07:00:44.385468+00:00",
+    "fd7bb3a310ecfc48": "2026-11-24T07:00:44.385468+00:00",
+    "e11a33c183662c40": "2026-11-24T07:00:44.385468+00:00",
+    "dc80835024c7a182": "2026-11-24T07:00:44.385468+00:00",
+    "0c6d0bf0f18dd841": "2026-11-24T07:00:44.385468+00:00",
+    "6d77d53d7987be0e": "2026-11-24T07:00:44.385468+00:00",
+    "2bbb0fed4aa1a5c0": "2026-11-24T07:00:44.385468+00:00",
+    "831bf05edf757a22": "2026-11-24T07:00:44.385468+00:00",
+    "dc2f52f7e15e4453": "2026-11-24T07:00:44.385468+00:00",
+    "ef0831699a90d2db": "2026-11-24T07:00:44.385468+00:00",
+    "a938de032c8960a3": "2026-11-24T07:00:44.385468+00:00"
   },
   "published_stories": [
     {
@@ -3481,116 +3506,5 @@
       ]
     }
   ],
-  "pending_queue": [
-    {
-      "headline_az": "Bakıda X Beynəlxalq Bankçılıq Forumu start götürüb",
-      "summary_az": "Paytaxtda maliyyə və bank sektorunun əsas simalarını bir araya gətirən X Beynəlxalq Bankçılıq Forumu işə başlayıb. Tədbirdə rəqəmsal transformasiya və maliyyə texnologiyalarındakı son yeniliklər müzakirə olunur.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "baku-international-banking-forum",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/bakida-x-beynelxalq-bankciliq-forumu-ise-baslayib"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/11/24/NP6ndV8sMbRPQeFHqCJwlVJyfB9lv9XRJ8FUycYI:640.jpg",
-      "queued_at": "2026-11-24T05:30:32.751252+00:00"
-    },
-    {
-      "headline_az": "Danimarka məhkəməsindən sərt 'getto qanunu' qərarı",
-      "summary_az": "Danimarka Ali Məhkəməsi 'qeyri-qərbi' sakinlərin yaşayış sahələrindən çıxarılması üçün istifadə edilən mübahisəli qanunu dəstəkləyib. Qərar hüquq müdafiəçilərinin narazılığına səbəb olub.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "denmark-court-ghetto-law",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T05:00:44.733579+00:00"
-    },
-    {
-      "headline_az": "Kolumbiyada valilik binası yaxınlığında güclü partlayış baş verib",
-      "summary_az": "Kolumbiyanın Meta departamentində yerləşən Villavicensio şəhərində valilik binası hədəf alınaraq avtomobilə quraşdırılmış bomba partladılıb. Hadisə bölgədə təhlükəsizlik tədbirlərinin gücləndirilməsinə səbəb olub.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "colombia-meta-car-bomb",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T05:00:44.733579+00:00"
-    },
-    {
-      "headline_az": "ABŞ ticarət 'qara siyahısı'na yeni şirkətlər əlavə edilib",
-      "summary_az": "Birləşmiş Ştatlar ixrac nəzarəti qaydalarının pozulması və qabaqcıl texnologiyaların ötürülməsi narahatlıqları səbəbindən Megaspeed daxil olmaqla bir neçə şirkəti ticarət qara siyahısına daxil edib. Qərar qlobal texnologiya bazarında yeni müzakirələrə yol açıb.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "us-trade-blacklist-megaspeed",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T02:00:40.336256+00:00"
-    },
-    {
-      "headline_az": "El Salvador lideri Bukele Haitidə həlak olan əsgərlərin detallarını açıqladı",
-      "summary_az": "El Salvador Prezidenti Nayib Bukele Haitidəki hərbi müdaxilə zamanı həlak olan hərbçilərin taleyi ilə bağlı yeni təfərrüatları bölüşüb. Xatırladaq ki, əməliyyat oktyabr ayında dörd El Salvador texnikinin quldurlar tərəfindən qaçırılmasından sonra başlamışdı.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "bukele-haiti-intervention-update",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T01:30:37.964153+00:00"
-    }
-  ]
+  "pending_queue": []
 }
