@@ -1190,7 +1190,18 @@
     "dc2cec8184278b1a": "2026-11-24T01:30:37.983069+00:00",
     "bd90629c631504a1": "2026-11-24T01:45:53.222407+00:00",
     "68c074f388ba4088": "2026-11-24T01:45:53.222407+00:00",
-    "dd7c8ec5910091aa": "2026-11-24T01:45:53.222407+00:00"
+    "dd7c8ec5910091aa": "2026-11-24T01:45:53.222407+00:00",
+    "f05061bb21ee90cf": "2026-11-24T02:00:40.375999+00:00",
+    "894ed8989b1f18cf": "2026-11-24T02:00:40.375999+00:00",
+    "60d284ef60fd5ee4": "2026-11-24T02:00:40.375999+00:00",
+    "34feab5d5cdafc89": "2026-11-24T02:00:40.375999+00:00",
+    "7339e552e8fdfd2f": "2026-11-24T02:00:40.375999+00:00",
+    "00df14ba2bfd3488": "2026-11-24T02:00:40.375999+00:00",
+    "f69d8a9358b31420": "2026-11-24T02:00:40.375999+00:00",
+    "d13d176f87414bca": "2026-11-24T02:00:40.375999+00:00",
+    "5ac271d3605a4ec5": "2026-11-24T02:00:40.375999+00:00",
+    "0dacbdeafd6405d3": "2026-11-24T02:00:40.375999+00:00",
+    "c48dcaf318821941": "2026-11-24T02:00:40.375999+00:00"
   },
   "published_stories": [
     {
@@ -3157,9 +3168,84 @@
       "sources": [
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T02:00:40.922760+00:00",
+      "headline_az": "GTA 6 PlayStation tarixində ən böyük buraxılış oldu",
+      "summary_az": "Oyun dünyasını silkələyən GTA 6 PlayStation tarixində indiyə qədərki ən böyük oyun buraxılışı olaraq rekorda imza atıb. Analitiklrin hesablamalarına görə, bu nəhəng lansmandan sonra digər populyar oyunların, məsələn, Call of Duty-nin oyunçu sayı 40%-dən çox azalıb.",
+      "topic_key": "gta6-playstation-launch-record",
+      "sources": [
+        "IGN"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Sevimli serial 'Ted Lasso' 5-ci mövsümlə qayıdır",
+      "summary_az": "Apple TV-nin hit serialı 'Ted Lasso' rəsmi olaraq 5-ci mövsüm üçün yenilənib. Layihənin çəkilişlərinə 2027-ci ilin aprel ayında start veriləcəyi açıqlanıb.",
+      "category": "Maraqlı",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "ted-lasso-season-5-renewal",
+      "source_indices": [
+        9
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/ted-lasso-renewed-for-season-5-on-apple-tv"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://assets-prd.ignimgs.com/2023/02/14/ted-lasso-season-3-premiere-date-1676384808475.jpeg",
+      "queued_at": "2026-11-24T02:00:40.336256+00:00"
+    },
+    {
+      "headline_az": "Qətərin baş naziri ABŞ və İran arasında gərginliyi azaltmağa çalışır",
+      "summary_az": "Qətərin baş naziri Vaşinqton və Tehran arasındakı münasibətləri yumşaltmaq və dialoqu bərpa etmək üçün səylərini davam etdirir. ABŞ rəsmiləri ilə keçirilən görüşlərdən sonra tərəflər arasında gərginliyin azaldılması istiqamətində müzakirələr aparılır.",
+      "category": "Siyasət",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "qatar-pm-us-iran-talks",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-24T02:00:40.336256+00:00"
+    },
+    {
+      "headline_az": "ABŞ ticarət 'qara siyahısı'na yeni şirkətlər əlavə edilib",
+      "summary_az": "Birləşmiş Ştatlar ixrac nəzarəti qaydalarının pozulması və qabaqcıl texnologiyaların ötürülməsi narahatlıqları səbəbindən Megaspeed daxil olmaqla bir neçə şirkəti ticarət qara siyahısına daxil edib. Qərar qlobal texnologiya bazarında yeni müzakirələrə yol açıb.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-trade-blacklist-megaspeed",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
+        }
+      ],
+      "importance": 7,
+      "image_url": "",
+      "queued_at": "2026-11-24T02:00:40.336256+00:00"
+    },
     {
       "headline_az": "El Salvador lideri Bukele Haitidə həlak olan əsgərlərin detallarını açıqladı",
       "summary_az": "El Salvador Prezidenti Nayib Bukele Haitidəki hərbi müdaxilə zamanı həlak olan hərbçilərin taleyi ilə bağlı yeni təfərrüatları bölüşüb. Xatırladaq ki, əməliyyat oktyabr ayında dörd El Salvador texnikinin quldurlar tərəfindən qaçırılmasından sonra başlamışdı.",
@@ -3335,50 +3421,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T19:15:57.500917+00:00"
-    },
-    {
-      "headline_az": "Nothing-dən süni intellektli qulaqlıq: Söhbətləri avtomatik yazacaq",
-      "summary_az": "Texnologiya dünyasının yenilikçi brendi \"Nothing\" süni intellekt dəstəkli \"Ear Note\" qulaqlıqlarını təqdim edib. Cihazın xüsusi qutusu və tətbiqi vasitəsilə danışıqları real vaxt rejimində qeydə alıb transkripsiya etmək mümkün olacaq.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "nothing-ear-note-ai",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T19:15:57.500917+00:00"
-    },
-    {
-      "headline_az": "Avropada \"hazırlıqlı ol\" trendi: Hökumətlər vətəndaşlara xəbərdarlıq edir",
-      "summary_az": "Avropa ölkələrində vətəndaşların fövqəladə hallara hazırlıq görməsi dövlət səviyyəsində təşviq olunur. Bu, sadəcə internetdəki şayiələr deyil, rəsmi qurumların təhlükəsizlik üçün verdiyi tövsiyələr əsasında formalaşan yeni bir sosial tendensiyadır.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "europe-prepping-trend",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "Google News World",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPci1TRElnUzZ1b1FWakQxbThWeUVRTGZEbWV0R1NSV0o3a2NzbWYxWlgwMW9rdjNvb1RtNzkxNFdWSWcyckFTYWgyZHRndUJnRnBEeTd6ZEdlMXNuUko0NGoyNncyVEtmVUFVdDE0R1BIN1dBS3FyVUhQUTBpSkYwRDdhbzBQYm5oMzA2eFV4M3Q2WHFHaE5VYw?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T18:36:34.059208+00:00"
     }
   ]
 }
