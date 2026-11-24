@@ -1257,7 +1257,17 @@
     "24c2d8245adbe787": "2026-11-24T05:15:31.306719+00:00",
     "e021abc45dd67cf1": "2026-11-24T05:15:31.306719+00:00",
     "998f84c11d485fb8": "2026-11-24T05:15:31.306719+00:00",
-    "3f029229d8aea3da": "2026-11-24T05:15:31.306719+00:00"
+    "3f029229d8aea3da": "2026-11-24T05:15:31.306719+00:00",
+    "5fbea3852dfa25a9": "2026-11-24T05:30:32.783760+00:00",
+    "8ff588c9c6ced45b": "2026-11-24T05:30:32.783760+00:00",
+    "6d28226903d16244": "2026-11-24T05:30:32.783760+00:00",
+    "1223d3845d7753ef": "2026-11-24T05:30:32.783760+00:00",
+    "9a65005873d544dc": "2026-11-24T05:30:32.783760+00:00",
+    "042ac005a4973c76": "2026-11-24T05:30:32.783760+00:00",
+    "de656c72be743746": "2026-11-24T05:30:32.783760+00:00",
+    "6e026b801f769847": "2026-11-24T05:30:32.783760+00:00",
+    "54c132b2e5372e0a": "2026-11-24T05:30:32.783760+00:00",
+    "add1323061b4fc33": "2026-11-24T05:30:32.783760+00:00"
   },
   "published_stories": [
     {
@@ -3350,9 +3360,40 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T05:30:33.145080+00:00",
+      "headline_az": "Cənubi Koreya hava məkanına daxil olan Rusiya təyyarələrinə görə qırıcılar qaldırdı",
+      "summary_az": "Rusiya Hərbi Hava Qüvvələrinə məxsus bir neçə hərbi təyyarə Cənubi Koreyanın KADIZ hava müdafiə identifikasiya zonasına daxil olub. Yaranan gərginlik səbəbindən Cənubi Koreya dərhal qırıcı təyyarələrini havaya qaldırıb.",
+      "topic_key": "south-korea-russia-jets-kadiz",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Bakıda X Beynəlxalq Bankçılıq Forumu start götürüb",
+      "summary_az": "Paytaxtda maliyyə və bank sektorunun əsas simalarını bir araya gətirən X Beynəlxalq Bankçılıq Forumu işə başlayıb. Tədbirdə rəqəmsal transformasiya və maliyyə texnologiyalarındakı son yeniliklər müzakirə olunur.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "baku-international-banking-forum",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/iqtisadiyyat/bakida-x-beynelxalq-bankciliq-forumu-ise-baslayib"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/11/24/NP6ndV8sMbRPQeFHqCJwlVJyfB9lv9XRJ8FUycYI:640.jpg",
+      "queued_at": "2026-11-24T05:30:32.751252+00:00"
+    },
     {
       "headline_az": "Danimarka məhkəməsindən sərt 'getto qanunu' qərarı",
       "summary_az": "Danimarka Ali Məhkəməsi 'qeyri-qərbi' sakinlərin yaşayış sahələrindən çıxarılması üçün istifadə edilən mübahisəli qanunu dəstəkləyib. Qərar hüquq müdafiəçilərinin narazılığına səbəb olub.",
