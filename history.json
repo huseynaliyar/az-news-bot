@@ -1896,7 +1896,20 @@
     "6f7532bf7e284f7d": "2026-11-24T14:45:59.007466+00:00",
     "a1d798d8283f35bc": "2026-11-24T14:45:59.007466+00:00",
     "38d04ca4b1006073": "2026-11-24T14:45:59.007466+00:00",
-    "3ca0825a33233b88": "2026-11-24T14:45:59.007466+00:00"
+    "3ca0825a33233b88": "2026-11-24T14:45:59.007466+00:00",
+    "159fcc8b603ce63b": "2026-11-24T15:01:17.515180+00:00",
+    "a589e5bb70e8afb8": "2026-11-24T15:01:17.515180+00:00",
+    "2cad390467ccc9b8": "2026-11-24T15:01:17.515180+00:00",
+    "bb98b9a154898e78": "2026-11-24T15:01:17.515180+00:00",
+    "e8d484a7f9f48e8d": "2026-11-24T15:01:17.515180+00:00",
+    "cdf5709a8ae2bdaf": "2026-11-24T15:01:17.515180+00:00",
+    "3b91dd12fa0664ba": "2026-11-24T15:01:17.515180+00:00",
+    "263de89274fd011a": "2026-11-24T15:01:17.515180+00:00",
+    "ec2c6a016e412f3e": "2026-11-24T15:01:17.515180+00:00",
+    "2ae4da4e131833b5": "2026-11-24T15:01:17.515180+00:00",
+    "2fb48e72d746707a": "2026-11-24T15:01:17.515180+00:00",
+    "29486444ab757bae": "2026-11-24T15:01:17.515180+00:00",
+    "8c4b8c3ad8a6506e": "2026-11-24T15:01:17.515180+00:00"
   },
   "published_stories": [
     {
@@ -4323,6 +4336,15 @@
       "topic_key": "ukrayna-699-bpla",
       "sources": [
         "Google News AZ"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T15:01:17.960542+00:00",
+      "headline_az": "Yaponiya lideri ABŞ-ın tənqidini rədd edərək Beynəlxalq Cinayət Məhkəməsini müdafiə edir",
+      "summary_az": "Yaponiya baş naziri, ABŞ-ın bəzi siyasətlərini tənqid edən açıqlamalara cavab olaraq, Beynəlxalq Cinayət Məhkəməsinin rolunu müdafiə etdi. Bu, qlobal hüquq sistemində yeni bir mövqe alır.",
+      "topic_key": "yaponiya-icc-defence",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
