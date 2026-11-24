@@ -1570,7 +1570,16 @@
     "a94e683fb27f65dd": "2026-11-24T09:30:40.220276+00:00",
     "274b95a97cb7c469": "2026-11-24T09:30:40.220276+00:00",
     "a4ac370dc415a9e0": "2026-11-24T09:30:40.220276+00:00",
-    "714044d31b1de2b2": "2026-11-24T09:30:40.220276+00:00"
+    "714044d31b1de2b2": "2026-11-24T09:30:40.220276+00:00",
+    "88f9df7f8ce2c02e": "2026-11-24T09:45:29.755032+00:00",
+    "348e750742e9e323": "2026-11-24T09:45:29.755032+00:00",
+    "b89f3d9f5d711e84": "2026-11-24T09:45:29.755032+00:00",
+    "abb3c69d4106bb69": "2026-11-24T09:45:29.755032+00:00",
+    "13f1ecbcda1c2da5": "2026-11-24T09:45:29.755032+00:00",
+    "847bdab01be58757": "2026-11-24T09:45:29.755032+00:00",
+    "47c1d518a0200f80": "2026-11-24T09:45:29.755032+00:00",
+    "c4518415d004d26c": "2026-11-24T09:45:29.755032+00:00",
+    "f520e9e8e7ee0c4b": "2026-11-24T09:45:29.755032+00:00"
   },
   "published_stories": [
     {
@@ -3807,31 +3816,18 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-24T09:45:30.714545+00:00",
+      "headline_az": "Kuşner Ukrayna böhranı ilə bağlı əsas məqsədi açıqladı",
+      "summary_az": "ABŞ prezidenti Donald Trampın xüsusi elçisi Cared Kuşner bildirib ki, Ukrayna ətrafında aparılan danışıqlarda əsas hədəf sadəcə atəşkəs deyil, Rusiya və Avropa arasındakı əlaqələrin bərpasıdır.",
+      "topic_key": "jared-kushner-ukraine-talks-goal",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Kuşner Ukrayna böhranı ilə bağlı əsas məqsədi açıqladı",
-      "summary_az": "ABŞ prezidenti Donald Trampın xüsusi elçisi Cared Kuşner bildirib ki, Ukrayna ətrafında aparılan danışıqlarda əsas hədəf sadəcə atəşkəs deyil, Rusiya və Avropa arasındakı əlaqələrin bərpasıdır.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "jared-kushner-ukraine-talks-goal",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/kusner-ukrayna-ile-bagli-danisiqlarin-esas-meqsedini-aciqladi"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/24/O7X3FFejn387ei9rPhMTWIVObZi1n5SHSMjtRmFp:640.jpg",
-      "queued_at": "2026-11-24T08:30:47.153177+00:00"
-    },
     {
       "headline_az": "Abşeron dəniz blokunun kəşfiyyatı ilə bağlı mühüm saziş təsdiqləndi",
       "summary_az": "Milli Məclis Xəzər dənizinin Azərbaycan sektorundakı Abşeron dəniz blokunun kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Sazişin həyata keçirilməsinə icazə verilməsi barədə qanun layihəsini təsdiq edib. Bu addım ölkənin enerji sektorunda yeni investisiyaların yolunu açacaq.",
