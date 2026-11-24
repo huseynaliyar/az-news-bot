@@ -1810,7 +1810,28 @@
     "40e1efe8cfa51bc9": "2026-11-24T13:31:01.509271+00:00",
     "9ce16a65794414d2": "2026-11-24T13:31:01.509271+00:00",
     "be96aac6985df159": "2026-11-24T13:31:01.509271+00:00",
-    "3fe714c290eb324d": "2026-11-24T13:31:01.509271+00:00"
+    "3fe714c290eb324d": "2026-11-24T13:31:01.509271+00:00",
+    "28b4ae51b4a7b4e8": "2026-11-24T13:45:54.589813+00:00",
+    "d1c69084e3c44678": "2026-11-24T13:45:54.589813+00:00",
+    "5aa52cce8773dc0c": "2026-11-24T13:45:54.589813+00:00",
+    "4cbf69e3a23c2599": "2026-11-24T13:45:54.589813+00:00",
+    "0f4146cda7c5c733": "2026-11-24T13:45:54.589813+00:00",
+    "b9cb035420fd59a1": "2026-11-24T13:45:54.589813+00:00",
+    "62021634093c58df": "2026-11-24T13:45:54.589813+00:00",
+    "401fbe3a6da49172": "2026-11-24T13:45:54.589813+00:00",
+    "be55a9d699675598": "2026-11-24T13:45:54.589813+00:00",
+    "aa1d101979271b45": "2026-11-24T13:45:54.589813+00:00",
+    "3fa1f081246a9e6b": "2026-11-24T13:45:54.589813+00:00",
+    "47787faf7f6759d9": "2026-11-24T13:45:54.589813+00:00",
+    "8ab5cb9264c60636": "2026-11-24T13:45:54.589813+00:00",
+    "936cfc68b60e784d": "2026-11-24T13:45:54.589813+00:00",
+    "dd533390b4a10022": "2026-11-24T13:45:54.589813+00:00",
+    "d4d822cb9f054458": "2026-11-24T13:45:54.589813+00:00",
+    "ea62a647582cb8e8": "2026-11-24T13:45:54.589813+00:00",
+    "aa612a24cc0bec96": "2026-11-24T13:45:54.589813+00:00",
+    "b9210f958f6200ec": "2026-11-24T13:45:54.589813+00:00",
+    "54cf40b8c69127d3": "2026-11-24T13:45:54.589813+00:00",
+    "e7b248e2a411f3b3": "2026-11-24T13:45:54.589813+00:00"
   },
   "published_stories": [
     {
@@ -4190,6 +4211,16 @@
       "summary_az": "Ukrayna və Almaniya birgə kəşfiyyat dronlarının istehsalı ilə bağlı razılığa gəliblər. Bu addım Ukrayna ordusunun texnoloji imkanlarını gücləndirmək məqsədi daşıyır.",
       "topic_key": "ukraine-germany-drone-deal",
       "sources": [
+        "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T13:45:56.289041+00:00",
+      "headline_az": "İlham Əliyev Gürcüstanın müavini Maka Botçorişvilini qəbul etdi",
+      "summary_az": "Prezident İlham Əliyev, Gürcüstanın Baş nazirinin müavini və Xarici İşlər naziri Maka Botçorişvilini Bakıdakı görüşdə salamlayaraq iki ölkə arasındakı strateji əməkdaşlığı gücləndirəcəyini bildirdi.",
+      "topic_key": "azerbaijan-georgia-diplomacy",
+      "sources": [
+        "Oxu.az",
         "AzerNews"
       ]
     }
