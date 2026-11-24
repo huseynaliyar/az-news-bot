@@ -2137,7 +2137,21 @@
     "f4819552e67df465": "2026-11-24T19:30:55.968306+00:00",
     "07264464c74a63b7": "2026-11-24T19:30:55.968306+00:00",
     "952ec5e40bfdf3b4": "2026-11-24T19:30:55.968306+00:00",
-    "20c8cc15a909d43d": "2026-11-24T19:30:55.968306+00:00"
+    "20c8cc15a909d43d": "2026-11-24T19:30:55.968306+00:00",
+    "f6ac9de3f7a62f79": "2026-11-24T19:46:14.729527+00:00",
+    "20847ab28993a0e6": "2026-11-24T19:46:14.729527+00:00",
+    "2cde9f2eeaa6e109": "2026-11-24T19:46:14.729527+00:00",
+    "98671139b824fdaa": "2026-11-24T19:46:14.729527+00:00",
+    "03d1b8471517e466": "2026-11-24T19:46:14.729527+00:00",
+    "6c10ab6a3ada8783": "2026-11-24T19:46:14.729527+00:00",
+    "32a47c44d9300cb2": "2026-11-24T19:46:14.729527+00:00",
+    "955ff2a602be1434": "2026-11-24T19:46:14.729527+00:00",
+    "e2a950de8d1acb77": "2026-11-24T19:46:14.729527+00:00",
+    "b35da83f84b8c07d": "2026-11-24T19:46:14.729527+00:00",
+    "d1b4a09c0b46c053": "2026-11-24T19:46:14.729527+00:00",
+    "2b067dc0d123a38d": "2026-11-24T19:46:14.729527+00:00",
+    "e6e252f9496b68ed": "2026-11-24T19:46:14.729527+00:00",
+    "57d92dac632d6777": "2026-11-24T19:46:14.729527+00:00"
   },
   "published_stories": [
     {
@@ -4675,30 +4689,16 @@
       "sources": [
         "Al Jazeera"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-24T19:46:15.466645+00:00",
       "headline_az": "ABŞ ordusunda şok casusluq etirafı",
       "summary_az": "ABŞ ordusunda xidmət edən çavuş Çinə gizli hərbi məlumatları satdığını etiraf edib. Bu hadisə ABŞ-ın milli təhlükəsizlik sistemində ciddi narahatlıq yaradıb.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "us-soldier-china-espionage",
-      "source_indices": [
-        2
-      ],
       "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/abd-ordusunda-gorev-yapan-bir-asker-cine-gizli-bilgileri-sattigini-itiraf-etti-964359.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T19:21:47.555503+00:00"
+        "TRT Haber"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
