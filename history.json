@@ -1727,7 +1727,27 @@
     "442f45299d8f3ef5": "2026-11-24T12:16:06.440824+00:00",
     "c5a63ab813cd836a": "2026-11-24T12:16:06.440824+00:00",
     "1d0e3400ffceba62": "2026-11-24T12:16:06.440824+00:00",
-    "95409503e917c1fb": "2026-11-24T12:16:06.440824+00:00"
+    "95409503e917c1fb": "2026-11-24T12:16:06.440824+00:00",
+    "d900b1fb21c6d3f7": "2026-11-24T12:31:21.403306+00:00",
+    "e449d8d8e090ed1f": "2026-11-24T12:31:21.403306+00:00",
+    "8dd3bd3bf3e115c9": "2026-11-24T12:31:21.403306+00:00",
+    "bffdf31bf2141088": "2026-11-24T12:31:21.403306+00:00",
+    "b152f737dee443b9": "2026-11-24T12:31:21.403306+00:00",
+    "f1e659f56c98a8ef": "2026-11-24T12:31:21.403306+00:00",
+    "fa18d50e212caeb1": "2026-11-24T12:31:21.403306+00:00",
+    "b22d74b5ed76b226": "2026-11-24T12:31:21.403306+00:00",
+    "1ed4846e4adf88c2": "2026-11-24T12:31:21.403306+00:00",
+    "9b0e9e055598a9be": "2026-11-24T12:31:21.403306+00:00",
+    "7b8579c3bc6d5e1f": "2026-11-24T12:31:21.403306+00:00",
+    "b4ed8ee080a99fab": "2026-11-24T12:31:21.403306+00:00",
+    "1bc6b33d2f846f0f": "2026-11-24T12:31:21.403306+00:00",
+    "75da7473a1f7b010": "2026-11-24T12:31:21.403306+00:00",
+    "64cf8ce7afecc76d": "2026-11-24T12:31:21.403306+00:00",
+    "6a2574d432656c43": "2026-11-24T12:31:21.403306+00:00",
+    "7502b10ae9b3081a": "2026-11-24T12:31:21.403306+00:00",
+    "d3a5fdd61ea977ac": "2026-11-24T12:31:21.403306+00:00",
+    "40e45404289d98f7": "2026-11-24T12:31:21.403306+00:00",
+    "66421820ffad3e04": "2026-11-24T12:31:21.403306+00:00"
   },
   "published_stories": [
     {
@@ -4064,31 +4084,18 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-24T12:31:22.072982+00:00",
+      "headline_az": "Alimlər depressiyanın tamamilə yeni növünü aşkar etdilər",
+      "summary_az": "Tədqiqatçılar ağır və təkrarlanan depressiyadan əziyyət çəkən hər dörd nəfərdən birində müşahidə olunan \"sirkadiyane depressiya\" adlı yeni alt tip kəşf ediblər. Bu növ adi antidepressantların təsir etmədiyi daxili bədən saatı pozğunluqları ilə əlaqədardır.",
+      "topic_key": "new-circadian-depression-subtype",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Alimlər depressiyanın tamamilə yeni növünü aşkar etdilər",
-      "summary_az": "Tədqiqatçılar ağır və təkrarlanan depressiyadan əziyyət çəkən hər dörd nəfərdən birində müşahidə olunan \"sirkadiyane depressiya\" adlı yeni alt tip kəşf ediblər. Bu növ adi antidepressantların təsir etmədiyi daxili bədən saatı pozğunluqları ilə əlaqədardır.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "new-circadian-depression-subtype",
-      "source_indices": [
-        12
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T11:30:55.961368+00:00"
-    },
     {
       "headline_az": "Ukrayna və Almaniyadan dron istehsalı üçün strateji saziş",
       "summary_az": "Ukrayna və Almaniya birgə kəşfiyyat dronlarının istehsalı ilə bağlı razılığa gəliblər. Bu addım Ukrayna ordusunun texnoloji imkanlarını gücləndirmək məqsədi daşıyır.",
