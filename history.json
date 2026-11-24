@@ -1639,7 +1639,27 @@
     "fc3554ada07f7d14": "2026-11-24T10:45:33.306541+00:00",
     "20ae61813c395030": "2026-11-24T10:45:33.306541+00:00",
     "c0462f38075ed9ef": "2026-11-24T10:45:33.306541+00:00",
-    "94d1c0a074b7adc1": "2026-11-24T10:45:33.306541+00:00"
+    "94d1c0a074b7adc1": "2026-11-24T10:45:33.306541+00:00",
+    "7636d4a533a9e9dd": "2026-11-24T11:00:52.634821+00:00",
+    "4cc2ae40650d81c6": "2026-11-24T11:00:52.634821+00:00",
+    "75fe5e60bdaa8db5": "2026-11-24T11:00:52.634821+00:00",
+    "3793b06323f79c1a": "2026-11-24T11:00:52.634821+00:00",
+    "d3cf056cf1956c83": "2026-11-24T11:00:52.634821+00:00",
+    "90926a57378a48d3": "2026-11-24T11:00:52.634821+00:00",
+    "3af308467e1e9308": "2026-11-24T11:00:52.634821+00:00",
+    "35214b47853ebf34": "2026-11-24T11:00:52.634821+00:00",
+    "91d8600cc73dd7e5": "2026-11-24T11:00:52.634821+00:00",
+    "f5e6216d2dde27e8": "2026-11-24T11:00:52.634821+00:00",
+    "8eef7f4f62b27ce3": "2026-11-24T11:00:52.634821+00:00",
+    "b26fa383f46da1ef": "2026-11-24T11:00:52.634821+00:00",
+    "df6d9b89c2709c4f": "2026-11-24T11:00:52.634821+00:00",
+    "11c26f46f848af5f": "2026-11-24T11:00:52.634821+00:00",
+    "9b3fdfc2f4bc7f7d": "2026-11-24T11:00:52.634821+00:00",
+    "d9c269b0b652d91d": "2026-11-24T11:00:52.634821+00:00",
+    "9660808178507954": "2026-11-24T11:00:52.634821+00:00",
+    "f651fcb7ad9ba2b5": "2026-11-24T11:00:52.634821+00:00",
+    "9b773d2a961fac14": "2026-11-24T11:00:52.634821+00:00",
+    "7587b0d02d6a9d28": "2026-11-24T11:00:52.634821+00:00"
   },
   "published_stories": [
     {
@@ -3921,9 +3941,41 @@
       "sources": [
         "NTV Dünya"
       ]
+    },
+    {
+      "published_at": "2026-11-24T11:00:54.237793+00:00",
+      "headline_az": "Nvidia-da gözlənilməz dönüş: Jensen Huang yenidən rəhbərlikdə",
+      "summary_az": "Texnologiya dünyasında böyük səs-küy yaradan hadisə baş verib: casusluq iddiaları ilə vəzifəsindən ayrılan Nvidia CEO-su Jensen Huang qısa müddət sonra yenidən şirkətə qayıdıb. Bu xəbər şirkət səhmlərində 1 trilyon dollara yaxın dəyər artımı ilə nəticələnib.",
+      "topic_key": "nvidia-ceo-return",
+      "sources": [
+        "CNN Türk",
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Ukrayna və Almaniyadan dron istehsalı üçün strateji saziş",
+      "summary_az": "Ukrayna və Almaniya birgə kəşfiyyat dronlarının istehsalı ilə bağlı razılığa gəliblər. Bu addım Ukrayna ordusunun texnoloji imkanlarını gücləndirmək məqsədi daşıyır.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "ukraine-germany-drone-deal",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/268011.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/24/small_umod-pistorius-meeting-site-main-page-1-d326ff29e3.png",
+      "queued_at": "2026-11-24T11:00:52.619271+00:00"
+    },
     {
       "headline_az": "FTB-də rəhbərlik dəyişir: Kristofer Rey vəzifəsindən ayrılır",
       "summary_az": "ABŞ-nin Federal Təhqiqatlar Bürosunun (FTB) direktoru Kristofer Rey tutduğu vəzifəni tərk edir. Bu istefa ABŞ-nin təhlükəsizlik strukturlarında gözlənilən ciddi kadr dəyişikliklərinin bir hissəsi kimi qiymətləndirilir.",
