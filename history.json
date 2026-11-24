@@ -1312,7 +1312,27 @@
     "d06b1ec7a4add032": "2026-11-24T06:30:40.015850+00:00",
     "ed0176fc37f5d56c": "2026-11-24T06:30:40.015850+00:00",
     "8fce122bce4e5e49": "2026-11-24T06:30:40.015850+00:00",
-    "3ca8a290e573b6ab": "2026-11-24T06:30:40.015850+00:00"
+    "3ca8a290e573b6ab": "2026-11-24T06:30:40.015850+00:00",
+    "2af3f44845e3e3fe": "2026-11-24T06:45:37.841807+00:00",
+    "8d921a0ac8c314e9": "2026-11-24T06:45:37.841807+00:00",
+    "cf45e15a6e31861c": "2026-11-24T06:45:37.841807+00:00",
+    "073c7078bd1f579a": "2026-11-24T06:45:37.841807+00:00",
+    "e58db00623fde807": "2026-11-24T06:45:37.841807+00:00",
+    "9bd380a29a74278a": "2026-11-24T06:45:37.841807+00:00",
+    "1e2a77b7b9e0a352": "2026-11-24T06:45:37.841807+00:00",
+    "5f06fdb4089ddd20": "2026-11-24T06:45:37.841807+00:00",
+    "c3a62186e8914460": "2026-11-24T06:45:37.841807+00:00",
+    "11238927a8524931": "2026-11-24T06:45:37.841807+00:00",
+    "309b529775c2a2e5": "2026-11-24T06:45:37.841807+00:00",
+    "16dc2a5ef368ac1d": "2026-11-24T06:45:37.841807+00:00",
+    "e810c484b83bd638": "2026-11-24T06:45:37.841807+00:00",
+    "04d63cfb3d87de02": "2026-11-24T06:45:37.841807+00:00",
+    "72e1411bc6ce2d1d": "2026-11-24T06:45:37.841807+00:00",
+    "3a501aeb3381f118": "2026-11-24T06:45:37.841807+00:00",
+    "21a2ea84f472a5ae": "2026-11-24T06:45:37.841807+00:00",
+    "138888b919ef97aa": "2026-11-24T06:45:37.841807+00:00",
+    "8a740a957c132aa7": "2026-11-24T06:45:37.841807+00:00",
+    "942c84e08485d5f8": "2026-11-24T06:45:37.841807+00:00"
   },
   "published_stories": [
     {
@@ -3450,31 +3470,18 @@
       "sources": [
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-24T06:45:38.440508+00:00",
+      "headline_az": "Azərbaycanda nağdsız ödənişlər üçün yeni dövr başlayır",
+      "summary_az": "Azərbaycan Mərkəzi Bankı 2027-2030-cu illəri əhatə edəcək maliyyə sektorunun rəqəmsal transformasiyası üzrə yeni dövlət proqramı hazırlayır. Layihə ölkədə nağdsız ödənişlərin əhatə dairəsini daha da genişləndirməyi hədəfləyir.",
+      "topic_key": "az-digital-finance-program",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Azərbaycanda nağdsız ödənişlər üçün yeni dövr başlayır",
-      "summary_az": "Azərbaycan Mərkəzi Bankı 2027-2030-cu illəri əhatə edəcək maliyyə sektorunun rəqəmsal transformasiyası üzrə yeni dövlət proqramı hazırlayır. Layihə ölkədə nağdsız ödənişlərin əhatə dairəsini daha da genişləndirməyi hədəfləyir.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "az-digital-finance-program",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/nagdsiz-odenislerle-bagli-yeni-dovlet-proqrami-hazirlanir"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://images.oxu.az/2026/10/23/FJiR4yM7AXKh7QT1Ye3UK3K8BxdmDJj5MIHczIiv:640.jpg",
-      "queued_at": "2026-11-24T06:00:58.001340+00:00"
-    },
     {
       "headline_az": "Bakıda X Beynəlxalq Bankçılıq Forumu start götürüb",
       "summary_az": "Paytaxtda maliyyə və bank sektorunun əsas simalarını bir araya gətirən X Beynəlxalq Bankçılıq Forumu işə başlayıb. Tədbirdə rəqəmsal transformasiya və maliyyə texnologiyalarındakı son yeniliklər müzakirə olunur.",
