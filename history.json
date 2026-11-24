@@ -1579,7 +1579,25 @@
     "847bdab01be58757": "2026-11-24T09:45:29.755032+00:00",
     "47c1d518a0200f80": "2026-11-24T09:45:29.755032+00:00",
     "c4518415d004d26c": "2026-11-24T09:45:29.755032+00:00",
-    "f520e9e8e7ee0c4b": "2026-11-24T09:45:29.755032+00:00"
+    "f520e9e8e7ee0c4b": "2026-11-24T09:45:29.755032+00:00",
+    "8b634c410dbe0d7d": "2026-11-24T10:00:55.970823+00:00",
+    "eadda85c5f6c51fb": "2026-11-24T10:00:55.970823+00:00",
+    "196e0a1022830657": "2026-11-24T10:00:55.970823+00:00",
+    "69f8d32f0af2dc4a": "2026-11-24T10:00:55.970823+00:00",
+    "bb62a852fc44a793": "2026-11-24T10:00:55.970823+00:00",
+    "ebb8e61973a60b82": "2026-11-24T10:00:55.970823+00:00",
+    "253798f1aaab5e3c": "2026-11-24T10:00:55.970823+00:00",
+    "7f1c98fac189daf0": "2026-11-24T10:00:55.970823+00:00",
+    "6f67b482cd082dd3": "2026-11-24T10:00:55.970823+00:00",
+    "9a6906f18d9de797": "2026-11-24T10:00:55.970823+00:00",
+    "2403f0343573e57f": "2026-11-24T10:00:55.970823+00:00",
+    "baf544f9697ae1a7": "2026-11-24T10:00:55.970823+00:00",
+    "fcfae4a968202ac0": "2026-11-24T10:00:55.970823+00:00",
+    "cf3b6bc7d6c7a474": "2026-11-24T10:00:55.970823+00:00",
+    "ff485a31f176783c": "2026-11-24T10:00:55.970823+00:00",
+    "5b131aca35744367": "2026-11-24T10:00:55.970823+00:00",
+    "73e4515d314f6143": "2026-11-24T10:00:55.970823+00:00",
+    "0210641444ed7dd4": "2026-11-24T10:00:55.970823+00:00"
   },
   "published_stories": [
     {
@@ -3825,9 +3843,62 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T10:00:57.138028+00:00",
+      "headline_az": "Ukrayna müharibəsi genişlənir: Baltik və Aralıq dənizində yeni cəbhələr",
+      "summary_az": "Ukrayna ordusu Rusiyaya qarşı hərbi əməliyyatları Qara dənizdən kənara çıxararaq Baltik və Aralıq dənizindəki hədəflərə yönəldib. Liviya sahillərində Rusiya gəmisinin vurulması münaqişənin coğrafiyasının genişləndiyini göstərir.",
+      "topic_key": "ukraine-russia-maritime-war",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "FTB-də rəhbərlik dəyişir: Kristofer Rey vəzifəsindən ayrılır",
+      "summary_az": "ABŞ-nin Federal Təhqiqatlar Bürosunun (FTB) direktoru Kristofer Rey tutduğu vəzifəni tərk edir. Bu istefa ABŞ-nin təhlükəsizlik strukturlarında gözlənilən ciddi kadr dəyişikliklərinin bir hissəsi kimi qiymətləndirilir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "fbi-director-resignation",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/ftb-de-rehber-deyisikliyi-kristofer-rey-postunu-terk-edir"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/24/ISdVnWG4K33bFnNyp6gyHTeEGppvzhMm4Sob9MYY:640.jpg",
+      "queued_at": "2026-11-24T10:00:55.917939+00:00"
+    },
+    {
+      "headline_az": "İranın Sistan və Bəlucistan bölgəsində partlayış",
+      "summary_az": "İranın Sistan və Bəlucistan əyalətində yerləşən hərbi hissənin yaxınlığında güclü partlayış baş verib. Hadisənin səbəbləri və mümkün tələfat barədə rəsmi araşdırmalar davam edir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "iran-military-base-explosion",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/iranda-bir-askeri-kisla-yakininda-patlama-meydana-geldi-964308.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T10:00:55.917939+00:00"
+    },
     {
       "headline_az": "Abşeron dəniz blokunun kəşfiyyatı ilə bağlı mühüm saziş təsdiqləndi",
       "summary_az": "Milli Məclis Xəzər dənizinin Azərbaycan sektorundakı Abşeron dəniz blokunun kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Sazişin həyata keçirilməsinə icazə verilməsi barədə qanun layihəsini təsdiq edib. Bu addım ölkənin enerji sektorunda yeni investisiyaların yolunu açacaq.",
