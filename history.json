@@ -1149,7 +1149,12 @@
     "38a232d9dbda58b1": "2026-11-23T23:30:36.720949+00:00",
     "b71ae8933a004796": "2026-11-23T23:45:29.272672+00:00",
     "9ed99978c1e0f247": "2026-11-23T23:45:29.272672+00:00",
-    "bfc1c0d37136195f": "2026-11-23T23:45:29.272672+00:00"
+    "bfc1c0d37136195f": "2026-11-23T23:45:29.272672+00:00",
+    "7f0df66dc2def343": "2026-11-24T00:00:45.971901+00:00",
+    "695e5fdcbcf0ecec": "2026-11-24T00:00:45.971901+00:00",
+    "992e39c481e99801": "2026-11-24T00:00:45.971901+00:00",
+    "bc697b1564f3d6d8": "2026-11-24T00:00:45.971901+00:00",
+    "2267662cadeb0596": "2026-11-24T00:00:45.971901+00:00"
   },
   "published_stories": [
     {
@@ -3043,6 +3048,15 @@
       "topic_key": "trump-iowa-explosives-postponed",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T00:00:46.509787+00:00",
+      "headline_az": "Nvidia-da Jensen Huang böhranı: Konqresdən sərt reaksiya",
+      "summary_az": "Jensen Huang-ın Nvidia-nın rəhbərliyinə qayıtması ABŞ siyasi dairələrində ciddi narazılıqla qarşılanıb. Konqres üzvləri bu qərarı milli təhlükəsizlik riski kimi qiymətləndirərək, Maliyyə naziri Scott Bessent-in mövqe dəyişikliyini tənqid ediblər.",
+      "topic_key": "nvidia-jensen-huang-politics",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
