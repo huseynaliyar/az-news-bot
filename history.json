@@ -1909,7 +1909,18 @@
     "2ae4da4e131833b5": "2026-11-24T15:01:17.515180+00:00",
     "2fb48e72d746707a": "2026-11-24T15:01:17.515180+00:00",
     "29486444ab757bae": "2026-11-24T15:01:17.515180+00:00",
-    "8c4b8c3ad8a6506e": "2026-11-24T15:01:17.515180+00:00"
+    "8c4b8c3ad8a6506e": "2026-11-24T15:01:17.515180+00:00",
+    "778fdbd2323ef5b9": "2026-11-24T15:15:59.538839+00:00",
+    "2ad548d2dcbf2ddf": "2026-11-24T15:15:59.538839+00:00",
+    "5e0b48d7a8bba45c": "2026-11-24T15:15:59.538839+00:00",
+    "7228d9d1e50b9ddf": "2026-11-24T15:15:59.538839+00:00",
+    "f94f3e6d97bb5fb1": "2026-11-24T15:15:59.538839+00:00",
+    "d9fa7903fc037abd": "2026-11-24T15:15:59.538839+00:00",
+    "6e6db032b5c1a26b": "2026-11-24T15:15:59.538839+00:00",
+    "770fb10d562a5c66": "2026-11-24T15:15:59.538839+00:00",
+    "cb5edc7a6ba2486c": "2026-11-24T15:15:59.538839+00:00",
+    "367f860631787859": "2026-11-24T15:15:59.538839+00:00",
+    "e175d14b24fc3f82": "2026-11-24T15:15:59.538839+00:00"
   },
   "published_stories": [
     {
@@ -4346,30 +4357,16 @@
       "sources": [
         "Google News World"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-24T15:16:01.976305+00:00",
       "headline_az": "Abşeron dəniz blokunun kəşfiyyatı ilə bağlı mühüm saziş təsdiqləndi",
       "summary_az": "Milli Məclis Xəzər dənizinin Azərbaycan sektorundakı Abşeron dəniz blokunun kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Sazişin həyata keçirilməsinə icazə verilməsi barədə qanun layihəsini təsdiq edib. Bu addım ölkənin enerji sektorunda yeni investisiyaların yolunu açacaq.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "absheron-block-exploration-agreement",
-      "source_indices": [
-        3
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/abseron-deniz-blokunun-kesfiyyati-ile-bagli-sazis-tesdiqlendi"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/23/6XSrGY2Pm3mNxvIjxtoc823IiI2taTJPzly0Hbxi:640.jpg",
-      "queued_at": "2026-11-24T08:00:37.490017+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
