@@ -1171,7 +1171,13 @@
     "11c3e30818ab8482": "2026-11-24T00:30:35.870710+00:00",
     "95d231423298a2c3": "2026-11-24T00:30:35.870710+00:00",
     "10acb92b7a758f3b": "2026-11-24T00:30:35.870710+00:00",
-    "0e521f4b67cccd0d": "2026-11-24T00:30:35.870710+00:00"
+    "0e521f4b67cccd0d": "2026-11-24T00:30:35.870710+00:00",
+    "953884ea10c587f7": "2026-11-24T00:45:48.710343+00:00",
+    "be3f2feaa736fc75": "2026-11-24T00:45:48.710343+00:00",
+    "a551170d9bbb825e": "2026-11-24T00:45:48.710343+00:00",
+    "892ae2ddd12cfa8a": "2026-11-24T00:45:48.710343+00:00",
+    "7202b33f6b0c5d85": "2026-11-24T00:45:48.710343+00:00",
+    "290dfe0ee4b02eab": "2026-11-24T00:45:48.710343+00:00"
   },
   "published_stories": [
     {
@@ -3092,6 +3098,15 @@
       "topic_key": "james-bond-golden-ratio-ranking",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T00:45:49.451959+00:00",
+      "headline_az": "İstanbuldakı panikaya səbəb olan heyvanın şir olmadığı üzə çıxdı",
+      "summary_az": "Bazar günü İstanbul küçələrində hər kəsdə təşviş yaradan və şir olduğu güman edilən sirli heyvanın əslində başqa növ olduğu açıqlanıb. Bu xəbər qısa müddətdə sosial şəbəkələrdə əsas müzakirə mövzusuna çevrilib.",
+      "topic_key": "istanbul-fake-lion-panic",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
