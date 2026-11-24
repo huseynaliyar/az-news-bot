@@ -1227,7 +1227,10 @@
     "ba9ef725e57ccde5": "2026-11-24T03:45:30.717442+00:00",
     "df9dce010d28e98c": "2026-11-24T04:00:48.979424+00:00",
     "62dddf01033ce5de": "2026-11-24T04:00:48.979424+00:00",
-    "0045641702dbb617": "2026-11-24T04:00:48.979424+00:00"
+    "0045641702dbb617": "2026-11-24T04:00:48.979424+00:00",
+    "387abd08f3611b22": "2026-11-24T04:15:41.969845+00:00",
+    "8a11be66dc0b8ac7": "2026-11-24T04:15:41.969845+00:00",
+    "e6ddb10ffe831858": "2026-11-24T04:15:41.969845+00:00"
   },
   "published_stories": [
     {
@@ -3275,6 +3278,15 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-24T04:15:43.117077+00:00",
+      "headline_az": "«Audi»nin Çin zavodu milyardlarla avro zərər etdi",
+      "summary_az": "Almaniyanın nəhəng avtomobil istehsalçısı «Audi»nin Çançun şəhərindəki müəssisəsi gözlənilməz maliyyə böhranı ilə üzləşib. Zavodun tikintisinə yatırılan 2.5 milyard avrodan çox investisiya hələlik özünü doğrultmayıb və şirkət ciddi itkilər verir.",
+      "topic_key": "audi-china-plant-loss",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
@@ -3387,28 +3399,6 @@
       "importance": 7,
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
       "queued_at": "2026-11-23T20:31:33.668577+00:00"
-    },
-    {
-      "headline_az": "Claude AI artıq kodu öz-özünə yoxlayıb düzəldə bilir",
-      "summary_az": "Anthropic şirkəti Claude AI üçün yeni funksiyalar təqdim etdi – alət indi pull request-ləri avtomatik olaraq incələyir, səhvləri düzəldir və kodu təsdiqləyə bilir. Bu, proqramçıların işini sürətləndirəcək.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "claude-ai-pull-request-review",
-      "source_indices": [
-        7
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T20:01:23.214558+00:00"
     }
   ]
 }
