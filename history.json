@@ -1179,7 +1179,9 @@
     "7202b33f6b0c5d85": "2026-11-24T00:45:48.710343+00:00",
     "290dfe0ee4b02eab": "2026-11-24T00:45:48.710343+00:00",
     "23a60a477205ee26": "2026-11-24T01:00:42.442210+00:00",
-    "caf4545da42d65e9": "2026-11-24T01:00:42.442210+00:00"
+    "caf4545da42d65e9": "2026-11-24T01:00:42.442210+00:00",
+    "6ccc08c861268ca1": "2026-11-24T01:15:29.049242+00:00",
+    "3ac87955af3d21db": "2026-11-24T01:15:29.049242+00:00"
   },
   "published_stories": [
     {
@@ -3119,31 +3121,18 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T01:15:30.001404+00:00",
+      "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
+      "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
+      "topic_key": "russia-ukraine-underground-warfare",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Rusiya-Ukrayna müharibəsində döyüşlər yerin altına daşındı",
-      "summary_az": "Göylərin PUA-larla dolması fonunda tərəflər taktikanı dəyişərək əməliyyatları yeraltına keçiriblər. Ukrayna ordusu Rusiyanın nəzarətində olan qaz boru xəttində gizli əməliyyat həyata keçirib.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "russia-ukraine-underground-warfare",
-      "source_indices": [
-        1
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/dunya/rusya-ukrayna-savasinda-cephe-yer-altina-indi-3497156"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T21:15:38.690775+00:00"
-    },
     {
       "headline_az": "ABŞ‑lı Kongres üzvü Brendan F. Boyle NATO Parlamentar Asamblesinin yeni prezidenti seçildi",
       "summary_az": "Berlin‑də keçirilən ümumi yığıncaqda NATO PA‑nın başçısı olaraq Brendan F. Boyle təyin olundu.",
