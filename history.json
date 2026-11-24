@@ -1300,7 +1300,19 @@
     "92994daf1b9311e1": "2026-11-24T06:15:38.936080+00:00",
     "894d9ec4a1ca6b30": "2026-11-24T06:15:38.936080+00:00",
     "7637d55679cc99c0": "2026-11-24T06:15:38.936080+00:00",
-    "2809969384cceffe": "2026-11-24T06:15:38.936080+00:00"
+    "2809969384cceffe": "2026-11-24T06:15:38.936080+00:00",
+    "92d4b7ad2bf94c9b": "2026-11-24T06:30:40.015850+00:00",
+    "fb4474d118d1399b": "2026-11-24T06:30:40.015850+00:00",
+    "bf5f5657cf0ff434": "2026-11-24T06:30:40.015850+00:00",
+    "44c01f9d7c6dd4ed": "2026-11-24T06:30:40.015850+00:00",
+    "feb137c347bdcae7": "2026-11-24T06:30:40.015850+00:00",
+    "cfddd3dedfa861cc": "2026-11-24T06:30:40.015850+00:00",
+    "7c9554e74218f64b": "2026-11-24T06:30:40.015850+00:00",
+    "7598bcbdcc23d7dc": "2026-11-24T06:30:40.015850+00:00",
+    "d06b1ec7a4add032": "2026-11-24T06:30:40.015850+00:00",
+    "ed0176fc37f5d56c": "2026-11-24T06:30:40.015850+00:00",
+    "8fce122bce4e5e49": "2026-11-24T06:30:40.015850+00:00",
+    "3ca8a290e573b6ab": "2026-11-24T06:30:40.015850+00:00"
   },
   "published_stories": [
     {
@@ -3428,6 +3440,15 @@
       "topic_key": "pakistan-first-astronaut-china-mission",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T06:30:40.491252+00:00",
+      "headline_az": "Türkiyədə kağız fiş dövrü başa çatır",
+      "summary_az": "Rəsmi Qəzetdə dərc olunan yeni tənzimləmələrə əsasən, ölkədə ödəniş sistemləri və faktura tətbiqlərində dəyişikliklər edilib. Yaxın vaxtlarda kağız əsaslı fişlərin istifadəsi tamamilə dayandırılacaq.",
+      "topic_key": "turkey-paper-receipt-end",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
