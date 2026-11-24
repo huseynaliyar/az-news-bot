@@ -1221,7 +1221,10 @@
     "bd06fc8d71ec9493": "2026-11-24T03:30:32.152000+00:00",
     "9e991d6fcb5611b1": "2026-11-24T03:30:32.152000+00:00",
     "9b14afd7ed63b9fe": "2026-11-24T03:30:32.152000+00:00",
-    "12dec7562149ae1b": "2026-11-24T03:30:32.152000+00:00"
+    "12dec7562149ae1b": "2026-11-24T03:30:32.152000+00:00",
+    "8560996c61e05f77": "2026-11-24T03:45:30.717442+00:00",
+    "7fe1e661b782b2cd": "2026-11-24T03:45:30.717442+00:00",
+    "ba9ef725e57ccde5": "2026-11-24T03:45:30.717442+00:00"
   },
   "published_stories": [
     {
@@ -3251,31 +3254,18 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-24T03:45:31.334164+00:00",
+      "headline_az": "Kral Çarlz və Elton Con Avstraliya musiqi əfsanəsini anıblar",
+      "summary_az": "Kral III Çarlz və məşhur musiqiçi Elton Con onilliklər ərzində Avstraliyanın musiqi zövqünü formalaşdıran tanınmış prodüser Molli Meldrumun xatirəsini ehtiramla yad ediblər. Onlar mərhum sənətçinin ölkənin mədəniyyət tarixinə verdiyi əvəzsiz töhfələri vurğulayıblar.",
+      "topic_key": "king-charles-elton-john-molly-meldrum",
+      "sources": [
+        "BBC World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Kral Çarlz və Elton Con Avstraliya musiqi əfsanəsini anıblar",
-      "summary_az": "Kral III Çarlz və məşhur musiqiçi Elton Con onilliklər ərzində Avstraliyanın musiqi zövqünü formalaşdıran tanınmış prodüser Molli Meldrumun xatirəsini ehtiramla yad ediblər. Onlar mərhum sənətçinin ölkənin mədəniyyət tarixinə verdiyi əvəzsiz töhfələri vurğulayıblar.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "king-charles-elton-john-molly-meldrum",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/c3bcfc70-e6ce-11f1-a9db-c39c38a2d17c.jpg",
-      "queued_at": "2026-11-24T03:00:41.595204+00:00"
-    },
     {
       "headline_az": "Qətərin baş naziri ABŞ və İran arasında gərginliyi azaltmağa çalışır",
       "summary_az": "Qətərin baş naziri Vaşinqton və Tehran arasındakı münasibətləri yumşaltmaq və dialoqu bərpa etmək üçün səylərini davam etdirir. ABŞ rəsmiləri ilə keçirilən görüşlərdən sonra tərəflər arasında gərginliyin azaldılması istiqamətində müzakirələr aparılır.",
@@ -3429,50 +3419,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T20:01:23.214558+00:00"
-    },
-    {
-      "headline_az": "Danimarkada məktəblərdə telefon qadağası gəlir",
-      "summary_az": "Danimarka hökuməti 2027-2028-ci tədris ilindən etibarən ibtidai və orta məktəblərdə mobil telefonlardan istifadəni tamamilə qadağan etməyə hazırlaşır. Bu addım şagirdlərin diqqətini dərslərə cəmləmək və rəqəmsal asılılığı azaltmaq məqsədi daşıyır.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "denmark-school-phone-ban",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/danimarkada-okullarda-cep-telefonu-kullanimi-yasaklaniyor-964234.html"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T19:31:28.873130+00:00"
-    },
-    {
-      "headline_az": "İzmirdə şok cinayət: Ata qızının qurbanı oldu",
-      "summary_az": "",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "izmir-murder-case",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkpFa3NIWWt6MlJHTUQxbV9Wdi1QMkpfNDY2NHJ3cVBDM0tJTjlFdjZIT01YYl9DSlJRMlFGYVRUY1NLSEZ6dlR3OXkyX1F2cjNQbC1EcW9qYmgydjNNSkt1ajVjMmpRMTN1YmpsUUN0UG9FZ0Jad2c3VFViTHlYWmhSY2VaUzh1dzRqLVVjakhMYzg?oc=5"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-23T19:31:28.873130+00:00"
     }
   ]
 }
