@@ -1230,7 +1230,18 @@
     "0045641702dbb617": "2026-11-24T04:00:48.979424+00:00",
     "387abd08f3611b22": "2026-11-24T04:15:41.969845+00:00",
     "8a11be66dc0b8ac7": "2026-11-24T04:15:41.969845+00:00",
-    "e6ddb10ffe831858": "2026-11-24T04:15:41.969845+00:00"
+    "e6ddb10ffe831858": "2026-11-24T04:15:41.969845+00:00",
+    "56386cfb726da794": "2026-11-24T04:30:35.340374+00:00",
+    "537f982d31345d1c": "2026-11-24T04:30:35.340374+00:00",
+    "7d057d1603c67812": "2026-11-24T04:30:35.340374+00:00",
+    "f00251ca4cef2bff": "2026-11-24T04:30:35.340374+00:00",
+    "8d0ec487d3aea08b": "2026-11-24T04:30:35.340374+00:00",
+    "dc3b98a7b312e509": "2026-11-24T04:30:35.340374+00:00",
+    "a7060d74d56940d3": "2026-11-24T04:30:35.340374+00:00",
+    "0ff0671f3f206621": "2026-11-24T04:30:35.340374+00:00",
+    "976a4f86e8ee63ea": "2026-11-24T04:30:35.340374+00:00",
+    "fd67aee4355c154d": "2026-11-24T04:30:35.340374+00:00",
+    "9425e28f39d65d06": "2026-11-24T04:30:35.340374+00:00"
   },
   "published_stories": [
     {
@@ -3286,6 +3297,15 @@
       "topic_key": "audi-china-plant-loss",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T04:30:37.873560+00:00",
+      "headline_az": "SOCAR və İtaliya tərəfdaşlığı Avropanın enerji təhlükəsizliyini gücləndirir",
+      "summary_az": "İtaliyanın baş nazirinin müavini Antonio Tajani Bakıya səfər edərək Azərbaycanla enerji sahəsində əməkdaşlığın yeni mərhələsini müzakirə edib. TAP layihəsi və SOCAR-ın İtaliyadakı genişlənməsi Avropanın enerji təhlükəsizliyində mühüm rol oynamağa davam edir.",
+      "topic_key": "socar-italy-energy-security",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
