@@ -1241,7 +1241,10 @@
     "0ff0671f3f206621": "2026-11-24T04:30:35.340374+00:00",
     "976a4f86e8ee63ea": "2026-11-24T04:30:35.340374+00:00",
     "fd67aee4355c154d": "2026-11-24T04:30:35.340374+00:00",
-    "9425e28f39d65d06": "2026-11-24T04:30:35.340374+00:00"
+    "9425e28f39d65d06": "2026-11-24T04:30:35.340374+00:00",
+    "79f60558154e3f40": "2026-11-24T04:45:26.039018+00:00",
+    "748f8f58ad29bfd7": "2026-11-24T04:45:26.039018+00:00",
+    "e39668d78d566929": "2026-11-24T04:45:26.039018+00:00"
   },
   "published_stories": [
     {
@@ -3307,6 +3310,15 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-24T04:45:26.619104+00:00",
+      "headline_az": "Türkiyə-AB İttifaqında vize serbestliyi məsələsi yenidən masadadır",
+      "summary_az": "Türkiyə ilə Avropa İttifaqı arasında illərdir müzakirə olunan vize serbestliyi faylı yenidən açılıb. Ankara və Brüksel arasında əsas müzakirə mövzusu təhlükəsizlik və hüquqi meyarların qarşılanmasıdır.",
+      "topic_key": "turkey-eu-visa-liberalization",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
@@ -3397,28 +3409,6 @@
       "importance": 7,
       "image_url": "",
       "queued_at": "2026-11-23T21:02:34.940285+00:00"
-    },
-    {
-      "headline_az": "GTA 6 dünyasında sirli tapıntı: YouTuber kodu 3 günə qırdı",
-      "summary_az": "Oyun dünyasının ən çox gözlənilən layihəsi olan GTA 6-da gizlədilən çətin tapmacanı bir YouTuber cəmi 3 günə həll edib. Oyunçuları heyrətləndirən bu sirli tapıntının sonunda gözlənilməz bir sürpriz ortaya çıxıb.",
-      "category": "Maraqlı",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "gta6-easter-egg",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "url": "https://www.ign.com/articles/gta-6-easter-egg-danny-dyer-kent-paul"
-        }
-      ],
-      "importance": 7,
-      "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-48-1795462919278.jpg",
-      "queued_at": "2026-11-23T20:31:33.668577+00:00"
     }
   ]
 }
