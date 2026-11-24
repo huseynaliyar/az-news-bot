@@ -1378,7 +1378,26 @@
     "fd6c71269ca60802": "2026-11-24T07:15:37.064511+00:00",
     "6124d2a0a12232d4": "2026-11-24T07:15:37.064511+00:00",
     "7692020fbf69daab": "2026-11-24T07:15:37.064511+00:00",
-    "311bad62f7f91721": "2026-11-24T07:15:37.064511+00:00"
+    "311bad62f7f91721": "2026-11-24T07:15:37.064511+00:00",
+    "956118b9d8be5ed3": "2026-11-24T07:30:41.030444+00:00",
+    "c4b6989413aafc91": "2026-11-24T07:30:41.030444+00:00",
+    "cf565f737cefe2fe": "2026-11-24T07:30:41.030444+00:00",
+    "4734fb307cac9341": "2026-11-24T07:30:41.030444+00:00",
+    "692cd95ab54863fb": "2026-11-24T07:30:41.030444+00:00",
+    "ef4ca724da1b6395": "2026-11-24T07:30:41.030444+00:00",
+    "94836056dc0ff9c4": "2026-11-24T07:30:41.030444+00:00",
+    "7bdc800d66a02431": "2026-11-24T07:30:41.030444+00:00",
+    "62c2a5a3d0d56adc": "2026-11-24T07:30:41.030444+00:00",
+    "258f6a601f20730c": "2026-11-24T07:30:41.030444+00:00",
+    "ecd71e483e94d74b": "2026-11-24T07:30:41.030444+00:00",
+    "76fe880d57fadd52": "2026-11-24T07:30:41.030444+00:00",
+    "d4ecc8d99be3783f": "2026-11-24T07:30:41.030444+00:00",
+    "499736cb906b7aa7": "2026-11-24T07:30:41.030444+00:00",
+    "634163d892a1c135": "2026-11-24T07:30:41.030444+00:00",
+    "817f3e2cfe4eb1f0": "2026-11-24T07:30:41.030444+00:00",
+    "b04a1223661ef9c4": "2026-11-24T07:30:41.030444+00:00",
+    "d7948aa8ef38af2d": "2026-11-24T07:30:41.030444+00:00",
+    "330f45bbfa1d7daf": "2026-11-24T07:30:41.030444+00:00"
   },
   "published_stories": [
     {
@@ -3534,30 +3553,16 @@
       "sources": [
         "AzerNews"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-24T07:30:41.582480+00:00",
       "headline_az": "Avstraliyadan texnologiya nəhənglərinə sərt xəbərdarlıq: Milyardlarla dollar cərimə gözlənilir",
       "summary_az": "Avstraliyada müzakirə olunan yeni internet təhlükəsizliyi qanun layihəsi qlobal texnologiya şirkətlərini ciddi cərimələrlə üz-üzə qoyur. Qaydaları pozan platformalar qlobal gəlirlərinin 5 faizinədək cərimə ödəyə bilərlər.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "australia-tech-giants-safety-fines",
-      "source_indices": [
-        19
-      ],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T07:15:37.037627+00:00"
+        "Al Jazeera"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
