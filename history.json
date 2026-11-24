@@ -1703,7 +1703,20 @@
     "ae82fdee8b77d260": "2026-11-24T11:45:37.775908+00:00",
     "107bbea8370ea3f5": "2026-11-24T11:45:37.775908+00:00",
     "2a5656c2928bcec7": "2026-11-24T11:45:37.775908+00:00",
-    "661f9f6366e8b6a2": "2026-11-24T11:45:37.775908+00:00"
+    "661f9f6366e8b6a2": "2026-11-24T11:45:37.775908+00:00",
+    "24c45484f4690af2": "2026-11-24T12:00:46.263580+00:00",
+    "146addac3e770e01": "2026-11-24T12:00:46.263580+00:00",
+    "15c40c85392a6ec1": "2026-11-24T12:00:46.263580+00:00",
+    "74e80171263759bb": "2026-11-24T12:00:46.263580+00:00",
+    "c14ebdacce32e394": "2026-11-24T12:00:46.263580+00:00",
+    "0d0354bea1fb122d": "2026-11-24T12:00:46.263580+00:00",
+    "67471f75d179b865": "2026-11-24T12:00:46.263580+00:00",
+    "a629a60418b17b64": "2026-11-24T12:00:46.263580+00:00",
+    "5d70f74f57dc285e": "2026-11-24T12:00:46.263580+00:00",
+    "aa728008ba53d632": "2026-11-24T12:00:46.263580+00:00",
+    "afcd0b5e2a1f2511": "2026-11-24T12:00:46.263580+00:00",
+    "1af25dbe31819f04": "2026-11-24T12:00:46.263580+00:00",
+    "9b11c676af2579b4": "2026-11-24T12:00:46.263580+00:00"
   },
   "published_stories": [
     {
@@ -4021,6 +4034,15 @@
       "topic_key": "iraq-kurdish-oilfields-takeover",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T12:00:47.034610+00:00",
+      "headline_az": "Avropa İttifaqından hibrit avtomobillərə sərt məhdudiyyət: Türkiyəyə kota qoyuldu",
+      "summary_az": "Aİ daxili bazarı qorumaq məqsədilə Türkiyənin də daxil olduğu 9 ölkədən hibrit avtomobil idxalına keçici kota tətbiq edib. Dekabrın 1-dən qüvvəyə minəcək qərara əsasən, ölkə üçün 126 min 320 avtomobillik limit müəyyənləşdirilib.",
+      "topic_key": "eu-hybrid-car-import-quota",
+      "sources": [
+        "CNN Türk"
       ]
     }
   ],
