@@ -248,7 +248,15 @@ def publish_stories(
                 )
                 posted = True
             except Exception as exc:
-                logger.warning("Şəkil göndərilmədi, mətnə keçilir (%s): %s", image_url, exc)
+                resp_obj = getattr(exc, "response", None)
+                if resp_obj is not None and resp_obj.status_code == 400:
+                    logger.warning(
+                        "Şəkil URL-i yararsızdır, mətnə keçilir (%s): %s",
+                        image_url,
+                        exc,
+                    )
+                else:
+                    raise
 
         if not posted:
             send_telegram_message(
