@@ -2121,7 +2121,13 @@
     "84d4e634d27ddac2": "2026-11-24T19:14:21.674662+00:00",
     "dce1a31db82dd550": "2026-11-24T19:15:27.235109+00:00",
     "da3d9db40b0a6b6b": "2026-11-24T19:15:27.235109+00:00",
-    "a423b085bc8acd90": "2026-11-24T19:15:27.235109+00:00"
+    "a423b085bc8acd90": "2026-11-24T19:15:27.235109+00:00",
+    "6a56b1f9cfc57d09": "2026-11-24T19:21:47.582373+00:00",
+    "1103f12e108406c5": "2026-11-24T19:21:47.582373+00:00",
+    "c7771099b7d355bb": "2026-11-24T19:21:47.582373+00:00",
+    "9d8b38fffb839f49": "2026-11-24T19:21:47.582373+00:00",
+    "e5308ea7be908965": "2026-11-24T19:21:47.582373+00:00",
+    "b004be4f0b7ef37e": "2026-11-24T19:21:47.582373+00:00"
   },
   "published_stories": [
     {
@@ -4641,7 +4647,39 @@
         "AzerNews",
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-24T19:22:00.941922+00:00",
+      "headline_az": "Eskişehir səmasında faciə: Hərbi helikopter qəzaya uğradı",
+      "summary_az": "Türkiyənin Eskişehir şəhərində hərbi helikopterin qəzaya uğradığı bildirilir. Hazırda hadisə yerində genişmiqyaslı axtarış-xilasetmə əməliyyatları davam edir.",
+      "topic_key": "eskisehir-helicopter-crash",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "ABŞ ordusunda şok casusluq etirafı",
+      "summary_az": "ABŞ ordusunda xidmət edən çavuş Çinə gizli hərbi məlumatları satdığını etiraf edib. Bu hadisə ABŞ-ın milli təhlükəsizlik sistemində ciddi narahatlıq yaradıb.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-soldier-china-espionage",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/abd-ordusunda-gorev-yapan-bir-asker-cine-gizli-bilgileri-sattigini-itiraf-etti-964359.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T19:21:47.555503+00:00"
+    }
+  ]
 }
