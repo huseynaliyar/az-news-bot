@@ -1776,7 +1776,24 @@
     "cf2fe0810f243f7b": "2026-11-24T13:02:31.617842+00:00",
     "6f41fb63d8fe1462": "2026-11-24T13:02:31.617842+00:00",
     "df1ea1016a90edbb": "2026-11-24T13:02:31.617842+00:00",
-    "f68a84923bd1972c": "2026-11-24T13:02:31.617842+00:00"
+    "f68a84923bd1972c": "2026-11-24T13:02:31.617842+00:00",
+    "a626ca8a3c2f0779": "2026-11-24T13:15:52.250369+00:00",
+    "f74aa8fe04d19581": "2026-11-24T13:15:52.250369+00:00",
+    "16c93ed173e2b4fd": "2026-11-24T13:15:52.250369+00:00",
+    "2d45ac7757ab44d8": "2026-11-24T13:15:52.250369+00:00",
+    "2c6a2663f8bdc4c4": "2026-11-24T13:15:52.250369+00:00",
+    "8ca4a2e326f86a1f": "2026-11-24T13:15:52.250369+00:00",
+    "5de8b8883da1126c": "2026-11-24T13:15:52.250369+00:00",
+    "986f6ec1b2a220a5": "2026-11-24T13:15:52.250369+00:00",
+    "f1f2806146f598da": "2026-11-24T13:15:52.250369+00:00",
+    "a82eda6831a4c689": "2026-11-24T13:15:52.250369+00:00",
+    "63eee5189d76af71": "2026-11-24T13:15:52.250369+00:00",
+    "0b9500420ea51786": "2026-11-24T13:15:52.250369+00:00",
+    "74c4afb28288422e": "2026-11-24T13:15:52.250369+00:00",
+    "1f72610d98338aef": "2026-11-24T13:15:52.250369+00:00",
+    "75f1e95850c60b3b": "2026-11-24T13:15:52.250369+00:00",
+    "2aba613e39b614b7": "2026-11-24T13:15:52.250369+00:00",
+    "168dc9e0fda6e685": "2026-11-24T13:15:52.250369+00:00"
   },
   "published_stories": [
     {
@@ -4140,31 +4157,18 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T13:15:53.141330+00:00",
+      "headline_az": "BMT: Myanma'ya geri dönüş təhlükəsiz deyil",
+      "summary_az": "Birləşmiş Millətlər Təşkilatının Qaçqınlar üzrə Yüksək Komissarı Babar Baloch, hazırkı vəziyyətin Myanma vətəndaşlarının ölkəyə geri qayıtmasını təhlükəli etdiyini bildirib.",
+      "topic_key": "un-myanmar-return-unsafe",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "BMT: Myanma'ya geri dönüş təhlükəsiz deyil",
-      "summary_az": "Birləşmiş Millətlər Təşkilatının Qaçqınlar üzrə Yüksək Komissarı Babar Baloch, hazırkı vəziyyətin Myanma vətəndaşlarının ölkəyə geri qayıtmasını təhlükəli etdiyini bildirib.",
-      "category": "Dünya",
-      "region": "az",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "un-myanmar-return-unsafe",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/bm-myanmara-donmek-guvenli-degil-964328.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T12:46:54.910166+00:00"
-    },
     {
       "headline_az": "Ukrayna və Almaniyadan dron istehsalı üçün strateji saziş",
       "summary_az": "Ukrayna və Almaniya birgə kəşfiyyat dronlarının istehsalı ilə bağlı razılığa gəliblər. Bu addım Ukrayna ordusunun texnoloji imkanlarını gücləndirmək məqsədi daşıyır.",
