@@ -1224,7 +1224,10 @@
     "12dec7562149ae1b": "2026-11-24T03:30:32.152000+00:00",
     "8560996c61e05f77": "2026-11-24T03:45:30.717442+00:00",
     "7fe1e661b782b2cd": "2026-11-24T03:45:30.717442+00:00",
-    "ba9ef725e57ccde5": "2026-11-24T03:45:30.717442+00:00"
+    "ba9ef725e57ccde5": "2026-11-24T03:45:30.717442+00:00",
+    "df9dce010d28e98c": "2026-11-24T04:00:48.979424+00:00",
+    "62dddf01033ce5de": "2026-11-24T04:00:48.979424+00:00",
+    "0045641702dbb617": "2026-11-24T04:00:48.979424+00:00"
   },
   "published_stories": [
     {
@@ -3263,31 +3266,18 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-24T04:00:49.713926+00:00",
+      "headline_az": "Qətərin baş naziri ABŞ və İran arasında gərginliyi azaltmağa çalışır",
+      "summary_az": "Qətərin baş naziri Vaşinqton və Tehran arasındakı münasibətləri yumşaltmaq və dialoqu bərpa etmək üçün səylərini davam etdirir. ABŞ rəsmiləri ilə keçirilən görüşlərdən sonra tərəflər arasında gərginliyin azaldılması istiqamətində müzakirələr aparılır.",
+      "topic_key": "qatar-pm-us-iran-talks",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Qətərin baş naziri ABŞ və İran arasında gərginliyi azaltmağa çalışır",
-      "summary_az": "Qətərin baş naziri Vaşinqton və Tehran arasındakı münasibətləri yumşaltmaq və dialoqu bərpa etmək üçün səylərini davam etdirir. ABŞ rəsmiləri ilə keçirilən görüşlərdən sonra tərəflər arasında gərginliyin azaldılması istiqamətində müzakirələr aparılır.",
-      "category": "Siyasət",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "qatar-pm-us-iran-talks",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T02:00:40.336256+00:00"
-    },
     {
       "headline_az": "ABŞ ticarət 'qara siyahısı'na yeni şirkətlər əlavə edilib",
       "summary_az": "Birləşmiş Ştatlar ixrac nəzarəti qaydalarının pozulması və qabaqcıl texnologiyaların ötürülməsi narahatlıqları səbəbindən Megaspeed daxil olmaqla bir neçə şirkəti ticarət qara siyahısına daxil edib. Qərar qlobal texnologiya bazarında yeni müzakirələrə yol açıb.",
