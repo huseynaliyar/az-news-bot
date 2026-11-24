@@ -1831,7 +1831,23 @@
     "aa612a24cc0bec96": "2026-11-24T13:45:54.589813+00:00",
     "b9210f958f6200ec": "2026-11-24T13:45:54.589813+00:00",
     "54cf40b8c69127d3": "2026-11-24T13:45:54.589813+00:00",
-    "e7b248e2a411f3b3": "2026-11-24T13:45:54.589813+00:00"
+    "e7b248e2a411f3b3": "2026-11-24T13:45:54.589813+00:00",
+    "11b610bd03af6ca5": "2026-11-24T14:01:54.256723+00:00",
+    "a1200eec2bb3db9a": "2026-11-24T14:01:54.256723+00:00",
+    "df48e0e4f14e24e5": "2026-11-24T14:01:54.256723+00:00",
+    "41be723ec6ed23f6": "2026-11-24T14:01:54.256723+00:00",
+    "07cb4ba5b29066db": "2026-11-24T14:01:54.256723+00:00",
+    "23df4564707f9049": "2026-11-24T14:01:54.256723+00:00",
+    "504e5b75b5832773": "2026-11-24T14:01:54.256723+00:00",
+    "89096add3a3c4a4c": "2026-11-24T14:01:54.256723+00:00",
+    "a966839d1eb4c31f": "2026-11-24T14:01:54.256723+00:00",
+    "2ea0b157c0f20004": "2026-11-24T14:01:54.256723+00:00",
+    "ade6098b9b91e96e": "2026-11-24T14:01:54.256723+00:00",
+    "08ae727c8f882c97": "2026-11-24T14:01:54.256723+00:00",
+    "7c5109ef3385b4d4": "2026-11-24T14:01:54.256723+00:00",
+    "6b3a7bb8d0563192": "2026-11-24T14:01:54.256723+00:00",
+    "1cf7d04fed439742": "2026-11-24T14:01:54.256723+00:00",
+    "76d86c7e861fec5d": "2026-11-24T14:01:54.256723+00:00"
   },
   "published_stories": [
     {
@@ -4223,31 +4239,18 @@
         "Oxu.az",
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-24T14:01:55.711122+00:00",
+      "headline_az": "FTB-də rəhbərlik dəyişir: Kristofer Rey vəzifəsindən ayrılır",
+      "summary_az": "ABŞ-nin Federal Təhqiqatlar Bürosunun (FTB) direktoru Kristofer Rey tutduğu vəzifəni tərk edir. Bu istefa ABŞ-nin təhlükəsizlik strukturlarında gözlənilən ciddi kadr dəyişikliklərinin bir hissəsi kimi qiymətləndirilir.",
+      "topic_key": "fbi-director-resignation",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "FTB-də rəhbərlik dəyişir: Kristofer Rey vəzifəsindən ayrılır",
-      "summary_az": "ABŞ-nin Federal Təhqiqatlar Bürosunun (FTB) direktoru Kristofer Rey tutduğu vəzifəni tərk edir. Bu istefa ABŞ-nin təhlükəsizlik strukturlarında gözlənilən ciddi kadr dəyişikliklərinin bir hissəsi kimi qiymətləndirilir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "fbi-director-resignation",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/ftb-de-rehber-deyisikliyi-kristofer-rey-postunu-terk-edir"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/24/ISdVnWG4K33bFnNyp6gyHTeEGppvzhMm4Sob9MYY:640.jpg",
-      "queued_at": "2026-11-24T10:00:55.917939+00:00"
-    },
     {
       "headline_az": "İranın Sistan və Bəlucistan bölgəsində partlayış",
       "summary_az": "İranın Sistan və Bəlucistan əyalətində yerləşən hərbi hissənin yaxınlığında güclü partlayış baş verib. Hadisənin səbəbləri və mümkün tələfat barədə rəsmi araşdırmalar davam edir.",
