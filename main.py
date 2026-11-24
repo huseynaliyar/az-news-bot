@@ -28,7 +28,6 @@ def _env_bool(name: str, default: bool = False) -> bool:
 def run() -> int:
     load_dotenv()
 
-    # Bakı vaxtı ilə 00:00–08:00 arası tam gecə fasiləsi (sıfır bildiriş)
     pause_at_night = _env_bool("PAUSE_AT_NIGHT", default=True)
     if pause_at_night and is_baku_night(0, 8):
         logger.info("Gecə rejimi (00:00–08:00 Bakı): paylaşım dayandırılıb. Çıxılır.")
@@ -95,6 +94,8 @@ def run() -> int:
 
             memory.enqueue_stories([s.to_dict() for s in curated])
             memory.mark_urls_seen([item.url for item in unseen_items])
+            # Telegram-dan əvvəl dərhal yadda saxla ki, şəbəkə xətası olsa belə təkrarlanmasın
+            memory.save(queue_max_age_hours=queue_max_age_hours)
             logger.info(
                 "AI %d mühüm xəbəri (>=%d bal) növbəyə əlavə etdi. Ümumi növbə: %d",
                 len(curated),
@@ -117,22 +118,32 @@ def run() -> int:
         return 0
 
     to_publish = [CuratedStory.from_dict(d) for d in to_publish_dicts]
-    sent = publish_stories(
-        stories=to_publish,
-        bot_token=bot_token,
-        chat_id=chat_id,
-        dry_run=dry_run,
-        urgent_threshold=urgent_threshold,
-        silent_night=silent_night,
-    )
-
+    sent = 0
     for story in to_publish:
-        memory.record_published_story(
-            headline_az=story.headline_az,
-            summary_az=story.summary_az,
-            topic_key=story.topic_key,
-            sources=[s["name"] for s in story.sources],
-        )
+        try:
+            sent += publish_stories(
+                stories=[story],
+                bot_token=bot_token,
+                chat_id=chat_id,
+                dry_run=dry_run,
+                urgent_threshold=urgent_threshold,
+                silent_night=silent_night,
+            )
+            memory.record_published_story(
+                headline_az=story.headline_az,
+                summary_az=story.summary_az,
+                topic_key=story.topic_key,
+                sources=[s["name"] for s in story.sources],
+            )
+        except Exception as exc:
+            logger.warning("Telegram paylaşım xətası (təkrarın qarşısı alındı): %s", exc)
+            # Xəta timeout ola bilər deyə eyni xəbəri bir daha növbəyə qaytarmırıq
+            memory.record_published_story(
+                headline_az=story.headline_az,
+                summary_az=story.summary_az,
+                topic_key=story.topic_key,
+                sources=[s["name"] for s in story.sources],
+            )
 
     memory.save(queue_max_age_hours=queue_max_age_hours)
     logger.info(
