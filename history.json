@@ -1216,7 +1216,12 @@
     "ca4f4523fdcd83d5": "2026-11-24T03:00:41.621217+00:00",
     "33082d5286f8dc43": "2026-11-24T03:15:32.334957+00:00",
     "887ff98f2113ff68": "2026-11-24T03:15:32.334957+00:00",
-    "f43c331c9208ea9c": "2026-11-24T03:15:32.334957+00:00"
+    "f43c331c9208ea9c": "2026-11-24T03:15:32.334957+00:00",
+    "0cd8412a4d7ea2c7": "2026-11-24T03:30:32.152000+00:00",
+    "bd06fc8d71ec9493": "2026-11-24T03:30:32.152000+00:00",
+    "9e991d6fcb5611b1": "2026-11-24T03:30:32.152000+00:00",
+    "9b14afd7ed63b9fe": "2026-11-24T03:30:32.152000+00:00",
+    "12dec7562149ae1b": "2026-11-24T03:30:32.152000+00:00"
   },
   "published_stories": [
     {
@@ -3237,31 +3242,18 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-24T03:30:32.667720+00:00",
+      "headline_az": "Himalayda müqəddəs göl təhlükədə: Ekskavator görüntüləri qəzəb doğurdu",
+      "summary_az": "Hindistanın nəzarətində olan Kəşmirdəki müqəddəs Şeşnaq gölünün yaxınlığında ekskavatorun çəkilmiş görüntüləri yerli əhali və ekoloqlar tərəfindən sərt etirazla qarşılanıb. Bu addım bölgənin unikal təbiətinə və dini irsinə ciddi təhlükə kimi qiymətləndirilir.",
+      "topic_key": "himalayas-sacred-lake-excavator",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Himalayda müqəddəs göl təhlükədə: Ekskavator görüntüləri qəzəb doğurdu",
-      "summary_az": "Hindistanın nəzarətində olan Kəşmirdəki müqəddəs Şeşnaq gölünün yaxınlığında ekskavatorun çəkilmiş görüntüləri yerli əhali və ekoloqlar tərəfindən sərt etirazla qarşılanıb. Bu addım bölgənin unikal təbiətinə və dini irsinə ciddi təhlükə kimi qiymətləndirilir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "himalayas-sacred-lake-excavator",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss"
-        }
-      ],
-      "importance": 7,
-      "image_url": "",
-      "queued_at": "2026-11-24T03:15:32.306514+00:00"
-    },
     {
       "headline_az": "Kral Çarlz və Elton Con Avstraliya musiqi əfsanəsini anıblar",
       "summary_az": "Kral III Çarlz və məşhur musiqiçi Elton Con onilliklər ərzində Avstraliyanın musiqi zövqünü formalaşdıran tanınmış prodüser Molli Meldrumun xatirəsini ehtiramla yad ediblər. Onlar mərhum sənətçinin ölkənin mədəniyyət tarixinə verdiyi əvəzsiz töhfələri vurğulayıblar.",
