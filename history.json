@@ -1546,7 +1546,31 @@
     "f2222483ba7c5679": "2026-11-24T09:15:37.756892+00:00",
     "447f058a13c26c78": "2026-11-24T09:15:37.756892+00:00",
     "d61a3d87e0285421": "2026-11-24T09:15:37.756892+00:00",
-    "d639e6e87fb4b148": "2026-11-24T09:15:37.756892+00:00"
+    "d639e6e87fb4b148": "2026-11-24T09:15:37.756892+00:00",
+    "859e8c00a43bacb0": "2026-11-24T09:30:40.220276+00:00",
+    "f98d296a04e7b044": "2026-11-24T09:30:40.220276+00:00",
+    "a88d5684ac2573be": "2026-11-24T09:30:40.220276+00:00",
+    "0d2737ed6b758dec": "2026-11-24T09:30:40.220276+00:00",
+    "7af4ed9b2f2d31be": "2026-11-24T09:30:40.220276+00:00",
+    "4460b299e66b70e5": "2026-11-24T09:30:40.220276+00:00",
+    "1f5f4f2ad3d3dc2a": "2026-11-24T09:30:40.220276+00:00",
+    "40087d49bf3b64cb": "2026-11-24T09:30:40.220276+00:00",
+    "38e87ff4214c2bd6": "2026-11-24T09:30:40.220276+00:00",
+    "9e5d9a421486cd61": "2026-11-24T09:30:40.220276+00:00",
+    "89c9ebe4cb040245": "2026-11-24T09:30:40.220276+00:00",
+    "23b773b9e451fdb6": "2026-11-24T09:30:40.220276+00:00",
+    "b5cdf92f4b3acd17": "2026-11-24T09:30:40.220276+00:00",
+    "925bb537c433a7a2": "2026-11-24T09:30:40.220276+00:00",
+    "eec1768beef8ca7c": "2026-11-24T09:30:40.220276+00:00",
+    "3834c3d3901e1348": "2026-11-24T09:30:40.220276+00:00",
+    "55a3a6588f293ab5": "2026-11-24T09:30:40.220276+00:00",
+    "615ef6487caacdb6": "2026-11-24T09:30:40.220276+00:00",
+    "5681ec6cb4da5ca4": "2026-11-24T09:30:40.220276+00:00",
+    "0e43c1200977671e": "2026-11-24T09:30:40.220276+00:00",
+    "a94e683fb27f65dd": "2026-11-24T09:30:40.220276+00:00",
+    "274b95a97cb7c469": "2026-11-24T09:30:40.220276+00:00",
+    "a4ac370dc415a9e0": "2026-11-24T09:30:40.220276+00:00",
+    "714044d31b1de2b2": "2026-11-24T09:30:40.220276+00:00"
   },
   "published_stories": [
     {
@@ -3774,31 +3798,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T09:30:40.906743+00:00",
+      "headline_az": "Türkiyədən enerji sahəsində nəhəng addım: Sakarya qaz yatağı açılır",
+      "summary_az": "Türkiyənin Enerji və Təbii Sərvətlər Nazirliyi Sakarya Qaz Sahəsində ikinci faz işlərinin 2026-cı ilin sonuna qədər tam yekunlaşaraq istismara veriləcəyini açıqlayıb. Bu layihə ölkənin təbii qaz təminatında mühüm dönüş nöqtəsi olacaq.",
+      "topic_key": "turkey-sakarya-gas-field-phase-two",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Türkiyədən enerji sahəsində nəhəng addım: Sakarya qaz yatağı açılır",
-      "summary_az": "Türkiyənin Enerji və Təbii Sərvətlər Nazirliyi Sakarya Qaz Sahəsində ikinci faz işlərinin 2026-cı ilin sonuna qədər tam yekunlaşaraq istismara veriləcəyini açıqlayıb. Bu layihə ölkənin təbii qaz təminatında mühüm dönüş nöqtəsi olacaq.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-sakarya-gas-field-phase-two",
-      "source_indices": [
-        10
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/ekonomi/bakan-bayraktar-duyurdu-sakarya-gaz-sahasinda-ikinci-faz-yil-sonuna-kadar-devreye-alinacak-3497381"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-24T09:00:52.207196+00:00"
-    },
     {
       "headline_az": "Kuşner Ukrayna böhranı ilə bağlı əsas məqsədi açıqladı",
       "summary_az": "ABŞ prezidenti Donald Trampın xüsusi elçisi Cared Kuşner bildirib ki, Ukrayna ətrafında aparılan danışıqlarda əsas hədəf sadəcə atəşkəs deyil, Rusiya və Avropa arasındakı əlaqələrin bərpasıdır.",
