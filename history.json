@@ -1357,7 +1357,28 @@
     "831bf05edf757a22": "2026-11-24T07:00:44.385468+00:00",
     "dc2f52f7e15e4453": "2026-11-24T07:00:44.385468+00:00",
     "ef0831699a90d2db": "2026-11-24T07:00:44.385468+00:00",
-    "a938de032c8960a3": "2026-11-24T07:00:44.385468+00:00"
+    "a938de032c8960a3": "2026-11-24T07:00:44.385468+00:00",
+    "e6af1f6a807956a5": "2026-11-24T07:15:37.064511+00:00",
+    "da0fd770a1ea9739": "2026-11-24T07:15:37.064511+00:00",
+    "e0f11609bfd74c20": "2026-11-24T07:15:37.064511+00:00",
+    "98b168dd03228198": "2026-11-24T07:15:37.064511+00:00",
+    "047ad27970017996": "2026-11-24T07:15:37.064511+00:00",
+    "11b45173b55030fa": "2026-11-24T07:15:37.064511+00:00",
+    "d56ed8c086fcd598": "2026-11-24T07:15:37.064511+00:00",
+    "823d4a7480588c65": "2026-11-24T07:15:37.064511+00:00",
+    "22be1cafb651c467": "2026-11-24T07:15:37.064511+00:00",
+    "71e78f6eee201821": "2026-11-24T07:15:37.064511+00:00",
+    "e544c915ecfe37a2": "2026-11-24T07:15:37.064511+00:00",
+    "36a700bf0cc9a26a": "2026-11-24T07:15:37.064511+00:00",
+    "14891f249e899da7": "2026-11-24T07:15:37.064511+00:00",
+    "c2ec1c5f30e9b1ff": "2026-11-24T07:15:37.064511+00:00",
+    "c9c08dbd3ddd5bdd": "2026-11-24T07:15:37.064511+00:00",
+    "4ccc2c634f6dc765": "2026-11-24T07:15:37.064511+00:00",
+    "f42d72f1facf2a3b": "2026-11-24T07:15:37.064511+00:00",
+    "fd6c71269ca60802": "2026-11-24T07:15:37.064511+00:00",
+    "6124d2a0a12232d4": "2026-11-24T07:15:37.064511+00:00",
+    "7692020fbf69daab": "2026-11-24T07:15:37.064511+00:00",
+    "311bad62f7f91721": "2026-11-24T07:15:37.064511+00:00"
   },
   "published_stories": [
     {
@@ -3504,7 +3525,39 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T07:15:38.260065+00:00",
+      "headline_az": "Azərbaycanda Xəzər dənizinin suyu şirinləşdiriləcək: Asiya İnkişaf Bankından nəhəng maliyyələşmə",
+      "summary_az": "Asiya İnkişaf Bankı (ADB) Azərbaycanda miqyaslı dəniz suyu şirinləşdirmə zavodunun tikintisi üçün 140 milyon dollar kredit təsdiqləyib. Layihə ölkənin su təchizatı infrastrukturunun gücləndirilməsinə mühüm töhfə verəcək.",
+      "topic_key": "azerbaijan-caspian-desalination-plant-adb",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Avstraliyadan texnologiya nəhənglərinə sərt xəbərdarlıq: Milyardlarla dollar cərimə gözlənilir",
+      "summary_az": "Avstraliyada müzakirə olunan yeni internet təhlükəsizliyi qanun layihəsi qlobal texnologiya şirkətlərini ciddi cərimələrlə üz-üzə qoyur. Qaydaları pozan platformalar qlobal gəlirlərinin 5 faizinədək cərimə ödəyə bilərlər.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "australia-tech-giants-safety-fines",
+      "source_indices": [
+        19
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-24T07:15:37.037627+00:00"
+    }
+  ]
 }
