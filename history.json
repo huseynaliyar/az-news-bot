@@ -1962,7 +1962,28 @@
     "5884891ba24a2b01": "2026-11-24T16:01:09.174726+00:00",
     "b5d884864d88a8c7": "2026-11-24T16:01:09.174726+00:00",
     "fb03990146cbcac3": "2026-11-24T16:01:09.174726+00:00",
-    "a4cb5a65f0d9bf1e": "2026-11-24T16:01:09.174726+00:00"
+    "a4cb5a65f0d9bf1e": "2026-11-24T16:01:09.174726+00:00",
+    "bf269d5dce61b00c": "2026-11-24T16:16:30.854203+00:00",
+    "3b1196b7b27ecd36": "2026-11-24T16:16:30.854203+00:00",
+    "4bf9aeb81cba6837": "2026-11-24T16:16:30.854203+00:00",
+    "7d88153acbf2b85e": "2026-11-24T16:16:30.854203+00:00",
+    "a6a4a01f2e111345": "2026-11-24T16:16:30.854203+00:00",
+    "e7eea3622b215cc5": "2026-11-24T16:16:30.854203+00:00",
+    "63f7b7a4075d000b": "2026-11-24T16:16:30.854203+00:00",
+    "7440f853109febe8": "2026-11-24T16:16:30.854203+00:00",
+    "ef8828fd79e6317e": "2026-11-24T16:16:30.854203+00:00",
+    "7139cb8c883448d7": "2026-11-24T16:16:30.854203+00:00",
+    "95bb3dad663af744": "2026-11-24T16:16:30.854203+00:00",
+    "8c51afdf980ff14b": "2026-11-24T16:16:30.854203+00:00",
+    "6d8f46cf6711a55a": "2026-11-24T16:16:30.854203+00:00",
+    "80c527d7962b14d0": "2026-11-24T16:16:30.854203+00:00",
+    "cba0aa98d1c00a83": "2026-11-24T16:16:30.854203+00:00",
+    "395030ec25cc6825": "2026-11-24T16:16:30.854203+00:00",
+    "0d4dbfed2ba868d7": "2026-11-24T16:16:30.854203+00:00",
+    "a9a1f591c3b5ca40": "2026-11-24T16:16:30.854203+00:00",
+    "1bfb90103b3c1d8e": "2026-11-24T16:16:30.854203+00:00",
+    "b074a20fa7f219cb": "2026-11-24T16:16:30.854203+00:00",
+    "146da1909e7abbdc": "2026-11-24T16:16:30.854203+00:00"
   },
   "published_stories": [
     {
@@ -4435,30 +4456,16 @@
       "sources": [
         "TechCrunch"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-24T16:16:31.461193+00:00",
       "headline_az": "Bakı-Supsa kəməri yenidən canlana bilər",
       "summary_az": "Energetika naziri Bakı-Supsa neft kəmərinin gələcəkdə yenidən istifadəyə verilə biləcəyini açıqlayıb. Bu addım regionun enerji logistikası üçün yeni imkanlar vəd edir.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "baku-supsa-pipeline-revival",
-      "source_indices": [
-        0
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/nazir-baki-supsa-layihesi-gelecekde-yeniden-istifadeye-verile-biler"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/24/e0YGyHGL43juP0w2GydFSlEeSBIVj7hABQLx4KLB:640.jpg",
-      "queued_at": "2026-11-24T15:46:15.048728+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
