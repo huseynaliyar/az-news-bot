@@ -249,30 +249,38 @@ def generate_market_comment(summary_context: str) -> str:
                 logger.warning("Gemini bazar şərhi xətası (%s): %s", model, exc)
 
     if groq_key:
-        try:
-            resp = requests.post(
-                "https://api.groq.com/openai/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {groq_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"),
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.3,
-                },
-                timeout=30,
-            )
-            resp.raise_for_status()
-            return resp.json()["choices"][0]["message"]["content"].strip()
-        except Exception as exc:
-            logger.warning("Groq bazar şərhi xətası: %s", exc)
+        for model in ["openai/gpt-oss-120b", "qwen/qwen3.8-27b", "openai/gpt-oss-20b"]:
+            try:
+                resp = requests.post(
+                    "https://api.groq.com/openai/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {groq_key}",
+                        "Content-Type": "application/json",
+                    },
+                    json={
+                        "model": os.getenv("GROQ_MODEL", model),
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.3,
+                    },
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                text = resp.json()["choices"][0]["message"]["content"].strip()
+                if text:
+                    return text
+            except Exception as exc:
+                logger.warning("Groq bazar şərhi xətası (%s): %s", model, exc)
 
     return ""
 
 
 def pin_telegram_message(bot_token: str, chat_id: str, message_id: int) -> None:
     try:
+        requests.post(
+            f"https://api.telegram.org/bot{bot_token}/unpinAllChatMessages",
+            json={"chat_id": chat_id},
+            timeout=15,
+        )
         url = f"https://api.telegram.org/bot{bot_token}/pinChatMessage"
         resp = requests.post(
             url,
@@ -284,7 +292,7 @@ def pin_telegram_message(bot_token: str, chat_id: str, message_id: int) -> None:
             timeout=15,
         )
         resp.raise_for_status()
-        logger.info("Maliyyə postu kanalda Pin edildi (message_id=%s).", message_id)
+        logger.info("Köhnə pinlər təmizləndi və yeni maliyyə postu Pin edildi (message_id=%s).", message_id)
     except Exception as exc:
         logger.warning("Pin edilmədi (botun Pin Messages icazəsini yoxlayın): %s", exc)
 
