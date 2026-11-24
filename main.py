@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from src.ai_processor import CuratedStory, curate_news
 from src.memory import NewsMemory
 from src.rss_reader import fetch_all_feeds, load_feeds_config
-from src.telegram_poster import publish_stories
+from src.telegram_poster import is_baku_night, publish_stories
 
 logging.basicConfig(
     level=logging.INFO,
@@ -28,6 +28,12 @@ def _env_bool(name: str, default: bool = False) -> bool:
 def run() -> int:
     load_dotenv()
 
+    # Bakı vaxtı ilə 00:00–08:00 arası tam gecə fasiləsi (sıfır bildiriş)
+    pause_at_night = _env_bool("PAUSE_AT_NIGHT", default=True)
+    if pause_at_night and is_baku_night(0, 8):
+        logger.info("Gecə rejimi (00:00–08:00 Bakı): paylaşım dayandırılıb. Çıxılır.")
+        return 0
+
     base_dir = Path(__file__).resolve().parent.parent
     feeds_path = Path(os.getenv("FEEDS_PATH", base_dir / "feeds.json"))
     history_path = Path(os.getenv("HISTORY_PATH", base_dir / "data" / "history.json"))
@@ -36,7 +42,7 @@ def run() -> int:
     max_news_age_hours = int(os.getenv("MAX_NEWS_AGE_HOURS", "12"))
     max_curate_per_run = int(os.getenv("MAX_CURATE_PER_RUN", "5"))
     posts_per_run = int(os.getenv("MAX_POSTS_PER_RUN", "1"))
-    min_importance = int(os.getenv("MIN_IMPORTANCE", "7"))
+    min_importance = int(os.getenv("MIN_IMPORTANCE", "8"))
     urgent_threshold = int(os.getenv("URGENT_THRESHOLD", "9"))
     queue_max_age_hours = int(os.getenv("QUEUE_MAX_AGE_HOURS", "8"))
     memory_days = int(os.getenv("MEMORY_DAYS", "7"))
