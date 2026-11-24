@@ -1276,7 +1276,17 @@
     "8429f815c2082584": "2026-11-24T05:45:33.763907+00:00",
     "e74919d4007c0bfe": "2026-11-24T05:45:33.763907+00:00",
     "f20ba2d71e7bc432": "2026-11-24T05:45:33.763907+00:00",
-    "177a40e190861cf5": "2026-11-24T05:45:33.763907+00:00"
+    "177a40e190861cf5": "2026-11-24T05:45:33.763907+00:00",
+    "f87db2e4855f4ae8": "2026-11-24T06:00:58.025117+00:00",
+    "fbde98a5adcb3e2b": "2026-11-24T06:00:58.025117+00:00",
+    "50fac07d26ad15d8": "2026-11-24T06:00:58.025117+00:00",
+    "1aee92e427a95c53": "2026-11-24T06:00:58.025117+00:00",
+    "07ec418def191c84": "2026-11-24T06:00:58.025117+00:00",
+    "52a42ee72a5e503d": "2026-11-24T06:00:58.025117+00:00",
+    "fe9d3927dc9eb49d": "2026-11-24T06:00:58.025117+00:00",
+    "5d7ed82bc8c9a118": "2026-11-24T06:00:58.025117+00:00",
+    "1cd8087f0a18ce9d": "2026-11-24T06:00:58.025117+00:00",
+    "4acc4486706bb165": "2026-11-24T06:00:58.025117+00:00"
   },
   "published_stories": [
     {
@@ -3387,9 +3397,62 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-24T06:00:59.445648+00:00",
+      "headline_az": "Tramp federal səviyyədə ölüm hökmünü bərpa etdi",
+      "summary_az": "ABŞ prezidenti Donald Tramp federal məhkəmələr tərəfindən çıxarılan edam qərarlarının icrasını sürətləndirmək üçün yeni göstərişlər verib. Bununla yanaşı, o, federal səviyyədə tətbiq olunan moratoriumu ləğv edərək ölüm hökmünü rəsmən bərpa edib.",
+      "topic_key": "trump-death-penalty-reinstated",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Pakistan ilk dəfə kosmosa astronavt göndərir",
+      "summary_az": "Pakistan Çinin \"Shenzhou-24\" kosmik missiyasında iştirak edərək tarixdə ilk dəfə kosmosa öz astronavtını göndərməyə hazırlaşır. Bu addım ölkənin kosmik tədqiqatlar proqramında tarixi bir mərhələ hesab olunur.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "pakistan-first-astronaut-china-mission",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/267973.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/24/b2ac2189-c775-4b06-bb3a-e9f57ba21725.jpg",
+      "queued_at": "2026-11-24T06:00:58.001340+00:00"
+    },
+    {
+      "headline_az": "Azərbaycanda nağdsız ödənişlər üçün yeni dövr başlayır",
+      "summary_az": "Azərbaycan Mərkəzi Bankı 2027-2030-cu illəri əhatə edəcək maliyyə sektorunun rəqəmsal transformasiyası üzrə yeni dövlət proqramı hazırlayır. Layihə ölkədə nağdsız ödənişlərin əhatə dairəsini daha da genişləndirməyi hədəfləyir.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "az-digital-finance-program",
+      "source_indices": [
+        1
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/iqtisadiyyat/nagdsiz-odenislerle-bagli-yeni-dovlet-proqrami-hazirlanir"
+        }
+      ],
+      "importance": 7,
+      "image_url": "https://images.oxu.az/2026/10/23/FJiR4yM7AXKh7QT1Ye3UK3K8BxdmDJj5MIHczIiv:640.jpg",
+      "queued_at": "2026-11-24T06:00:58.001340+00:00"
+    },
     {
       "headline_az": "Bakıda X Beynəlxalq Bankçılıq Forumu start götürüb",
       "summary_az": "Paytaxtda maliyyə və bank sektorunun əsas simalarını bir araya gətirən X Beynəlxalq Bankçılıq Forumu işə başlayıb. Tədbirdə rəqəmsal transformasiya və maliyyə texnologiyalarındakı son yeniliklər müzakirə olunur.",
