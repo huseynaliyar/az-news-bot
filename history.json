@@ -1267,7 +1267,16 @@
     "de656c72be743746": "2026-11-24T05:30:32.783760+00:00",
     "6e026b801f769847": "2026-11-24T05:30:32.783760+00:00",
     "54c132b2e5372e0a": "2026-11-24T05:30:32.783760+00:00",
-    "add1323061b4fc33": "2026-11-24T05:30:32.783760+00:00"
+    "add1323061b4fc33": "2026-11-24T05:30:32.783760+00:00",
+    "99f724428a828604": "2026-11-24T05:45:33.763907+00:00",
+    "bd2c46bb3754779b": "2026-11-24T05:45:33.763907+00:00",
+    "934b6f3ecda7530b": "2026-11-24T05:45:33.763907+00:00",
+    "5903b36819dd40e2": "2026-11-24T05:45:33.763907+00:00",
+    "08cf29cedbf29879": "2026-11-24T05:45:33.763907+00:00",
+    "8429f815c2082584": "2026-11-24T05:45:33.763907+00:00",
+    "e74919d4007c0bfe": "2026-11-24T05:45:33.763907+00:00",
+    "f20ba2d71e7bc432": "2026-11-24T05:45:33.763907+00:00",
+    "177a40e190861cf5": "2026-11-24T05:45:33.763907+00:00"
   },
   "published_stories": [
     {
@@ -3368,6 +3377,15 @@
       "topic_key": "south-korea-russia-jets-kadiz",
       "sources": [
         "Google News AZ"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T05:45:34.695212+00:00",
+      "headline_az": "Bakıda ilk dəfə quraşdırılacaq avtobus işıqforlarının qaydaları açıqlandı",
+      "summary_az": "Paytaxtda ictimai nəqliyyatın hərəkətini optimallaşdırmaq üçün ilk dəfə tətbiq olunacaq xüsusi avtobus işıqforlarının işləmə qaydaları məlum olub. Yenilik şəhər daxilində avtobusların hərəkət sürətini və təhlükəsizliyini artırmağa xidmət edəcək.",
+      "topic_key": "baku-bus-traffic-lights",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
