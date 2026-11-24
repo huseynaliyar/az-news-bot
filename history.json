@@ -1472,7 +1472,28 @@
     "8e5afd08b4343827": "2026-11-24T08:15:34.106404+00:00",
     "c6465c1992fd416c": "2026-11-24T08:15:34.106404+00:00",
     "9247cd4b14dcf153": "2026-11-24T08:15:34.106404+00:00",
-    "cdea49bfcce48343": "2026-11-24T08:15:34.106404+00:00"
+    "cdea49bfcce48343": "2026-11-24T08:15:34.106404+00:00",
+    "a9fd0778fb4e9650": "2026-11-24T08:30:47.172128+00:00",
+    "22fac7aa1d4e3edf": "2026-11-24T08:30:47.172128+00:00",
+    "5d064fe343ed75b3": "2026-11-24T08:30:47.172128+00:00",
+    "1575447f358733bb": "2026-11-24T08:30:47.172128+00:00",
+    "a1efd20a09f13161": "2026-11-24T08:30:47.172128+00:00",
+    "699e08ae30d783d5": "2026-11-24T08:30:47.172128+00:00",
+    "22e21319170204ef": "2026-11-24T08:30:47.172128+00:00",
+    "cccba439899b6979": "2026-11-24T08:30:47.172128+00:00",
+    "108a1752c767343c": "2026-11-24T08:30:47.172128+00:00",
+    "2fdff1d6914853b3": "2026-11-24T08:30:47.172128+00:00",
+    "099911ed28d17a82": "2026-11-24T08:30:47.172128+00:00",
+    "ed062b2d600fa73f": "2026-11-24T08:30:47.172128+00:00",
+    "fb54ac8d81a1c985": "2026-11-24T08:30:47.172128+00:00",
+    "3ff665eff9fc7281": "2026-11-24T08:30:47.172128+00:00",
+    "00cd5405a04e05a5": "2026-11-24T08:30:47.172128+00:00",
+    "cd1a9e24e217e86a": "2026-11-24T08:30:47.172128+00:00",
+    "0f3ebb393396e83e": "2026-11-24T08:30:47.172128+00:00",
+    "89f077eb5083bc5f": "2026-11-24T08:30:47.172128+00:00",
+    "c6654820b14e255e": "2026-11-24T08:30:47.172128+00:00",
+    "b03fee7b5c2c1429": "2026-11-24T08:30:47.172128+00:00",
+    "ca48beaadd5700ea": "2026-11-24T08:30:47.172128+00:00"
   },
   "published_stories": [
     {
@@ -3664,9 +3685,40 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-24T08:30:47.712568+00:00",
+      "headline_az": "Papa Fransiskin gizli gündəliyi dərc olundu: Ruhani böhran və sirli hadisələr",
+      "summary_az": "Roma Papası Fransiskin şəxsi gündəliyindəki qeydlər üzə çıxıb. Sənədlərdə onun illər əvvəl yaşadığı dərin mənəvi böhran və qarşılaşdığı qeyri-adi sınaqlardan bəhs olunur.",
+      "topic_key": "pope-francis-private-diary-crisis",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Kuşner Ukrayna böhranı ilə bağlı əsas məqsədi açıqladı",
+      "summary_az": "ABŞ prezidenti Donald Trampın xüsusi elçisi Cared Kuşner bildirib ki, Ukrayna ətrafında aparılan danışıqlarda əsas hədəf sadəcə atəşkəs deyil, Rusiya və Avropa arasındakı əlaqələrin bərpasıdır.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "jared-kushner-ukraine-talks-goal",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/dunya/kusner-ukrayna-ile-bagli-danisiqlarin-esas-meqsedini-aciqladi"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/24/O7X3FFejn387ei9rPhMTWIVObZi1n5SHSMjtRmFp:640.jpg",
+      "queued_at": "2026-11-24T08:30:47.153177+00:00"
+    },
     {
       "headline_az": "Abşeron dəniz blokunun kəşfiyyatı ilə bağlı mühüm saziş təsdiqləndi",
       "summary_az": "Milli Məclis Xəzər dənizinin Azərbaycan sektorundakı Abşeron dəniz blokunun kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Sazişin həyata keçirilməsinə icazə verilməsi barədə qanun layihəsini təsdiq edib. Bu addım ölkənin enerji sektorunda yeni investisiyaların yolunu açacaq.",
