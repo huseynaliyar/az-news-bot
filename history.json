@@ -1617,7 +1617,16 @@
     "473bcb2384f0e1eb": "2026-11-24T10:15:33.764453+00:00",
     "b5aa2f1f228e12a8": "2026-11-24T10:15:33.764453+00:00",
     "44841a3391a7e941": "2026-11-24T10:15:33.764453+00:00",
-    "7c89c123e44923d7": "2026-11-24T10:15:33.764453+00:00"
+    "7c89c123e44923d7": "2026-11-24T10:15:33.764453+00:00",
+    "bedbc43dbf9d9baf": "2026-11-24T10:31:13.176437+00:00",
+    "8dd0639947b84fb6": "2026-11-24T10:31:13.176437+00:00",
+    "7c6b632074a49b22": "2026-11-24T10:31:13.176437+00:00",
+    "cf86de1bf2fa65f0": "2026-11-24T10:31:13.176437+00:00",
+    "1e4fd9448901554b": "2026-11-24T10:31:13.176437+00:00",
+    "59d3b09e72877b96": "2026-11-24T10:31:13.176437+00:00",
+    "0e4ba9da005346a2": "2026-11-24T10:31:13.176437+00:00",
+    "aa4aa303d1fdad63": "2026-11-24T10:31:13.176437+00:00",
+    "4a14226e1eb5e482": "2026-11-24T10:31:13.176437+00:00"
   },
   "published_stories": [
     {
@@ -3880,6 +3889,15 @@
       "topic_key": "erdogan-azerbaijani-flags-karabakh",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T10:31:14.279759+00:00",
+      "headline_az": "İlon Mask imperiyasını birləşdirir: 3.5 trilyon dollarlıq meqaholdinq yolda",
+      "summary_az": "Məşhur sahibkar İlon Maskın rəhbərlik etdiyi \"Tesla\" və \"SpaceX\" şirkətləri nəhəng addıma hazırlaşır. İlin sonunadək bu iki qurumun 3.5 trilyon dollar dəyərində vahid meqaholdinqdə birləşməsi üçün müzakirələr aparılır.",
+      "topic_key": "tesla-spacex-megaholdings-merger",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
