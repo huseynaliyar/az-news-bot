@@ -2127,7 +2127,17 @@
     "c7771099b7d355bb": "2026-11-24T19:21:47.582373+00:00",
     "9d8b38fffb839f49": "2026-11-24T19:21:47.582373+00:00",
     "e5308ea7be908965": "2026-11-24T19:21:47.582373+00:00",
-    "b004be4f0b7ef37e": "2026-11-24T19:21:47.582373+00:00"
+    "b004be4f0b7ef37e": "2026-11-24T19:21:47.582373+00:00",
+    "ffdb5c6f56e984d3": "2026-11-24T19:30:55.968306+00:00",
+    "9eec6bfd723d4338": "2026-11-24T19:30:55.968306+00:00",
+    "77a53839612c960e": "2026-11-24T19:30:55.968306+00:00",
+    "1df1183b66d495b2": "2026-11-24T19:30:55.968306+00:00",
+    "9972c4d166c73936": "2026-11-24T19:30:55.968306+00:00",
+    "bc80c165aecfe344": "2026-11-24T19:30:55.968306+00:00",
+    "f4819552e67df465": "2026-11-24T19:30:55.968306+00:00",
+    "07264464c74a63b7": "2026-11-24T19:30:55.968306+00:00",
+    "952ec5e40bfdf3b4": "2026-11-24T19:30:55.968306+00:00",
+    "20c8cc15a909d43d": "2026-11-24T19:30:55.968306+00:00"
   },
   "published_stories": [
     {
@@ -4655,6 +4665,15 @@
       "topic_key": "eskisehir-helicopter-crash",
       "sources": [
         "Google News TR"
+      ]
+    },
+    {
+      "published_at": "2026-11-24T19:31:00.859216+00:00",
+      "headline_az": "İsraildə məscid basqınları gərginliyi artırır",
+      "summary_az": "İsrailli nazir Ben-Qvirin məscidlərdəki azan səsgücləndiricilərinin müsadirə edilməsi və məhdudlaşdırılması təşəbbüsü kəskin etirazla qarşılanıb. Ekspertlər bu addımın bölgədə 'dini müharibə' alovlandıra biləcəyi barədə xəbərdarlıq edir.",
+      "topic_key": "israel-mosque-raid-tension",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
