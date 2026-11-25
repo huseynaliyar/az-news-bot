@@ -2939,7 +2939,18 @@
     "c142a4c8b94fad6d": "2026-11-25T15:15:30.969482+00:00",
     "b73cc80ec7deb99c": "2026-11-25T15:15:30.969482+00:00",
     "e1808c773b8a955a": "2026-11-25T15:15:30.969482+00:00",
-    "d1b7db29c9a5af37": "2026-11-25T15:15:30.969482+00:00"
+    "d1b7db29c9a5af37": "2026-11-25T15:15:30.969482+00:00",
+    "a0123631561eca5d": "2026-11-25T15:31:01.837332+00:00",
+    "ce344512041cbb1b": "2026-11-25T15:31:01.837332+00:00",
+    "515a2887c8be35e3": "2026-11-25T15:31:01.837332+00:00",
+    "b6ebdd76516931ec": "2026-11-25T15:31:01.837332+00:00",
+    "ea3f72531bf36d92": "2026-11-25T15:31:01.837332+00:00",
+    "7bc7ddb5c6cc9a23": "2026-11-25T15:31:01.837332+00:00",
+    "a5ab0d33d97dc5d9": "2026-11-25T15:31:01.837332+00:00",
+    "0f12c5951e154d68": "2026-11-25T15:31:01.837332+00:00",
+    "40ef490b782c2fcb": "2026-11-25T15:31:01.837332+00:00",
+    "921b63e3cd68e728": "2026-11-25T15:31:01.837332+00:00",
+    "d581cd6b55d44f14": "2026-11-25T15:31:01.837332+00:00"
   },
   "published_stories": [
     {
@@ -5804,31 +5815,18 @@
       "sources": [
         "TechCrunch"
       ]
+    },
+    {
+      "published_at": "2026-11-25T15:31:03.315585+00:00",
+      "headline_az": "Azərbaycanda pensiyalar artır: 1 milyondan çox vətəndaşı əhatə edəcək",
+      "summary_az": "2027-ci ildə Azərbaycanda 1,1 milyon insanın pensiyasında artım gözlənilir. Rəsmi məlumatlara görə, bu addım sosial rifahın yaxşılaşdırılması istiqamətində atılan növbəti mühüm addımdır.",
+      "topic_key": "azerbaijan-pension-increase-2027",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Azərbaycanda pensiyalar artır: 1 milyondan çox vətəndaşı əhatə edəcək",
-      "summary_az": "2027-ci ildə Azərbaycanda 1,1 milyon insanın pensiyasında artım gözlənilir. Rəsmi məlumatlara görə, bu addım sosial rifahın yaxşılaşdırılması istiqamətində atılan növbəti mühüm addımdır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijan-pension-increase-2027",
-      "source_indices": [
-        0
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/iqtisadiyyat/azerbaycanda-1-milyondan-cox-insanin-pensiyasi-artacaq-resmi"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/10/09/mQYX03xGdcF2zUTNiQQY4HYiXt605ge7hK5a6z14:640.jpg",
-      "queued_at": "2026-11-25T13:16:17.653904+00:00"
-    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
