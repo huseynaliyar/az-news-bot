@@ -2922,7 +2922,14 @@
     "c88839da0292cf79": "2026-11-25T14:45:44.289681+00:00",
     "43c80331afabf477": "2026-11-25T14:45:44.289681+00:00",
     "e3d246ba5a361069": "2026-11-25T14:45:44.289681+00:00",
-    "6778f100f03254e2": "2026-11-25T14:45:44.289681+00:00"
+    "6778f100f03254e2": "2026-11-25T14:45:44.289681+00:00",
+    "a042dc0983ecc332": "2026-11-25T15:01:48.776711+00:00",
+    "41ee9c124ac9170a": "2026-11-25T15:01:48.776711+00:00",
+    "6c11bdf0cd173ea2": "2026-11-25T15:01:48.776711+00:00",
+    "d9d5cd963931e525": "2026-11-25T15:01:48.776711+00:00",
+    "739f6f12b083b1f2": "2026-11-25T15:01:48.776711+00:00",
+    "5d6d58571fb0b25a": "2026-11-25T15:01:48.776711+00:00",
+    "0c4f60e8a6166def": "2026-11-25T15:01:48.776711+00:00"
   },
   "published_stories": [
     {
@@ -5768,6 +5775,15 @@
       "topic_key": "elmira-shabanova-passing",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T15:01:49.548638+00:00",
+      "headline_az": "Ukraynada rus hərbi təyyarələri hava limanına hücum etdi",
+      "summary_az": "BBC-nin məlumatına görə, Ukraynada yerləşən Savasleyka hava limanına beş rus hərbi təyyarəsi vuruldu. Bu hücum rusun hipersonik raket və sürüşən bombaları atmaq üçün istifadə etdiyi bazaya yönəlib.",
+      "topic_key": "rus-jet-hucum-ukrayna",
+      "sources": [
+        "BBC World"
       ]
     }
   ],
