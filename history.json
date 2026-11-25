@@ -2333,7 +2333,16 @@
     "2f68e76fe15e12b7": "2026-11-25T06:15:43.757139+00:00",
     "a6150f8937d257be": "2026-11-25T06:15:43.757139+00:00",
     "1e1ad383e87c5fe1": "2026-11-25T06:15:43.757139+00:00",
-    "cdc9ce7aea80b9a8": "2026-11-25T06:15:43.757139+00:00"
+    "cdc9ce7aea80b9a8": "2026-11-25T06:15:43.757139+00:00",
+    "33d440fc7c4fa3e1": "2026-11-25T06:30:32.878971+00:00",
+    "f5bf5dd4e0eff89b": "2026-11-25T06:30:32.878971+00:00",
+    "ee73c618f13210d6": "2026-11-25T06:30:32.878971+00:00",
+    "a7224dedb20ec234": "2026-11-25T06:30:32.878971+00:00",
+    "cedef68c3a78cba0": "2026-11-25T06:30:32.878971+00:00",
+    "064eb8f8f2ce3dc7": "2026-11-25T06:30:32.878971+00:00",
+    "ad1198477ce3ee5c": "2026-11-25T06:30:32.878971+00:00",
+    "90159bc4e5881f67": "2026-11-25T06:30:32.878971+00:00",
+    "6cd45e2d2b78eb32": "2026-11-25T06:30:32.878971+00:00"
   },
   "published_stories": [
     {
@@ -4935,7 +4944,39 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-25T06:30:34.043777+00:00",
+      "headline_az": "ABŞ məhkəməsindən Huawei ilə bağlı şok qərar: Ticari sirr oğurluğu sübuta yetirildi",
+      "summary_az": "ABŞ Ədliyyə Nazirliyinin açıqlamasına əsasən, Çinin texnologiya nəhəngi Huawei New Yorkdakı federal məhkəmədə ticari sirr oğurlamaqda təqsirli bilinib. Bu qərar Vaşinqtonla Pekin arasında texnologiya yarışındakı gərginliyi daha da pik həddə çatdıracaq.",
+      "topic_key": "us-huawei-trade-secret-guilty",
+      "sources": [
+        "NTV Dünya"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Kosmik missiya: Dörd il əvvəl vurulan asteroidin aqibəti araşdırılır",
+      "summary_az": "Alimlər kosmik gəmi vasitəsilə qəsdən trayektoriyası dəyişdirilmiş asteroidin yerindəki vəziyyəti qiymətləndirmək üçün yenidən həmin bölgəyə qayıdıblar. Bu unikal missiya bəşəriyyətin gələcəkdə potensial asteroid təhlükələrindən qorunması üçün həyati əhəmiyyət daşıyır.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "asteroid-impact-assessment-mission",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
+      "queued_at": "2026-11-25T06:30:32.855180+00:00"
+    }
+  ]
 }
