@@ -2647,7 +2647,35 @@
     "2dc9c67df6c7e954": "2026-11-25T11:02:28.472244+00:00",
     "7935fc6f3031258d": "2026-11-25T11:02:28.472244+00:00",
     "0ec1581acf8e285b": "2026-11-25T11:02:28.472244+00:00",
-    "400dfb192ef3654f": "2026-11-25T11:02:28.472244+00:00"
+    "400dfb192ef3654f": "2026-11-25T11:02:28.472244+00:00",
+    "d71f55a3935abbb6": "2026-11-25T11:16:15.605073+00:00",
+    "51ebae06d6643bb5": "2026-11-25T11:16:15.605073+00:00",
+    "ccbdcb6fbee46b38": "2026-11-25T11:16:15.605073+00:00",
+    "a1b2fd92422956f6": "2026-11-25T11:16:15.605073+00:00",
+    "b36cefa6cedc65f1": "2026-11-25T11:16:15.605073+00:00",
+    "68db485d225d92b7": "2026-11-25T11:16:15.605073+00:00",
+    "6d1a4739784966f5": "2026-11-25T11:16:15.605073+00:00",
+    "21d23b131d2c1922": "2026-11-25T11:16:15.605073+00:00",
+    "32a6cc901ffc6d42": "2026-11-25T11:16:15.605073+00:00",
+    "1cb2ca4341265b02": "2026-11-25T11:16:15.605073+00:00",
+    "0f503e776a02ecb0": "2026-11-25T11:16:15.605073+00:00",
+    "7e5d8d5ec7e41f8f": "2026-11-25T11:16:15.605073+00:00",
+    "bee40a56a7eb165d": "2026-11-25T11:16:15.605073+00:00",
+    "24dfd4ec18617f9f": "2026-11-25T11:16:15.605073+00:00",
+    "db371019f2d6932f": "2026-11-25T11:16:15.605073+00:00",
+    "5bf27aab520b417a": "2026-11-25T11:16:15.605073+00:00",
+    "4553ceceeed932d4": "2026-11-25T11:16:15.605073+00:00",
+    "8f47504857506546": "2026-11-25T11:16:15.605073+00:00",
+    "4efa265d7426362b": "2026-11-25T11:16:15.605073+00:00",
+    "913c13e65c8da4c2": "2026-11-25T11:16:15.605073+00:00",
+    "ff2e94dc17a7e120": "2026-11-25T11:16:15.605073+00:00",
+    "b74e12e389d11a61": "2026-11-25T11:16:15.605073+00:00",
+    "a2bf285ae0eb5f93": "2026-11-25T11:16:15.605073+00:00",
+    "1813758cb7de35bf": "2026-11-25T11:16:15.605073+00:00",
+    "ee6f330c1f7d25f1": "2026-11-25T11:16:15.605073+00:00",
+    "6e234b292265db03": "2026-11-25T11:16:15.605073+00:00",
+    "7995a803ec79638d": "2026-11-25T11:16:15.605073+00:00",
+    "100da820af959802": "2026-11-25T11:16:15.605073+00:00"
   },
   "published_stories": [
     {
@@ -5357,9 +5385,40 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-25T11:16:16.034485+00:00",
+      "headline_az": "Fiziklər antimaddəni 'tələyə' saldı: Kainatın yaranışına dair yeni ipucu",
+      "summary_az": "Alimlər elektronun əksi olan pozitronu mütləq sıfıra yaxın temperaturda donduraraq divarsız tələdə saxlamağı bacarıblar. Bu uğurlu eksperiment kainatın niyə məhz maddədən ibarət olması sualına cavab tapmaq üçün böyük addımdır.",
+      "topic_key": "antimatter-breakthrough",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Microsoft-da 'Qırmızı Kod': Outlook çöküşü nəhəngi hərəkətə keçirdi",
+      "summary_az": "Bu ay baş verən və milyonlarla istifadəçini təsir edən genişmiqyaslı Outlook və Exchange Online kəsintisi Microsoft-u daxili 'Qırmızı Kod' elan etməyə məcbur edib. Şirkət sistemin etibarlılığını bərpa etmək üçün fövqəladə tədbirlər görür.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "microsoft-outlook-outage",
+      "source_indices": [
+        21
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-25T11:16:15.573930+00:00"
+    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
