@@ -2950,7 +2950,20 @@
     "0f12c5951e154d68": "2026-11-25T15:31:01.837332+00:00",
     "40ef490b782c2fcb": "2026-11-25T15:31:01.837332+00:00",
     "921b63e3cd68e728": "2026-11-25T15:31:01.837332+00:00",
-    "d581cd6b55d44f14": "2026-11-25T15:31:01.837332+00:00"
+    "d581cd6b55d44f14": "2026-11-25T15:31:01.837332+00:00",
+    "899ec698267f1edb": "2026-11-25T15:46:00.780855+00:00",
+    "37c78a662ff46746": "2026-11-25T15:46:00.780855+00:00",
+    "322fa32f5935f443": "2026-11-25T15:46:00.780855+00:00",
+    "4b2718ec0b10ca51": "2026-11-25T15:46:00.780855+00:00",
+    "eb71da70939e8ddf": "2026-11-25T15:46:00.780855+00:00",
+    "a09287b6bebadf2c": "2026-11-25T15:46:00.780855+00:00",
+    "b52828349307a5fa": "2026-11-25T15:46:00.780855+00:00",
+    "904225194ba67abc": "2026-11-25T15:46:00.780855+00:00",
+    "753f3acd7d0a8338": "2026-11-25T15:46:00.780855+00:00",
+    "127abd261d9846fa": "2026-11-25T15:46:00.780855+00:00",
+    "a27d9177c53567fe": "2026-11-25T15:46:00.780855+00:00",
+    "45ebf9edf28d2708": "2026-11-25T15:46:00.780855+00:00",
+    "4011c688157b159c": "2026-11-25T15:46:00.780855+00:00"
   },
   "published_stories": [
     {
@@ -5824,30 +5837,16 @@
       "sources": [
         "Oxu.az"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T15:46:02.310768+00:00",
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
-      "category": "Texnologiya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "biontech-founders-new-company-arife",
-      "source_indices": [
-        11
-      ],
       "sources": [
-        {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/ugur-sahin-ve-ozlem-tureci-cifti-arife-isimli-yeni-sirket-kuruyor-1752550"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/images/thumbs_b_c_f4c646564dc737769a8eb59e98935102-165824.webp",
-      "queued_at": "2026-11-25T10:31:33.516923+00:00"
+        "NTV Dünya"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
