@@ -3057,7 +3057,14 @@
     "403e3cd31e419b73": "2026-11-25T17:46:36.689340+00:00",
     "f57028a3c9a21999": "2026-11-25T17:46:36.689340+00:00",
     "628d3c512960bc42": "2026-11-25T17:46:36.689340+00:00",
-    "17929128d139e3d0": "2026-11-25T17:46:36.689340+00:00"
+    "17929128d139e3d0": "2026-11-25T17:46:36.689340+00:00",
+    "e53ab87926c02f11": "2026-11-25T18:00:48.218188+00:00",
+    "cf5d01dda9b5515a": "2026-11-25T18:00:48.218188+00:00",
+    "93706446645c88cf": "2026-11-25T18:00:48.218188+00:00",
+    "de008df5c9f65f25": "2026-11-25T18:00:48.218188+00:00",
+    "fa7c2bc5623859c1": "2026-11-25T18:00:48.218188+00:00",
+    "2f5846115b657441": "2026-11-25T18:00:48.218188+00:00",
+    "3c4e73d43c4012fd": "2026-11-25T18:00:48.218188+00:00"
   },
   "published_stories": [
     {
@@ -5966,6 +5973,15 @@
       "topic_key": "spacex-satellites-az",
       "sources": [
         "The Verge"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T18:00:48.943050+00:00",
+      "headline_az": "İraq Məhkəməsindən şok qərar: Neft yataqları mərkəzi hökumətə keçir",
+      "summary_az": "İraqın ali məhkəməsi hökumətin kürd bölgəsinin sərhədləri və neft yataqları üzərində nəzarəti ələ keçirə biləcəyinə dair qərar çıxarıb. Bu addım kürd rəsmilərin Bağdadın konstitusion hüquqlara müdaxilə etməsi ittihamından bir gün sonraya təsadüf edir.",
+      "topic_key": "iraq-kurdish-oil-borders",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
