@@ -2569,7 +2569,24 @@
     "b7afefea47b17079": "2026-11-25T09:45:44.855921+00:00",
     "afc6cb43ffe34235": "2026-11-25T09:45:44.855921+00:00",
     "5a90efd5f3690564": "2026-11-25T09:45:44.855921+00:00",
-    "861d64ef334455e4": "2026-11-25T09:45:44.855921+00:00"
+    "861d64ef334455e4": "2026-11-25T09:45:44.855921+00:00",
+    "0fa96a4e40b34ee5": "2026-11-25T10:00:49.093818+00:00",
+    "a1e87a95ac808d21": "2026-11-25T10:00:49.093818+00:00",
+    "3d19d66ce834f250": "2026-11-25T10:00:49.093818+00:00",
+    "4a278cfbd7dc23d2": "2026-11-25T10:00:49.093818+00:00",
+    "e1caad9ffa585710": "2026-11-25T10:00:49.093818+00:00",
+    "188f883e43ccccb5": "2026-11-25T10:00:49.093818+00:00",
+    "4c26cb9f50a2cf1b": "2026-11-25T10:00:49.093818+00:00",
+    "058bd8509e611100": "2026-11-25T10:00:49.093818+00:00",
+    "3b8832d4d6747b28": "2026-11-25T10:00:49.093818+00:00",
+    "0c5002ed9e579213": "2026-11-25T10:00:49.093818+00:00",
+    "80718a6635a0836b": "2026-11-25T10:00:49.093818+00:00",
+    "0581050fb603eb80": "2026-11-25T10:00:49.093818+00:00",
+    "aa601dacf2b4db79": "2026-11-25T10:00:49.093818+00:00",
+    "3c0b6fecd6612326": "2026-11-25T10:00:49.093818+00:00",
+    "9d020a1ee6772de4": "2026-11-25T10:00:49.093818+00:00",
+    "10b381cf3a33a08e": "2026-11-25T10:00:49.093818+00:00",
+    "6422b4f26a078089": "2026-11-25T10:00:49.093818+00:00"
   },
   "published_stories": [
     {
@@ -5243,30 +5260,16 @@
       "sources": [
         "Google News AZ"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T10:00:50.900534+00:00",
       "headline_az": "Almaniyadan hava müdafiəsinə 4 milyard avrodan çox sərmayə",
       "summary_az": "Almaniya hökuməti \"Patriot\" hava hücumundan müdafiə sistemləri üçün raketlərin və müvafiq avadanlıqların alınmasına 4 milyard avrodan artıq vəsait xərcləməyi planlaşdırır. Müdafiə və maliyyə nazirliklərinin sənədlərinə əsasən, bu addım ölkənin təhlükəsizliyini gücləndirmək məqsədi daşıyır.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "germany-patriot-missile-investment",
-      "source_indices": [
-        4
-      ],
       "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/268066.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/25/image-3-patriot-missile-e1671644623933.jpg",
-      "queued_at": "2026-11-25T09:45:44.833323+00:00"
+        "AzerNews"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
