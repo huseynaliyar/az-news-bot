@@ -2675,7 +2675,21 @@
     "ee6f330c1f7d25f1": "2026-11-25T11:16:15.605073+00:00",
     "6e234b292265db03": "2026-11-25T11:16:15.605073+00:00",
     "7995a803ec79638d": "2026-11-25T11:16:15.605073+00:00",
-    "100da820af959802": "2026-11-25T11:16:15.605073+00:00"
+    "100da820af959802": "2026-11-25T11:16:15.605073+00:00",
+    "089fb40d632724d2": "2026-11-25T11:32:32.277101+00:00",
+    "167187fb45db7a8f": "2026-11-25T11:32:32.277101+00:00",
+    "f21660b746dd1d36": "2026-11-25T11:32:32.277101+00:00",
+    "8061763433cd8885": "2026-11-25T11:32:32.277101+00:00",
+    "d86c3a5fe4d071f6": "2026-11-25T11:32:32.277101+00:00",
+    "3eb2650e3d1f1185": "2026-11-25T11:32:32.277101+00:00",
+    "78d2a707e71a692c": "2026-11-25T11:32:32.277101+00:00",
+    "cbceb5a68ff77258": "2026-11-25T11:32:32.277101+00:00",
+    "779a695582b6f81e": "2026-11-25T11:32:32.277101+00:00",
+    "a6aff448c78dfca9": "2026-11-25T11:32:32.277101+00:00",
+    "40afd2d6de535bc3": "2026-11-25T11:32:32.277101+00:00",
+    "30639ff67475b0e7": "2026-11-25T11:32:32.277101+00:00",
+    "8f709f5f43ac06c9": "2026-11-25T11:32:32.277101+00:00",
+    "b240b08be2697b86": "2026-11-25T11:32:32.277101+00:00"
   },
   "published_stories": [
     {
@@ -5394,9 +5408,40 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-25T11:32:33.245119+00:00",
+      "headline_az": "ABŞ və Kiyev arasında Ukraynaya qoşun göndərilməsi mövzusunda fikir ayrılığı",
+      "summary_az": "ABŞ nümayəndələri münaqişənin bitməsindən sonra Ukraynaya hərbi qüvvələrin göndərilməsi və ya bazaların qurulması ehtimalını rədd etdiklərini açıqladılar.",
+      "topic_key": "us-ukraine-troop-debate",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İsrail hücumu: Hamas rəsmisi, arvadı və uşaqları öldürüldü",
+      "summary_az": "İsrail qüvvələrinin həyata keçirdiyi hava hücumu nəticəsində Qazadakı bir mənzildə Hamas rəsmisi, onun arvadı və uşaqları həlak oldu.",
+      "category": "Dünya | Konflikt",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "israeli-strike-hamas-official",
+      "source_indices": [
+        12
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-25T11:32:32.256397+00:00"
+    },
     {
       "headline_az": "Microsoft-da 'Qırmızı Kod': Outlook çöküşü nəhəngi hərəkətə keçirdi",
       "summary_az": "Bu ay baş verən və milyonlarla istifadəçini təsir edən genişmiqyaslı Outlook və Exchange Online kəsintisi Microsoft-u daxili 'Qırmızı Kod' elan etməyə məcbur edib. Şirkət sistemin etibarlılığını bərpa etmək üçün fövqəladə tədbirlər görür.",
