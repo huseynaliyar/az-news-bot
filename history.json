@@ -2929,7 +2929,17 @@
     "d9d5cd963931e525": "2026-11-25T15:01:48.776711+00:00",
     "739f6f12b083b1f2": "2026-11-25T15:01:48.776711+00:00",
     "5d6d58571fb0b25a": "2026-11-25T15:01:48.776711+00:00",
-    "0c4f60e8a6166def": "2026-11-25T15:01:48.776711+00:00"
+    "0c4f60e8a6166def": "2026-11-25T15:01:48.776711+00:00",
+    "775208aee1929f1a": "2026-11-25T15:15:30.969482+00:00",
+    "de1e9eb0f41f1277": "2026-11-25T15:15:30.969482+00:00",
+    "d05ad21456564a02": "2026-11-25T15:15:30.969482+00:00",
+    "2721f9ae3a48a883": "2026-11-25T15:15:30.969482+00:00",
+    "bebc3a2fb3066dbd": "2026-11-25T15:15:30.969482+00:00",
+    "005ff475b08dd82b": "2026-11-25T15:15:30.969482+00:00",
+    "c142a4c8b94fad6d": "2026-11-25T15:15:30.969482+00:00",
+    "b73cc80ec7deb99c": "2026-11-25T15:15:30.969482+00:00",
+    "e1808c773b8a955a": "2026-11-25T15:15:30.969482+00:00",
+    "d1b7db29c9a5af37": "2026-11-25T15:15:30.969482+00:00"
   },
   "published_stories": [
     {
@@ -5785,31 +5795,18 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-25T15:15:31.468965+00:00",
+      "headline_az": "Todoist istifadəçilərinə kibertəhlükə xəbərdarlığı: Məlumatlar oğurlanıb",
+      "summary_az": "Populyar tapşırıq idarəetmə tətbiqi Todoist istehsal sistemlərinə icazəsiz müdaxilə edildiyini təsdiqləyib. Hücum nəticəsində müştərilərin 6 faizinin e-poçt ünvanları, şifrə heşləri və qeydiyyat tarixləri ələ keçirilib.",
+      "topic_key": "todoist-data-breach-security",
+      "sources": [
+        "TechCrunch"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Todoist istifadəçilərinə kibertəhlükə xəbərdarlığı: Məlumatlar oğurlanıb",
-      "summary_az": "Populyar tapşırıq idarəetmə tətbiqi Todoist istehsal sistemlərinə icazəsiz müdaxilə edildiyini təsdiqləyib. Hücum nəticəsində müştərilərin 6 faizinin e-poçt ünvanları, şifrə heşləri və qeydiyyat tarixləri ələ keçirilib.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "todoist-data-breach-security",
-      "source_indices": [
-        19
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-25T14:30:46.547039+00:00"
-    },
     {
       "headline_az": "Azərbaycanda pensiyalar artır: 1 milyondan çox vətəndaşı əhatə edəcək",
       "summary_az": "2027-ci ildə Azərbaycanda 1,1 milyon insanın pensiyasında artım gözlənilir. Rəsmi məlumatlara görə, bu addım sosial rifahın yaxşılaşdırılması istiqamətində atılan növbəti mühüm addımdır.",
