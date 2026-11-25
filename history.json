@@ -2707,7 +2707,21 @@
     "e53305b0a47ed300": "2026-11-25T11:45:56.150297+00:00",
     "331c3951164f6c41": "2026-11-25T11:45:56.150297+00:00",
     "7b3816cb9913fc69": "2026-11-25T11:45:56.150297+00:00",
-    "6e30e3146aea4660": "2026-11-25T11:45:56.150297+00:00"
+    "6e30e3146aea4660": "2026-11-25T11:45:56.150297+00:00",
+    "cbfde5503ed4ea00": "2026-11-25T12:01:23.379447+00:00",
+    "4e3f5cd660584667": "2026-11-25T12:01:23.379447+00:00",
+    "9d4e9e1edf10a345": "2026-11-25T12:01:23.379447+00:00",
+    "a9dd80d17c9a8493": "2026-11-25T12:01:23.379447+00:00",
+    "9cc1c6130c174ea0": "2026-11-25T12:01:23.379447+00:00",
+    "6629d3b540576627": "2026-11-25T12:01:23.379447+00:00",
+    "49a99761b35f6c02": "2026-11-25T12:01:23.379447+00:00",
+    "0321446c54d7ad2e": "2026-11-25T12:01:23.379447+00:00",
+    "07006ef5529538ff": "2026-11-25T12:01:23.379447+00:00",
+    "59a583f17b02644b": "2026-11-25T12:01:23.379447+00:00",
+    "2e4696408c48024e": "2026-11-25T12:01:23.379447+00:00",
+    "d98c84b629c57f32": "2026-11-25T12:01:23.379447+00:00",
+    "bb16bbdea8c2a73a": "2026-11-25T12:01:23.379447+00:00",
+    "f46a0c9ead03e5e1": "2026-11-25T12:01:23.379447+00:00"
   },
   "published_stories": [
     {
@@ -5444,31 +5458,18 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-25T12:01:23.892807+00:00",
+      "headline_az": "Microsoft-da 'Qırmızı Kod': Outlook çöküşü nəhəngi hərəkətə keçirdi",
+      "summary_az": "Bu ay baş verən və milyonlarla istifadəçini təsir edən genişmiqyaslı Outlook və Exchange Online kəsintisi Microsoft-u daxili 'Qırmızı Kod' elan etməyə məcbur edib. Şirkət sistemin etibarlılığını bərpa etmək üçün fövqəladə tədbirlər görür.",
+      "topic_key": "microsoft-outlook-outage",
+      "sources": [
+        "The Verge"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Microsoft-da 'Qırmızı Kod': Outlook çöküşü nəhəngi hərəkətə keçirdi",
-      "summary_az": "Bu ay baş verən və milyonlarla istifadəçini təsir edən genişmiqyaslı Outlook və Exchange Online kəsintisi Microsoft-u daxili 'Qırmızı Kod' elan etməyə məcbur edib. Şirkət sistemin etibarlılığını bərpa etmək üçün fövqəladə tədbirlər görür.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "microsoft-outlook-outage",
-      "source_indices": [
-        21
-      ],
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-25T11:16:15.573930+00:00"
-    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
