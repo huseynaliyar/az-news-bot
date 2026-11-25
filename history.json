@@ -2887,7 +2887,28 @@
     "e4883c415a6f48c3": "2026-11-25T14:15:39.352600+00:00",
     "3057c1692fc87eb1": "2026-11-25T14:15:39.352600+00:00",
     "b831dbeefa036a18": "2026-11-25T14:15:39.352600+00:00",
-    "c8809d5a9ae497de": "2026-11-25T14:15:39.352600+00:00"
+    "c8809d5a9ae497de": "2026-11-25T14:15:39.352600+00:00",
+    "f11059efe9ac16ea": "2026-11-25T14:30:46.572560+00:00",
+    "552a418ff6ed7e52": "2026-11-25T14:30:46.572560+00:00",
+    "b16808b7718a90e5": "2026-11-25T14:30:46.572560+00:00",
+    "c84c471a7390a073": "2026-11-25T14:30:46.572560+00:00",
+    "c06a83ebf5b9d963": "2026-11-25T14:30:46.572560+00:00",
+    "bc7c95fb766501e3": "2026-11-25T14:30:46.572560+00:00",
+    "6893bbc25c9e751f": "2026-11-25T14:30:46.572560+00:00",
+    "01f3afcb68c0378d": "2026-11-25T14:30:46.572560+00:00",
+    "1947ae5a4594635f": "2026-11-25T14:30:46.572560+00:00",
+    "aea26769556a17a8": "2026-11-25T14:30:46.572560+00:00",
+    "2b1c637a711c4e09": "2026-11-25T14:30:46.572560+00:00",
+    "e67c7dc8bf88fb72": "2026-11-25T14:30:46.572560+00:00",
+    "f5472a5f5cbc2106": "2026-11-25T14:30:46.572560+00:00",
+    "e55d1030c5f55b5b": "2026-11-25T14:30:46.572560+00:00",
+    "c8635aee65e883f0": "2026-11-25T14:30:46.572560+00:00",
+    "8bdc0c17e1b62d70": "2026-11-25T14:30:46.572560+00:00",
+    "9fd3a8b4b02c3382": "2026-11-25T14:30:46.572560+00:00",
+    "244a0b7904382952": "2026-11-25T14:30:46.572560+00:00",
+    "2ab70d7805c6020b": "2026-11-25T14:30:46.572560+00:00",
+    "a75798bf731140be": "2026-11-25T14:30:46.572560+00:00",
+    "8309588c20e1138e": "2026-11-25T14:30:46.572560+00:00"
   },
   "published_stories": [
     {
@@ -5716,9 +5737,40 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-25T14:30:47.266657+00:00",
+      "headline_az": "Çində siyasi zəlzələ: Siyasi Büro üzvü istintaq altına alındı",
+      "summary_az": "Çinin yüksək səviyyəli rəsmilərindən biri, Siyasi Büronun üzvü və Şanxay Partiya Katibi Çen Sining haqqında rəsmi istintaq başladılıb. Bu gözlənilməz addım ölkə rəhbərliyində yeni kadr dəyişiklikləri və siyasi gərginlik kimi qiymətləndirilir.",
+      "topic_key": "china-politburo-investigation-chen-jining",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Todoist istifadəçilərinə kibertəhlükə xəbərdarlığı: Məlumatlar oğurlanıb",
+      "summary_az": "Populyar tapşırıq idarəetmə tətbiqi Todoist istehsal sistemlərinə icazəsiz müdaxilə edildiyini təsdiqləyib. Hücum nəticəsində müştərilərin 6 faizinin e-poçt ünvanları, şifrə heşləri və qeydiyyat tarixləri ələ keçirilib.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "todoist-data-breach-security",
+      "source_indices": [
+        19
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-25T14:30:46.547039+00:00"
+    },
     {
       "headline_az": "Azərbaycanda pensiyalar artır: 1 milyondan çox vətəndaşı əhatə edəcək",
       "summary_az": "2027-ci ildə Azərbaycanda 1,1 milyon insanın pensiyasında artım gözlənilir. Rəsmi məlumatlara görə, bu addım sosial rifahın yaxşılaşdırılması istiqamətində atılan növbəti mühüm addımdır.",
