@@ -3103,7 +3103,26 @@
     "1d2853a54f7cef39": "2026-11-25T19:01:12.377927+00:00",
     "9a1469abb530ea18": "2026-11-25T19:01:12.377927+00:00",
     "fd831754dc49b5b4": "2026-11-25T19:01:12.377927+00:00",
-    "06d89a058f7e4118": "2026-11-25T19:01:12.377927+00:00"
+    "06d89a058f7e4118": "2026-11-25T19:01:12.377927+00:00",
+    "9989fccedc60de76": "2026-11-25T19:30:39.266625+00:00",
+    "b769fe8a5409030d": "2026-11-25T19:30:39.266625+00:00",
+    "38939d614c251c2a": "2026-11-25T19:30:39.266625+00:00",
+    "9f2bdd215cdc3144": "2026-11-25T19:30:39.266625+00:00",
+    "d1c33d0e49af7a43": "2026-11-25T19:30:39.266625+00:00",
+    "847bc715b15763d0": "2026-11-25T19:30:39.266625+00:00",
+    "a8ef5f11716e58fe": "2026-11-25T19:30:39.266625+00:00",
+    "e0619e575be788f0": "2026-11-25T19:30:39.266625+00:00",
+    "b6100b41d82114b1": "2026-11-25T19:30:39.266625+00:00",
+    "9756bf661ceb259a": "2026-11-25T19:30:39.266625+00:00",
+    "6623d5f57ef6d776": "2026-11-25T19:30:39.266625+00:00",
+    "82269132f95b9333": "2026-11-25T19:30:39.266625+00:00",
+    "d4fe3d81a40c1110": "2026-11-25T19:30:39.266625+00:00",
+    "b9a672bbe8924706": "2026-11-25T19:30:39.266625+00:00",
+    "328731a75b4e1db9": "2026-11-25T19:30:39.266625+00:00",
+    "1008042c99083f79": "2026-11-25T19:30:39.266625+00:00",
+    "1e95a5c3cd80e94e": "2026-11-25T19:30:39.266625+00:00",
+    "08028974b3e50c0e": "2026-11-25T19:30:39.266625+00:00",
+    "a9ca12a94153e265": "2026-11-25T19:30:39.266625+00:00"
   },
   "published_stories": [
     {
@@ -6022,7 +6041,41 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-25T19:30:40.782496+00:00",
+      "headline_az": "Misirdə dəhşətli yanğın: Neft məhsulları daşıyan tanker aşdı, 30 ölü var",
+      "summary_az": "Misirin paytaxtı Qahirə yaxınlığında neft məhsulları daşıyan nəqliyyat vasitəsinin aşması nəticəsində güclü yanğın baş verib. Hadisə nəticəsində azı 30 nəfər həyatını itirib, 15 nəfər isə müxtəlif dərəcəli xəsarətlərlə xəstəxanaya yerləşdirilib.",
+      "topic_key": "egypt-vehicle-fire",
+      "sources": [
+        "TRT Haber",
+        "NTV Dünya",
+        "Al Jazeera"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Ukrayna hərbçiləri ilk dəfə lazer sistemi ilə Rusiya pilotsuz uçuş aparatını vurdu",
+      "summary_az": "Ukrayna ordusu döyüş şəraitində ilk dəfə olaraq \"Blysk\" lazer sistemindən istifadə etməklə Rusiya istehsalı olan reaktiv mühərrikli PUA-nı zərərsizləşdirib. Bu texnoloji uğur cəbhədə hava müdafiəsi sistemlərinin yeni mərhələyə keçdiyini göstərir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "ukraine-laser-drone-down",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-25T19:30:39.238777+00:00"
+    }
+  ]
 }
