@@ -2358,7 +2358,31 @@
     "52d5c5c86bb797f4": "2026-11-25T06:45:26.057650+00:00",
     "e61e36bf87eb5962": "2026-11-25T06:45:26.057650+00:00",
     "b789c44f6a150644": "2026-11-25T06:45:26.057650+00:00",
-    "a43565d71e22ba71": "2026-11-25T06:45:26.057650+00:00"
+    "a43565d71e22ba71": "2026-11-25T06:45:26.057650+00:00",
+    "daad162db13c7280": "2026-11-25T07:00:58.264502+00:00",
+    "c4d32e872ba8968c": "2026-11-25T07:00:58.264502+00:00",
+    "c0e80fe995e705ab": "2026-11-25T07:00:58.264502+00:00",
+    "a5c9aed0de20e6af": "2026-11-25T07:00:58.264502+00:00",
+    "33615a04e03f5448": "2026-11-25T07:00:58.264502+00:00",
+    "2a9bd8700103d6a7": "2026-11-25T07:00:58.264502+00:00",
+    "f333130bbcbc46e2": "2026-11-25T07:00:58.264502+00:00",
+    "400378cddd7ffb7c": "2026-11-25T07:00:58.264502+00:00",
+    "87dc8edb297e8fa2": "2026-11-25T07:00:58.264502+00:00",
+    "91d330838d64f7da": "2026-11-25T07:00:58.264502+00:00",
+    "a53c9547c15eb6d5": "2026-11-25T07:00:58.264502+00:00",
+    "c4e671bfd8a922d1": "2026-11-25T07:00:58.264502+00:00",
+    "6fb005fc63e30994": "2026-11-25T07:00:58.264502+00:00",
+    "219c7ac7cf5fd1dd": "2026-11-25T07:00:58.264502+00:00",
+    "05614dc114e76569": "2026-11-25T07:00:58.264502+00:00",
+    "5df49eb2aa14bed2": "2026-11-25T07:00:58.264502+00:00",
+    "668e59f196c29af2": "2026-11-25T07:00:58.264502+00:00",
+    "60423f8214efa84b": "2026-11-25T07:00:58.264502+00:00",
+    "894d7cc9f4798f02": "2026-11-25T07:00:58.264502+00:00",
+    "c3206fca9a9c4d25": "2026-11-25T07:00:58.264502+00:00",
+    "3565597fa3d3a6b0": "2026-11-25T07:00:58.264502+00:00",
+    "d246a2a1a8be3213": "2026-11-25T07:00:58.264502+00:00",
+    "b9de17b242938d48": "2026-11-25T07:00:58.264502+00:00",
+    "3de6a34528338ca4": "2026-11-25T07:00:58.264502+00:00"
   },
   "published_stories": [
     {
@@ -4978,7 +5002,39 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-25T07:00:59.499250+00:00",
+      "headline_az": "Nvidia-da böyük dönüş: Trampın dəstəyi ilə səhmlər 33% bahalaşdı",
+      "summary_az": "ABŞ Prezidenti Donald Trampın müdaxiləsi və Jensen Huanqın yenidən CEO vəzifəsinə qayıtması Nvidia-nın bazardakı mövqeyini möhkəmləndirib. Şirkətin səhmləri cəmi 11 gün ərzində 33% artaraq texnologiya sektorunda ciddi canlanmaya səbəb olub.",
+      "topic_key": "nvidia-stock-rebound",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Türkiyədə 41 vilayətin valisi dəyişdirildi",
+      "summary_az": "Türkiyənin rəsmi qəzetində dərc olunan yeni fərmana əsasən, ölkənin 41 vilayətində valilər dəyişdirilib, 14 vali isə mərkəzi aparatın sərəncamına keçirilib. Bu, Türkiyənin yerli idarəetmə sistemində genişmiqyaslı kadr islahatı kimi qiymətləndirilir.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-governor-reshuffle",
+      "source_indices": [
+        18
+      ],
+      "sources": [
+        {
+          "name": "Google News TR",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OVVdhZTNpNmJmczdKbklVUlYyOGxaSGZKRVRzMXVXRHNBQ01ERE9BQW43amE2Y3JieHI0SlQ3UUpXeWFPeHotNnBhVE1Hdzg4NHNBT0lqRElYcnVKWE9GemtFSjY1aGwzUlh2ek94c2dDSmh1WnVRM3dB?oc=5"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-25T07:00:58.222517+00:00"
+    }
+  ]
 }
