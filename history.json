@@ -2260,7 +2260,15 @@
     "803932ad076bb2b6": "2026-11-25T04:15:46.919693+00:00",
     "485e0c9d2796734e": "2026-11-25T04:15:46.919693+00:00",
     "80802e4592c7eb73": "2026-11-25T04:15:46.919693+00:00",
-    "cb89afc0f58c4884": "2026-11-25T04:15:46.919693+00:00"
+    "cb89afc0f58c4884": "2026-11-25T04:15:46.919693+00:00",
+    "dabbf111cbc259db": "2026-11-25T04:30:34.061451+00:00",
+    "76909da7f5b2e5bb": "2026-11-25T04:30:34.061451+00:00",
+    "8d2638408264b973": "2026-11-25T04:30:34.061451+00:00",
+    "e242306139c52d41": "2026-11-25T04:30:34.061451+00:00",
+    "35edff99734954ac": "2026-11-25T04:30:34.061451+00:00",
+    "67c23322acb4be79": "2026-11-25T04:30:34.061451+00:00",
+    "5f6785139ce9f058": "2026-11-25T04:30:34.061451+00:00",
+    "216d5041f3777bfe": "2026-11-25T04:30:34.061451+00:00"
   },
   "published_stories": [
     {
@@ -4826,30 +4834,16 @@
       "sources": [
         "Oxu.az"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T04:30:34.578255+00:00",
       "headline_az": "Pentaqondan nəhəng addım: 'Ford' və 'GM' ABŞ ordusu üçün PUA istehsal edə bilər",
       "summary_az": "ABŞ Müdafiə Nazirliyi hərbi təyinatlı pilotsuz uçuş aparatlarının istehsalını artırmaq məqsədi ilə avtomobil nəhəngləri 'Ford' və 'General Motors' ilə ilkin danışıqlara başlayıb. Danışıqlar uğurlu olarsa, şirkətlər kəşfiyyat və zərbə dronlarının istehsalına qoşulacaqlar.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "ford-gm-pentagon-drone-production",
-      "source_indices": [
-        5
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/ford-ve-general-motors-abs-ordusu-ucun-pua-hisseleri-istehsal-ede-biler"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/24/Ds7jZwDUPnCNZTHLm5zJRC5IRDWVnVZ2ZgkadjZa:640.webp",
-      "queued_at": "2026-11-25T04:00:44.446504+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
