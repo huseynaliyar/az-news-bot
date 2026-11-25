@@ -2382,7 +2382,20 @@
     "3565597fa3d3a6b0": "2026-11-25T07:00:58.264502+00:00",
     "d246a2a1a8be3213": "2026-11-25T07:00:58.264502+00:00",
     "b9de17b242938d48": "2026-11-25T07:00:58.264502+00:00",
-    "3de6a34528338ca4": "2026-11-25T07:00:58.264502+00:00"
+    "3de6a34528338ca4": "2026-11-25T07:00:58.264502+00:00",
+    "20bf753a5ec050f5": "2026-11-25T07:15:43.190371+00:00",
+    "c78174d1f73c499c": "2026-11-25T07:15:43.190371+00:00",
+    "7126dc2d244270bb": "2026-11-25T07:15:43.190371+00:00",
+    "90a9a9d21cd9b2ac": "2026-11-25T07:15:43.190371+00:00",
+    "4a1799f19feace4a": "2026-11-25T07:15:43.190371+00:00",
+    "d9c8783cb727ab40": "2026-11-25T07:15:43.190371+00:00",
+    "adeabf69b84652b7": "2026-11-25T07:15:43.190371+00:00",
+    "b8be9940a0d53279": "2026-11-25T07:15:43.190371+00:00",
+    "2fa1f76800932674": "2026-11-25T07:15:43.190371+00:00",
+    "58db7349cbc98008": "2026-11-25T07:15:43.190371+00:00",
+    "2e5efcfe3c47b086": "2026-11-25T07:15:43.190371+00:00",
+    "f6a169f9215b075a": "2026-11-25T07:15:43.190371+00:00",
+    "da29a81cff711732": "2026-11-25T07:15:43.190371+00:00"
   },
   "published_stories": [
     {
@@ -5011,30 +5024,16 @@
       "sources": [
         "CNN Türk"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T07:15:43.751759+00:00",
       "headline_az": "Türkiyədə 41 vilayətin valisi dəyişdirildi",
       "summary_az": "Türkiyənin rəsmi qəzetində dərc olunan yeni fərmana əsasən, ölkənin 41 vilayətində valilər dəyişdirilib, 14 vali isə mərkəzi aparatın sərəncamına keçirilib. Bu, Türkiyənin yerli idarəetmə sistemində genişmiqyaslı kadr islahatı kimi qiymətləndirilir.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "turkey-governor-reshuffle",
-      "source_indices": [
-        18
-      ],
       "sources": [
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OVVdhZTNpNmJmczdKbklVUlYyOGxaSGZKRVRzMXVXRHNBQ01ERE9BQW43amE2Y3JieHI0SlQ3UUpXeWFPeHotNnBhVE1Hdzg4NHNBT0lqRElYcnVKWE9GemtFSjY1aGwzUlh2ek94c2dDSmh1WnVRM3dB?oc=5"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-25T07:00:58.222517+00:00"
+        "Google News TR"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
