@@ -2598,7 +2598,26 @@
     "b3be144db5e20196": "2026-11-25T10:15:44.210688+00:00",
     "4f53f230dfd97ab3": "2026-11-25T10:15:44.210688+00:00",
     "806c3fce2a0c259f": "2026-11-25T10:15:44.210688+00:00",
-    "b3b9adfe3f2e0750": "2026-11-25T10:15:44.210688+00:00"
+    "b3b9adfe3f2e0750": "2026-11-25T10:15:44.210688+00:00",
+    "ae6f2bcbfe13ee6d": "2026-11-25T10:31:33.546769+00:00",
+    "0055e88c9e58894a": "2026-11-25T10:31:33.546769+00:00",
+    "acd647a6ac4c9795": "2026-11-25T10:31:33.546769+00:00",
+    "494c9ada24e87b72": "2026-11-25T10:31:33.546769+00:00",
+    "e6f45c804dc279e4": "2026-11-25T10:31:33.546769+00:00",
+    "fffda61a8c4cdc9e": "2026-11-25T10:31:33.546769+00:00",
+    "4aae62ad92ec63b9": "2026-11-25T10:31:33.546769+00:00",
+    "6654e2809b3111a4": "2026-11-25T10:31:33.546769+00:00",
+    "6b0bb210184af336": "2026-11-25T10:31:33.546769+00:00",
+    "f84e7e670efc5ba2": "2026-11-25T10:31:33.546769+00:00",
+    "e34f3fbb8730cc2f": "2026-11-25T10:31:33.546769+00:00",
+    "b1a0952bef7f8f00": "2026-11-25T10:31:33.546769+00:00",
+    "ff3e2fc4b6ab08e0": "2026-11-25T10:31:33.546769+00:00",
+    "3a93d8ef2ad2ed96": "2026-11-25T10:31:33.546769+00:00",
+    "48c7ab808b78ed93": "2026-11-25T10:31:33.546769+00:00",
+    "2dd79dbf1ef09bde": "2026-11-25T10:31:33.546769+00:00",
+    "5233d8767794fec9": "2026-11-25T10:31:33.546769+00:00",
+    "0ba070336cc36bb7": "2026-11-25T10:31:33.546769+00:00",
+    "24d7c7466d8dbf58": "2026-11-25T10:31:33.546769+00:00"
   },
   "published_stories": [
     {
@@ -5281,7 +5300,39 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-25T10:31:33.962117+00:00",
+      "headline_az": "Prezidentdən ixracatçılar üçün yeni fərman",
+      "summary_az": "Prezident İlham Əliyev ixracda hesablaşmaların tənzimlənməsi ilə bağlı yeni qaydaları təsdiqləyib. Bu addım ölkənin ixrac potensialını artırmaq və xarici ticarət əməliyyatlarını daha şəffaf mexanizmlərlə idarə etməyi hədəfləyir.",
+      "topic_key": "azerbaijan-export-regulation-decree",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
+      "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "biontech-founders-new-company-arife",
+      "source_indices": [
+        11
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/ugur-sahin-ve-ozlem-tureci-cifti-arife-isimli-yeni-sirket-kuruyor-1752550"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/images/thumbs_b_c_f4c646564dc737769a8eb59e98935102-165824.webp",
+      "queued_at": "2026-11-25T10:31:33.516923+00:00"
+    }
+  ]
 }
