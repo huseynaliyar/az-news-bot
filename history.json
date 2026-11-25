@@ -3006,7 +3006,17 @@
     "6af816a400d15584": "2026-11-25T16:45:57.690663+00:00",
     "232fe1eda4048ba5": "2026-11-25T16:45:57.690663+00:00",
     "40c0c56e7ba6dcdf": "2026-11-25T16:45:57.690663+00:00",
-    "a948a5002662b15d": "2026-11-25T16:45:57.690663+00:00"
+    "a948a5002662b15d": "2026-11-25T16:45:57.690663+00:00",
+    "0ea038adf4341611": "2026-11-25T17:01:10.976833+00:00",
+    "e56c8eb3bd614a81": "2026-11-25T17:01:10.976833+00:00",
+    "971cdf0a05ac5bc3": "2026-11-25T17:01:10.976833+00:00",
+    "7ba2af55e276ff23": "2026-11-25T17:01:10.976833+00:00",
+    "c12941e1383bf43b": "2026-11-25T17:01:10.976833+00:00",
+    "f9d6e448dc30d9c0": "2026-11-25T17:01:10.976833+00:00",
+    "4237eb71b566b40a": "2026-11-25T17:01:10.976833+00:00",
+    "6a94818d499aab6d": "2026-11-25T17:01:10.976833+00:00",
+    "f9398a755db79dd3": "2026-11-25T17:01:10.976833+00:00",
+    "c31c4e3975a04bd6": "2026-11-25T17:01:10.976833+00:00"
   },
   "published_stories": [
     {
@@ -5897,6 +5907,15 @@
       "topic_key": "global-temp-2c",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T17:01:11.652533+00:00",
+      "headline_az": "Serbiyada məktəb atəş açması: Təhlükəsizlik narahatlığı artdı",
+      "summary_az": "Serbiyada bir məktəbdə baş verən atəş açma hadisəsi, silahların əlçatanlığı və gənclərin təhlükəsizliyi mövzusunda yeni suallar doğurdu. Al Jazeera bu hadisəni Balkanlarda silah zorakılığına dair alarm kimi təqdim edir.",
+      "topic_key": "serbiya-mekteb-atesh",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
