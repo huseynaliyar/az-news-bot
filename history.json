@@ -2547,7 +2547,29 @@
     "e76e417ccbefe18b": "2026-11-25T09:30:40.857880+00:00",
     "3e55b1342609e529": "2026-11-25T09:30:40.857880+00:00",
     "dfc55160950f28c5": "2026-11-25T09:30:40.857880+00:00",
-    "6f303d26d7e05f7e": "2026-11-25T09:30:40.857880+00:00"
+    "6f303d26d7e05f7e": "2026-11-25T09:30:40.857880+00:00",
+    "433d06a4612cbea7": "2026-11-25T09:45:44.855921+00:00",
+    "b9c5ba6ec4425298": "2026-11-25T09:45:44.855921+00:00",
+    "06e34639bd6e3e64": "2026-11-25T09:45:44.855921+00:00",
+    "4691754d9f714bef": "2026-11-25T09:45:44.855921+00:00",
+    "f934f3c5fabd6e14": "2026-11-25T09:45:44.855921+00:00",
+    "4b3ff7091fa517a8": "2026-11-25T09:45:44.855921+00:00",
+    "73c58cf6cdb2ecf7": "2026-11-25T09:45:44.855921+00:00",
+    "9a015cb3e65d7505": "2026-11-25T09:45:44.855921+00:00",
+    "7c8f38e45379156e": "2026-11-25T09:45:44.855921+00:00",
+    "dd155d5a96d49ef5": "2026-11-25T09:45:44.855921+00:00",
+    "ebb6e8a6cd275dd8": "2026-11-25T09:45:44.855921+00:00",
+    "14d800bd7c5a2d95": "2026-11-25T09:45:44.855921+00:00",
+    "00b5c7a2f59c2afc": "2026-11-25T09:45:44.855921+00:00",
+    "26ca50811116276f": "2026-11-25T09:45:44.855921+00:00",
+    "53c7a7c243340f3f": "2026-11-25T09:45:44.855921+00:00",
+    "3edd55cbc94a5d5a": "2026-11-25T09:45:44.855921+00:00",
+    "73373b315af65c22": "2026-11-25T09:45:44.855921+00:00",
+    "89c27cc08d74bef5": "2026-11-25T09:45:44.855921+00:00",
+    "b7afefea47b17079": "2026-11-25T09:45:44.855921+00:00",
+    "afc6cb43ffe34235": "2026-11-25T09:45:44.855921+00:00",
+    "5a90efd5f3690564": "2026-11-25T09:45:44.855921+00:00",
+    "861d64ef334455e4": "2026-11-25T09:45:44.855921+00:00"
   },
   "published_stories": [
     {
@@ -5212,7 +5234,39 @@
       "sources": [
         "NTV Dünya"
       ]
+    },
+    {
+      "published_at": "2026-11-25T09:45:45.408600+00:00",
+      "headline_az": "Çindən kosmosda növbəti addım: \"Şəntzhou-24\" orbitə göndərildi",
+      "summary_az": "Çin səma ölkəsinin orbital stansiyasına üç kosmonavt aparan \"Şəntzhou-24\" kosmik gəmisini uğurla işə salıb. Mütəxəssislər startın planlı şəkildə həyata keçirildiyini bildirirlər.",
+      "topic_key": "china-shenzhou-spacecraft-launch",
+      "sources": [
+        "Google News AZ"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Almaniyadan hava müdafiəsinə 4 milyard avrodan çox sərmayə",
+      "summary_az": "Almaniya hökuməti \"Patriot\" hava hücumundan müdafiə sistemləri üçün raketlərin və müvafiq avadanlıqların alınmasına 4 milyard avrodan artıq vəsait xərcləməyi planlaşdırır. Müdafiə və maliyyə nazirliklərinin sənədlərinə əsasən, bu addım ölkənin təhlükəsizliyini gücləndirmək məqsədi daşıyır.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "germany-patriot-missile-investment",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/268066.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/25/image-3-patriot-missile-e1671644623933.jpg",
+      "queued_at": "2026-11-25T09:45:44.833323+00:00"
+    }
+  ]
 }
