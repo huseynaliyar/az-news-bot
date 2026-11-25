@@ -2796,7 +2796,32 @@
     "ec57c99a6a096767": "2026-11-25T13:00:43.390047+00:00",
     "d7f8df890f989b59": "2026-11-25T13:00:43.390047+00:00",
     "79a298acf9520c42": "2026-11-25T13:00:43.390047+00:00",
-    "59a2bf5577162d8b": "2026-11-25T13:00:43.390047+00:00"
+    "59a2bf5577162d8b": "2026-11-25T13:00:43.390047+00:00",
+    "1dfeeccf542d2259": "2026-11-25T13:16:17.677265+00:00",
+    "ccc037b43ef5a574": "2026-11-25T13:16:17.677265+00:00",
+    "77b9805af657db28": "2026-11-25T13:16:17.677265+00:00",
+    "622e2f81d5af77c7": "2026-11-25T13:16:17.677265+00:00",
+    "b3996b5175ce4879": "2026-11-25T13:16:17.677265+00:00",
+    "b39f45cf32365485": "2026-11-25T13:16:17.677265+00:00",
+    "c6e7ae209dbc9c07": "2026-11-25T13:16:17.677265+00:00",
+    "814c4f56c3b49d4d": "2026-11-25T13:16:17.677265+00:00",
+    "3711639ae1a2db4e": "2026-11-25T13:16:17.677265+00:00",
+    "d72f1eff4e80e6c6": "2026-11-25T13:16:17.677265+00:00",
+    "82aa5c9b7f859398": "2026-11-25T13:16:17.677265+00:00",
+    "442a6812d7481d0e": "2026-11-25T13:16:17.677265+00:00",
+    "7f9d9ba33a9978f9": "2026-11-25T13:16:17.677265+00:00",
+    "9c35c0dff6e7f3c0": "2026-11-25T13:16:17.677265+00:00",
+    "26b9048269718efe": "2026-11-25T13:16:17.677265+00:00",
+    "1b41b978a3c6dd28": "2026-11-25T13:16:17.677265+00:00",
+    "c7f389948a2e6d93": "2026-11-25T13:16:17.677265+00:00",
+    "416e4d970d68598f": "2026-11-25T13:16:17.677265+00:00",
+    "35bb33e186f71499": "2026-11-25T13:16:17.677265+00:00",
+    "c9e1e29e56ef6ee9": "2026-11-25T13:16:17.677265+00:00",
+    "e13cabd9d8894940": "2026-11-25T13:16:17.677265+00:00",
+    "6907848fa616695d": "2026-11-25T13:16:17.677265+00:00",
+    "4aa11a46323c6957": "2026-11-25T13:16:17.677265+00:00",
+    "99e5c21ecb0a1f9a": "2026-11-25T13:16:17.677265+00:00",
+    "399ebf8f0fe91c05": "2026-11-25T13:16:17.677265+00:00"
   },
   "published_stories": [
     {
@@ -5580,9 +5605,40 @@
         "NTV Gündem",
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-25T13:16:18.217208+00:00",
+      "headline_az": "ABŞ-dan yeni ticarət müharibəsi siqnalı: 14 ölkəyə əlavə gömrük rüsumları",
+      "summary_az": "ABŞ hökuməti Çin və Avropa İttifaqı da daxil olmaqla 14 ticarət tərəfdaşına qarşı yeni gömrük rüsumları tətbiq etməyi təklif edib. Vaşinqton bu addımı ticarət təcrübələrinin ədalətsiz olması ilə əsaslandırır.",
+      "topic_key": "us-new-trade-tariffs",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Azərbaycanda pensiyalar artır: 1 milyondan çox vətəndaşı əhatə edəcək",
+      "summary_az": "2027-ci ildə Azərbaycanda 1,1 milyon insanın pensiyasında artım gözlənilir. Rəsmi məlumatlara görə, bu addım sosial rifahın yaxşılaşdırılması istiqamətində atılan növbəti mühüm addımdır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-pension-increase-2027",
+      "source_indices": [
+        0
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/iqtisadiyyat/azerbaycanda-1-milyondan-cox-insanin-pensiyasi-artacaq-resmi"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/10/09/mQYX03xGdcF2zUTNiQQY4HYiXt605ge7hK5a6z14:640.jpg",
+      "queued_at": "2026-11-25T13:16:17.653904+00:00"
+    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
