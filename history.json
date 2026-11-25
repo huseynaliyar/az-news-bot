@@ -2288,7 +2288,14 @@
     "20887be9449b29aa": "2026-11-25T05:00:35.653998+00:00",
     "cd97c1108149b038": "2026-11-25T05:00:35.653998+00:00",
     "08588d732b2f7948": "2026-11-25T05:00:35.653998+00:00",
-    "6dfbbf45e7d42519": "2026-11-25T05:00:35.653998+00:00"
+    "6dfbbf45e7d42519": "2026-11-25T05:00:35.653998+00:00",
+    "04556e6f18bcbbb0": "2026-11-25T05:15:33.247484+00:00",
+    "dc14965d75437cc3": "2026-11-25T05:15:33.247484+00:00",
+    "7dff73a78c777cb6": "2026-11-25T05:15:33.247484+00:00",
+    "34b7b2bf7c022302": "2026-11-25T05:15:33.247484+00:00",
+    "5f5998efded14147": "2026-11-25T05:15:33.247484+00:00",
+    "a765a823cace67c1": "2026-11-25T05:15:33.247484+00:00",
+    "7aeaf0c5f6d80ac1": "2026-11-25T05:15:33.247484+00:00"
   },
   "published_stories": [
     {
@@ -4871,6 +4878,15 @@
       "topic_key": "europe-gas-squeeze-azerbaijan",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T05:15:33.767986+00:00",
+      "headline_az": "Böyük Britaniyadan şirkətlərə şok xəbərdarlıq: Rusiya təxribatları ola bilər",
+      "summary_az": "Britaniya Müdafiə Nazirliyi və xüsusi xidmət orqanları ölkə daxilindəki şirkətləri potensial Rusiya təxribat təhlükəsi ilə bağlı xəbərdar ediblər. Nadir hallarda edilən bu cür açıq xəbərdarlıq rəsmi Londonun təhlükəni olduqca ciddi qəbul etdiyini göstərir.",
+      "topic_key": "uk-warns-russian-sabotage",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
