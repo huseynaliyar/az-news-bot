@@ -3122,7 +3122,15 @@
     "1008042c99083f79": "2026-11-25T19:30:39.266625+00:00",
     "1e95a5c3cd80e94e": "2026-11-25T19:30:39.266625+00:00",
     "08028974b3e50c0e": "2026-11-25T19:30:39.266625+00:00",
-    "a9ca12a94153e265": "2026-11-25T19:30:39.266625+00:00"
+    "a9ca12a94153e265": "2026-11-25T19:30:39.266625+00:00",
+    "818c1bdd9da53ee6": "2026-11-25T19:45:32.259238+00:00",
+    "a709f5ceddd81684": "2026-11-25T19:45:32.259238+00:00",
+    "4f9c2041543d3478": "2026-11-25T19:45:32.259238+00:00",
+    "cc2aa3d2bddd1013": "2026-11-25T19:45:32.259238+00:00",
+    "5e2b3fdbdf790665": "2026-11-25T19:45:32.259238+00:00",
+    "f6199f3965d0c5cf": "2026-11-25T19:45:32.259238+00:00",
+    "71a07b1df043fc19": "2026-11-25T19:45:32.259238+00:00",
+    "cc6e960d226fca72": "2026-11-25T19:45:32.259238+00:00"
   },
   "published_stories": [
     {
@@ -6052,30 +6060,16 @@
         "NTV Dünya",
         "Al Jazeera"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T19:45:32.860897+00:00",
       "headline_az": "Ukrayna hərbçiləri ilk dəfə lazer sistemi ilə Rusiya pilotsuz uçuş aparatını vurdu",
       "summary_az": "Ukrayna ordusu döyüş şəraitində ilk dəfə olaraq \"Blysk\" lazer sistemindən istifadə etməklə Rusiya istehsalı olan reaktiv mühərrikli PUA-nı zərərsizləşdirib. Bu texnoloji uğur cəbhədə hava müdafiəsi sistemlərinin yeni mərhələyə keçdiyini göstərir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "ukraine-laser-drone-down",
-      "source_indices": [
-        10
-      ],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-25T19:30:39.238777+00:00"
+        "Al Jazeera"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
