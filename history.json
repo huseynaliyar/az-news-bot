@@ -2775,7 +2775,28 @@
     "cc744f3f396acb39": "2026-11-25T12:46:22.143574+00:00",
     "67e6007ab024c7be": "2026-11-25T12:46:22.143574+00:00",
     "f35bd9ecd2734e8a": "2026-11-25T12:46:22.143574+00:00",
-    "e6f254fc00fb3afe": "2026-11-25T12:46:22.143574+00:00"
+    "e6f254fc00fb3afe": "2026-11-25T12:46:22.143574+00:00",
+    "f18ce1da0195d763": "2026-11-25T13:00:43.390047+00:00",
+    "1ef551d1c9c24969": "2026-11-25T13:00:43.390047+00:00",
+    "46c62c5b79963be3": "2026-11-25T13:00:43.390047+00:00",
+    "e59402b305627107": "2026-11-25T13:00:43.390047+00:00",
+    "28109c0b48882622": "2026-11-25T13:00:43.390047+00:00",
+    "dac7c8cea5eddd65": "2026-11-25T13:00:43.390047+00:00",
+    "33793fa46be4f2bc": "2026-11-25T13:00:43.390047+00:00",
+    "2fe33d71a69f6c40": "2026-11-25T13:00:43.390047+00:00",
+    "b83aa61a9e5d73eb": "2026-11-25T13:00:43.390047+00:00",
+    "a4659f967d3e1d6e": "2026-11-25T13:00:43.390047+00:00",
+    "7a3d7a63aed72b34": "2026-11-25T13:00:43.390047+00:00",
+    "ee5dc09578cb12e1": "2026-11-25T13:00:43.390047+00:00",
+    "b5b50f72d02d9eb0": "2026-11-25T13:00:43.390047+00:00",
+    "bfa5cec7900c8197": "2026-11-25T13:00:43.390047+00:00",
+    "889ed83023807d75": "2026-11-25T13:00:43.390047+00:00",
+    "d579447506659472": "2026-11-25T13:00:43.390047+00:00",
+    "f05f35497dcfd446": "2026-11-25T13:00:43.390047+00:00",
+    "ec57c99a6a096767": "2026-11-25T13:00:43.390047+00:00",
+    "d7f8df890f989b59": "2026-11-25T13:00:43.390047+00:00",
+    "79a298acf9520c42": "2026-11-25T13:00:43.390047+00:00",
+    "59a2bf5577162d8b": "2026-11-25T13:00:43.390047+00:00"
   },
   "published_stories": [
     {
@@ -5548,42 +5569,20 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-25T13:00:46.176054+00:00",
+      "headline_az": "Türkiyədə '25 Noyabr' mesajı: Şiddətə sıfır tolerans",
+      "summary_az": "Türkiyə Prezidenti Rəcəb Tayyib Ərdoğan və Ailə və Sosial Xidmətlər naziri Mahinur Özdemir Göktaş, '25 Noyabr - Qadına Yönəlik Şiddətlə Beynəlxalq Mübarizə Günü' çərçivəsində şiddətin heç bir bəhanəsi olmadığını vurğulayıblar. Rəsmi şəxslər qadınlara qarşı zorakılığa qarşı mübarizədə 'sıfır tolerans' prinsipinin əsas götürüldüyünü bəyan ediblər.",
+      "topic_key": "turkey-violence-against-women-day",
+      "sources": [
+        "TRT Haber",
+        "NTV Gündem",
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Türkiyədə '25 Noyabr' mesajı: Şiddətə sıfır tolerans",
-      "summary_az": "Türkiyə Prezidenti Rəcəb Tayyib Ərdoğan və Ailə və Sosial Xidmətlər naziri Mahinur Özdemir Göktaş, '25 Noyabr - Qadına Yönəlik Şiddətlə Beynəlxalq Mübarizə Günü' çərçivəsində şiddətin heç bir bəhanəsi olmadığını vurğulayıblar. Rəsmi şəxslər qadınlara qarşı zorakılığa qarşı mübarizədə 'sıfır tolerans' prinsipinin əsas götürüldüyünü bəyan ediblər.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-violence-against-women-day",
-      "source_indices": [
-        5,
-        6,
-        7,
-        9
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-964437.html"
-        },
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siddetin-bahanesi-olamaz-1752561"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/turkiye/bakan-goktastan-kadina-siddete-sifir-tolerans-mesaji-3498066"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/images/erdoğan-387654.png",
-      "queued_at": "2026-11-25T12:15:53.527589+00:00"
-    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
