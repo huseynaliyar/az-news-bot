@@ -3049,7 +3049,15 @@
     "68fbec585c943125": "2026-11-25T17:30:49.440290+00:00",
     "3e500e04dfa2ba49": "2026-11-25T17:30:49.440290+00:00",
     "5ff6cde7f5d45084": "2026-11-25T17:30:49.440290+00:00",
-    "7ffd895980816cae": "2026-11-25T17:30:49.440290+00:00"
+    "7ffd895980816cae": "2026-11-25T17:30:49.440290+00:00",
+    "c93cde3f5d176014": "2026-11-25T17:46:36.689340+00:00",
+    "62247fa42767869c": "2026-11-25T17:46:36.689340+00:00",
+    "616f02ca3acb27ce": "2026-11-25T17:46:36.689340+00:00",
+    "f92b9152dfb2bf85": "2026-11-25T17:46:36.689340+00:00",
+    "403e3cd31e419b73": "2026-11-25T17:46:36.689340+00:00",
+    "f57028a3c9a21999": "2026-11-25T17:46:36.689340+00:00",
+    "628d3c512960bc42": "2026-11-25T17:46:36.689340+00:00",
+    "17929128d139e3d0": "2026-11-25T17:46:36.689340+00:00"
   },
   "published_stories": [
     {
@@ -5949,6 +5957,15 @@
       "topic_key": "serbiya-mekteb-atesh",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T17:46:37.202291+00:00",
+      "headline_az": "FCC, SpaceX‑in 1 milyon AI çipləri ilə təchiz olunmuş peykini orbitə yerləşdirməsinə icazə verdi",
+      "summary_az": "ABŞ Kommunikasiya Komissiyası, Elon Muskun şirkətinin “Starmind” layihəsi çərçivəsində AI çipləri daşıyan milyondan çox peykin kosmosda işləməsinə razılıq verərək, kosmik internet və məlumat mərkəzləri sahəsində yeni dövr açdı.",
+      "topic_key": "spacex-satellites-az",
+      "sources": [
+        "The Verge"
       ]
     }
   ],
