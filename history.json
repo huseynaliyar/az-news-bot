@@ -2689,7 +2689,25 @@
     "40afd2d6de535bc3": "2026-11-25T11:32:32.277101+00:00",
     "30639ff67475b0e7": "2026-11-25T11:32:32.277101+00:00",
     "8f709f5f43ac06c9": "2026-11-25T11:32:32.277101+00:00",
-    "b240b08be2697b86": "2026-11-25T11:32:32.277101+00:00"
+    "b240b08be2697b86": "2026-11-25T11:32:32.277101+00:00",
+    "c707c4c2069ecbd0": "2026-11-25T11:45:56.150297+00:00",
+    "415080191be7910e": "2026-11-25T11:45:56.150297+00:00",
+    "25193f7b50ec9d59": "2026-11-25T11:45:56.150297+00:00",
+    "a85a61f93c83db3a": "2026-11-25T11:45:56.150297+00:00",
+    "49d80c9e4895a974": "2026-11-25T11:45:56.150297+00:00",
+    "6ac7e40c3db2d588": "2026-11-25T11:45:56.150297+00:00",
+    "7fd593f03ea855c3": "2026-11-25T11:45:56.150297+00:00",
+    "c8dbc61833b7c769": "2026-11-25T11:45:56.150297+00:00",
+    "26e5e3a8de212c4e": "2026-11-25T11:45:56.150297+00:00",
+    "7725994b720dedb5": "2026-11-25T11:45:56.150297+00:00",
+    "12a4a2d7fe6cf49e": "2026-11-25T11:45:56.150297+00:00",
+    "8de2bf71571240bb": "2026-11-25T11:45:56.150297+00:00",
+    "65321d09ac1ebe96": "2026-11-25T11:45:56.150297+00:00",
+    "62175e14a9f83c7f": "2026-11-25T11:45:56.150297+00:00",
+    "e53305b0a47ed300": "2026-11-25T11:45:56.150297+00:00",
+    "331c3951164f6c41": "2026-11-25T11:45:56.150297+00:00",
+    "7b3816cb9913fc69": "2026-11-25T11:45:56.150297+00:00",
+    "6e30e3146aea4660": "2026-11-25T11:45:56.150297+00:00"
   },
   "published_stories": [
     {
@@ -5417,31 +5435,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-25T11:45:56.868275+00:00",
+      "headline_az": "İsrail hücumu: Hamas rəsmisi, arvadı və uşaqları öldürüldü",
+      "summary_az": "İsrail qüvvələrinin həyata keçirdiyi hava hücumu nəticəsində Qazadakı bir mənzildə Hamas rəsmisi, onun arvadı və uşaqları həlak oldu.",
+      "topic_key": "israeli-strike-hamas-official",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İsrail hücumu: Hamas rəsmisi, arvadı və uşaqları öldürüldü",
-      "summary_az": "İsrail qüvvələrinin həyata keçirdiyi hava hücumu nəticəsində Qazadakı bir mənzildə Hamas rəsmisi, onun arvadı və uşaqları həlak oldu.",
-      "category": "Dünya | Konflikt",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "israeli-strike-hamas-official",
-      "source_indices": [
-        12
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-25T11:32:32.256397+00:00"
-    },
     {
       "headline_az": "Microsoft-da 'Qırmızı Kod': Outlook çöküşü nəhəngi hərəkətə keçirdi",
       "summary_az": "Bu ay baş verən və milyonlarla istifadəçini təsir edən genişmiqyaslı Outlook və Exchange Online kəsintisi Microsoft-u daxili 'Qırmızı Kod' elan etməyə məcbur edib. Şirkət sistemin etibarlılığını bərpa etmək üçün fövqəladə tədbirlər görür.",
