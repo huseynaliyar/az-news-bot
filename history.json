@@ -2305,7 +2305,14 @@
     "9e7c5c44b109d296": "2026-11-25T05:30:35.175784+00:00",
     "70db7248431e3d9a": "2026-11-25T05:30:35.175784+00:00",
     "8f9fb233bffe9afd": "2026-11-25T05:30:35.175784+00:00",
-    "a018244d4e9d9ae9": "2026-11-25T05:30:35.175784+00:00"
+    "a018244d4e9d9ae9": "2026-11-25T05:30:35.175784+00:00",
+    "84ddab65057c9a33": "2026-11-25T05:45:52.239899+00:00",
+    "893570b837f83cb0": "2026-11-25T05:45:52.239899+00:00",
+    "0cfb3bec87a91018": "2026-11-25T05:45:52.239899+00:00",
+    "20c3705a52fed00b": "2026-11-25T05:45:52.239899+00:00",
+    "966e03f2d4067d00": "2026-11-25T05:45:52.239899+00:00",
+    "1b7cb40c06a648e5": "2026-11-25T05:45:52.239899+00:00",
+    "e0b2212cdc385527": "2026-11-25T05:45:52.239899+00:00"
   },
   "published_stories": [
     {
@@ -4897,6 +4904,15 @@
       "topic_key": "uk-warns-russian-sabotage",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T05:45:53.282515+00:00",
+      "headline_az": "Trampın İrana qarşı hərbi planları üçün maliyyə təsdiqləndi",
+      "summary_az": "ABŞ Prezidenti Donald Tramp Vaşinqtonun Tehrana qarşı hərbi kampaniyasının 2027-ci ilin yanvar ayınadək maliyyələşdirilməsinin təmin olunduğunu açıqlayıb. Bu addım regionda gərginliyin yeni mərhələyə keçə biləcəyi ilə bağlı narahatlıqları artırır.",
+      "topic_key": "trump-iran-military-funding",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
