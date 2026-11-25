@@ -2821,7 +2821,22 @@
     "6907848fa616695d": "2026-11-25T13:16:17.677265+00:00",
     "4aa11a46323c6957": "2026-11-25T13:16:17.677265+00:00",
     "99e5c21ecb0a1f9a": "2026-11-25T13:16:17.677265+00:00",
-    "399ebf8f0fe91c05": "2026-11-25T13:16:17.677265+00:00"
+    "399ebf8f0fe91c05": "2026-11-25T13:16:17.677265+00:00",
+    "53dc70c863b64bcd": "2026-11-25T13:31:10.956909+00:00",
+    "4e1c26abd7697e5b": "2026-11-25T13:31:10.956909+00:00",
+    "9a6a27ba4b17b8bf": "2026-11-25T13:31:10.956909+00:00",
+    "1bec9d1dfc5fb323": "2026-11-25T13:31:10.956909+00:00",
+    "cf3a9f723014cd11": "2026-11-25T13:31:10.956909+00:00",
+    "018f76d77b17cd2f": "2026-11-25T13:31:10.956909+00:00",
+    "6c6ecd52191e173e": "2026-11-25T13:31:10.956909+00:00",
+    "c75f0cda1c66926e": "2026-11-25T13:31:10.956909+00:00",
+    "038a71c98a298c9d": "2026-11-25T13:31:10.956909+00:00",
+    "a3dd17678da2060a": "2026-11-25T13:31:10.956909+00:00",
+    "c6803c6760f84ef0": "2026-11-25T13:31:10.956909+00:00",
+    "3f3e557ae915d07e": "2026-11-25T13:31:10.956909+00:00",
+    "288e3fe72417cbcc": "2026-11-25T13:31:10.956909+00:00",
+    "7ccb252b1baa8feb": "2026-11-25T13:31:10.956909+00:00",
+    "93052b5f65b287ff": "2026-11-25T13:31:10.956909+00:00"
   },
   "published_stories": [
     {
@@ -5613,6 +5628,15 @@
       "topic_key": "us-new-trade-tariffs",
       "sources": [
         "CNBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-25T13:31:12.398084+00:00",
+      "headline_az": "Ukrayna müharibəsində yeni mərhələ: Fon der Lyayendən sülh şərtləri",
+      "summary_az": "Avropa Komissiyasının rəhbəri Ursula fon der Lyayen Rusiya ilə danışıqlar üçün qış barışığı və Qara dənizdə gəmiçilik təhlükəsizliyi kimi yeni ilkin şərtləri irəli sürüb. Bu addım münaqişənin gedişatına təsir edə biləcək mühüm diplomatik təşəbbüs kimi qiymətləndirilir.",
+      "topic_key": "ukraine-peace-talks-conditions",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
