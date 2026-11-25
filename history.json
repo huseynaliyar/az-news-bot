@@ -2721,7 +2721,25 @@
     "2e4696408c48024e": "2026-11-25T12:01:23.379447+00:00",
     "d98c84b629c57f32": "2026-11-25T12:01:23.379447+00:00",
     "bb16bbdea8c2a73a": "2026-11-25T12:01:23.379447+00:00",
-    "f46a0c9ead03e5e1": "2026-11-25T12:01:23.379447+00:00"
+    "f46a0c9ead03e5e1": "2026-11-25T12:01:23.379447+00:00",
+    "3e26fb8c3e4cd308": "2026-11-25T12:15:53.553359+00:00",
+    "f0e03821024ca8d8": "2026-11-25T12:15:53.553359+00:00",
+    "ce10aa0be5df9899": "2026-11-25T12:15:53.553359+00:00",
+    "2a70c524bb206d2f": "2026-11-25T12:15:53.553359+00:00",
+    "05ea7e242d7f38d9": "2026-11-25T12:15:53.553359+00:00",
+    "8e4c58a51bf75dc4": "2026-11-25T12:15:53.553359+00:00",
+    "988f2f64a9339f77": "2026-11-25T12:15:53.553359+00:00",
+    "f6bfd8505d17dc4e": "2026-11-25T12:15:53.553359+00:00",
+    "2d35e08d8b11a34a": "2026-11-25T12:15:53.553359+00:00",
+    "b129890ca9ee6c84": "2026-11-25T12:15:53.553359+00:00",
+    "4cbdde31090b4007": "2026-11-25T12:15:53.553359+00:00",
+    "1ddeb3e6f0ee4d94": "2026-11-25T12:15:53.553359+00:00",
+    "5107c3340d5201e8": "2026-11-25T12:15:53.553359+00:00",
+    "104f94e07563a701": "2026-11-25T12:15:53.553359+00:00",
+    "dad182ded2fc42c9": "2026-11-25T12:15:53.553359+00:00",
+    "93bf9a28fc9507d2": "2026-11-25T12:15:53.553359+00:00",
+    "c75480b87b131c06": "2026-11-25T12:15:53.553359+00:00",
+    "04ae99e77ba9abc9": "2026-11-25T12:15:53.553359+00:00"
   },
   "published_stories": [
     {
@@ -5467,9 +5485,51 @@
       "sources": [
         "The Verge"
       ]
+    },
+    {
+      "published_at": "2026-11-25T12:15:55.165968+00:00",
+      "headline_az": "ABŞ-də siyasi zəlzələ: Demokratlar Konqresdə çoxluğu ələ keçirdi",
+      "summary_az": "ABŞ-də keçirilən ara seçkilərin nəticələrinə görə, Demokratlar Partiyası həm Senatda, həm də Nümayəndələr Palatasında çoxluğu təmin edib. Bu, son otuz ildə partiyanın əldə etdiyi ən yüksək təmsilçilik göstəricisi kimi qeydə alınıb.",
+      "topic_key": "us-congress-election-results",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Türkiyədə '25 Noyabr' mesajı: Şiddətə sıfır tolerans",
+      "summary_az": "Türkiyə Prezidenti Rəcəb Tayyib Ərdoğan və Ailə və Sosial Xidmətlər naziri Mahinur Özdemir Göktaş, '25 Noyabr - Qadına Yönəlik Şiddətlə Beynəlxalq Mübarizə Günü' çərçivəsində şiddətin heç bir bəhanəsi olmadığını vurğulayıblar. Rəsmi şəxslər qadınlara qarşı zorakılığa qarşı mübarizədə 'sıfır tolerans' prinsipinin əsas götürüldüyünü bəyan ediblər.",
+      "category": "Türkiyə",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-violence-against-women-day",
+      "source_indices": [
+        5,
+        6,
+        7,
+        9
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-964437.html"
+        },
+        {
+          "name": "NTV Gündem",
+          "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siddetin-bahanesi-olamaz-1752561"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/turkiye/bakan-goktastan-kadina-siddete-sifir-tolerans-mesaji-3498066"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/images/erdoğan-387654.png",
+      "queued_at": "2026-11-25T12:15:53.527589+00:00"
+    },
     {
       "headline_az": "BioNTech qurucularından yeni nəhəng layihə: 'Arife'",
       "summary_az": "Uğur Şahin və Özlem Türeci cütlüyü 'Arife' adlı yeni şirkət qurur. Onlar bu yeni təşəbbüs üçün 1 milyard dollar investisiya toplamaq məqsədilə danışıqlara başlayıblar.",
