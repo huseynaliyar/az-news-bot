@@ -2342,7 +2342,23 @@
     "064eb8f8f2ce3dc7": "2026-11-25T06:30:32.878971+00:00",
     "ad1198477ce3ee5c": "2026-11-25T06:30:32.878971+00:00",
     "90159bc4e5881f67": "2026-11-25T06:30:32.878971+00:00",
-    "6cd45e2d2b78eb32": "2026-11-25T06:30:32.878971+00:00"
+    "6cd45e2d2b78eb32": "2026-11-25T06:30:32.878971+00:00",
+    "ebce25a44b84c52b": "2026-11-25T06:45:26.057650+00:00",
+    "cbe0ab0cf17a0b1f": "2026-11-25T06:45:26.057650+00:00",
+    "f50fac2007121b6b": "2026-11-25T06:45:26.057650+00:00",
+    "ad4219bad8b587eb": "2026-11-25T06:45:26.057650+00:00",
+    "17b24dd95dfd424b": "2026-11-25T06:45:26.057650+00:00",
+    "1008d7c89122aa90": "2026-11-25T06:45:26.057650+00:00",
+    "f1e0885be382a209": "2026-11-25T06:45:26.057650+00:00",
+    "ba55dbcdca037891": "2026-11-25T06:45:26.057650+00:00",
+    "1f6df62d0afaae66": "2026-11-25T06:45:26.057650+00:00",
+    "079310a4f30ee50e": "2026-11-25T06:45:26.057650+00:00",
+    "494cc0986915a4c1": "2026-11-25T06:45:26.057650+00:00",
+    "64659beb9868c09c": "2026-11-25T06:45:26.057650+00:00",
+    "52d5c5c86bb797f4": "2026-11-25T06:45:26.057650+00:00",
+    "e61e36bf87eb5962": "2026-11-25T06:45:26.057650+00:00",
+    "b789c44f6a150644": "2026-11-25T06:45:26.057650+00:00",
+    "a43565d71e22ba71": "2026-11-25T06:45:26.057650+00:00"
   },
   "published_stories": [
     {
@@ -4953,30 +4969,16 @@
       "sources": [
         "NTV Dünya"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-25T06:45:26.463225+00:00",
       "headline_az": "Kosmik missiya: Dörd il əvvəl vurulan asteroidin aqibəti araşdırılır",
       "summary_az": "Alimlər kosmik gəmi vasitəsilə qəsdən trayektoriyası dəyişdirilmiş asteroidin yerindəki vəziyyəti qiymətləndirmək üçün yenidən həmin bölgəyə qayıdıblar. Bu unikal missiya bəşəriyyətin gələcəkdə potensial asteroid təhlükələrindən qorunması üçün həyati əhəmiyyət daşıyır.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "asteroid-impact-assessment-mission",
-      "source_indices": [
-        8
-      ],
       "sources": [
-        {
-          "name": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
-      "queued_at": "2026-11-25T06:30:32.855180+00:00"
+        "BBC World"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
