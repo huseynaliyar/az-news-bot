@@ -3649,7 +3649,22 @@
     "c6bde1403de88e4e": "2026-11-26T11:00:56.225986+00:00",
     "30a90e3db994c3d7": "2026-11-26T11:00:56.225986+00:00",
     "c966bbec85f0f738": "2026-11-26T11:00:56.225986+00:00",
-    "dd248cfa5dd6f290": "2026-11-26T11:00:56.225986+00:00"
+    "dd248cfa5dd6f290": "2026-11-26T11:00:56.225986+00:00",
+    "c71666b77965bf81": "2026-11-26T11:15:36.778486+00:00",
+    "1b279f7a95a7d4e4": "2026-11-26T11:15:36.778486+00:00",
+    "0e19ee0368f1524e": "2026-11-26T11:15:36.778486+00:00",
+    "b85b515f52df884e": "2026-11-26T11:15:36.778486+00:00",
+    "e61f07000f5b310c": "2026-11-26T11:15:36.778486+00:00",
+    "a9d65527d53d3e4f": "2026-11-26T11:15:36.778486+00:00",
+    "4a9fd14e07259955": "2026-11-26T11:15:36.778486+00:00",
+    "e386c44a3662da87": "2026-11-26T11:15:36.778486+00:00",
+    "8738842810b14740": "2026-11-26T11:15:36.778486+00:00",
+    "5ba6815ba1db7283": "2026-11-26T11:15:36.778486+00:00",
+    "a7802211fad2bb60": "2026-11-26T11:15:36.778486+00:00",
+    "4dff23392d8bab5c": "2026-11-26T11:15:36.778486+00:00",
+    "421dac813ca44297": "2026-11-26T11:15:36.778486+00:00",
+    "5a3995c6dce16293": "2026-11-26T11:15:36.778486+00:00",
+    "e9bb8cd94cac57c5": "2026-11-26T11:15:36.778486+00:00"
   },
   "published_stories": [
     {
@@ -6829,6 +6844,15 @@
       "topic_key": "eu-2-trillion-budget-summit",
       "sources": [
         "NTV Dünya"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T11:15:39.526107+00:00",
+      "headline_az": "Nvidia Asiya ölkələrinə çip tədarükünü dayandırdı",
+      "summary_az": "Vaşinqtonun Çinin qabaqcıl texnologiyalara çıxışını məhdudlaşdırmaq üçün sərtləşdirdiyi ixrac nəzarəti fonunda Nvidia istehsal tərəfdaşlarına Cənub-Şərqi Asiyanın dörd ölkəsinə çip sistemləri göndərməyi qadağan edib. Bu addım qlobal yarımkeçirici bazarında yeni gərginlik yarada bilər.",
+      "topic_key": "nvidia-chip-shipments-suspended",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
