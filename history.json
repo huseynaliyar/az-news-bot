@@ -3300,7 +3300,24 @@
     "d46ec7f0d1b6eb79": "2026-11-26T06:15:39.129075+00:00",
     "7b510bce95de9ca2": "2026-11-26T06:15:39.129075+00:00",
     "1917bbb2beb60c24": "2026-11-26T06:15:39.129075+00:00",
-    "ee943db493ce3d16": "2026-11-26T06:15:39.129075+00:00"
+    "ee943db493ce3d16": "2026-11-26T06:15:39.129075+00:00",
+    "105928618c6748c8": "2026-11-26T06:30:37.434964+00:00",
+    "46f4f69ccbf420c3": "2026-11-26T06:30:37.434964+00:00",
+    "e420095b2a116bfc": "2026-11-26T06:30:37.434964+00:00",
+    "a21c6e05af1be974": "2026-11-26T06:30:37.434964+00:00",
+    "c1675fb46b9d2be2": "2026-11-26T06:30:37.434964+00:00",
+    "ea4d148872706d7b": "2026-11-26T06:30:37.434964+00:00",
+    "3031300ac6c4c66b": "2026-11-26T06:30:37.434964+00:00",
+    "4966a3875c803ae3": "2026-11-26T06:30:37.434964+00:00",
+    "f95df881d48cd30b": "2026-11-26T06:30:37.434964+00:00",
+    "284dca359f31134e": "2026-11-26T06:30:37.434964+00:00",
+    "7a580fdccc83d054": "2026-11-26T06:30:37.434964+00:00",
+    "5736631117eb920b": "2026-11-26T06:30:37.434964+00:00",
+    "b05bf5fc2231ae3f": "2026-11-26T06:30:37.434964+00:00",
+    "f32dd8fa7bb184d0": "2026-11-26T06:30:37.434964+00:00",
+    "99bf6b53d5d383ff": "2026-11-26T06:30:37.434964+00:00",
+    "a765f9217af772d9": "2026-11-26T06:30:37.434964+00:00",
+    "47feae3a806a6e74": "2026-11-26T06:30:37.434964+00:00"
   },
   "published_stories": [
     {
@@ -6303,9 +6320,63 @@
         "TRT Haber",
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-26T06:30:38.852325+00:00",
+      "headline_az": "Azərbaycan və Ermənistan vətəndaş cəmiyyətləri nümayəndələri bir araya gəldi",
+      "summary_az": "Ermənistanda \"Sülh körpüsü\" təşəbbüsü çərçivəsində Azərbaycan və Ermənistan vətəndaş cəmiyyəti nümayəndələrinin iştirakı ilə genişləndirilmiş ikitərəfli dəyirmi masa keçirilir. Noyabrın 26-27-ni əhatə edən görüşdə sülh prosesi və digər aktual məsələlər müzakirə olunur.",
+      "topic_key": "armenia-azerbaijan-civil-society-meeting",
+      "sources": [
+        "Oxu.az",
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Qazaxıstan yaşıl enerjini Azərbaycan üzərindən Avropaya daşıyacaq",
+      "summary_az": "Qazaxıstan Xəzər dənizinin dibi ilə çəkilməsi planlaşdırılan enerji kabeli vasitəsilə öz yaşıl enerji ehtiyatlarını Azərbaycan ərazisindən keçməklə Avropa bazarlarına ixrac etməyi hədəfləyir. Bu layihə regionun enerji xəritəsində yeni strateji mərhələ açacaq.",
+      "category": "İqtisadiyyat",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "kazakhstan-green-energy-azerbaijan-route",
+      "source_indices": [
+        3
+      ],
+      "sources": [
+        {
+          "name": "Oxu.az",
+          "url": "https://oxu.az/siyaset/qazaxistan-azerbaycan-uzerinden-avropaya-yasil-enerji-ixrac-edecek"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.oxu.az/2026/11/26/uI3su0RnodjrWA5WZvZ1Xgl0Tc0xDSohRdZrO4CR:640.webp",
+      "queued_at": "2026-11-26T06:30:37.400682+00:00"
+    },
+    {
+      "headline_az": "ABŞ-ın rəhbərlik etdiyi konsorsium Lukoildən beynəlxalq aktivləri alır",
+      "summary_az": "ABŞ investorlarından ibarət konsorsium Rusiya enerji nəhəngi Lukoildən ölkə xaricindəki neft-qaz aktivlərini idarə edən Lukoil International GmbH şirkətini səhm mübadiləsi vasitəsilə almaq üçün razılığa gəlib.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-consortium-acquires-lukoil-assets",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/region/268119.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2022/07/09/lukoil_071021.jpg",
+      "queued_at": "2026-11-26T06:30:37.400682+00:00"
+    },
     {
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
