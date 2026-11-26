@@ -3439,7 +3439,28 @@
     "d425dd6c2284e75c": "2026-11-26T08:15:32.281801+00:00",
     "247e691cb46580b7": "2026-11-26T08:15:32.281801+00:00",
     "ba0ab335de9b0221": "2026-11-26T08:15:32.281801+00:00",
-    "c2cf0074819c3f24": "2026-11-26T08:15:32.281801+00:00"
+    "c2cf0074819c3f24": "2026-11-26T08:15:32.281801+00:00",
+    "be6be4bc43814d4a": "2026-11-26T08:30:36.074588+00:00",
+    "43d8f54ab4b881b2": "2026-11-26T08:30:36.074588+00:00",
+    "3ab41b755d668c51": "2026-11-26T08:30:36.074588+00:00",
+    "de40fdc9996b5c73": "2026-11-26T08:30:36.074588+00:00",
+    "c19669b369c52c6e": "2026-11-26T08:30:36.074588+00:00",
+    "d72f703747d76e93": "2026-11-26T08:30:36.074588+00:00",
+    "0bbe0a531da19e5e": "2026-11-26T08:30:36.074588+00:00",
+    "1f83e1ef12a87b82": "2026-11-26T08:30:36.074588+00:00",
+    "e1b728a26d2bf5b6": "2026-11-26T08:30:36.074588+00:00",
+    "9d62b47e011c3235": "2026-11-26T08:30:36.074588+00:00",
+    "eeb712c17004eb5f": "2026-11-26T08:30:36.074588+00:00",
+    "5296c2d06a84155d": "2026-11-26T08:30:36.074588+00:00",
+    "8d694e36fe3d3eb0": "2026-11-26T08:30:36.074588+00:00",
+    "942baaa0b2384ca8": "2026-11-26T08:30:36.074588+00:00",
+    "9ccc4a45ef045e70": "2026-11-26T08:30:36.074588+00:00",
+    "6e1166fdfbf9869f": "2026-11-26T08:30:36.074588+00:00",
+    "a06ad699e24b4158": "2026-11-26T08:30:36.074588+00:00",
+    "630e436a7c21f6e4": "2026-11-26T08:30:36.074588+00:00",
+    "a778b6a90f201e38": "2026-11-26T08:30:36.074588+00:00",
+    "0f476677e4ae2950": "2026-11-26T08:30:36.074588+00:00",
+    "687eb8bca231c24c": "2026-11-26T08:30:36.074588+00:00"
   },
   "published_stories": [
     {
@@ -6518,9 +6539,40 @@
         "NTV Gündem",
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-26T08:30:37.227751+00:00",
+      "headline_az": "Yaxın Şərqdəki gərginlik neft qiymətlərini yenidən yüksəldir",
+      "summary_az": "Bölgədəki silahlı qarşıdurmaların enerji ixracına yaratdığı təhdidlər qlobal bazarlara təsir edir. Brent markalı neftin qiyməti ixracat qorxuları fonunda sürətlə bahalaşmağa başlayıb.",
+      "topic_key": "oil-surges-middle-east",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Havadan su istehsal edən texnologiyalar kommersiya yarışına çevrilir",
+      "summary_az": "İqlim dəyişikliyi və quraqlıq fonunda elm adamlarının uğurlu ixtiraları real biznesə transformasiya olunur. 'Atoco' və 'Ahbstra' kimi startaplar havadan su yığan maşınları, xüsusilə məlumat mərkəzləri üçün kütləvi istifadəyə verirlər.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "water-harvesting-technology",
+      "source_indices": [
+        20
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-26T08:30:36.058050+00:00"
+    },
     {
       "headline_az": "Konqoda Ebola epidemiyası sürətlə yayılır",
       "summary_az": "Konqo Demokratik Respublikasında Ebola virusuna yoluxanların sayı 12 mini ötüb. Şərq bölgəsindəki silahlı qarşıdurmalar səhiyyə işçilərinin fəaliyyətinə ciddi maneə törədir və böhranı dərinləşdirir.",
