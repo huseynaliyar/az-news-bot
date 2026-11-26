@@ -3376,7 +3376,23 @@
     "de43ec7d2e4ee3c7": "2026-11-26T07:15:32.202413+00:00",
     "2a2ca9a34f0a8bb7": "2026-11-26T07:15:32.202413+00:00",
     "c6949d3f0c71fad1": "2026-11-26T07:15:32.202413+00:00",
-    "447746542593407f": "2026-11-26T07:15:32.202413+00:00"
+    "447746542593407f": "2026-11-26T07:15:32.202413+00:00",
+    "1aa9498108a0c737": "2026-11-26T07:30:39.257487+00:00",
+    "29baab45828cba58": "2026-11-26T07:30:39.257487+00:00",
+    "ebb2ad0874d8dfde": "2026-11-26T07:30:39.257487+00:00",
+    "baa39842fac2ffaf": "2026-11-26T07:30:39.257487+00:00",
+    "2f63930acde01fa5": "2026-11-26T07:30:39.257487+00:00",
+    "a018a11b34f34986": "2026-11-26T07:30:39.257487+00:00",
+    "26843c65ede7d6de": "2026-11-26T07:30:39.257487+00:00",
+    "49d300f4d978bb78": "2026-11-26T07:30:39.257487+00:00",
+    "7e936b6eb459f72f": "2026-11-26T07:30:39.257487+00:00",
+    "0d5b5eec3eb900c8": "2026-11-26T07:30:39.257487+00:00",
+    "832529166051c575": "2026-11-26T07:30:39.257487+00:00",
+    "66ede62134ce29df": "2026-11-26T07:30:39.257487+00:00",
+    "8c94c31419a8fe9b": "2026-11-26T07:30:39.257487+00:00",
+    "d725e154efddc8bd": "2026-11-26T07:30:39.257487+00:00",
+    "702ff124ae0d8714": "2026-11-26T07:30:39.257487+00:00",
+    "2f23c282532c1df9": "2026-11-26T07:30:39.257487+00:00"
   },
   "published_stories": [
     {
@@ -6417,31 +6433,18 @@
         "Oxu.az",
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-26T07:30:40.332716+00:00",
+      "headline_az": "ABŞ-ın rəhbərlik etdiyi konsorsium Lukoildən beynəlxalq aktivləri alır",
+      "summary_az": "ABŞ investorlarından ibarət konsorsium Rusiya enerji nəhəngi Lukoildən ölkə xaricindəki neft-qaz aktivlərini idarə edən Lukoil International GmbH şirkətini səhm mübadiləsi vasitəsilə almaq üçün razılığa gəlib.",
+      "topic_key": "us-consortium-acquires-lukoil-assets",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "ABŞ-ın rəhbərlik etdiyi konsorsium Lukoildən beynəlxalq aktivləri alır",
-      "summary_az": "ABŞ investorlarından ibarət konsorsium Rusiya enerji nəhəngi Lukoildən ölkə xaricindəki neft-qaz aktivlərini idarə edən Lukoil International GmbH şirkətini səhm mübadiləsi vasitəsilə almaq üçün razılığa gəlib.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "us-consortium-acquires-lukoil-assets",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/region/268119.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2022/07/09/lukoil_071021.jpg",
-      "queued_at": "2026-11-26T06:30:37.400682+00:00"
-    },
     {
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
