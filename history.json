@@ -3633,7 +3633,23 @@
     "af880057cfd0f4de": "2026-11-26T10:46:03.835876+00:00",
     "2d7e7c1816fe02d2": "2026-11-26T10:46:03.835876+00:00",
     "8477aad149722315": "2026-11-26T10:46:03.835876+00:00",
-    "d23cbb29061632a0": "2026-11-26T10:46:03.835876+00:00"
+    "d23cbb29061632a0": "2026-11-26T10:46:03.835876+00:00",
+    "cd42571ea1b2f712": "2026-11-26T11:00:56.225986+00:00",
+    "bd933b42c5c2e7a1": "2026-11-26T11:00:56.225986+00:00",
+    "c78d8ef30d9c3ef8": "2026-11-26T11:00:56.225986+00:00",
+    "cf8c3cf41827feeb": "2026-11-26T11:00:56.225986+00:00",
+    "0db2b47719438061": "2026-11-26T11:00:56.225986+00:00",
+    "e7534d71ee49e4d9": "2026-11-26T11:00:56.225986+00:00",
+    "af273a316137958b": "2026-11-26T11:00:56.225986+00:00",
+    "b964cf059aac51e0": "2026-11-26T11:00:56.225986+00:00",
+    "bf43804ff38f15ff": "2026-11-26T11:00:56.225986+00:00",
+    "722dedfef448a549": "2026-11-26T11:00:56.225986+00:00",
+    "6de88bc1e4be7ba4": "2026-11-26T11:00:56.225986+00:00",
+    "66aed17f7e79b774": "2026-11-26T11:00:56.225986+00:00",
+    "c6bde1403de88e4e": "2026-11-26T11:00:56.225986+00:00",
+    "30a90e3db994c3d7": "2026-11-26T11:00:56.225986+00:00",
+    "c966bbec85f0f738": "2026-11-26T11:00:56.225986+00:00",
+    "dd248cfa5dd6f290": "2026-11-26T11:00:56.225986+00:00"
   },
   "published_stories": [
     {
@@ -6805,30 +6821,16 @@
       "sources": [
         "The Verge"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-26T11:00:57.432437+00:00",
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "eu-2-trillion-budget-summit",
-      "source_indices": [
-        5
-      ],
       "sources": [
-        {
-          "name": "NTV Dünya",
-          "url": "https://www.ntv.com.tr/dunya/avrupa-birligi-2-trilyon-euroluk-butce-gorusmelerine-basliyor-1752631"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/images/S7HU3AXYRBOXTIF2ALMAZG3LOY-137939.jpg",
-      "queued_at": "2026-11-26T06:00:44.046418+00:00"
+        "NTV Dünya"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
