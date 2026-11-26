@@ -3696,7 +3696,27 @@
     "32bf3d88280dfe55": "2026-11-26T11:45:36.540423+00:00",
     "1a3cda27f5916386": "2026-11-26T11:45:36.540423+00:00",
     "30c1d7d0e5f15967": "2026-11-26T11:45:36.540423+00:00",
-    "38ca9838de96ca28": "2026-11-26T11:45:36.540423+00:00"
+    "38ca9838de96ca28": "2026-11-26T11:45:36.540423+00:00",
+    "de5e9c3b2060c2ce": "2026-11-26T12:00:50.922242+00:00",
+    "e1d050e163879544": "2026-11-26T12:00:50.922242+00:00",
+    "8ac74d86ae4882c9": "2026-11-26T12:00:50.922242+00:00",
+    "94dd8e8c7e66cc14": "2026-11-26T12:00:50.922242+00:00",
+    "1001d67f25ff7e5a": "2026-11-26T12:00:50.922242+00:00",
+    "69d78d256d552dcb": "2026-11-26T12:00:50.922242+00:00",
+    "562ab45bdfc29e4c": "2026-11-26T12:00:50.922242+00:00",
+    "0e3d98532107fb5b": "2026-11-26T12:00:50.922242+00:00",
+    "e81d6bd3540ba9db": "2026-11-26T12:00:50.922242+00:00",
+    "f66d95286822c901": "2026-11-26T12:00:50.922242+00:00",
+    "7299aed673808c43": "2026-11-26T12:00:50.922242+00:00",
+    "48a8b28cddeada03": "2026-11-26T12:00:50.922242+00:00",
+    "0509acd3205b5be1": "2026-11-26T12:00:50.922242+00:00",
+    "fab8bf7240868f2e": "2026-11-26T12:00:50.922242+00:00",
+    "4de1f46595d08695": "2026-11-26T12:00:50.922242+00:00",
+    "211fe8930edc6a53": "2026-11-26T12:00:50.922242+00:00",
+    "9e32e6e60d876a9c": "2026-11-26T12:00:50.922242+00:00",
+    "85b64342f71d194b": "2026-11-26T12:00:50.922242+00:00",
+    "b83a2d6b1751b066": "2026-11-26T12:00:50.922242+00:00",
+    "05cadaa4a6a3f7fe": "2026-11-26T12:00:50.922242+00:00"
   },
   "published_stories": [
     {
@@ -6904,30 +6924,16 @@
       "sources": [
         "AzerNews"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-26T12:00:51.576326+00:00",
       "headline_az": "Diş xəstəliklərində inanılmaz kəşf: Sadə qatqılar antibiotikləri əvəz edə bilər",
       "summary_az": "Alimlərin son araşdırması göstərib ki, omeqa-3 və aşağı dozalı aspirinin kombinasiyası ağır diş əti xəstəliklərinin müalicəsində ənənəvi antibiotiklər qədər effektiv nəticə verir. Ən maraqlısı odur ki, bu təbii qatqıların müsbət təsiri müalicə bitdikdən sonra da uzun müddət davam edir.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "omega3-aspirin-gum-disease",
-      "source_indices": [
-        14
-      ],
       "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-26T11:45:36.523806+00:00"
+        "ScienceDaily"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
