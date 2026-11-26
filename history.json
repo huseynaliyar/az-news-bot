@@ -3274,7 +3274,19 @@
     "b4aa8d7229e69832": "2026-11-26T05:45:31.232991+00:00",
     "dc68de7f900c1614": "2026-11-26T05:45:31.232991+00:00",
     "2eb781de518adb27": "2026-11-26T05:45:31.232991+00:00",
-    "cfeccec077eaab2c": "2026-11-26T05:45:31.232991+00:00"
+    "cfeccec077eaab2c": "2026-11-26T05:45:31.232991+00:00",
+    "15898e911c5f8b1c": "2026-11-26T06:00:44.059477+00:00",
+    "42b5025635b90c11": "2026-11-26T06:00:44.059477+00:00",
+    "daef254dd2fadf9d": "2026-11-26T06:00:44.059477+00:00",
+    "bb5a9d362bd5fb35": "2026-11-26T06:00:44.059477+00:00",
+    "a446c2c02c9dc38b": "2026-11-26T06:00:44.059477+00:00",
+    "ed6b595ed8e4638c": "2026-11-26T06:00:44.059477+00:00",
+    "b16bd0927dcf0251": "2026-11-26T06:00:44.059477+00:00",
+    "d4852e2f9786138c": "2026-11-26T06:00:44.059477+00:00",
+    "cbc8c0735258f8c3": "2026-11-26T06:00:44.059477+00:00",
+    "d025794c0d8acd68": "2026-11-26T06:00:44.059477+00:00",
+    "29f9160f60a1f648": "2026-11-26T06:00:44.059477+00:00",
+    "dfb36ade80668ec7": "2026-11-26T06:00:44.059477+00:00"
   },
   "published_stories": [
     {
@@ -6258,7 +6270,39 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-26T06:00:44.728259+00:00",
+      "headline_az": "Yargıtaydan IBAN mağdurlarına ədalətli qərar",
+      "summary_az": "Türkiyənin Ali Məhkəməsi bank hesabını başqasına istifadəyə verdiyi üçün dələduzluqda təqsirli bilinən və \"IBAN mağduru\" kimi tanınan şəxslərlə bağlı ittiham qərarını ləğv edib. Bu addım sosial mediada və hüquq müstəvisində böyük rezonans doğurub.",
+      "topic_key": "yargitay-iban-magdurlari-qerar",
+      "sources": [
+        "NTV Gündem"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
+      "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "eu-2-trillion-budget-summit",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/avrupa-birligi-2-trilyon-euroluk-butce-gorusmelerine-basliyor-1752631"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/images/S7HU3AXYRBOXTIF2ALMAZG3LOY-137939.jpg",
+      "queued_at": "2026-11-26T06:00:44.046418+00:00"
+    }
+  ]
 }
