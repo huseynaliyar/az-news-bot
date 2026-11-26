@@ -3406,7 +3406,25 @@
     "8f6db71bb49e2f49": "2026-11-26T07:45:28.961531+00:00",
     "7ca133f67a1806e1": "2026-11-26T07:45:28.961531+00:00",
     "2117f0bf9de9da4b": "2026-11-26T07:45:28.961531+00:00",
-    "f0a6a9f9eb49a9fb": "2026-11-26T07:45:28.961531+00:00"
+    "f0a6a9f9eb49a9fb": "2026-11-26T07:45:28.961531+00:00",
+    "7937449351b5b38c": "2026-11-26T08:00:50.072934+00:00",
+    "62c294b9c35bf4d9": "2026-11-26T08:00:50.072934+00:00",
+    "63f68bd863dc79d4": "2026-11-26T08:00:50.072934+00:00",
+    "5a9cae20c81fbef9": "2026-11-26T08:00:50.072934+00:00",
+    "1d81b39df0834cd2": "2026-11-26T08:00:50.072934+00:00",
+    "ac9091acc4cf4cc9": "2026-11-26T08:00:50.072934+00:00",
+    "dbd282c7300cebdc": "2026-11-26T08:00:50.072934+00:00",
+    "672cfbee4ee8351f": "2026-11-26T08:00:50.072934+00:00",
+    "bd302814e05a92a2": "2026-11-26T08:00:50.072934+00:00",
+    "d0b137b3f51c11ff": "2026-11-26T08:00:50.072934+00:00",
+    "2a30741aa5d9ae29": "2026-11-26T08:00:50.072934+00:00",
+    "5518ae3f31f17dd3": "2026-11-26T08:00:50.072934+00:00",
+    "b179630d3edafc63": "2026-11-26T08:00:50.072934+00:00",
+    "6ef4097959859684": "2026-11-26T08:00:50.072934+00:00",
+    "7d493f67818aa08d": "2026-11-26T08:00:50.072934+00:00",
+    "1556d3830e2b3a4f": "2026-11-26T08:00:50.072934+00:00",
+    "a7d3ba3abaa41461": "2026-11-26T08:00:50.072934+00:00",
+    "b174484331848afd": "2026-11-26T08:00:50.072934+00:00"
   },
   "published_stories": [
     {
@@ -6465,9 +6483,40 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-26T08:00:51.958314+00:00",
+      "headline_az": "Avropanın ən böyük peyk fabriki açıldı",
+      "summary_az": "Avropa İlon Maskın Starlink şəbəkəsinə rəqabət üçün nəhəng peyk fabrikinin açılışını edib. 20 min kvadratmetrlik nəhəng zavod ildə 500-ə qədər peyk istehsal etmək gücünə malikdir.",
+      "topic_key": "europe-largest-satellite-factory",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Konqoda Ebola epidemiyası sürətlə yayılır",
+      "summary_az": "Konqo Demokratik Respublikasında Ebola virusuna yoluxanların sayı 12 mini ötüb. Şərq bölgəsindəki silahlı qarşıdurmalar səhiyyə işçilərinin fəaliyyətinə ciddi maneə törədir və böhranı dərinləşdirir.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "dr-congo-ebola-outbreak",
+      "source_indices": [
+        15
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-26T08:00:50.060110+00:00"
+    },
     {
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
