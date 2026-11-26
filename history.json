@@ -4080,7 +4080,16 @@
     "6f2d7c396033d657": "2026-11-26T19:00:43.029627+00:00",
     "663f0f630a3f5343": "2026-11-26T19:00:43.029627+00:00",
     "b7095d70f93168da": "2026-11-26T19:00:43.029627+00:00",
-    "e6ea6dc3b73a267e": "2026-11-26T19:00:43.029627+00:00"
+    "e6ea6dc3b73a267e": "2026-11-26T19:00:43.029627+00:00",
+    "d545f9eda1a22033": "2026-11-26T19:15:31.442921+00:00",
+    "169127cdefee2750": "2026-11-26T19:15:31.442921+00:00",
+    "4f9e587fce8e46be": "2026-11-26T19:15:31.442921+00:00",
+    "b62231bdcd7e1a54": "2026-11-26T19:15:31.442921+00:00",
+    "b2a88b4d94bbf569": "2026-11-26T19:15:31.442921+00:00",
+    "747bd29bc3902685": "2026-11-26T19:15:31.442921+00:00",
+    "18d0c88a4ca542f4": "2026-11-26T19:15:31.442921+00:00",
+    "e5e0f8e941765e24": "2026-11-26T19:15:31.442921+00:00",
+    "71f507d4a213bff3": "2026-11-26T19:15:31.442921+00:00"
   },
   "published_stories": [
     {
@@ -7378,6 +7387,15 @@
       "topic_key": "gta-6-customization-clothes",
       "sources": [
         "IGN"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T19:15:31.827811+00:00",
+      "headline_az": "Almaniyada sinaqoqa hücum hazırlayan şəxslər saxlanıldı",
+      "summary_az": "Almaniyanın Heydelberq və Kölun şəhərlərində həyata keçirilən antiterror əməliyyatları zamanı iki şübhəli islamçı yaxalanıb. Onların yəhudi ibadətgahına – sinaqoqa qarşı terror aktı planlaşdırdıqları ehtimal olunur.",
+      "topic_key": "germany-synagogue-attack-plot",
+      "sources": [
+        "Google News World"
       ]
     }
   ],
