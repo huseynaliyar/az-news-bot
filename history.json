@@ -3936,7 +3936,24 @@
     "a8ff48e2951f6a8d": "2026-11-26T15:30:52.639435+00:00",
     "b39111c682ec8c33": "2026-11-26T15:30:52.639435+00:00",
     "ce79d600ad022dfd": "2026-11-26T15:30:52.639435+00:00",
-    "8f8e393fcaf6fd16": "2026-11-26T15:30:52.639435+00:00"
+    "8f8e393fcaf6fd16": "2026-11-26T15:30:52.639435+00:00",
+    "c3b3dddd541c05e2": "2026-11-26T15:45:30.788081+00:00",
+    "be58c69fb049e911": "2026-11-26T15:45:30.788081+00:00",
+    "537544c87752683c": "2026-11-26T15:45:30.788081+00:00",
+    "5089abe501262307": "2026-11-26T15:45:30.788081+00:00",
+    "8d9c66f8295162d4": "2026-11-26T15:45:30.788081+00:00",
+    "a9e74636ef3fd0bd": "2026-11-26T15:45:30.788081+00:00",
+    "fdd0323496b4a2d9": "2026-11-26T15:45:30.788081+00:00",
+    "524a44d4e0f86f41": "2026-11-26T15:45:30.788081+00:00",
+    "5218eddcfde79f49": "2026-11-26T15:45:30.788081+00:00",
+    "53fe6c6a0627a7a3": "2026-11-26T15:45:30.788081+00:00",
+    "1d9d5a1a63d8d425": "2026-11-26T15:45:30.788081+00:00",
+    "2deeddfda5cb4b8b": "2026-11-26T15:45:30.788081+00:00",
+    "084a4431010e275d": "2026-11-26T15:45:30.788081+00:00",
+    "06bc6ab7b17c1c10": "2026-11-26T15:45:30.788081+00:00",
+    "cdf4329b559b141c": "2026-11-26T15:45:30.788081+00:00",
+    "2957e401fdcd688e": "2026-11-26T15:45:30.788081+00:00",
+    "eb7fcc6a71409cef": "2026-11-26T15:45:30.788081+00:00"
   },
   "published_stories": [
     {
@@ -7215,6 +7232,15 @@
       "topic_key": "kuwait-drone-attack-italy",
       "sources": [
         "Oxu.az",
+        "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T15:45:31.334433+00:00",
+      "headline_az": "Türkiyə enerjidə yeni addım atdı: Afrika sahillərində ortqlıq",
+      "summary_az": "Energetika və təbii sərvətlər naziri Alparslan Bayraktar Qərbi Afrikada yerləşən Gine-Bissau-nun iki dəniz sahəsində Chevron şirkəti ilə ortaq olaraq enerji layihələrinə başladıqlarını açıqlayıb. Bu razılaşma Türkiyənin qlobal enerji strategiyasında mühüm mərhələdir.",
+      "topic_key": "turkey-chevron-energy-deal",
+      "sources": [
         "CNN Türk"
       ]
     }
