@@ -3490,7 +3490,29 @@
     "31fbcbb6e2132992": "2026-11-26T08:45:26.522944+00:00",
     "d4104ee490d692b5": "2026-11-26T08:45:26.522944+00:00",
     "f5c942c6a0c549c0": "2026-11-26T08:45:26.522944+00:00",
-    "dd56eae0ca202e84": "2026-11-26T08:45:26.522944+00:00"
+    "dd56eae0ca202e84": "2026-11-26T08:45:26.522944+00:00",
+    "73c7813c6ee3967e": "2026-11-26T09:00:36.597026+00:00",
+    "d9edb57be3844eac": "2026-11-26T09:00:36.597026+00:00",
+    "b643a5af45182b07": "2026-11-26T09:00:36.597026+00:00",
+    "f4079c7771a4be71": "2026-11-26T09:00:36.597026+00:00",
+    "00f4e9b84385eef0": "2026-11-26T09:00:36.597026+00:00",
+    "38665ca77b0d3719": "2026-11-26T09:00:36.597026+00:00",
+    "5e090e815613db33": "2026-11-26T09:00:36.597026+00:00",
+    "5c6ffed34ddc58ff": "2026-11-26T09:00:36.597026+00:00",
+    "9e13a3b29d5d6376": "2026-11-26T09:00:36.597026+00:00",
+    "73bd3b6869dea26d": "2026-11-26T09:00:36.597026+00:00",
+    "18c5d0b4de8713a3": "2026-11-26T09:00:36.597026+00:00",
+    "f4854a198f9fa05d": "2026-11-26T09:00:36.597026+00:00",
+    "7745fb6e890f6498": "2026-11-26T09:00:36.597026+00:00",
+    "ddd11fbfecdb91c9": "2026-11-26T09:00:36.597026+00:00",
+    "815ff35a10790e56": "2026-11-26T09:00:36.597026+00:00",
+    "b16766d5d5008b86": "2026-11-26T09:00:36.597026+00:00",
+    "e2795e46ffbad79b": "2026-11-26T09:00:36.597026+00:00",
+    "05c65400c78fcefd": "2026-11-26T09:00:36.597026+00:00",
+    "b271d52226ceeea6": "2026-11-26T09:00:36.597026+00:00",
+    "baaedc42eab4ded1": "2026-11-26T09:00:36.597026+00:00",
+    "a9c4424582491124": "2026-11-26T09:00:36.597026+00:00",
+    "571f5e2129744a1f": "2026-11-26T09:00:36.597026+00:00"
   },
   "published_stories": [
     {
@@ -6587,31 +6609,18 @@
       "sources": [
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-26T09:00:37.306065+00:00",
+      "headline_az": "Havadan su istehsal edən texnologiyalar kommersiya yarışına çevrilir",
+      "summary_az": "İqlim dəyişikliyi və quraqlıq fonunda elm adamlarının uğurlu ixtiraları real biznesə transformasiya olunur. 'Atoco' və 'Ahbstra' kimi startaplar havadan su yığan maşınları, xüsusilə məlumat mərkəzləri üçün kütləvi istifadəyə verirlər.",
+      "topic_key": "water-harvesting-technology",
+      "sources": [
+        "CNBC World"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Havadan su istehsal edən texnologiyalar kommersiya yarışına çevrilir",
-      "summary_az": "İqlim dəyişikliyi və quraqlıq fonunda elm adamlarının uğurlu ixtiraları real biznesə transformasiya olunur. 'Atoco' və 'Ahbstra' kimi startaplar havadan su yığan maşınları, xüsusilə məlumat mərkəzləri üçün kütləvi istifadəyə verirlər.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "water-harvesting-technology",
-      "source_indices": [
-        20
-      ],
-      "sources": [
-        {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-26T08:30:36.058050+00:00"
-    },
     {
       "headline_az": "Konqoda Ebola epidemiyası sürətlə yayılır",
       "summary_az": "Konqo Demokratik Respublikasında Ebola virusuna yoluxanların sayı 12 mini ötüb. Şərq bölgəsindəki silahlı qarşıdurmalar səhiyyə işçilərinin fəaliyyətinə ciddi maneə törədir və böhranı dərinləşdirir.",
