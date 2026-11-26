@@ -3250,7 +3250,10 @@
     "3fc6e044af9f2abd": "2026-11-26T04:30:33.269452+00:00",
     "40f5a4db1e690335": "2026-11-26T04:30:33.269452+00:00",
     "f4779cae54981727": "2026-11-26T04:30:33.269452+00:00",
-    "99a3db09c49fd955": "2026-11-26T04:30:33.269452+00:00"
+    "99a3db09c49fd955": "2026-11-26T04:30:33.269452+00:00",
+    "09db6f2eab1aad9d": "2026-11-26T04:45:40.041137+00:00",
+    "b688d96b0bbcfd4f": "2026-11-26T04:45:40.041137+00:00",
+    "4a49ccd6816ca1ec": "2026-11-26T04:45:40.041137+00:00"
   },
   "published_stories": [
     {
@@ -6206,6 +6209,15 @@
       "topic_key": "china-energy-azerbaijan-solar",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T04:45:40.813554+00:00",
+      "headline_az": "Ukrayna üçün F-16 dəstəyi: ABŞ-dan yaşıl işıq",
+      "summary_az": "ABŞ Ukraynanın F-16 qırıcıları üçün 622 milyon dollarlıq texniki dəstək və baxım paketinin satışına rəsmi icazə verib. Layihənin maliyyə yükünü isə Belçika, Danimarka, Hollanda və Norveç öz üzərinə götürüb.",
+      "topic_key": "ukraine-f16-support-package",
+      "sources": [
+        "CNN Türk"
       ]
     }
   ],
