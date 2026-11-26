@@ -3857,7 +3857,18 @@
     "5e6b09b111c74459": "2026-11-26T14:15:31.829448+00:00",
     "47c50d44585c43bb": "2026-11-26T14:15:31.829448+00:00",
     "53b91e4b25dcf79f": "2026-11-26T14:15:31.829448+00:00",
-    "51041f1b6f9c6c40": "2026-11-26T14:15:31.829448+00:00"
+    "51041f1b6f9c6c40": "2026-11-26T14:15:31.829448+00:00",
+    "336a98630c127e13": "2026-11-26T14:30:46.838452+00:00",
+    "cc848c8a9a77234c": "2026-11-26T14:30:46.838452+00:00",
+    "ceb41fcb15fc3bed": "2026-11-26T14:30:46.838452+00:00",
+    "bd6180c4539f8ba4": "2026-11-26T14:30:46.838452+00:00",
+    "587aea62d449e975": "2026-11-26T14:30:46.838452+00:00",
+    "59994d1c2d7e051d": "2026-11-26T14:30:46.838452+00:00",
+    "7b5382a0eae74e10": "2026-11-26T14:30:46.838452+00:00",
+    "ce20d507b42fe62d": "2026-11-26T14:30:46.838452+00:00",
+    "07f2fb231dd621c3": "2026-11-26T14:30:46.838452+00:00",
+    "57612d70597bb194": "2026-11-26T14:30:46.838452+00:00",
+    "6b91ecd492b11517": "2026-11-26T14:30:46.838452+00:00"
   },
   "published_stories": [
     {
@@ -7110,7 +7121,39 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-26T14:30:47.477639+00:00",
+      "headline_az": "Misirdə 31 nəfərin ölümünə səbəb olan dəhşətli qəza ilə bağlı sürücü saxlanılıb",
+      "summary_az": "Qahirə yaxınlığında yanacaq daşıyan tankerlə baş verən və 31 nəfərin həyatına son qoyan faciəvi qəzadan sonra Misir hakimiyyəti sürücünü həbs edib. Hadisə ilə bağlı araşdırmalar davam edir.",
+      "topic_key": "egypt-tanker-crash-arrest",
+      "sources": [
+        "Google News World"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Avropa Mərkəzi Bankının rəhbərliyinə Pablo Hernandez de Kos gəlir",
+      "summary_az": "İspaniyadan olan Pablo Hernandez de Kos Avropa Mərkəzi Bankının (AMB) yeni rəhbəri olmağa hazırlaşır. O, gələn il bu vəzifədə Kristin Laqardı əvəz edərək qurumu siyasi qeyri-müəyyənlik dövründə idarə edəcək.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "spain-pablo-hernandez-ecb",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-26T14:30:46.824623+00:00"
+    }
+  ]
 }
