@@ -3527,7 +3527,15 @@
     "125bd4535098e8e0": "2026-11-26T09:15:33.723022+00:00",
     "b02b94427a507960": "2026-11-26T09:15:33.723022+00:00",
     "4a9fa6e27f2ad533": "2026-11-26T09:15:33.723022+00:00",
-    "7ad37684d357710e": "2026-11-26T09:15:33.723022+00:00"
+    "7ad37684d357710e": "2026-11-26T09:15:33.723022+00:00",
+    "1590f607ffc12eaf": "2026-11-26T09:30:34.896227+00:00",
+    "7c450430b9f545e7": "2026-11-26T09:30:34.896227+00:00",
+    "2557c0582595ef57": "2026-11-26T09:30:34.896227+00:00",
+    "d0ab3bdc872f2185": "2026-11-26T09:30:34.896227+00:00",
+    "1fedf7e00aa8331d": "2026-11-26T09:30:34.896227+00:00",
+    "b5972f99c561c06b": "2026-11-26T09:30:34.896227+00:00",
+    "0f41e11e756465be": "2026-11-26T09:30:34.896227+00:00",
+    "d40646d89c8706a4": "2026-11-26T09:30:34.896227+00:00"
   },
   "published_stories": [
     {
@@ -6644,31 +6652,18 @@
         "NTV Gündem",
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-26T09:30:35.425767+00:00",
+      "headline_az": "Konqoda Ebola epidemiyası sürətlə yayılır",
+      "summary_az": "Konqo Demokratik Respublikasında Ebola virusuna yoluxanların sayı 12 mini ötüb. Şərq bölgəsindəki silahlı qarşıdurmalar səhiyyə işçilərinin fəaliyyətinə ciddi maneə törədir və böhranı dərinləşdirir.",
+      "topic_key": "dr-congo-ebola-outbreak",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Konqoda Ebola epidemiyası sürətlə yayılır",
-      "summary_az": "Konqo Demokratik Respublikasında Ebola virusuna yoluxanların sayı 12 mini ötüb. Şərq bölgəsindəki silahlı qarşıdurmalar səhiyyə işçilərinin fəaliyyətinə ciddi maneə törədir və böhranı dərinləşdirir.",
-      "category": "Elm",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "dr-congo-ebola-outbreak",
-      "source_indices": [
-        15
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-26T08:00:50.060110+00:00"
-    },
     {
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
