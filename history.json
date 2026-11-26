@@ -3596,7 +3596,21 @@
     "74cd6a56ca0ff804": "2026-11-26T10:15:43.661328+00:00",
     "441067c9154d6faf": "2026-11-26T10:15:43.661328+00:00",
     "7917a4a82b5b81e0": "2026-11-26T10:15:43.661328+00:00",
-    "b8324026dbdd5a81": "2026-11-26T10:15:43.661328+00:00"
+    "b8324026dbdd5a81": "2026-11-26T10:15:43.661328+00:00",
+    "39275dedb1976e1f": "2026-11-26T10:30:35.843114+00:00",
+    "5dbf46646f1f0fe0": "2026-11-26T10:30:35.843114+00:00",
+    "4f21238babf86f65": "2026-11-26T10:30:35.843114+00:00",
+    "1b579aef3762f64f": "2026-11-26T10:30:35.843114+00:00",
+    "50d449fc1edade66": "2026-11-26T10:30:35.843114+00:00",
+    "d9c05f61173951aa": "2026-11-26T10:30:35.843114+00:00",
+    "4cb1754f271fdadb": "2026-11-26T10:30:35.843114+00:00",
+    "f1f6a60fadf60114": "2026-11-26T10:30:35.843114+00:00",
+    "764d48d6129982e0": "2026-11-26T10:30:35.843114+00:00",
+    "d19f9aafea26584f": "2026-11-26T10:30:35.843114+00:00",
+    "8e45b52e3f884faf": "2026-11-26T10:30:35.843114+00:00",
+    "6277739f03752fe5": "2026-11-26T10:30:35.843114+00:00",
+    "38fec7d7f8d263ef": "2026-11-26T10:30:35.843114+00:00",
+    "3e835f80fb1bee70": "2026-11-26T10:30:35.843114+00:00"
   },
   "published_stories": [
     {
@@ -6747,6 +6761,15 @@
       "headline_az": "Paşinyan: Rusiya sərhədçiləri Ermənistanı tərk edir",
       "summary_az": "Ermənistanın baş naziri Nikol Paşinyan yaxın illərdə Rusiya FTX Sərhəd Xidmətinin ölkə ərazisindəki fəaliyyətinin tam dayandırılacağını açıqlayıb. İrəvan bundan sonra dövlət sərhədlərinin mühafizəsini müstəqil şəkildə həyata keçirəcək.",
       "topic_key": "armenia-russia-border-guards",
+      "sources": [
+        "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T10:30:37.187831+00:00",
+      "headline_az": "İrəvanda “Azərbaycan” şoku: Separatçılar aksiyaya başladı",
+      "summary_az": "Ermənistan hökumətinin Qarabağdan köçən şəxslərin yeni biometrik pasportlarında doğum yeri olaraq beynəlxalq standartlara uyğun şəkildə “Azərbaycan” qeyd etməsi İrəvanda sərt etirazlara səbəb olub. Separatçılar bu addıma qarşı küçələrə tökülərək etiraz aksiyası keçiriblər.",
+      "topic_key": "armenia-passports-azerbaijan-protest",
       "sources": [
         "Oxu.az"
       ]
