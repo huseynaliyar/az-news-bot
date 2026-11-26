@@ -3751,7 +3751,22 @@
     "c24d3535dcc4a387": "2026-11-26T12:30:38.510030+00:00",
     "bd5b8d1def0fea9f": "2026-11-26T12:30:38.510030+00:00",
     "af1942c8d7eea9f7": "2026-11-26T12:30:38.510030+00:00",
-    "349b791f48039113": "2026-11-26T12:30:38.510030+00:00"
+    "349b791f48039113": "2026-11-26T12:30:38.510030+00:00",
+    "f7aa0013dfbaf734": "2026-11-26T12:45:32.510566+00:00",
+    "008275d34a0115e8": "2026-11-26T12:45:32.510566+00:00",
+    "d6b91e7dd33d7d65": "2026-11-26T12:45:32.510566+00:00",
+    "7cfe94e1ce080082": "2026-11-26T12:45:32.510566+00:00",
+    "49b5bf88c253279a": "2026-11-26T12:45:32.510566+00:00",
+    "e35a882cdb3f1492": "2026-11-26T12:45:32.510566+00:00",
+    "057093f676b51e65": "2026-11-26T12:45:32.510566+00:00",
+    "8a94e75a818bf26c": "2026-11-26T12:45:32.510566+00:00",
+    "e15f85755bce683b": "2026-11-26T12:45:32.510566+00:00",
+    "0fa5c13b1f24a3ce": "2026-11-26T12:45:32.510566+00:00",
+    "56c399bf1bcea3fc": "2026-11-26T12:45:32.510566+00:00",
+    "b18973b95f70334d": "2026-11-26T12:45:32.510566+00:00",
+    "f3e005d8f941d6f8": "2026-11-26T12:45:32.510566+00:00",
+    "6e2a3f0a74b99905": "2026-11-26T12:45:32.510566+00:00",
+    "5f3f739cdd45c3cf": "2026-11-26T12:45:32.510566+00:00"
   },
   "published_stories": [
     {
@@ -6976,6 +6991,15 @@
       "topic_key": "hiv-prevention-jab-africa",
       "sources": [
         "BBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T12:45:33.153332+00:00",
+      "headline_az": "Süni intellekt dövründə 'Universal baza gəliri' reallığa çevrilir?",
+      "summary_az": "Süni intellektin iş yerlərini sürətlə əvəz etməsi fonunda mütəxəssislər kütləvi işsizliyin qarşısını almaq üçün universal baza gəlirinin (UBI) tətbiqini müzakirə edirlər. İqtisadçılar bu modelin gələcəyin iqtisadiyyatında qaçılmaz olacağını düşünürlər.",
+      "topic_key": "ai-universal-basic-income",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
