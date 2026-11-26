@@ -3317,7 +3317,28 @@
     "f32dd8fa7bb184d0": "2026-11-26T06:30:37.434964+00:00",
     "99bf6b53d5d383ff": "2026-11-26T06:30:37.434964+00:00",
     "a765f9217af772d9": "2026-11-26T06:30:37.434964+00:00",
-    "47feae3a806a6e74": "2026-11-26T06:30:37.434964+00:00"
+    "47feae3a806a6e74": "2026-11-26T06:30:37.434964+00:00",
+    "1a8c5359d7c8a30f": "2026-11-26T06:45:28.303282+00:00",
+    "73a33b539245b673": "2026-11-26T06:45:28.303282+00:00",
+    "7b46fe0d0a7a4e9d": "2026-11-26T06:45:28.303282+00:00",
+    "6e2758bf114a90ec": "2026-11-26T06:45:28.303282+00:00",
+    "797234c4d1087489": "2026-11-26T06:45:28.303282+00:00",
+    "5bd794f3d9082c55": "2026-11-26T06:45:28.303282+00:00",
+    "5482edd1c7b6e784": "2026-11-26T06:45:28.303282+00:00",
+    "f697531f6b1fad86": "2026-11-26T06:45:28.303282+00:00",
+    "c5fa3d228f7d6987": "2026-11-26T06:45:28.303282+00:00",
+    "4ec674ef90e4386b": "2026-11-26T06:45:28.303282+00:00",
+    "a0f22180f0249e4b": "2026-11-26T06:45:28.303282+00:00",
+    "5421b09493eda7db": "2026-11-26T06:45:28.303282+00:00",
+    "9c48554aa7022a3b": "2026-11-26T06:45:28.303282+00:00",
+    "1b492a833a390865": "2026-11-26T06:45:28.303282+00:00",
+    "bfa2e19768071326": "2026-11-26T06:45:28.303282+00:00",
+    "47460f1e198ba353": "2026-11-26T06:45:28.303282+00:00",
+    "f3199bafd5189373": "2026-11-26T06:45:28.303282+00:00",
+    "11021f4bba26fe07": "2026-11-26T06:45:28.303282+00:00",
+    "7ea37a9061fead47": "2026-11-26T06:45:28.303282+00:00",
+    "fe3ed57c0c0663b5": "2026-11-26T06:45:28.303282+00:00",
+    "4a041e1b8991afdc": "2026-11-26T06:45:28.303282+00:00"
   },
   "published_stories": [
     {
@@ -6330,31 +6351,18 @@
         "Oxu.az",
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-26T06:45:29.333217+00:00",
+      "headline_az": "Qazaxıstan yaşıl enerjini Azərbaycan üzərindən Avropaya daşıyacaq",
+      "summary_az": "Qazaxıstan Xəzər dənizinin dibi ilə çəkilməsi planlaşdırılan enerji kabeli vasitəsilə öz yaşıl enerji ehtiyatlarını Azərbaycan ərazisindən keçməklə Avropa bazarlarına ixrac etməyi hədəfləyir. Bu layihə regionun enerji xəritəsində yeni strateji mərhələ açacaq.",
+      "topic_key": "kazakhstan-green-energy-azerbaijan-route",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Qazaxıstan yaşıl enerjini Azərbaycan üzərindən Avropaya daşıyacaq",
-      "summary_az": "Qazaxıstan Xəzər dənizinin dibi ilə çəkilməsi planlaşdırılan enerji kabeli vasitəsilə öz yaşıl enerji ehtiyatlarını Azərbaycan ərazisindən keçməklə Avropa bazarlarına ixrac etməyi hədəfləyir. Bu layihə regionun enerji xəritəsində yeni strateji mərhələ açacaq.",
-      "category": "İqtisadiyyat",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "kazakhstan-green-energy-azerbaijan-route",
-      "source_indices": [
-        3
-      ],
-      "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/siyaset/qazaxistan-azerbaycan-uzerinden-avropaya-yasil-enerji-ixrac-edecek"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/26/uI3su0RnodjrWA5WZvZ1Xgl0Tc0xDSohRdZrO4CR:640.webp",
-      "queued_at": "2026-11-26T06:30:37.400682+00:00"
-    },
     {
       "headline_az": "ABŞ-ın rəhbərlik etdiyi konsorsium Lukoildən beynəlxalq aktivləri alır",
       "summary_az": "ABŞ investorlarından ibarət konsorsium Rusiya enerji nəhəngi Lukoildən ölkə xaricindəki neft-qaz aktivlərini idarə edən Lukoil International GmbH şirkətini səhm mübadiləsi vasitəsilə almaq üçün razılığa gəlib.",
