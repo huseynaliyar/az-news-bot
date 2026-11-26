@@ -3230,7 +3230,19 @@
     "d5a0e87eaaf899d6": "2026-11-26T04:00:52.166261+00:00",
     "0f9eb605697a24dd": "2026-11-26T04:00:52.166261+00:00",
     "91ee08a3ba24991c": "2026-11-26T04:00:52.166261+00:00",
-    "01a7ca3d219e5b00": "2026-11-26T04:00:52.166261+00:00"
+    "01a7ca3d219e5b00": "2026-11-26T04:00:52.166261+00:00",
+    "ee6920884b0d9523": "2026-11-26T04:15:45.198106+00:00",
+    "b065f4d7d49a6921": "2026-11-26T04:15:45.198106+00:00",
+    "b0dda906d7ec1dbf": "2026-11-26T04:15:45.198106+00:00",
+    "bd79b8b93ef60bb9": "2026-11-26T04:15:45.198106+00:00",
+    "a5568e7e0ab66576": "2026-11-26T04:15:45.198106+00:00",
+    "a6af01c6a9df8bc1": "2026-11-26T04:15:45.198106+00:00",
+    "a067c0da2f1d9669": "2026-11-26T04:15:45.198106+00:00",
+    "77de54dac45fb960": "2026-11-26T04:15:45.198106+00:00",
+    "fe59641da2e33d6e": "2026-11-26T04:15:45.198106+00:00",
+    "5ae1fbb9a7eb3e63": "2026-11-26T04:15:45.198106+00:00",
+    "b06feb7b947b01b9": "2026-11-26T04:15:45.198106+00:00",
+    "c7bd9248faa70c85": "2026-11-26T04:15:45.198106+00:00"
   },
   "published_stories": [
     {
@@ -6168,6 +6180,15 @@
       "topic_key": "ukraine-laser-drone-down",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T04:15:45.915251+00:00",
+      "headline_az": "ABŞ-ın yeni rüsum siyasəti Hindistana Asiyada böyük üstünlük qazandırır",
+      "summary_az": "Vaşinqtonun Çin, Vyetnam və digər rəqib Asiya ölkələrinə tətbiq etməyə hazırlaşdığı əlavə gömrük rüsumları Hindistan ixracatçıları üçün yeni fürsətlər yaradıb. Bu addım regional ticarət balansında yeni rəqabət dalğası yaradır.",
+      "topic_key": "trump-tariffs-india-advantage",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
