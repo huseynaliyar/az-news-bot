@@ -3265,7 +3265,12 @@
     "85e438696ed0fdf9": "2026-11-26T05:15:29.761296+00:00",
     "485c46936d21444c": "2026-11-26T05:15:29.761296+00:00",
     "32d93d839d092e4c": "2026-11-26T05:15:29.761296+00:00",
-    "a5d92bf5b6726d48": "2026-11-26T05:15:29.761296+00:00"
+    "a5d92bf5b6726d48": "2026-11-26T05:15:29.761296+00:00",
+    "551001a274b87903": "2026-11-26T05:30:35.545799+00:00",
+    "373a5db805d589b4": "2026-11-26T05:30:35.545799+00:00",
+    "4e4f9ea027b33228": "2026-11-26T05:30:35.545799+00:00",
+    "b3dbf9ab0374583f": "2026-11-26T05:30:35.545799+00:00",
+    "07620bf2f6f6d909": "2026-11-26T05:30:35.545799+00:00"
   },
   "published_stories": [
     {
@@ -6239,6 +6244,15 @@
       "topic_key": "japan-moon-water-exploration",
       "sources": [
         "NTV Dünya"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T05:30:36.382813+00:00",
+      "headline_az": "Şimali Koreyadan nüvə arsenalını genişləndirmək çağırışı",
+      "summary_az": "Şimala Koreya lideri Kim Çen In beynəlxalq təzyiqləri rədd edərək taktiki nüvə silahlarından daha geniş istifadə olunmasını və ölkənin nüvə arsenalının artırılmasını tələb edib. O, bu statusun heç vaxt dəyişməyəcəyini bəyan edib.",
+      "topic_key": "north-korea-nuclear-arsenal",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
