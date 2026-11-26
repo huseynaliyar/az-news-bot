@@ -3664,7 +3664,19 @@
     "4dff23392d8bab5c": "2026-11-26T11:15:36.778486+00:00",
     "421dac813ca44297": "2026-11-26T11:15:36.778486+00:00",
     "5a3995c6dce16293": "2026-11-26T11:15:36.778486+00:00",
-    "e9bb8cd94cac57c5": "2026-11-26T11:15:36.778486+00:00"
+    "e9bb8cd94cac57c5": "2026-11-26T11:15:36.778486+00:00",
+    "1d0546b4e2da5a1d": "2026-11-26T11:30:58.137492+00:00",
+    "2e11d9acbb84a57a": "2026-11-26T11:30:58.137492+00:00",
+    "9c972190355c400d": "2026-11-26T11:30:58.137492+00:00",
+    "cd99ea3b777f899e": "2026-11-26T11:30:58.137492+00:00",
+    "82d271e77cccdd9e": "2026-11-26T11:30:58.137492+00:00",
+    "c5c34710f3cfcd18": "2026-11-26T11:30:58.137492+00:00",
+    "5573a68df9fe8538": "2026-11-26T11:30:58.137492+00:00",
+    "e9271be2ac3bea5b": "2026-11-26T11:30:58.137492+00:00",
+    "b3322c3f44bbdb11": "2026-11-26T11:30:58.137492+00:00",
+    "e4c5c96c043e0d41": "2026-11-26T11:30:58.137492+00:00",
+    "77942b6bc3f56747": "2026-11-26T11:30:58.137492+00:00",
+    "d89db6eae14e7628": "2026-11-26T11:30:58.137492+00:00"
   },
   "published_stories": [
     {
@@ -6853,6 +6865,15 @@
       "topic_key": "nvidia-chip-shipments-suspended",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T11:30:58.888451+00:00",
+      "headline_az": "Türkiyənin müdafiə sənayesində yeni uğur: 'Tolun L' hədəfi məhv etdi",
+      "summary_az": "Bayraktar Akıncı PUA-sı Aselsan tərəfindən hazırlanan 250 funtluq lazer güdümlü 'Tolun L' sursatını ilk dəfə uğurla sınaqdan keçirib. Sursat 50 kilometr məsafədən hədəfi tam isabetlə vuraraq yüksək dəqiqliyini nümayiş etdirib.",
+      "topic_key": "tolun-l-missile-test",
+      "sources": [
+        "CNN Türk"
       ]
     }
   ],
