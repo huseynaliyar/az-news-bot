@@ -3424,7 +3424,22 @@
     "7d493f67818aa08d": "2026-11-26T08:00:50.072934+00:00",
     "1556d3830e2b3a4f": "2026-11-26T08:00:50.072934+00:00",
     "a7d3ba3abaa41461": "2026-11-26T08:00:50.072934+00:00",
-    "b174484331848afd": "2026-11-26T08:00:50.072934+00:00"
+    "b174484331848afd": "2026-11-26T08:00:50.072934+00:00",
+    "f6ae8602eab71841": "2026-11-26T08:15:32.281801+00:00",
+    "e754424ddce795ad": "2026-11-26T08:15:32.281801+00:00",
+    "22ce241e96695c55": "2026-11-26T08:15:32.281801+00:00",
+    "4cceaabcd1c2d896": "2026-11-26T08:15:32.281801+00:00",
+    "6aebb812855bc5d9": "2026-11-26T08:15:32.281801+00:00",
+    "24c13b5beff7b8ae": "2026-11-26T08:15:32.281801+00:00",
+    "0a11462f02cf062b": "2026-11-26T08:15:32.281801+00:00",
+    "0b58de3ab3b872e3": "2026-11-26T08:15:32.281801+00:00",
+    "9d1752739844439f": "2026-11-26T08:15:32.281801+00:00",
+    "057411dae8e23672": "2026-11-26T08:15:32.281801+00:00",
+    "c6d5db9fd0708d0a": "2026-11-26T08:15:32.281801+00:00",
+    "d425dd6c2284e75c": "2026-11-26T08:15:32.281801+00:00",
+    "247e691cb46580b7": "2026-11-26T08:15:32.281801+00:00",
+    "ba0ab335de9b0221": "2026-11-26T08:15:32.281801+00:00",
+    "c2cf0074819c3f24": "2026-11-26T08:15:32.281801+00:00"
   },
   "published_stories": [
     {
@@ -6491,6 +6506,17 @@
       "topic_key": "europe-largest-satellite-factory",
       "sources": [
         "CNBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T08:15:34.112070+00:00",
+      "headline_az": "MİT-dən kritik qurumlara qarşı siber casusluq şəbəkəsinə əməliyyat",
+      "summary_az": "Türkiyənin Milli İstihbarat Teşkilatı (MİT) tərəfindən həyata keçirilən əməliyyat zamanı müdafiə sənayesi və kritik dövlət qurumlarının kablosuz internet ağlarını hədəf alan xarici siriş kəşfiyyat şəbəkəsi çökdürülüb. Əməliyyat nəticəsində 2 nəfər saxlanılaraq həbs edilib.",
+      "topic_key": "mit-cyber-espionage-operation",
+      "sources": [
+        "TRT Haber",
+        "NTV Gündem",
+        "CNN Türk"
       ]
     }
   ],
