@@ -3286,7 +3286,21 @@
     "cbc8c0735258f8c3": "2026-11-26T06:00:44.059477+00:00",
     "d025794c0d8acd68": "2026-11-26T06:00:44.059477+00:00",
     "29f9160f60a1f648": "2026-11-26T06:00:44.059477+00:00",
-    "dfb36ade80668ec7": "2026-11-26T06:00:44.059477+00:00"
+    "dfb36ade80668ec7": "2026-11-26T06:00:44.059477+00:00",
+    "199cbbb2442345ce": "2026-11-26T06:15:39.129075+00:00",
+    "d59c497efe9839e0": "2026-11-26T06:15:39.129075+00:00",
+    "c074d8cf8900eae1": "2026-11-26T06:15:39.129075+00:00",
+    "dd110b261f1ba740": "2026-11-26T06:15:39.129075+00:00",
+    "494ca1828ce77278": "2026-11-26T06:15:39.129075+00:00",
+    "1c54bc7241f8a32d": "2026-11-26T06:15:39.129075+00:00",
+    "0ddf3a8e98c2688f": "2026-11-26T06:15:39.129075+00:00",
+    "13427115bb1b6bff": "2026-11-26T06:15:39.129075+00:00",
+    "0cf11adae07ccad9": "2026-11-26T06:15:39.129075+00:00",
+    "3f22b3edc688a70f": "2026-11-26T06:15:39.129075+00:00",
+    "d46ec7f0d1b6eb79": "2026-11-26T06:15:39.129075+00:00",
+    "7b510bce95de9ca2": "2026-11-26T06:15:39.129075+00:00",
+    "1917bbb2beb60c24": "2026-11-26T06:15:39.129075+00:00",
+    "ee943db493ce3d16": "2026-11-26T06:15:39.129075+00:00"
   },
   "published_stories": [
     {
@@ -6277,6 +6291,16 @@
       "summary_az": "Türkiyənin Ali Məhkəməsi bank hesabını başqasına istifadəyə verdiyi üçün dələduzluqda təqsirli bilinən və \"IBAN mağduru\" kimi tanınan şəxslərlə bağlı ittiham qərarını ləğv edib. Bu addım sosial mediada və hüquq müstəvisində böyük rezonans doğurub.",
       "topic_key": "yargitay-iban-magdurlari-qerar",
       "sources": [
+        "NTV Gündem"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T06:15:40.589207+00:00",
+      "headline_az": "Türkiyədə sabiq BDDK başçısı haqqında istintaq başladı",
+      "summary_az": "Türkiyənin xəzinə və maliyyə naziri Mehmet Şimşək qurumun təftiş hesabatına əsasən keçmiş BDDK sədri Şahap Kavcıoğlu barəsində istintaq aparılmasına icazə verib. Qərar rəsmi qurumların apardığı ön incələmələrdən sonra qəbul olunub.",
+      "topic_key": "turkey-former-bddk-chief-investigation",
+      "sources": [
+        "TRT Haber",
         "NTV Gündem"
       ]
     }
