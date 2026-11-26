@@ -3338,7 +3338,22 @@
     "11021f4bba26fe07": "2026-11-26T06:45:28.303282+00:00",
     "7ea37a9061fead47": "2026-11-26T06:45:28.303282+00:00",
     "fe3ed57c0c0663b5": "2026-11-26T06:45:28.303282+00:00",
-    "4a041e1b8991afdc": "2026-11-26T06:45:28.303282+00:00"
+    "4a041e1b8991afdc": "2026-11-26T06:45:28.303282+00:00",
+    "7722702ceef182d5": "2026-11-26T07:00:40.354394+00:00",
+    "57a6a56d1f6705c0": "2026-11-26T07:00:40.354394+00:00",
+    "40cd5be80e166f4c": "2026-11-26T07:00:40.354394+00:00",
+    "24b6f96bfd6bede5": "2026-11-26T07:00:40.354394+00:00",
+    "fce8134014d78657": "2026-11-26T07:00:40.354394+00:00",
+    "172d8348e338f5e1": "2026-11-26T07:00:40.354394+00:00",
+    "f115e78361e1d418": "2026-11-26T07:00:40.354394+00:00",
+    "2d1ee2d200344e3a": "2026-11-26T07:00:40.354394+00:00",
+    "95c97579cf86a9c0": "2026-11-26T07:00:40.354394+00:00",
+    "c1e6baeb750cb99a": "2026-11-26T07:00:40.354394+00:00",
+    "99271e358fbc7990": "2026-11-26T07:00:40.354394+00:00",
+    "168491c2cbc67b58": "2026-11-26T07:00:40.354394+00:00",
+    "c243032fd50af046": "2026-11-26T07:00:40.354394+00:00",
+    "5b21a08220b7bbe7": "2026-11-26T07:00:40.354394+00:00",
+    "1eb609910b986f0a": "2026-11-26T07:00:40.354394+00:00"
   },
   "published_stories": [
     {
@@ -6357,6 +6372,15 @@
       "headline_az": "Qazaxıstan yaşıl enerjini Azərbaycan üzərindən Avropaya daşıyacaq",
       "summary_az": "Qazaxıstan Xəzər dənizinin dibi ilə çəkilməsi planlaşdırılan enerji kabeli vasitəsilə öz yaşıl enerji ehtiyatlarını Azərbaycan ərazisindən keçməklə Avropa bazarlarına ixrac etməyi hədəfləyir. Bu layihə regionun enerji xəritəsində yeni strateji mərhələ açacaq.",
       "topic_key": "kazakhstan-green-energy-azerbaijan-route",
+      "sources": [
+        "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T07:00:41.453602+00:00",
+      "headline_az": "Britaniya ordusundan tarixi addım: Ehtiyatda olanlar təlimə çağrılır",
+      "summary_az": "Böyük Britaniyanın Müdafiə Nazirliyi Soyuq müharibə dövründən bəri ilk dəfə 100 minə yaxın ehtiyatda olan hərbçiyə məktub göndərib. Onlar mümkün hərbi çağırışa və təlimlərə hazır olmağa səsləniblər.",
+      "topic_key": "uk-reserves-training-cold-war",
       "sources": [
         "Oxu.az"
       ]
