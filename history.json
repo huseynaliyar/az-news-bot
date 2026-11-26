@@ -3561,7 +3561,26 @@
     "d80aad778d72951d": "2026-11-26T09:45:38.102868+00:00",
     "6ef374e2da5b0f8a": "2026-11-26T09:45:38.102868+00:00",
     "113e9872a18f6362": "2026-11-26T09:45:38.102868+00:00",
-    "99e1d2fca4cba69c": "2026-11-26T09:45:38.102868+00:00"
+    "99e1d2fca4cba69c": "2026-11-26T09:45:38.102868+00:00",
+    "3d73cb5733a88f49": "2026-11-26T10:00:38.586131+00:00",
+    "2a39a48cb0a89669": "2026-11-26T10:00:38.586131+00:00",
+    "09156b1df625a270": "2026-11-26T10:00:38.586131+00:00",
+    "098ec95458dd02f9": "2026-11-26T10:00:38.586131+00:00",
+    "5d9c38c53919dbbf": "2026-11-26T10:00:38.586131+00:00",
+    "3672fd40075d8814": "2026-11-26T10:00:38.586131+00:00",
+    "818d894cce838f55": "2026-11-26T10:00:38.586131+00:00",
+    "8c378c4e9e82c941": "2026-11-26T10:00:38.586131+00:00",
+    "d253816cfe9e62e6": "2026-11-26T10:00:38.586131+00:00",
+    "5b4bae951b596aa2": "2026-11-26T10:00:38.586131+00:00",
+    "49975b4b84aaf7f2": "2026-11-26T10:00:38.586131+00:00",
+    "a3cbf172991336c0": "2026-11-26T10:00:38.586131+00:00",
+    "056c29d018b68557": "2026-11-26T10:00:38.586131+00:00",
+    "e6e7539ec65e0650": "2026-11-26T10:00:38.586131+00:00",
+    "7df5b65eb2111888": "2026-11-26T10:00:38.586131+00:00",
+    "f66ba3f60c8a5667": "2026-11-26T10:00:38.586131+00:00",
+    "4bad1436a7f1ce28": "2026-11-26T10:00:38.586131+00:00",
+    "e51b021662e92d60": "2026-11-26T10:00:38.586131+00:00",
+    "8f5b9790b290200b": "2026-11-26T10:00:38.586131+00:00"
   },
   "published_stories": [
     {
@@ -6696,9 +6715,41 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-26T10:00:39.286558+00:00",
+      "headline_az": "Taylandın paytaxtında nəhəng partlayış: Neft deposu alov içindədir",
+      "summary_az": "Banqkok şəhərində yerləşən neft depolama müəssisəsində güclü partlayış baş verib. Göyü qatı tüstü bürüyüb, təhlükəsizlik məqsədilə əhaliyə təxliyə xəbərdarlığı edilib.",
+      "topic_key": "bangkok-oil-depot-explosion",
+      "sources": [
+        "CNN Türk",
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Kibertəhlükə: 42 ştatın prokuroru Character.AI-a qarşı birləşdi",
+      "summary_az": "ABŞ-ın 42 ştatının baş prokuroru iflas prosesindən keçən Character.AI platformasının istifadəçi söhbətlərini satmasına mane olmağa çalışır. Sürətlə yayılan süni intellekt tətbiqlərinin məxfilik siyasəti ciddi suallar doğurur.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "character-ai-data-privacy-lawsuit",
+      "source_indices": [
+        17
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-26T10:00:38.566115+00:00"
+    },
     {
       "headline_az": "Avropa İttifaqı 2 trilyon avroluq büdcə müzakirələrinə başlayır",
       "summary_az": "Aİ liderləri 2028-2034-cü illəri əhatə edəcək yeni büdcə layihəsini və Ukraynaya nəzərdə tutulan əlavə maliyyə dəstəyini müzakirə etmək üçün Brüsseldə bir araya gəliblər. İki günlük zirvə toplantısında bir çox strateji məsələlərin həlli gözlənilir.",
