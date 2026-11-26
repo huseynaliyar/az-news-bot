@@ -3242,7 +3242,15 @@
     "fe59641da2e33d6e": "2026-11-26T04:15:45.198106+00:00",
     "5ae1fbb9a7eb3e63": "2026-11-26T04:15:45.198106+00:00",
     "b06feb7b947b01b9": "2026-11-26T04:15:45.198106+00:00",
-    "c7bd9248faa70c85": "2026-11-26T04:15:45.198106+00:00"
+    "c7bd9248faa70c85": "2026-11-26T04:15:45.198106+00:00",
+    "7bbb2069f203a49b": "2026-11-26T04:30:33.269452+00:00",
+    "05acc8fe8406870b": "2026-11-26T04:30:33.269452+00:00",
+    "1a8974ac8c8c57e3": "2026-11-26T04:30:33.269452+00:00",
+    "659a13b29364b703": "2026-11-26T04:30:33.269452+00:00",
+    "3fc6e044af9f2abd": "2026-11-26T04:30:33.269452+00:00",
+    "40f5a4db1e690335": "2026-11-26T04:30:33.269452+00:00",
+    "f4779cae54981727": "2026-11-26T04:30:33.269452+00:00",
+    "99a3db09c49fd955": "2026-11-26T04:30:33.269452+00:00"
   },
   "published_stories": [
     {
@@ -6189,6 +6197,15 @@
       "topic_key": "trump-tariffs-india-advantage",
       "sources": [
         "CNBC World"
+      ]
+    },
+    {
+      "published_at": "2026-11-26T04:30:34.022571+00:00",
+      "headline_az": "Çin enerji nəhəngləri Azərbaycanın yaşıl enerji layihələrinə qoşulur",
+      "summary_az": "Energetika naziri Pərviz Şahbazovun Çinə səfəri çərçivəsində ölkəmizin günəş enerjisi və elektrik şəbəkəsinin genişləndirilməsi istiqamətində mühüm razılaşmalar əldə olunub. Bu layihələr beynəlxalq investisiyaların cəlb olunması ilə Azərbaycanın enerji sektorunun transformasiyasını sürətləndirəcək.",
+      "topic_key": "china-energy-azerbaijan-solar",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
