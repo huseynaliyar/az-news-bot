@@ -3868,7 +3868,28 @@
     "ce20d507b42fe62d": "2026-11-26T14:30:46.838452+00:00",
     "07f2fb231dd621c3": "2026-11-26T14:30:46.838452+00:00",
     "57612d70597bb194": "2026-11-26T14:30:46.838452+00:00",
-    "6b91ecd492b11517": "2026-11-26T14:30:46.838452+00:00"
+    "6b91ecd492b11517": "2026-11-26T14:30:46.838452+00:00",
+    "2cfc5ef18a5bc6f1": "2026-11-26T14:45:29.608966+00:00",
+    "c8af93ed93ec2fb3": "2026-11-26T14:45:29.608966+00:00",
+    "91ce6a1d2cfcd7aa": "2026-11-26T14:45:29.608966+00:00",
+    "6fae46daa10d5f97": "2026-11-26T14:45:29.608966+00:00",
+    "e734658b2eb7308d": "2026-11-26T14:45:29.608966+00:00",
+    "eda19ac6052e2ebf": "2026-11-26T14:45:29.608966+00:00",
+    "ec31d76e2c401de7": "2026-11-26T14:45:29.608966+00:00",
+    "af1eba15efb08073": "2026-11-26T14:45:29.608966+00:00",
+    "f08175c91017cbfd": "2026-11-26T14:45:29.608966+00:00",
+    "deb77fecd41ad627": "2026-11-26T14:45:29.608966+00:00",
+    "4302369a2afc340c": "2026-11-26T14:45:29.608966+00:00",
+    "0f62d6f68f22d229": "2026-11-26T14:45:29.608966+00:00",
+    "945f5b1c0bdffc1e": "2026-11-26T14:45:29.608966+00:00",
+    "f4ac8ae59b8cc342": "2026-11-26T14:45:29.608966+00:00",
+    "3bf7c040932b075c": "2026-11-26T14:45:29.608966+00:00",
+    "976736d634d0cfa5": "2026-11-26T14:45:29.608966+00:00",
+    "99ee7309bc62adc2": "2026-11-26T14:45:29.608966+00:00",
+    "6dce6fdc5f426bb9": "2026-11-26T14:45:29.608966+00:00",
+    "e3b6cd884b868d53": "2026-11-26T14:45:29.608966+00:00",
+    "0880e1494bd55dff": "2026-11-26T14:45:29.608966+00:00",
+    "0a89eb42b2197321": "2026-11-26T14:45:29.608966+00:00"
   },
   "published_stories": [
     {
@@ -7130,30 +7151,16 @@
       "sources": [
         "Google News World"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-26T14:45:30.157138+00:00",
       "headline_az": "Avropa Mərkəzi Bankının rəhbərliyinə Pablo Hernandez de Kos gəlir",
       "summary_az": "İspaniyadan olan Pablo Hernandez de Kos Avropa Mərkəzi Bankının (AMB) yeni rəhbəri olmağa hazırlaşır. O, gələn il bu vəzifədə Kristin Laqardı əvəz edərək qurumu siyasi qeyri-müəyyənlik dövründə idarə edəcək.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "spain-pablo-hernandez-ecb",
-      "source_indices": [
-        10
-      ],
       "sources": [
-        {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-26T14:30:46.824623+00:00"
+        "CNBC World"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
