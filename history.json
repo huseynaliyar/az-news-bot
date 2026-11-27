@@ -4642,7 +4642,18 @@
     "9e2cbe850d7eb86a": "2026-11-27T12:15:41.085952+00:00",
     "3c88c257175a7256": "2026-11-27T12:15:41.085952+00:00",
     "b297ce148f6cf65c": "2026-11-27T12:15:41.085952+00:00",
-    "30b6c243aeed22d3": "2026-11-27T12:15:41.085952+00:00"
+    "30b6c243aeed22d3": "2026-11-27T12:15:41.085952+00:00",
+    "0aa89f620072dc04": "2026-11-27T12:30:36.081515+00:00",
+    "c5d57549fe5078ab": "2026-11-27T12:30:36.081515+00:00",
+    "5a9a98cab85d86e4": "2026-11-27T12:30:36.081515+00:00",
+    "1339a74aefd60508": "2026-11-27T12:30:36.081515+00:00",
+    "eb26ea198db31248": "2026-11-27T12:30:36.081515+00:00",
+    "46854f4838f3b5a0": "2026-11-27T12:30:36.081515+00:00",
+    "057f1f4cc500854a": "2026-11-27T12:30:36.081515+00:00",
+    "619737baef19cc33": "2026-11-27T12:30:36.081515+00:00",
+    "f3136c437b79c2be": "2026-11-27T12:30:36.081515+00:00",
+    "8bb3880b78ea696c": "2026-11-27T12:30:36.081515+00:00",
+    "28c5a5ee0aa07e66": "2026-11-27T12:30:36.081515+00:00"
   },
   "published_stories": [
     {
@@ -8194,6 +8205,15 @@
       "topic_key": "kuwait-drone-attack-italy",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T12:30:37.450892+00:00",
+      "headline_az": "ABŞ Hərbi Hava Qüvvələrinin bulud platformasının hakerlər tərəfindən sındırıldığı iddia edilir",
+      "summary_az": "Hərbi əməliyyatların və məlumatların idarə olunmasında istifadə edilən ABŞ Hərbi Hava Qüvvələrinin əsas 'Cloud One' bulud platformasının kiberhücuma məruz qaldığı bildirilir. Hadisə ilə bağlı rəsmi qurumlar tərəfindən araşdırmalara başlanılıb.",
+      "topic_key": "us-air-force-cloud-platform-hack",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
