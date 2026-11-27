@@ -4598,7 +4598,33 @@
     "2360f6f23ec433b3": "2026-11-27T11:45:29.057280+00:00",
     "8305b75d2dd68d77": "2026-11-27T11:45:29.057280+00:00",
     "b4a068aaba955670": "2026-11-27T11:45:29.057280+00:00",
-    "8d4d1990fcb56f03": "2026-11-27T11:45:29.057280+00:00"
+    "8d4d1990fcb56f03": "2026-11-27T11:45:29.057280+00:00",
+    "1f17421e720cc549": "2026-11-27T12:00:44.803031+00:00",
+    "da45ad955507f4d4": "2026-11-27T12:00:44.803031+00:00",
+    "0fb122987decaad5": "2026-11-27T12:00:44.803031+00:00",
+    "fcf54570b6cd12ff": "2026-11-27T12:00:44.803031+00:00",
+    "171d0c2a05225c0b": "2026-11-27T12:00:44.803031+00:00",
+    "3e8573b648d8dda2": "2026-11-27T12:00:44.803031+00:00",
+    "4a9f66ba8989755d": "2026-11-27T12:00:44.803031+00:00",
+    "62c3ac213c612edc": "2026-11-27T12:00:44.803031+00:00",
+    "a0b8658180681063": "2026-11-27T12:00:44.803031+00:00",
+    "bf5e702743c6cb84": "2026-11-27T12:00:44.803031+00:00",
+    "4e6de66dfa8e718b": "2026-11-27T12:00:44.803031+00:00",
+    "2c7a86dcf0ab8397": "2026-11-27T12:00:44.803031+00:00",
+    "340af565625916d0": "2026-11-27T12:00:44.803031+00:00",
+    "97e2ccd15a081975": "2026-11-27T12:00:44.803031+00:00",
+    "84faca33aec25050": "2026-11-27T12:00:44.803031+00:00",
+    "fd287754954b63cf": "2026-11-27T12:00:44.803031+00:00",
+    "2175d516fa3cc517": "2026-11-27T12:00:44.803031+00:00",
+    "18d28e670ac887c3": "2026-11-27T12:00:44.803031+00:00",
+    "a70cb8026e81a4c9": "2026-11-27T12:00:44.803031+00:00",
+    "6a0fb45a9fb523b6": "2026-11-27T12:00:44.803031+00:00",
+    "3f4f01a764368612": "2026-11-27T12:00:44.803031+00:00",
+    "18db8afee89f8637": "2026-11-27T12:00:44.803031+00:00",
+    "8e36d67d03a9712c": "2026-11-27T12:00:44.803031+00:00",
+    "f4b5cae620bf92c8": "2026-11-27T12:00:44.803031+00:00",
+    "61f4fbc864dd986b": "2026-11-27T12:00:44.803031+00:00",
+    "7ed3d0e5cea63ff5": "2026-11-27T12:00:44.803031+00:00"
   },
   "published_stories": [
     {
@@ -8133,9 +8159,62 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-27T12:00:45.962395+00:00",
+      "headline_az": "Avropa Rusiya qazından imtina edərkən ABŞ-dən asılılıq təhlükəsi ilə üz-üzədir",
+      "summary_az": "Avropa Birliyinin Rusiya qazından tamamilə imtina etməyə hazırlaşdığı bir dövrdə ABŞ-nin mayeləşdirilmiş təbii qaz (LNG) tədarükündeki payının 2027-ci ildə 75 faizə çata biləcəyi proqnozlaşdırılır. Bu isə Birliyin yenidən tək bir təchizatçıdan asılı vəziyyətə düşməsi riskini artırır.",
+      "topic_key": "eu-russian-gas-us-lng-dependency",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Hürmüz boğazında gərginlik: Tanker mayına çırpılaraq partladı",
+      "summary_az": "İran Devrim Muhafızları Ordusu Hürmüz boğazının şərq hissəsində bir neft tankerinin dəniz mayınına çırpılaraq partladığını bəyan edib. Hadisə bölgədə dəniz təhlükəsizliyi ilə bağlı narahatlıqları daha da artırıb.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "hormuz-strait-oil-tanker-mine-blast",
+      "source_indices": [
+        6
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-1-petrol-tankeri-mayina-carpti-964655.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T12:00:44.781360+00:00"
+    },
+    {
+      "headline_az": "İranın gizli yeraltı obyektləri peyk görüntülərində: Tikinti sürətlənib",
+      "summary_az": "Amerikalı tədqiqatçıların təhlil etdiyi son peyk görüntüləri İranın nüvə obyektləri yaxınlığında yeni və sirli yeraltı kompleksin tikintisini sürətləndirdiyini göstərir. Beynəlxalq ictimaiyyət bu obyektin hansı məqsədlə inşa edildiyini diqqətlə izləyir.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "iran-secret-underground-facility-satellite",
+      "source_indices": [
+        8
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/video/dunya/iranda-yeni-gizemli-yeralti-tesisi-mi-uydu-goruntuleri-yeni-kompleksi-ortaya-cikardi-3498909"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T12:00:44.781360+00:00"
+    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
