@@ -4515,7 +4515,19 @@
     "23debf49f52e9638": "2026-11-27T10:15:29.523920+00:00",
     "f5aa161bb5315e9c": "2026-11-27T10:15:29.523920+00:00",
     "8ac033fb31a1e35f": "2026-11-27T10:15:29.523920+00:00",
-    "2f60d24207b6324a": "2026-11-27T10:15:29.523920+00:00"
+    "2f60d24207b6324a": "2026-11-27T10:15:29.523920+00:00",
+    "daaff2a46eec6692": "2026-11-27T10:30:36.598144+00:00",
+    "da2015c5dc459721": "2026-11-27T10:30:36.598144+00:00",
+    "b52b1c08913640eb": "2026-11-27T10:30:36.598144+00:00",
+    "be10181678c8f217": "2026-11-27T10:30:36.598144+00:00",
+    "9c71b72fbac07713": "2026-11-27T10:30:36.598144+00:00",
+    "bef057ae6a58e2aa": "2026-11-27T10:30:36.598144+00:00",
+    "54cd9151cba69218": "2026-11-27T10:30:36.598144+00:00",
+    "d4d466628498c05f": "2026-11-27T10:30:36.598144+00:00",
+    "df20b572c66dcd05": "2026-11-27T10:30:36.598144+00:00",
+    "5ea20b0b05b909aa": "2026-11-27T10:30:36.598144+00:00",
+    "d7944e82cdc93086": "2026-11-27T10:30:36.598144+00:00",
+    "84660159e2901b58": "2026-11-27T10:30:36.598144+00:00"
   },
   "published_stories": [
     {
@@ -7995,6 +8007,15 @@
       "topic_key": "narwhal-tusk-engineering-secret",
       "sources": [
         "ScienceDaily"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T10:30:37.177233+00:00",
+      "headline_az": "Çin çip səhmlərində tarixi rekord artım",
+      "summary_az": "Pekin rəhbərliyinin bazara dəstək və likvidlik vədlərindən sonra Çinin yarımkeçirici və çip istehsal edən şirkətlərinin səhmləri tarixində görünməmiş bir gündəlik artım yaşayıb. Bu addım investorların qlobal texnologiya bazarına olan inamını qismən bərpa edib.",
+      "topic_key": "chinese-chip-stocks-surge",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
