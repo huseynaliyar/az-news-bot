@@ -4653,7 +4653,17 @@
     "619737baef19cc33": "2026-11-27T12:30:36.081515+00:00",
     "f3136c437b79c2be": "2026-11-27T12:30:36.081515+00:00",
     "8bb3880b78ea696c": "2026-11-27T12:30:36.081515+00:00",
-    "28c5a5ee0aa07e66": "2026-11-27T12:30:36.081515+00:00"
+    "28c5a5ee0aa07e66": "2026-11-27T12:30:36.081515+00:00",
+    "e7a735bf41f20538": "2026-11-27T12:45:31.326407+00:00",
+    "c7bafc5f97305588": "2026-11-27T12:45:31.326407+00:00",
+    "7e422686ce791078": "2026-11-27T12:45:31.326407+00:00",
+    "fd10367f5fbf2e25": "2026-11-27T12:45:31.326407+00:00",
+    "6c16e0604f4fd650": "2026-11-27T12:45:31.326407+00:00",
+    "936e29961933abec": "2026-11-27T12:45:31.326407+00:00",
+    "ee2b359a6cf4892f": "2026-11-27T12:45:31.326407+00:00",
+    "d8c77ab0266f8914": "2026-11-27T12:45:31.326407+00:00",
+    "9ab9f1f9274413ed": "2026-11-27T12:45:31.326407+00:00",
+    "a80f49e4644d2e1f": "2026-11-27T12:45:31.326407+00:00"
   },
   "published_stories": [
     {
@@ -8214,6 +8224,15 @@
       "topic_key": "us-air-force-cloud-platform-hack",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T12:45:32.135632+00:00",
+      "headline_az": "12 illik fasilədən sonra İraq-Türkiyə neft boru xətti yenidən açılır",
+      "summary_az": "İraq uzun müddətdir fəaliyyət göstərməyən tarixi neft boru xəttini yenidən işə salmaq üçün işlərə başlayıb. Layihə çərçivəsində xəttin ilkin mərhələdə gündəlik 300 min, daha sonra isə 500 min varil neft daşıma gücünə çatdırılması hədəflənir.",
+      "topic_key": "iraq-turkey-oil-pipeline-reopen",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
