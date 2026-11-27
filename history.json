@@ -4313,7 +4313,19 @@
     "774fbb66df1bdc1d": "2026-11-27T07:00:50.090729+00:00",
     "6c6e5e921eedd649": "2026-11-27T07:00:50.090729+00:00",
     "b3b1245777e10283": "2026-11-27T07:00:50.090729+00:00",
-    "ab764e4fed216240": "2026-11-27T07:00:50.090729+00:00"
+    "ab764e4fed216240": "2026-11-27T07:00:50.090729+00:00",
+    "8e003d33ca22ff1d": "2026-11-27T07:15:34.666111+00:00",
+    "71f0ad4f88a58faf": "2026-11-27T07:15:34.666111+00:00",
+    "da0fbf6cdd68e7f5": "2026-11-27T07:15:34.666111+00:00",
+    "6c6aea6aa35a4e56": "2026-11-27T07:15:34.666111+00:00",
+    "6d5288ee90dcbf96": "2026-11-27T07:15:34.666111+00:00",
+    "67811cebcbaea269": "2026-11-27T07:15:34.666111+00:00",
+    "cb74bad71943b5b1": "2026-11-27T07:15:34.666111+00:00",
+    "5bd35ec2c4807d70": "2026-11-27T07:15:34.666111+00:00",
+    "e8ac6d7c606b2604": "2026-11-27T07:15:34.666111+00:00",
+    "5fd6bd68652dd7b6": "2026-11-27T07:15:34.666111+00:00",
+    "90b11623f21787a9": "2026-11-27T07:15:34.666111+00:00",
+    "1cc27b02c0b2b4fd": "2026-11-27T07:15:34.666111+00:00"
   },
   "published_stories": [
     {
@@ -7685,30 +7697,16 @@
       "sources": [
         "Oxu.az"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-27T07:15:35.548489+00:00",
       "headline_az": "Süni intellekt dalğası: Almaniya nəhəngi SAP 10 minə yaxın iş yerini ixtisar edə bilər",
       "summary_az": "Proqram təminatı nəhəngi SAP biznes modelini süni intellekt texnologiyalarına uyğunlaşdırmaq üçün kəskin addımlara əl atır. Şirkət ən azı 10 min əməkdaşını ixtisar etmək variantını nəzərdən keçirir.",
-      "category": "İqtisadiyyat",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "sap-ai-job-cuts",
-      "source_indices": [
-        16
-      ],
       "sources": [
-        {
-          "name": "CNBC World",
-          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T06:45:33.433425+00:00"
+        "CNBC World"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
