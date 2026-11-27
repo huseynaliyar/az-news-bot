@@ -4300,7 +4300,20 @@
     "e0bd50bbfa82379a": "2026-11-27T06:45:33.444531+00:00",
     "06663623b08de594": "2026-11-27T06:45:33.444531+00:00",
     "770936d4d025527c": "2026-11-27T06:45:33.444531+00:00",
-    "33d98bc4a60fd6df": "2026-11-27T06:45:33.444531+00:00"
+    "33d98bc4a60fd6df": "2026-11-27T06:45:33.444531+00:00",
+    "1c097bc14aafe01c": "2026-11-27T07:00:50.090729+00:00",
+    "70eaed160bd05b25": "2026-11-27T07:00:50.090729+00:00",
+    "ae564b888cc91817": "2026-11-27T07:00:50.090729+00:00",
+    "38c7444dd26a63e1": "2026-11-27T07:00:50.090729+00:00",
+    "04da0aa1f0b8ffe5": "2026-11-27T07:00:50.090729+00:00",
+    "5a024d96d9e225bf": "2026-11-27T07:00:50.090729+00:00",
+    "2fdeffd5870053d3": "2026-11-27T07:00:50.090729+00:00",
+    "136bf50d55dc0ac0": "2026-11-27T07:00:50.090729+00:00",
+    "96635ea3cac4f8b0": "2026-11-27T07:00:50.090729+00:00",
+    "774fbb66df1bdc1d": "2026-11-27T07:00:50.090729+00:00",
+    "6c6e5e921eedd649": "2026-11-27T07:00:50.090729+00:00",
+    "b3b1245777e10283": "2026-11-27T07:00:50.090729+00:00",
+    "ab764e4fed216240": "2026-11-27T07:00:50.090729+00:00"
   },
   "published_stories": [
     {
@@ -7662,6 +7675,15 @@
       "topic_key": "france-germany-eu-budget-ukraine",
       "sources": [
         "NTV Dünya"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T07:00:51.922500+00:00",
+      "headline_az": "Türkiyə, Pakistan və Səudiyyə Ərəbistanından tarixi müdafiə sazişi",
+      "summary_az": "Türkiyə Prezidenti Rəcəb Tayyib Ərdoğan tərəflərdən birinə kənardan silahlı hücum olacağı təqdirdə qarşılıqlı hərbi yardımın göstərilməsini nəzərdə tutan Məkkə müqaviləsini təsdiqləyib. Bu razılaşma üç ölkə arasında hərbi sahədə strateji tərəfdaşlığı yeni mərhələyə qaldırır.",
+      "topic_key": "turkey-pakistan-saudi-defense-pact",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
