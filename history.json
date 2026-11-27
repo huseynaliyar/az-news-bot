@@ -4663,7 +4663,24 @@
     "ee2b359a6cf4892f": "2026-11-27T12:45:31.326407+00:00",
     "d8c77ab0266f8914": "2026-11-27T12:45:31.326407+00:00",
     "9ab9f1f9274413ed": "2026-11-27T12:45:31.326407+00:00",
-    "a80f49e4644d2e1f": "2026-11-27T12:45:31.326407+00:00"
+    "a80f49e4644d2e1f": "2026-11-27T12:45:31.326407+00:00",
+    "392ed6b387b4837f": "2026-11-27T13:00:42.175187+00:00",
+    "c9924d5e7272c949": "2026-11-27T13:00:42.175187+00:00",
+    "6e26d170ef6c62da": "2026-11-27T13:00:42.175187+00:00",
+    "2a7cc0baae96ded6": "2026-11-27T13:00:42.175187+00:00",
+    "1edb3f9846963417": "2026-11-27T13:00:42.175187+00:00",
+    "5b9d63c0daba8eaf": "2026-11-27T13:00:42.175187+00:00",
+    "f19d4f4fd0583827": "2026-11-27T13:00:42.175187+00:00",
+    "6bb43bb8e715c8f8": "2026-11-27T13:00:42.175187+00:00",
+    "b215d1518afe5f88": "2026-11-27T13:00:42.175187+00:00",
+    "a2b5aa0a99369a35": "2026-11-27T13:00:42.175187+00:00",
+    "98f69e7353ab756a": "2026-11-27T13:00:42.175187+00:00",
+    "a58dc4a6dec3c8bc": "2026-11-27T13:00:42.175187+00:00",
+    "e8e4afdcc26b3586": "2026-11-27T13:00:42.175187+00:00",
+    "c39a77e5386c35a4": "2026-11-27T13:00:42.175187+00:00",
+    "f757c8129ad8de55": "2026-11-27T13:00:42.175187+00:00",
+    "6bee08bdf4091128": "2026-11-27T13:00:42.175187+00:00",
+    "3ea649f1412eff00": "2026-11-27T13:00:42.175187+00:00"
   },
   "published_stories": [
     {
@@ -8234,31 +8251,18 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-27T13:00:43.204973+00:00",
+      "headline_az": "COP31-də mühüm razılaşma: İqlim dəyişikliyi ilə mübarizədə 46 qəbul edildi",
+      "summary_az": "Antalyada baş tutan BMT-nin İqlim Dəyişikliyi Konfransında ölkələr iqlim maliyyəsi və karbon siyasəti daxil olmaqla 46 mühüm qərarda uzlaşma əldə ediblər. Türkiyənin ev sahibliyi ilə keçirilən sammit qlobal ekoloji çağırışlara qarşı addımların sürətləndirilməsini hədəfləyir.",
+      "topic_key": "cop31-climate-agreement-antalya",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "COP31-də mühüm razılaşma: İqlim dəyişikliyi ilə mübarizədə 46 qəbul edildi",
-      "summary_az": "Antalyada baş tutan BMT-nin İqlim Dəyişikliyi Konfransında ölkələr iqlim maliyyəsi və karbon siyasəti daxil olmaqla 46 mühüm qərarda uzlaşma əldə ediblər. Türkiyənin ev sahibliyi ilə keçirilən sammit qlobal ekoloji çağırışlara qarşı addımların sürətləndirilməsini hədəfləyir.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "cop31-climate-agreement-antalya",
-      "source_indices": [
-        5
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/cop31de-iklim-degisikligiyle-mucadelede-46-kararda-uzlasi-964659.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T12:15:41.074932+00:00"
-    },
     {
       "headline_az": "Hürmüz boğazında gərginlik: Tanker mayına çırpılaraq partladı",
       "summary_az": "İran Devrim Muhafızları Ordusu Hürmüz boğazının şərq hissəsində bir neft tankerinin dəniz mayınına çırpılaraq partladığını bəyan edib. Hadisə bölgədə dəniz təhlükəsizliyi ilə bağlı narahatlıqları daha da artırıb.",
