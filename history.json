@@ -4527,7 +4527,20 @@
     "df20b572c66dcd05": "2026-11-27T10:30:36.598144+00:00",
     "5ea20b0b05b909aa": "2026-11-27T10:30:36.598144+00:00",
     "d7944e82cdc93086": "2026-11-27T10:30:36.598144+00:00",
-    "84660159e2901b58": "2026-11-27T10:30:36.598144+00:00"
+    "84660159e2901b58": "2026-11-27T10:30:36.598144+00:00",
+    "a0be4a38c3ac39ca": "2026-11-27T10:45:32.021611+00:00",
+    "3569e75ed472e356": "2026-11-27T10:45:32.021611+00:00",
+    "9117eae54055d507": "2026-11-27T10:45:32.021611+00:00",
+    "3f1fb6002a62d749": "2026-11-27T10:45:32.021611+00:00",
+    "6a1d28e1a4720dc2": "2026-11-27T10:45:32.021611+00:00",
+    "2f2c0f2a421d9e7d": "2026-11-27T10:45:32.021611+00:00",
+    "8251a04d7018a668": "2026-11-27T10:45:32.021611+00:00",
+    "316edfe6374a6e74": "2026-11-27T10:45:32.021611+00:00",
+    "ab1ed3fa65c9c0c7": "2026-11-27T10:45:32.021611+00:00",
+    "5827b416c4fc4323": "2026-11-27T10:45:32.021611+00:00",
+    "327e172718edbb97": "2026-11-27T10:45:32.021611+00:00",
+    "a38c1440c2b10cd0": "2026-11-27T10:45:32.021611+00:00",
+    "10f46cafaeb1f4a9": "2026-11-27T10:45:32.021611+00:00"
   },
   "published_stories": [
     {
@@ -8017,31 +8030,18 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-27T10:45:32.563508+00:00",
+      "headline_az": "Çətin emal olunan plastikdən mühərrik yağı düzəldildi",
+      "summary_az": "Virciniya Texnologiya Universitetinin alimləri dünyanın təkrar emalı ən çətin olan plastik növlərindən birini yüksək keyfiyyətli mühərrik yağına çevirməyi bacarıblar. Bu innovativ üsul plastik tullantıların təbiətə vurduğu zərərin azaldılması istiqamətində mühüm addımdır.",
+      "topic_key": "plastic-to-lubricating-oil",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Çətin emal olunan plastikdən mühərrik yağı düzəldildi",
-      "summary_az": "Virciniya Texnologiya Universitetinin alimləri dünyanın təkrar emalı ən çətin olan plastik növlərindən birini yüksək keyfiyyətli mühərrik yağına çevirməyi bacarıblar. Bu innovativ üsul plastik tullantıların təbiətə vurduğu zərərin azaldılması istiqamətində mühüm addımdır.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "plastic-to-lubricating-oil",
-      "source_indices": [
-        9
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T10:15:29.509968+00:00"
-    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
