@@ -4283,7 +4283,24 @@
     "7b1822e09560bc47": "2026-11-27T06:30:44.480368+00:00",
     "06b06ef1f18949b3": "2026-11-27T06:30:44.480368+00:00",
     "10790ab4590e7d16": "2026-11-27T06:30:44.480368+00:00",
-    "25c327ab0583289c": "2026-11-27T06:30:44.480368+00:00"
+    "25c327ab0583289c": "2026-11-27T06:30:44.480368+00:00",
+    "5821161e9290e123": "2026-11-27T06:45:33.444531+00:00",
+    "aaaa4a6bb7163c65": "2026-11-27T06:45:33.444531+00:00",
+    "10f3784947f760e6": "2026-11-27T06:45:33.444531+00:00",
+    "7e7d733a492503c4": "2026-11-27T06:45:33.444531+00:00",
+    "1742d4c3fab6487c": "2026-11-27T06:45:33.444531+00:00",
+    "a3ad1f6123b8dd56": "2026-11-27T06:45:33.444531+00:00",
+    "0ae88c815271aa8e": "2026-11-27T06:45:33.444531+00:00",
+    "1cc8bce70bfe614d": "2026-11-27T06:45:33.444531+00:00",
+    "149c0c77ec218758": "2026-11-27T06:45:33.444531+00:00",
+    "8726f889b4b91e4f": "2026-11-27T06:45:33.444531+00:00",
+    "4c281f9a1669ae17": "2026-11-27T06:45:33.444531+00:00",
+    "385a3fc226bbf821": "2026-11-27T06:45:33.444531+00:00",
+    "7bf8158eb8e5c5ff": "2026-11-27T06:45:33.444531+00:00",
+    "e0bd50bbfa82379a": "2026-11-27T06:45:33.444531+00:00",
+    "06663623b08de594": "2026-11-27T06:45:33.444531+00:00",
+    "770936d4d025527c": "2026-11-27T06:45:33.444531+00:00",
+    "33d98bc4a60fd6df": "2026-11-27T06:45:33.444531+00:00"
   },
   "published_stories": [
     {
@@ -7637,7 +7654,39 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-27T06:45:43.647567+00:00",
+      "headline_az": "Almaniya və Fransadan Aİ büdcəsi ilə bağlı təcili çağırış",
+      "summary_az": "Paris və Berlin liderləri yaxınlaşan seçkilər fonunda Aİ-nin 2028-2034-cü illər büdcəsi və Ukrayna maliyyələşməsi məsələsində ilin sonunadək razılığa gəlinməsini tələb edirlər. Tərəflər qərarların gecikməməsi üçün təzyiqləri artırıblar.",
+      "topic_key": "france-germany-eu-budget-ukraine",
+      "sources": [
+        "NTV Dünya"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Süni intellekt dalğası: Almaniya nəhəngi SAP 10 minə yaxın iş yerini ixtisar edə bilər",
+      "summary_az": "Proqram təminatı nəhəngi SAP biznes modelini süni intellekt texnologiyalarına uyğunlaşdırmaq üçün kəskin addımlara əl atır. Şirkət ən azı 10 min əməkdaşını ixtisar etmək variantını nəzərdən keçirir.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": false,
+      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
+      "is_update": false,
+      "topic_key": "sap-ai-job-cuts",
+      "source_indices": [
+        16
+      ],
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T06:45:33.433425+00:00"
+    }
+  ]
 }
