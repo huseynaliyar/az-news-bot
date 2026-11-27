@@ -4391,7 +4391,20 @@
     "c58f0038cc1841f9": "2026-11-27T08:15:28.332424+00:00",
     "66cdc1c42b72860a": "2026-11-27T08:15:28.332424+00:00",
     "bd1e3d50a2def149": "2026-11-27T08:15:28.332424+00:00",
-    "eab372db5d4609cd": "2026-11-27T08:15:28.332424+00:00"
+    "eab372db5d4609cd": "2026-11-27T08:15:28.332424+00:00",
+    "1b16fd8d124d965d": "2026-11-27T08:30:37.488780+00:00",
+    "5dc02450d6646c21": "2026-11-27T08:30:37.488780+00:00",
+    "beb9da012e054429": "2026-11-27T08:30:37.488780+00:00",
+    "9da608d1950bea6f": "2026-11-27T08:30:37.488780+00:00",
+    "ea74c49108dfe3a7": "2026-11-27T08:30:37.488780+00:00",
+    "32ff3433f77d3c61": "2026-11-27T08:30:37.488780+00:00",
+    "c3ace91252c97873": "2026-11-27T08:30:37.488780+00:00",
+    "c6e0f54e85996516": "2026-11-27T08:30:37.488780+00:00",
+    "a273f7e81f86a544": "2026-11-27T08:30:37.488780+00:00",
+    "f92f929cf2bd5214": "2026-11-27T08:30:37.488780+00:00",
+    "807cc04cc919f48d": "2026-11-27T08:30:37.488780+00:00",
+    "2b8c85f169d07498": "2026-11-27T08:30:37.488780+00:00",
+    "c2a9b4ea549064c2": "2026-11-27T08:30:37.488780+00:00"
   },
   "published_stories": [
     {
@@ -7800,31 +7813,18 @@
         "TRT Haber",
         "NTV Gündem"
       ]
+    },
+    {
+      "published_at": "2026-11-27T08:30:38.535633+00:00",
+      "headline_az": "Azərbaycan kənd təsərrüfatında süni intellekt və smart suvarma dövrünə keçir",
+      "summary_az": "Kənd təsərrüfatında məhsuldarlığı artırmaq və resurslardan səmərəli istifadə etmək məqsədilə rəqəmsal innovasiyaların tətbiqi sürətləndirilir. Nazirlik bu sahədə süni intellekt və ağıllı suvarma sistemlərinin miqyasını genişləndirməyi planlaşdırır.",
+      "topic_key": "azerbaijan-smart-agriculture-ai",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Azərbaycan kənd təsərrüfatında süni intellekt və smart suvarma dövrünə keçir",
-      "summary_az": "Kənd təsərrüfatında məhsuldarlığı artırmaq və resurslardan səmərəli istifadə etmək məqsədilə rəqəmsal innovasiyaların tətbiqi sürətləndirilir. Nazirlik bu sahədə süni intellekt və ağıllı suvarma sistemlərinin miqyasını genişləndirməyi planlaşdırır.",
-      "category": "Azərbaycan",
-      "region": "az",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "azerbaijan-smart-agriculture-ai",
-      "source_indices": [
-        2
-      ],
-      "sources": [
-        {
-          "name": "AzerNews",
-          "url": "https://www.azernews.az/business/268200.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://www.azernews.az/media/2026/11/27/smart-farming-technology-stockca.jpg",
-      "queued_at": "2026-11-27T08:00:43.060816+00:00"
-    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
