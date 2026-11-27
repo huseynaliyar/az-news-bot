@@ -4559,7 +4559,14 @@
     "1dbc4e810e709b75": "2026-11-27T11:00:40.157508+00:00",
     "a897002dacb79ae8": "2026-11-27T11:00:40.157508+00:00",
     "5ef12c6fefa13376": "2026-11-27T11:00:40.157508+00:00",
-    "e857da3faa856c4b": "2026-11-27T11:00:40.157508+00:00"
+    "e857da3faa856c4b": "2026-11-27T11:00:40.157508+00:00",
+    "f50cd12057a8cb8e": "2026-11-27T11:15:30.754002+00:00",
+    "09361ac367560396": "2026-11-27T11:15:30.754002+00:00",
+    "e59760876f5dfea9": "2026-11-27T11:15:30.754002+00:00",
+    "819a355e3481e366": "2026-11-27T11:15:30.754002+00:00",
+    "7e7e4ccd97d7e1aa": "2026-11-27T11:15:30.754002+00:00",
+    "60a104f1edc9c21d": "2026-11-27T11:15:30.754002+00:00",
+    "1ccd758ff29b1967": "2026-11-27T11:15:30.754002+00:00"
   },
   "published_stories": [
     {
@@ -8067,31 +8074,18 @@
       "sources": [
         "BBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-27T11:15:31.373648+00:00",
+      "headline_az": "İlon Mask kosmosa bir milyon peyk məlumat mərkəzi yerləşdirmək istəyir",
+      "summary_az": "ABŞ Federal Rabitə Komissiyası (FCC) İlon Maskın kosmosa nəhəng sayda peyk əsaslı məlumat mərkəzləri yerləşdirmək planını təsdiqləyib. Bu addım ölkə tarixində bir ilk olaraq qiymətləndirilir.",
+      "topic_key": "elon-musk-satellite-data-centres-space",
+      "sources": [
+        "Al Jazeera"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İlon Mask kosmosa bir milyon peyk məlumat mərkəzi yerləşdirmək istəyir",
-      "summary_az": "ABŞ Federal Rabitə Komissiyası (FCC) İlon Maskın kosmosa nəhəng sayda peyk əsaslı məlumat mərkəzləri yerləşdirmək planını təsdiqləyib. Bu addım ölkə tarixində bir ilk olaraq qiymətləndirilir.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "elon-musk-satellite-data-centres-space",
-      "source_indices": [
-        18
-      ],
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T11:00:40.142204+00:00"
-    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
