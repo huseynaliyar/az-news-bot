@@ -4195,7 +4195,14 @@
     "62d4ccdc2b73709d": "2026-11-27T04:00:39.493024+00:00",
     "117d0100c5765e41": "2026-11-27T04:00:39.493024+00:00",
     "698d70aafc89d410": "2026-11-27T04:00:39.493024+00:00",
-    "e66fc04566a2ff8d": "2026-11-27T04:00:39.493024+00:00"
+    "e66fc04566a2ff8d": "2026-11-27T04:00:39.493024+00:00",
+    "f9f7f2cb3a86fa45": "2026-11-27T04:15:27.204548+00:00",
+    "a4961eb39ef73e69": "2026-11-27T04:15:27.204548+00:00",
+    "d0e72c424fa40324": "2026-11-27T04:15:27.204548+00:00",
+    "28ebec2a07aa95ae": "2026-11-27T04:15:27.204548+00:00",
+    "cd4585fe0194cd49": "2026-11-27T04:15:27.204548+00:00",
+    "303a4b7e35fc1252": "2026-11-27T04:15:27.204548+00:00",
+    "e3d2a9c52ce43e5f": "2026-11-27T04:15:27.204548+00:00"
   },
   "published_stories": [
     {
@@ -7521,6 +7528,15 @@
       "topic_key": "great-return-agdere-khocali-2026",
       "sources": [
         "Oxu.az"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T04:15:27.883104+00:00",
+      "headline_az": "Tarixi araşdırma: Qlobal bazarlarda nəhəng çöküş ola bilər",
+      "summary_az": "170 illik tarixi məlumatlara əsaslanan yeni araşdırma süni intellekt bumu fonunda bazarlarda spekulyativ köpürklərin dot-com böhranını xatırlatdığını göstərir. Mütəxəssislər yaxın gələcəkdə ciddi bazar tənəzzülü riski barədə xəbərdarlıq edirlər.",
+      "topic_key": "historical-study-market-collapse",
+      "sources": [
+        "CNBC World"
       ]
     }
   ],
