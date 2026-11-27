@@ -4722,7 +4722,14 @@
     "e3c05a956e59d2d6": "2026-11-27T13:45:29.664296+00:00",
     "04ed282943bcffd7": "2026-11-27T13:45:29.664296+00:00",
     "51467a3d29247fe4": "2026-11-27T13:45:29.664296+00:00",
-    "ffc9f2bfc6a3d7aa": "2026-11-27T13:45:29.664296+00:00"
+    "ffc9f2bfc6a3d7aa": "2026-11-27T13:45:29.664296+00:00",
+    "f6733cea6134626f": "2026-11-27T14:00:48.452472+00:00",
+    "b75a03964c1832ec": "2026-11-27T14:00:48.452472+00:00",
+    "500b8be6bfb2e767": "2026-11-27T14:00:48.452472+00:00",
+    "119f2cd56411ae58": "2026-11-27T14:00:48.452472+00:00",
+    "c6b6aadfed9748c2": "2026-11-27T14:00:48.452472+00:00",
+    "1d140bb3b26b0663": "2026-11-27T14:00:48.452472+00:00",
+    "cf3eb807c0ae156f": "2026-11-27T14:00:48.452472+00:00"
   },
   "published_stories": [
     {
@@ -8329,31 +8336,18 @@
       "sources": [
         "Al Jazeera"
       ]
+    },
+    {
+      "published_at": "2026-11-27T14:00:49.511751+00:00",
+      "headline_az": "İngiltərədə məhkəmələrə süni intellekt xəbərdarlığı: Uydurma qanunlar aşkarlandı",
+      "summary_az": "İngiltərə və Qallər ərazisində cari ildə keçirilən onlarla məhkəmə işində hüquqi dayaqların və ifadələrin süni intellektə hazırlatdırıldığı üzə çıxıb. Belə ki, proseslərdə sistem tərəfindən uydurulan saxta emsal qərarlar və mövcud olmayan qanunlardan istifadə edildiyi müəyyənləşdirilib.",
+      "topic_key": "uk-courts-ai-fake-laws-warning",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İngiltərədə məhkəmələrə süni intellekt xəbərdarlığı: Uydurma qanunlar aşkarlandı",
-      "summary_az": "İngiltərə və Qallər ərazisində cari ildə keçirilən onlarla məhkəmə işində hüquqi dayaqların və ifadələrin süni intellektə hazırlatdırıldığı üzə çıxıb. Belə ki, proseslərdə sistem tərəfindən uydurulan saxta emsal qərarlar və mövcud olmayan qanunlardan istifadə edildiyi müəyyənləşdirilib.",
-      "category": "Texnologiya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "uk-courts-ai-fake-laws-warning",
-      "source_indices": [
-        4
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/ingilterede-yargiya-yapay-zeka-uyarisi-uydurma-yasalar-ve-ifadeler-davalara-girdi-964668.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T13:15:32.184188+00:00"
-    },
     {
       "headline_az": "Hürmüz boğazında gərginlik: Tanker mayına çırpılaraq partladı",
       "summary_az": "İran Devrim Muhafızları Ordusu Hürmüz boğazının şərq hissəsində bir neft tankerinin dəniz mayınına çırpılaraq partladığını bəyan edib. Hadisə bölgədə dəniz təhlükəsizliyi ilə bağlı narahatlıqları daha da artırıb.",
