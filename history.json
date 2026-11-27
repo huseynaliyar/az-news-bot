@@ -4211,7 +4211,18 @@
     "532f9831d8c26d73": "2026-11-27T04:30:35.374670+00:00",
     "38e09cde56051e32": "2026-11-27T04:30:35.374670+00:00",
     "7d1def4e1a882942": "2026-11-27T04:30:35.374670+00:00",
-    "fb1df87992db7f28": "2026-11-27T04:30:35.374670+00:00"
+    "fb1df87992db7f28": "2026-11-27T04:30:35.374670+00:00",
+    "8f5925b14523d951": "2026-11-27T04:45:30.079504+00:00",
+    "1309c407795e90d9": "2026-11-27T04:45:30.079504+00:00",
+    "b0791534e21353be": "2026-11-27T04:45:30.079504+00:00",
+    "cb76ace6a631ee37": "2026-11-27T04:45:30.079504+00:00",
+    "7b017a76ad155b33": "2026-11-27T04:45:30.079504+00:00",
+    "8741809fb21ab4d3": "2026-11-27T04:45:30.079504+00:00",
+    "b2ee18e4937b5328": "2026-11-27T04:45:30.079504+00:00",
+    "f0b4551a4162361d": "2026-11-27T04:45:30.079504+00:00",
+    "b74c49a8d738378d": "2026-11-27T04:45:30.079504+00:00",
+    "3a5c9166e16e27f3": "2026-11-27T04:45:30.079504+00:00",
+    "80a8669b71250680": "2026-11-27T04:45:30.079504+00:00"
   },
   "published_stories": [
     {
@@ -7547,7 +7558,39 @@
       "sources": [
         "CNBC World"
       ]
+    },
+    {
+      "published_at": "2026-11-27T04:45:30.618966+00:00",
+      "headline_az": "Harvard alimlərindən kvant kompüterləri üçün inqilabi addım",
+      "summary_az": "Tədqiqatçılar qırmızı işığı effektiv şəkildə ultrabənövşəyi işığa çevirən mikroskopik cihaz hazırlayıblar. Bu mikroçip əvvəlki analoqlarından 120 dəfə çox ultrabənövşəyi işıq istehsal edərək kvant kompüterlərinin ölçülərini kiçiltməyə kömək edə bilər.",
+      "topic_key": "harvard-uv-light-chip-quantum",
+      "sources": [
+        "ScienceDaily"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Beyin hüceyrələri haqqında illərdir qəbul edilən mif dağıldı",
+      "summary_az": "Genişmiqyaslı yeni araşdırma beynin iş mexanizmi ilə bağlı köhnəlmiş nəzəriyyələri sual altındadır. Məlum olub ki, əksər neyronlar yüksək dərəcədə ixtisaslaşmış işçilər deyil, əslində çevik multitaskerlərdir.",
+      "category": "Elm",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "brain-cells-multitaskers-study",
+      "source_indices": [
+        10
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T04:45:30.064707+00:00"
+    }
+  ]
 }
