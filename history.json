@@ -4540,7 +4540,26 @@
     "5827b416c4fc4323": "2026-11-27T10:45:32.021611+00:00",
     "327e172718edbb97": "2026-11-27T10:45:32.021611+00:00",
     "a38c1440c2b10cd0": "2026-11-27T10:45:32.021611+00:00",
-    "10f46cafaeb1f4a9": "2026-11-27T10:45:32.021611+00:00"
+    "10f46cafaeb1f4a9": "2026-11-27T10:45:32.021611+00:00",
+    "cc13f302dff31b7e": "2026-11-27T11:00:40.157508+00:00",
+    "7a1699df418120e8": "2026-11-27T11:00:40.157508+00:00",
+    "95ff7d8a4e0e855d": "2026-11-27T11:00:40.157508+00:00",
+    "875d336338e542e5": "2026-11-27T11:00:40.157508+00:00",
+    "925b25339ee515a5": "2026-11-27T11:00:40.157508+00:00",
+    "2e593c0bbec19e6e": "2026-11-27T11:00:40.157508+00:00",
+    "7790b01f0e98869a": "2026-11-27T11:00:40.157508+00:00",
+    "45aaa214728f2150": "2026-11-27T11:00:40.157508+00:00",
+    "bc593c1a366748c8": "2026-11-27T11:00:40.157508+00:00",
+    "924383a921c45b1b": "2026-11-27T11:00:40.157508+00:00",
+    "93051a4c5712f2cc": "2026-11-27T11:00:40.157508+00:00",
+    "c8eeaea13d408f69": "2026-11-27T11:00:40.157508+00:00",
+    "88cd0cc8f59ee648": "2026-11-27T11:00:40.157508+00:00",
+    "18a24f1cbbb1e738": "2026-11-27T11:00:40.157508+00:00",
+    "b4ba312f7ecbbceb": "2026-11-27T11:00:40.157508+00:00",
+    "1dbc4e810e709b75": "2026-11-27T11:00:40.157508+00:00",
+    "a897002dacb79ae8": "2026-11-27T11:00:40.157508+00:00",
+    "5ef12c6fefa13376": "2026-11-27T11:00:40.157508+00:00",
+    "e857da3faa856c4b": "2026-11-27T11:00:40.157508+00:00"
   },
   "published_stories": [
     {
@@ -8039,9 +8058,40 @@
       "sources": [
         "ScienceDaily"
       ]
+    },
+    {
+      "published_at": "2026-11-27T11:00:40.737554+00:00",
+      "headline_az": "Venesuela müxalifətin dövlət qulluğuna qadağa qoyan qanununu ləğv edir",
+      "summary_az": "Venesuela hökuməti müxalifət nümayəndələrinin dövlət vəzifələrini tutmasına mane olan mübahisəli qanunvericiliyi ləğv etmək qərarına gəlib. İki il əvvəl qəbul edilən bu qanun sərt siyasi təqiblərə səbəb olduğu üçün tənqid olunurdu.",
+      "topic_key": "venezuela-scrap-law-opposition",
+      "sources": [
+        "BBC World"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İlon Mask kosmosa bir milyon peyk məlumat mərkəzi yerləşdirmək istəyir",
+      "summary_az": "ABŞ Federal Rabitə Komissiyası (FCC) İlon Maskın kosmosa nəhəng sayda peyk əsaslı məlumat mərkəzləri yerləşdirmək planını təsdiqləyib. Bu addım ölkə tarixində bir ilk olaraq qiymətləndirilir.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "elon-musk-satellite-data-centres-space",
+      "source_indices": [
+        18
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T11:00:40.142204+00:00"
+    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
