@@ -4473,7 +4473,23 @@
     "e702fa2c413d74ba": "2026-11-27T09:30:38.143809+00:00",
     "3c5d95d55760ebb7": "2026-11-27T09:30:38.143809+00:00",
     "b28bcf0fcf1deff2": "2026-11-27T09:30:38.143809+00:00",
-    "c060601c0cb2251f": "2026-11-27T09:30:38.143809+00:00"
+    "c060601c0cb2251f": "2026-11-27T09:30:38.143809+00:00",
+    "b7b05d0ae9125298": "2026-11-27T09:45:30.710379+00:00",
+    "0f46484664378027": "2026-11-27T09:45:30.710379+00:00",
+    "9aca21e3742a1431": "2026-11-27T09:45:30.710379+00:00",
+    "c26d5aa2e656caa4": "2026-11-27T09:45:30.710379+00:00",
+    "52674ab314ab682c": "2026-11-27T09:45:30.710379+00:00",
+    "ec0fe054355a7281": "2026-11-27T09:45:30.710379+00:00",
+    "3dfbd7e882b32006": "2026-11-27T09:45:30.710379+00:00",
+    "3536cf704e406622": "2026-11-27T09:45:30.710379+00:00",
+    "a6e83ec122f493f8": "2026-11-27T09:45:30.710379+00:00",
+    "266b80b36d888878": "2026-11-27T09:45:30.710379+00:00",
+    "4171d103d8c095b3": "2026-11-27T09:45:30.710379+00:00",
+    "19e166a5326e602e": "2026-11-27T09:45:30.710379+00:00",
+    "c7ae164999a7b949": "2026-11-27T09:45:30.710379+00:00",
+    "d8b939cea51e00e0": "2026-11-27T09:45:30.710379+00:00",
+    "328423d917a01424": "2026-11-27T09:45:30.710379+00:00",
+    "462bf0738068c562": "2026-11-27T09:45:30.710379+00:00"
   },
   "published_stories": [
     {
@@ -7924,6 +7940,15 @@
       "headline_az": "Mars meteoritində ilk dəfə qranat mineralı tapıldı",
       "summary_az": "Alimlər Yerə düşən Mars meteoritini tədqiq edərkən Qırmızı Gezegen üçün bir ilkə imza atıblar. Nümunələrdə ilk dəfə aşkar edilən granat mineralı Marsın qədim jeoloji keçmişinə işıq salır.",
       "topic_key": "mars-meteorite-garnet-discovery",
+      "sources": [
+        "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T09:45:31.531111+00:00",
+      "headline_az": "Qlobal istiləşmə su ehtiyatlarını təhdid edir: Tarixi azalma qeydə alındı",
+      "summary_az": "2023-2024-cü illərdə qeydə alınan rekord isti hava şəraiti dünya üzrə çay və göllərdə su səviyyəsinin son otuz ilin ən kəskin səviyyəsində düşməsinə səbəb olub. Mütəxəssislər qlobal miqyasda şirin su mənbələrinin sürətlə azaldığını bildirirlər.",
+      "topic_key": "global-water-levels-decline-heat",
       "sources": [
         "TRT Haber"
       ]
