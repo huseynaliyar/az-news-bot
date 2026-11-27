@@ -4741,7 +4741,13 @@
     "719ae3ec86ba1626": "2026-11-27T14:15:28.615085+00:00",
     "73afb9e49690b992": "2026-11-27T14:15:28.615085+00:00",
     "88d9503caf0700fe": "2026-11-27T14:15:28.615085+00:00",
-    "0352b0cbf8cc18c3": "2026-11-27T14:15:28.615085+00:00"
+    "0352b0cbf8cc18c3": "2026-11-27T14:15:28.615085+00:00",
+    "51b7a8559f66daa3": "2026-11-27T14:30:37.609625+00:00",
+    "7314ba500ec1ad21": "2026-11-27T14:30:37.609625+00:00",
+    "938cf31bfdc9d3e2": "2026-11-27T14:30:37.609625+00:00",
+    "c983d629ad3230ae": "2026-11-27T14:30:37.609625+00:00",
+    "6123a3dbfb11b9fa": "2026-11-27T14:30:37.609625+00:00",
+    "9ca572dd04f874f0": "2026-11-27T14:30:37.609625+00:00"
   },
   "published_stories": [
     {
@@ -8366,31 +8372,18 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-27T14:30:38.514157+00:00",
+      "headline_az": "İranın gizli yeraltı obyektləri peyk görüntülərində: Tikinti sürətlənib",
+      "summary_az": "Amerikalı tədqiqatçıların təhlil etdiyi son peyk görüntüləri İranın nüvə obyektləri yaxınlığında yeni və sirli yeraltı kompleksin tikintisini sürətləndirdiyini göstərir. Beynəlxalq ictimaiyyət bu obyektin hansı məqsədlə inşa edildiyini diqqətlə izləyir.",
+      "topic_key": "iran-secret-underground-facility-satellite",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "İranın gizli yeraltı obyektləri peyk görüntülərində: Tikinti sürətlənib",
-      "summary_az": "Amerikalı tədqiqatçıların təhlil etdiyi son peyk görüntüləri İranın nüvə obyektləri yaxınlığında yeni və sirli yeraltı kompleksin tikintisini sürətləndirdiyini göstərir. Beynəlxalq ictimaiyyət bu obyektin hansı məqsədlə inşa edildiyini diqqətlə izləyir.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
-      "topic_key": "iran-secret-underground-facility-satellite",
-      "source_indices": [
-        8
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/video/dunya/iranda-yeni-gizemli-yeralti-tesisi-mi-uydu-goruntuleri-yeni-kompleksi-ortaya-cikardi-3498909"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-27T12:00:44.781360+00:00"
-    },
     {
       "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
       "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
