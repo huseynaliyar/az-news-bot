@@ -4360,7 +4360,21 @@
     "5b8b5a04a17fac19": "2026-11-27T07:45:28.520124+00:00",
     "36c75c2f65686dae": "2026-11-27T07:45:28.520124+00:00",
     "663fbd40ebd21ba3": "2026-11-27T07:45:28.520124+00:00",
-    "a41e299d2e31a959": "2026-11-27T07:45:28.520124+00:00"
+    "a41e299d2e31a959": "2026-11-27T07:45:28.520124+00:00",
+    "34cd901038f667a7": "2026-11-27T08:00:43.085432+00:00",
+    "974754b299e29fa3": "2026-11-27T08:00:43.085432+00:00",
+    "c9f55d28a7dbd485": "2026-11-27T08:00:43.085432+00:00",
+    "dfeab3bbd7f55f62": "2026-11-27T08:00:43.085432+00:00",
+    "c45b4b415b74481c": "2026-11-27T08:00:43.085432+00:00",
+    "f8c06a34b48d98a5": "2026-11-27T08:00:43.085432+00:00",
+    "b88c9bc9b7ef6e37": "2026-11-27T08:00:43.085432+00:00",
+    "4619a6d75d6e89f8": "2026-11-27T08:00:43.085432+00:00",
+    "5e3de9ac944363f7": "2026-11-27T08:00:43.085432+00:00",
+    "857abe488cfb0165": "2026-11-27T08:00:43.085432+00:00",
+    "e61a15621dbef812": "2026-11-27T08:00:43.085432+00:00",
+    "051669d1652f20ce": "2026-11-27T08:00:43.085432+00:00",
+    "2a45eb0232a4aa88": "2026-11-27T08:00:43.085432+00:00",
+    "0560585596485ca3": "2026-11-27T08:00:43.085432+00:00"
   },
   "published_stories": [
     {
@@ -7750,7 +7764,66 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-27T08:00:43.908939+00:00",
+      "headline_az": "Türk F-16 qırıcıları NATO-nun hava səhasını qorumaq üçün Romayadadır",
+      "summary_az": "Türkiyənin Merzifon 5-ci Ana Jet Üs Komandanlığının 'Tunç Filo' ünsürləri NATO-nun Gəlişmiş Hava Polisliyi missiyası çərçivəsində Romaniyadakı Feteşti Hava Üssündə xidmətə başlayıb. Bu addım alyansın şərq cinahının təhlükəsizliyini birə-bir artırır.",
+      "topic_key": "turkey-f16-romania-nato",
+      "sources": [
+        "TRT Haber"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Azərbaycan kənd təsərrüfatında süni intellekt və smart suvarma dövrünə keçir",
+      "summary_az": "Kənd təsərrüfatında məhsuldarlığı artırmaq və resurslardan səmərəli istifadə etmək məqsədilə rəqəmsal innovasiyaların tətbiqi sürətləndirilir. Nazirlik bu sahədə süni intellekt və ağıllı suvarma sistemlərinin miqyasını genişləndirməyi planlaşdırır.",
+      "category": "Azərbaycan",
+      "region": "az",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "azerbaijan-smart-agriculture-ai",
+      "source_indices": [
+        2
+      ],
+      "sources": [
+        {
+          "name": "AzerNews",
+          "url": "https://www.azernews.az/business/268200.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://www.azernews.az/media/2026/11/27/smart-farming-technology-stockca.jpg",
+      "queued_at": "2026-11-27T08:00:43.060816+00:00"
+    },
+    {
+      "headline_az": "Gənc mütəxəssislər üçün çip dizaynı və otonom sürüş proqramına qeydiyyat başlayır",
+      "summary_az": "Sənaye və Texnologiya Nazirliyi tərəfindən həyata keçirilən Milli Texnologiya Uzmanlıq Proqramlarına müraciət üçün son tarix 20 dekabrdır. Gənclər gələcəyin ən tələb olunan sahələri olan çip dizaynı və süni intellektli otonom texnologiyalar üzrə xüsusi təlimlər alacaqlar.",
+      "category": "Texnologiya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "turkey-tech-expert-program-chips",
+      "source_indices": [
+        4,
+        10
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/ekonomi/milli-teknoloji-uzmanlik-programlari-icin-son-basvuru-tarihi-20-aralik-964625.html"
+        },
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/ekonomi/bakan-kacir-duyurdu-genclere-cip-tasarimi-ve-otonom-surus-egitimi-3498844"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T08:00:43.060816+00:00"
+    }
+  ]
 }
