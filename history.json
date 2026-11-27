@@ -4566,7 +4566,22 @@
     "819a355e3481e366": "2026-11-27T11:15:30.754002+00:00",
     "7e7e4ccd97d7e1aa": "2026-11-27T11:15:30.754002+00:00",
     "60a104f1edc9c21d": "2026-11-27T11:15:30.754002+00:00",
-    "1ccd758ff29b1967": "2026-11-27T11:15:30.754002+00:00"
+    "1ccd758ff29b1967": "2026-11-27T11:15:30.754002+00:00",
+    "72d2e8ed45fddecb": "2026-11-27T11:30:56.764635+00:00",
+    "93bc0f0cd6bdaca0": "2026-11-27T11:30:56.764635+00:00",
+    "5551bbd3e0b737f9": "2026-11-27T11:30:56.764635+00:00",
+    "3efdd434bef11595": "2026-11-27T11:30:56.764635+00:00",
+    "4f6542bfe75d2c48": "2026-11-27T11:30:56.764635+00:00",
+    "5be5fb826f37ce9a": "2026-11-27T11:30:56.764635+00:00",
+    "c6ae53bc0219d169": "2026-11-27T11:30:56.764635+00:00",
+    "d16b22d866af5c33": "2026-11-27T11:30:56.764635+00:00",
+    "f6dd334ef86711dd": "2026-11-27T11:30:56.764635+00:00",
+    "a7458278a5aee258": "2026-11-27T11:30:56.764635+00:00",
+    "92e6548872a6f445": "2026-11-27T11:30:56.764635+00:00",
+    "5e0087564f3ad7b4": "2026-11-27T11:30:56.764635+00:00",
+    "13671844cf73888e": "2026-11-27T11:30:56.764635+00:00",
+    "3e868caf3565a4b6": "2026-11-27T11:30:56.764635+00:00",
+    "fef1979c9c4cea72": "2026-11-27T11:30:56.764635+00:00"
   },
   "published_stories": [
     {
@@ -8082,6 +8097,15 @@
       "topic_key": "elon-musk-satellite-data-centres-space",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T11:30:58.175253+00:00",
+      "headline_az": "Türkiyə səhiyyəsində yeni dövr: 'Ritmik' şəxsi sağlamlıq asistanınız olur",
+      "summary_az": "Türkiyə Səhiyyə Nazirliyi 86 milyon ölkə vətəndaşı üçün xüsusi olaraq hazırlanmış 'Ritmik' adlı fərdi rəqəmsal sağlamlıq asistanını istifadəyə verib. Keçmişin e-Nabız sistemi əsasında yaradılan bu süni intellekt dəstəkli platforma hər kəsə öz sağlamlıq durumuna uyğun fərdi tövsiyələr verəcək.",
+      "topic_key": "turkey-ritmik-health-assistant",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
