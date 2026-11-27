@@ -4680,7 +4680,18 @@
     "c39a77e5386c35a4": "2026-11-27T13:00:42.175187+00:00",
     "f757c8129ad8de55": "2026-11-27T13:00:42.175187+00:00",
     "6bee08bdf4091128": "2026-11-27T13:00:42.175187+00:00",
-    "3ea649f1412eff00": "2026-11-27T13:00:42.175187+00:00"
+    "3ea649f1412eff00": "2026-11-27T13:00:42.175187+00:00",
+    "84016abaf3adab1b": "2026-11-27T13:15:32.196136+00:00",
+    "08dd9bf95352ff3f": "2026-11-27T13:15:32.196136+00:00",
+    "d66ae81e6feb20c4": "2026-11-27T13:15:32.196136+00:00",
+    "09ba1042a9f6cb70": "2026-11-27T13:15:32.196136+00:00",
+    "610f67f04d0e92e5": "2026-11-27T13:15:32.196136+00:00",
+    "63dde9cf6dc4454c": "2026-11-27T13:15:32.196136+00:00",
+    "9209330ccc1c0e97": "2026-11-27T13:15:32.196136+00:00",
+    "a719821bd9c869de": "2026-11-27T13:15:32.196136+00:00",
+    "d47a1ca70dc39a80": "2026-11-27T13:15:32.196136+00:00",
+    "73cdd1e230469e61": "2026-11-27T13:15:32.196136+00:00",
+    "916fa9afd0b0325d": "2026-11-27T13:15:32.196136+00:00"
   },
   "published_stories": [
     {
@@ -8260,9 +8271,40 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-27T13:15:33.250998+00:00",
+      "headline_az": "Çində 300 milyard dollarlıq nəhəng altın ehtiyatı tapıldı",
+      "summary_az": "Çində iki ayrı bölgədə aparılan sondaj işləri nəticəsində ümumi çəkisi 2 min 400 tonu aşan nəhəng qızıl yataqları aşkar edilib. Mütəxəssislər bu rezervlərin ümumi dəyərinin təxminən 279 milyard dollara çatdığını hesablayırlar.",
+      "topic_key": "china-huge-gold-reserve-discovery",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "İngiltərədə məhkəmələrə süni intellekt xəbərdarlığı: Uydurma qanunlar aşkarlandı",
+      "summary_az": "İngiltərə və Qallər ərazisində cari ildə keçirilən onlarla məhkəmə işində hüquqi dayaqların və ifadələrin süni intellektə hazırlatdırıldığı üzə çıxıb. Belə ki, proseslərdə sistem tərəfindən uydurulan saxta emsal qərarlar və mövcud olmayan qanunlardan istifadə edildiyi müəyyənləşdirilib.",
+      "category": "Texnologiya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "uk-courts-ai-fake-laws-warning",
+      "source_indices": [
+        4
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/ingilterede-yargiya-yapay-zeka-uyarisi-uydurma-yasalar-ve-ifadeler-davalara-girdi-964668.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T13:15:32.184188+00:00"
+    },
     {
       "headline_az": "Hürmüz boğazında gərginlik: Tanker mayına çırpılaraq partladı",
       "summary_az": "İran Devrim Muhafızları Ordusu Hürmüz boğazının şərq hissəsində bir neft tankerinin dəniz mayınına çırpılaraq partladığını bəyan edib. Hadisə bölgədə dəniz təhlükəsizliyi ilə bağlı narahatlıqları daha da artırıb.",
