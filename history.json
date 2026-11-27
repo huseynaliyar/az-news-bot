@@ -4691,7 +4691,20 @@
     "a719821bd9c869de": "2026-11-27T13:15:32.196136+00:00",
     "d47a1ca70dc39a80": "2026-11-27T13:15:32.196136+00:00",
     "73cdd1e230469e61": "2026-11-27T13:15:32.196136+00:00",
-    "916fa9afd0b0325d": "2026-11-27T13:15:32.196136+00:00"
+    "916fa9afd0b0325d": "2026-11-27T13:15:32.196136+00:00",
+    "86d284b406b15b4e": "2026-11-27T13:31:02.757511+00:00",
+    "c0c459aaba801d4c": "2026-11-27T13:31:02.757511+00:00",
+    "a57f45be05e1f2b3": "2026-11-27T13:31:02.757511+00:00",
+    "8598d718c20bf77c": "2026-11-27T13:31:02.757511+00:00",
+    "ac47cfe3d22d583c": "2026-11-27T13:31:02.757511+00:00",
+    "e8b8ef86d786573d": "2026-11-27T13:31:02.757511+00:00",
+    "5e69a52ec6a2b0b1": "2026-11-27T13:31:02.757511+00:00",
+    "5f771510f1c421a9": "2026-11-27T13:31:02.757511+00:00",
+    "e5cc5959017b00e1": "2026-11-27T13:31:02.757511+00:00",
+    "e5aa9a80e2dcbe5c": "2026-11-27T13:31:02.757511+00:00",
+    "ba725d8af3125a8e": "2026-11-27T13:31:02.757511+00:00",
+    "346f6bae505556a3": "2026-11-27T13:31:02.757511+00:00",
+    "4d4cda97b22f9625": "2026-11-27T13:31:02.757511+00:00"
   },
   "published_stories": [
     {
@@ -8279,6 +8292,15 @@
       "topic_key": "china-huge-gold-reserve-discovery",
       "sources": [
         "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-27T13:31:03.624248+00:00",
+      "headline_az": "İngiltərədə süni intellekt ilk dəfə kart olmadan ödəniş etdi",
+      "summary_az": "İngiltərədə həyata keçirilən sınaq zamanı süni intellekt asistanı heç bir bank kartı və şifrə paylaşmadan uğurla yemək sifarişi verib. Bu təcrübə gələcəkdə rəsmi alış-verişlərdə AI sistemlərinin rolunu tamamilə dəyişə bilər.",
+      "topic_key": "uk-ai-cardless-payment-experiment",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
