@@ -4624,7 +4624,25 @@
     "8e36d67d03a9712c": "2026-11-27T12:00:44.803031+00:00",
     "f4b5cae620bf92c8": "2026-11-27T12:00:44.803031+00:00",
     "61f4fbc864dd986b": "2026-11-27T12:00:44.803031+00:00",
-    "7ed3d0e5cea63ff5": "2026-11-27T12:00:44.803031+00:00"
+    "7ed3d0e5cea63ff5": "2026-11-27T12:00:44.803031+00:00",
+    "649f77ee61da7ac3": "2026-11-27T12:15:41.085952+00:00",
+    "f87d883b9bc11a5d": "2026-11-27T12:15:41.085952+00:00",
+    "c8ae62b6066a897d": "2026-11-27T12:15:41.085952+00:00",
+    "a45f8be928b0a51e": "2026-11-27T12:15:41.085952+00:00",
+    "64fb2f218358bf6d": "2026-11-27T12:15:41.085952+00:00",
+    "dea93b8cccec4dc2": "2026-11-27T12:15:41.085952+00:00",
+    "75357ddff2a0ffd1": "2026-11-27T12:15:41.085952+00:00",
+    "12199812565bd837": "2026-11-27T12:15:41.085952+00:00",
+    "1544a299ece8a172": "2026-11-27T12:15:41.085952+00:00",
+    "1eb47804fe8befa8": "2026-11-27T12:15:41.085952+00:00",
+    "02aa68eb00178741": "2026-11-27T12:15:41.085952+00:00",
+    "fe5e89c14307807c": "2026-11-27T12:15:41.085952+00:00",
+    "b0db6f8c169eeea5": "2026-11-27T12:15:41.085952+00:00",
+    "82e0e51f58f2135b": "2026-11-27T12:15:41.085952+00:00",
+    "9e2cbe850d7eb86a": "2026-11-27T12:15:41.085952+00:00",
+    "3c88c257175a7256": "2026-11-27T12:15:41.085952+00:00",
+    "b297ce148f6cf65c": "2026-11-27T12:15:41.085952+00:00",
+    "30b6c243aeed22d3": "2026-11-27T12:15:41.085952+00:00"
   },
   "published_stories": [
     {
@@ -8168,9 +8186,40 @@
       "sources": [
         "TRT Haber"
       ]
+    },
+    {
+      "published_at": "2026-11-27T12:15:42.012903+00:00",
+      "headline_az": "İrandan Küveyt açıqlaması: \"Biz vurmamışıq, birgə araşdırmağa hazırıq\"",
+      "summary_az": "Kuveyt və İtaliyanın iki mühəndisin ölümü ilə nəticələnən PUA hücumunda İttiham etdiyi Tehran rəhbərliyi ittihamları rədd edib. İran hücumun mənbəyini müəyyən etmək üçün Küveytlə ortaq araşdırma aparmağa hazır olduğunu açıqlayıb.",
+      "topic_key": "kuwait-drone-attack-italy",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "COP31-də mühüm razılaşma: İqlim dəyişikliyi ilə mübarizədə 46 qəbul edildi",
+      "summary_az": "Antalyada baş tutan BMT-nin İqlim Dəyişikliyi Konfransında ölkələr iqlim maliyyəsi və karbon siyasəti daxil olmaqla 46 mühüm qərarda uzlaşma əldə ediblər. Türkiyənin ev sahibliyi ilə keçirilən sammit qlobal ekoloji çağırışlara qarşı addımların sürətləndirilməsini hədəfləyir.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "cop31-climate-agreement-antalya",
+      "source_indices": [
+        5
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/cop31de-iklim-degisikligiyle-mucadelede-46-kararda-uzlasi-964659.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-27T12:15:41.074932+00:00"
+    },
     {
       "headline_az": "Hürmüz boğazında gərginlik: Tanker mayına çırpılaraq partladı",
       "summary_az": "İran Devrim Muhafızları Ordusu Hürmüz boğazının şərq hissəsində bir neft tankerinin dəniz mayınına çırpılaraq partladığını bəyan edib. Hadisə bölgədə dəniz təhlükəsizliyi ilə bağlı narahatlıqları daha da artırıb.",
