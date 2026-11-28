@@ -5298,7 +5298,13 @@
     "6cb15bf2d6dc0a3a": "2026-11-28T11:15:34.864720+00:00",
     "94fb917fcef90a7c": "2026-11-28T11:15:34.864720+00:00",
     "49142e538c7e4910": "2026-11-28T11:15:34.864720+00:00",
-    "ad21f69ba78310eb": "2026-11-28T11:15:34.864720+00:00"
+    "ad21f69ba78310eb": "2026-11-28T11:15:34.864720+00:00",
+    "59290750f93802aa": "2026-11-28T11:30:38.721455+00:00",
+    "926423cbe57fe1fb": "2026-11-28T11:30:38.721455+00:00",
+    "19c1cfe9fd7b0a03": "2026-11-28T11:30:38.721455+00:00",
+    "804b04cffc3d8fae": "2026-11-28T11:30:38.721455+00:00",
+    "7203ee8f0b731275": "2026-11-28T11:30:38.721455+00:00",
+    "f6ca52de07274350": "2026-11-28T11:30:38.721455+00:00"
   },
   "published_stories": [
     {
@@ -9091,31 +9097,18 @@
       "sources": [
         "Oxu.az"
       ]
+    },
+    {
+      "published_at": "2026-11-28T11:30:39.576378+00:00",
+      "headline_az": "Atlantik okeanında miqrant faciəsi: 14 nəfər həyatını itirdi",
+      "summary_az": "İspaniyanın Kanarya Adaları yaxınlığında sürüklənən miqrant qayığında 14 nəfərin cəsədi tapılıb. Xilasedicilər təxminən 90 nəfəri sağ olaraq xilas edə biliblər.",
+      "topic_key": "atlantic-migrant-boat-tragedy",
+      "sources": [
+        "CNN Türk"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Atlantik okeanında miqrant faciəsi: 14 nəfər həyatını itirdi",
-      "summary_az": "İspaniyanın Kanarya Adaları yaxınlığında sürüklənən miqrant qayığında 14 nəfərin cəsədi tapılıb. Xilasedicilər təxminən 90 nəfəri sağ olaraq xilas edə biliblər.",
-      "category": "Dünya",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "atlantic-migrant-boat-tragedy",
-      "source_indices": [
-        7
-      ],
-      "sources": [
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/dunya/atlantikte-gocmen-teknesi-faciasi-14-kisi-oldu-3499113"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-28T11:00:41.680210+00:00"
-    },
     {
       "headline_az": "Süni intellekt yatırımları ABŞ-nin xarici ticarət kəsrini rekord həddə çatdırdı",
       "summary_az": "ABŞ-nin mal ticarəti kəsri süni intellekt infrastrukturasına yönələn nəhəng yatırımların idxalı artırması fonunda oktyabr ayında 10,7 faiz artaraq 149,5 milyard dollara yüksəlib. Bu rəqəm rəqəmsal texnologiya bumunun qlobal iqtisadiyyata təsirlərini bir daha göz önünə sərir.",
