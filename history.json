@@ -5289,7 +5289,16 @@
     "55454b43bd873996": "2026-11-28T11:00:41.689686+00:00",
     "517f94c268085e3e": "2026-11-28T11:00:41.689686+00:00",
     "4b97b244f291d825": "2026-11-28T11:00:41.689686+00:00",
-    "2472b8c45862b62f": "2026-11-28T11:00:41.689686+00:00"
+    "2472b8c45862b62f": "2026-11-28T11:00:41.689686+00:00",
+    "17e6bb617a3bc6fc": "2026-11-28T11:15:34.864720+00:00",
+    "d08c7a45bb6ee603": "2026-11-28T11:15:34.864720+00:00",
+    "220e7142721d0f68": "2026-11-28T11:15:34.864720+00:00",
+    "12d9fe3434536bab": "2026-11-28T11:15:34.864720+00:00",
+    "edf5cfc3dd0c6926": "2026-11-28T11:15:34.864720+00:00",
+    "6cb15bf2d6dc0a3a": "2026-11-28T11:15:34.864720+00:00",
+    "94fb917fcef90a7c": "2026-11-28T11:15:34.864720+00:00",
+    "49142e538c7e4910": "2026-11-28T11:15:34.864720+00:00",
+    "ad21f69ba78310eb": "2026-11-28T11:15:34.864720+00:00"
   },
   "published_stories": [
     {
@@ -9072,6 +9081,15 @@
       "topic_key": "yemen-gulf-of-aden-cargo-seizure",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T11:15:36.170884+00:00",
+      "headline_az": "Çıxarışsız mülklərin sənədləşdirilməsində yeni mərhələ",
+      "summary_az": "Həyətyanı torpaq sahəsi üçün yalnız plan-ölçü sənədi olan vətəndaşların mülkiyyət hüququnun rəsmiləşdirilməsi ilə bağlı qanun layihəsi Milli Məclisdə birinci oxunuşdan keçib. Bu dəyişiklik minlərlə vətəndaşın illərdir həllini gözlədiyi mülk sənədi problemini aradan qaldırmağa imkan verəcək.",
+      "topic_key": "azerbaijan-property-document-law",
+      "sources": [
+        "Oxu.az"
       ]
     }
   ],
