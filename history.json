@@ -5123,7 +5123,19 @@
     "0ec19586a3aaf686": "2026-11-28T07:30:38.738338+00:00",
     "9ab8154657ada42b": "2026-11-28T07:30:38.738338+00:00",
     "c6382ed1b497c702": "2026-11-28T07:30:38.738338+00:00",
-    "eea6ef13c0b520d3": "2026-11-28T07:30:38.738338+00:00"
+    "eea6ef13c0b520d3": "2026-11-28T07:30:38.738338+00:00",
+    "8bf441e0e8a40eba": "2026-11-28T07:45:38.572118+00:00",
+    "686ef05a438eb961": "2026-11-28T07:45:38.572118+00:00",
+    "49b5ed34addd91c6": "2026-11-28T07:45:38.572118+00:00",
+    "752fb8eddd88fce4": "2026-11-28T07:45:38.572118+00:00",
+    "58ebd9c42c9049c9": "2026-11-28T07:45:38.572118+00:00",
+    "0d812cfd72d06ace": "2026-11-28T07:45:38.572118+00:00",
+    "c19d3054a6b52f03": "2026-11-28T07:45:38.572118+00:00",
+    "3ab8644c3fa540ce": "2026-11-28T07:45:38.572118+00:00",
+    "ae12b6deb27cc7c2": "2026-11-28T07:45:38.572118+00:00",
+    "6a186e6abcd60927": "2026-11-28T07:45:38.572118+00:00",
+    "2385f69a886fe627": "2026-11-28T07:45:38.572118+00:00",
+    "e6187a9182802015": "2026-11-28T07:45:38.572118+00:00"
   },
   "published_stories": [
     {
@@ -8821,6 +8833,15 @@
       "topic_key": "uganda-mrna-ebola-vaccine-trial",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T07:45:40.639680+00:00",
+      "headline_az": "Azərbaycan şahmatçıları Türk dünyasının zirvəsində!",
+      "summary_az": "Qazaxıstanın Türküstan şəhərində keçirilən Türk Şahmat Assosiasiyası çempionatında Azərbaycan idmançıları həm kişi, həm də qadınlar arasında qızıl medallar qazanıblar.",
+      "topic_key": "azerbaijan-turkic-chess-championship-gold",
+      "sources": [
+        "AzerNews"
       ]
     }
   ],
