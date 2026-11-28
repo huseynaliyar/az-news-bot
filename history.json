@@ -5113,7 +5113,17 @@
     "f069d3a2a62e0888": "2026-11-28T07:15:32.081076+00:00",
     "efdf68b07eb4e8b0": "2026-11-28T07:15:32.081076+00:00",
     "10a0b579469c169a": "2026-11-28T07:15:32.081076+00:00",
-    "3da044045a0fcc04": "2026-11-28T07:15:32.081076+00:00"
+    "3da044045a0fcc04": "2026-11-28T07:15:32.081076+00:00",
+    "c73cbc9efd422bf8": "2026-11-28T07:30:38.738338+00:00",
+    "aee9fd2dcd53bc7b": "2026-11-28T07:30:38.738338+00:00",
+    "0f1d5dc5490cb6fc": "2026-11-28T07:30:38.738338+00:00",
+    "7c0a8fb49fc4a445": "2026-11-28T07:30:38.738338+00:00",
+    "fad5b22552a285b5": "2026-11-28T07:30:38.738338+00:00",
+    "e88d3eb72eac6a1d": "2026-11-28T07:30:38.738338+00:00",
+    "0ec19586a3aaf686": "2026-11-28T07:30:38.738338+00:00",
+    "9ab8154657ada42b": "2026-11-28T07:30:38.738338+00:00",
+    "c6382ed1b497c702": "2026-11-28T07:30:38.738338+00:00",
+    "eea6ef13c0b520d3": "2026-11-28T07:30:38.738338+00:00"
   },
   "published_stories": [
     {
@@ -8802,6 +8812,15 @@
       "topic_key": "ai-encryption-security-threat",
       "sources": [
         "TRT Haber"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T07:30:39.293418+00:00",
+      "headline_az": "Uqandada Afrikada bir ilk: mRNA əsaslı Ebola peyvəndi sınaqdan keçirilir",
+      "summary_az": "Uqanda hökuməti qitədə ilk dəfə olaraq mRNA texnologiyasına əsaslanan Ebola peyvəndinin klinik sınaqlarına başlayıb. Tədqiqat xüsusilə Konqo Demokratik Respublikasındakı sərhəddə yayılmış təhlükəli virus ştammına qarşı yönəlib.",
+      "topic_key": "uganda-mrna-ebola-vaccine-trial",
+      "sources": [
+        "Al Jazeera"
       ]
     }
   ],
