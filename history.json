@@ -5009,7 +5009,15 @@
     "3f4c5201f251d238": "2026-11-28T04:00:39.217823+00:00",
     "33c6272da1b0707a": "2026-11-28T04:00:39.217823+00:00",
     "692c4361bcb732e6": "2026-11-28T04:00:39.217823+00:00",
-    "30847ff8ab9c4d50": "2026-11-28T04:00:39.217823+00:00"
+    "30847ff8ab9c4d50": "2026-11-28T04:00:39.217823+00:00",
+    "c579a9f6e3531354": "2026-11-28T04:15:29.511902+00:00",
+    "0585a8f4bb75b001": "2026-11-28T04:15:29.511902+00:00",
+    "cab86d221b399275": "2026-11-28T04:15:29.511902+00:00",
+    "be295bd07ab8ade4": "2026-11-28T04:15:29.511902+00:00",
+    "8e98ce3430d3bf91": "2026-11-28T04:15:29.511902+00:00",
+    "f23e5e5931de5934": "2026-11-28T04:15:29.511902+00:00",
+    "5a64b164441ffa48": "2026-11-28T04:15:29.511902+00:00",
+    "7575cbd3cb528735": "2026-11-28T04:15:29.511902+00:00"
   },
   "published_stories": [
     {
@@ -8672,30 +8680,16 @@
         "AzerNews",
         "Google News AZ"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-28T04:15:30.537534+00:00",
       "headline_az": "Xərçəngə qarşı ümidverici addım: Alimlərdən yeni preparat",
       "summary_az": "Tədqiqatçılar xərçəngin müalicəsi üçün mühüm hədəf olan CDK12 və CDK13 protein kinazalarını hədəf alan yeni preparat hazırlayıblar. Bu kəşf DNT transkripsiyasını tənzimləyən mexanizmlər üzərində yeni terapiya imkanları açır.",
-      "category": "Elm",
-      "region": "world",
-      "verified": false,
-      "verification_note": "Tək mənbə / Yoxlanılmalıdır",
-      "is_update": false,
       "topic_key": "scientists-new-cancer-treatment-drug",
-      "source_indices": [
-        4
-      ],
       "sources": [
-        {
-          "name": "Oxu.az",
-          "url": "https://oxu.az/dunya/alimler-xercengin-mualicesi-ucun-yeni-preparat-hazirladilar"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.oxu.az/2026/11/27/o2lOhgPCsXCA2IgwbxwOAyZqq3nJfZNspujsLanW:640.jpg",
-      "queued_at": "2026-11-28T04:00:39.207615+00:00"
+        "Oxu.az"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
