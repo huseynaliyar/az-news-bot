@@ -5327,7 +5327,15 @@
     "69e6bde384f5bbef": "2026-11-28T12:01:01.358306+00:00",
     "eef10296e9e85d28": "2026-11-28T12:01:01.358306+00:00",
     "3a640ad53b8c0329": "2026-11-28T12:01:01.358306+00:00",
-    "73645d75504ff54a": "2026-11-28T12:01:01.358306+00:00"
+    "73645d75504ff54a": "2026-11-28T12:01:01.358306+00:00",
+    "94be3bd0493464be": "2026-11-28T12:15:32.868652+00:00",
+    "1bc583870d38d0c7": "2026-11-28T12:15:32.868652+00:00",
+    "5d173ab5ebe43654": "2026-11-28T12:15:32.868652+00:00",
+    "eb2ccabcd3e873f1": "2026-11-28T12:15:32.868652+00:00",
+    "7b31e46b4b6af3f2": "2026-11-28T12:15:32.868652+00:00",
+    "269f257c7e607ecb": "2026-11-28T12:15:32.868652+00:00",
+    "3953d8b93f75f499": "2026-11-28T12:15:32.868652+00:00",
+    "54ca270d39260b34": "2026-11-28T12:15:32.868652+00:00"
   },
   "published_stories": [
     {
@@ -9146,6 +9154,15 @@
       "topic_key": "kenya-starvation-cult-leader-convicted",
       "sources": [
         "Al Jazeera"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T12:15:33.457012+00:00",
+      "headline_az": "Türkiyədə 12 milyar TL-lik nəhəng əməliyyat: Onlarla tutuklama",
+      "summary_az": "Türkiyədə 19 ili əhatə edən və 12 milyar TL-lik pul dövriyyəsi aşkar edilən 'Arpa' cinayət təşkilatına qarşı keçirilən əməliyyatda 103 nəfər saxlanılıb, 71 şəxs isə həbs edilib.",
+      "topic_key": "turkey-arpa-crime-syndicate-operation",
+      "sources": [
+        "Google News TR"
       ]
     }
   ],
