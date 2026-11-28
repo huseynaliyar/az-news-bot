@@ -5160,7 +5160,24 @@
     "fd0a8990e915dd1d": "2026-11-28T08:15:30.688058+00:00",
     "e69af5bcd0456edd": "2026-11-28T08:15:30.688058+00:00",
     "1ffe4ba026c5732b": "2026-11-28T08:15:30.688058+00:00",
-    "2ab0b622e6847c62": "2026-11-28T08:15:30.688058+00:00"
+    "2ab0b622e6847c62": "2026-11-28T08:15:30.688058+00:00",
+    "b8f999bfac64052d": "2026-11-28T08:30:36.085526+00:00",
+    "08ab63f39239bff5": "2026-11-28T08:30:36.085526+00:00",
+    "3e90a2661d1d1db3": "2026-11-28T08:30:36.085526+00:00",
+    "d605b4b720e9f7b9": "2026-11-28T08:30:36.085526+00:00",
+    "8c7278989cede00b": "2026-11-28T08:30:36.085526+00:00",
+    "dd867b6168162786": "2026-11-28T08:30:36.085526+00:00",
+    "303b63385b8c79e2": "2026-11-28T08:30:36.085526+00:00",
+    "5a2d18b6c1501e6d": "2026-11-28T08:30:36.085526+00:00",
+    "7bf45737296d3e20": "2026-11-28T08:30:36.085526+00:00",
+    "0f9fac8931d236f9": "2026-11-28T08:30:36.085526+00:00",
+    "e083db9894f25294": "2026-11-28T08:30:36.085526+00:00",
+    "5ca52d95da83dce0": "2026-11-28T08:30:36.085526+00:00",
+    "bb976f3fe311a92b": "2026-11-28T08:30:36.085526+00:00",
+    "ca460a7d3b4b14eb": "2026-11-28T08:30:36.085526+00:00",
+    "deb9d1dc40d6c2e3": "2026-11-28T08:30:36.085526+00:00",
+    "43587a9eefb34108": "2026-11-28T08:30:36.085526+00:00",
+    "e621cfe449e7f78f": "2026-11-28T08:30:36.085526+00:00"
   },
   "published_stories": [
     {
@@ -8877,30 +8894,16 @@
       "sources": [
         "Oxu.az"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-28T08:30:37.143603+00:00",
       "headline_az": "Ayın səthinin altında nəhəng yeraltı tünellər aşkarlandı",
       "summary_az": "Gökbilimciler Ayın kütlə çəkimi sahəsindəki incə dəyişiklikləri təhlil edərək səthin 100 metr altında gizlənən və genişliyi bir kilometri ötən dörd nəhəng lav borusu namizədi müəyyən ediblər.",
-      "category": "Elm",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "moon-underground-lava-tubes",
-      "source_indices": [
-        7
-      ],
       "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/dunya/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-964726.html"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-28T08:15:30.676695+00:00"
+        "TRT Haber"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
