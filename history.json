@@ -5275,7 +5275,21 @@
     "9fcf7bd770084bf1": "2026-11-28T10:30:35.754691+00:00",
     "7aa87d4483f50001": "2026-11-28T10:45:32.848979+00:00",
     "f26a672e95619296": "2026-11-28T10:45:32.848979+00:00",
-    "58322f50baa99d4f": "2026-11-28T10:45:32.848979+00:00"
+    "58322f50baa99d4f": "2026-11-28T10:45:32.848979+00:00",
+    "51e7bee6c15f771a": "2026-11-28T11:00:41.689686+00:00",
+    "f7ea4662b29039a4": "2026-11-28T11:00:41.689686+00:00",
+    "aa84ad7ebd932c24": "2026-11-28T11:00:41.689686+00:00",
+    "e0c0425a1f696e28": "2026-11-28T11:00:41.689686+00:00",
+    "1db42aaaa9ed3f5b": "2026-11-28T11:00:41.689686+00:00",
+    "ef7aac669032346c": "2026-11-28T11:00:41.689686+00:00",
+    "6979ae9e7aabd0a9": "2026-11-28T11:00:41.689686+00:00",
+    "ec5bc927121b213d": "2026-11-28T11:00:41.689686+00:00",
+    "e5dc92e980ba0fd5": "2026-11-28T11:00:41.689686+00:00",
+    "61e784f9620b2a63": "2026-11-28T11:00:41.689686+00:00",
+    "55454b43bd873996": "2026-11-28T11:00:41.689686+00:00",
+    "517f94c268085e3e": "2026-11-28T11:00:41.689686+00:00",
+    "4b97b244f291d825": "2026-11-28T11:00:41.689686+00:00",
+    "2472b8c45862b62f": "2026-11-28T11:00:41.689686+00:00"
   },
   "published_stories": [
     {
@@ -9050,9 +9064,40 @@
         "CNN Türk",
         "Google News TR"
       ]
+    },
+    {
+      "published_at": "2026-11-28T11:00:45.256613+00:00",
+      "headline_az": "Ədən körfəzində həyəcan: Silahlı şəxslər yük gəmisini ələ keçirdilər",
+      "summary_az": "Yəmənin cənub sahilləri yaxınlığında silahlı dəstə tərəfindən yük gəmisinin ələ keçirildiyi bildirilir. Bölgədə gəmiçilik təhlükəsizliyi ilə bağlı narahatlıqlar yenidən artır.",
+      "topic_key": "yemen-gulf-of-aden-cargo-seizure",
+      "sources": [
+        "AzerNews"
+      ]
     }
   ],
   "pending_queue": [
+    {
+      "headline_az": "Atlantik okeanında miqrant faciəsi: 14 nəfər həyatını itirdi",
+      "summary_az": "İspaniyanın Kanarya Adaları yaxınlığında sürüklənən miqrant qayığında 14 nəfərin cəsədi tapılıb. Xilasedicilər təxminən 90 nəfəri sağ olaraq xilas edə biliblər.",
+      "category": "Dünya",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "atlantic-migrant-boat-tragedy",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "CNN Türk",
+          "url": "https://www.cnnturk.com/dunya/atlantikte-gocmen-teknesi-faciasi-14-kisi-oldu-3499113"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-28T11:00:41.680210+00:00"
+    },
     {
       "headline_az": "Süni intellekt yatırımları ABŞ-nin xarici ticarət kəsrini rekord həddə çatdırdı",
       "summary_az": "ABŞ-nin mal ticarəti kəsri süni intellekt infrastrukturasına yönələn nəhəng yatırımların idxalı artırması fonunda oktyabr ayında 10,7 faiz artaraq 149,5 milyard dollara yüksəlib. Bu rəqəm rəqəmsal texnologiya bumunun qlobal iqtisadiyyata təsirlərini bir daha göz önünə sərir.",
