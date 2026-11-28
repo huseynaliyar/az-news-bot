@@ -5320,7 +5320,14 @@
     "ac6bfe38e6751a9a": "2026-11-28T11:45:31.955400+00:00",
     "5a3d336445a3a70a": "2026-11-28T11:45:31.955400+00:00",
     "8d9f877067e9a2b1": "2026-11-28T11:45:31.955400+00:00",
-    "e8b726235cd904d6": "2026-11-28T11:45:31.955400+00:00"
+    "e8b726235cd904d6": "2026-11-28T11:45:31.955400+00:00",
+    "265767a3227fa2e9": "2026-11-28T12:01:01.358306+00:00",
+    "de67b447bd5c59c4": "2026-11-28T12:01:01.358306+00:00",
+    "24b82d9ef9b4f975": "2026-11-28T12:01:01.358306+00:00",
+    "69e6bde384f5bbef": "2026-11-28T12:01:01.358306+00:00",
+    "eef10296e9e85d28": "2026-11-28T12:01:01.358306+00:00",
+    "3a640ad53b8c0329": "2026-11-28T12:01:01.358306+00:00",
+    "73645d75504ff54a": "2026-11-28T12:01:01.358306+00:00"
   },
   "published_stories": [
     {
@@ -9131,30 +9138,16 @@
       "sources": [
         "NTV Dünya"
       ]
-    }
-  ],
-  "pending_queue": [
+    },
     {
+      "published_at": "2026-11-28T12:01:01.791958+00:00",
       "headline_az": "Keniya qurtuluş sektasının lideri 123 nəfərin ölümündə təqsirli bilinərək məhkum edildi",
       "summary_az": "Keniyada öz ardıcıllarını aclıqdan ölməyə inandıran kultun lideri Pol Makkenzi 123 nəfərin ölümü ilə əlaqədar adam öldürmə ittihamı ilə məhkum edilib. Hadisə dünya miqyasında böyük şok və rezonans doğurmuşdu.",
-      "category": "Dünya",
-      "region": "world",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
       "topic_key": "kenya-starvation-cult-leader-convicted",
-      "source_indices": [
-        12
-      ],
       "sources": [
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss"
-        }
-      ],
-      "importance": 8,
-      "image_url": "",
-      "queued_at": "2026-11-28T10:15:32.870633+00:00"
+        "Al Jazeera"
+      ]
     }
-  ]
+  ],
+  "pending_queue": []
 }
