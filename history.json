@@ -5236,7 +5236,16 @@
     "09509ccc744b2d2c": "2026-11-28T09:45:39.705104+00:00",
     "34e7927acb9d22d6": "2026-11-28T09:45:39.705104+00:00",
     "a141bd649761ce81": "2026-11-28T09:45:39.705104+00:00",
-    "6d6188d98029da5f": "2026-11-28T09:45:39.705104+00:00"
+    "6d6188d98029da5f": "2026-11-28T09:45:39.705104+00:00",
+    "ae8f351da3a72193": "2026-11-28T10:00:48.899997+00:00",
+    "5c19f969967437d3": "2026-11-28T10:00:48.899997+00:00",
+    "9f6ccfd7d12b5511": "2026-11-28T10:00:48.899997+00:00",
+    "f905ff199653caa3": "2026-11-28T10:00:48.899997+00:00",
+    "af99a0adf9059650": "2026-11-28T10:00:48.899997+00:00",
+    "93c29fae4f86ccab": "2026-11-28T10:00:48.899997+00:00",
+    "01eabaa276a42b78": "2026-11-28T10:00:48.899997+00:00",
+    "dcbd4db55c0591ea": "2026-11-28T10:00:48.899997+00:00",
+    "9a0e43a17c2804bb": "2026-11-28T10:00:48.899997+00:00"
   },
   "published_stories": [
     {
@@ -8968,6 +8977,15 @@
       "headline_az": "Formula 1 Azərbaycan və ya Türkiyə həyəcanı: Rekord sayda ön qeydiyyat",
       "summary_az": "2027-ci ildə İstanbul Parkda baş tutacaq Formula 1 Türkiyə Qran-Prisi hələ biletlər satışa çıxmadan böyük maraqla qarşılanıb. Yarış təqvimindəki 24 mərhələ arasında 150 mindən çox ön qeydiyyat alan tədbir dünya rekorduna imza atır.",
       "topic_key": "formula-1-istanbul-park-record",
+      "sources": [
+        "CNN Türk"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T10:00:49.889844+00:00",
+      "headline_az": "ASELSAN-ın yeni nəsil elektron dəstək podu uğurla sınaqdan keçir",
+      "summary_az": "ASELSAN tərəfindən inkişaf etdirilən və yüngül çəkisi ilə seçilən ANTIDOT 2ES Elektron Əks-Tədbir Podu 10 min saatı ötən uçuş müddəti ilə sahədəki effektivliyini sübut edib.",
+      "topic_key": "aselsan-antidot-ed-pod-success",
       "sources": [
         "CNN Türk"
       ]
