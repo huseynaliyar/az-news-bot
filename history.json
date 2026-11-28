@@ -5272,7 +5272,10 @@
     "c8b9238292819c91": "2026-11-28T10:30:35.754691+00:00",
     "7479e0f80cfc2f0e": "2026-11-28T10:30:35.754691+00:00",
     "f3d70f2740f257b6": "2026-11-28T10:30:35.754691+00:00",
-    "9fcf7bd770084bf1": "2026-11-28T10:30:35.754691+00:00"
+    "9fcf7bd770084bf1": "2026-11-28T10:30:35.754691+00:00",
+    "7aa87d4483f50001": "2026-11-28T10:45:32.848979+00:00",
+    "f26a672e95619296": "2026-11-28T10:45:32.848979+00:00",
+    "58322f50baa99d4f": "2026-11-28T10:45:32.848979+00:00"
   },
   "published_stories": [
     {
@@ -9035,46 +9038,21 @@
         "BBC World",
         "Google News World"
       ]
+    },
+    {
+      "published_at": "2026-11-28T10:45:35.655553+00:00",
+      "headline_az": "Türkiyə siyasətində gərginlik: Mustafa Sarıgül və digər deputatlar üçün fezleke tələbi",
+      "summary_az": "İstanbul Cümhuriyyət Baş Prokurorluğunun apardığı araşdırma çərçivəsində aralarında Özgür Özelin də olduğu 5 deputatla bağlı hazırlanan sənədlər Ankara Baş Prokurorluğuna göndərilib.",
+      "topic_key": "turkey-sarigul-investigation-fezkele",
+      "sources": [
+        "TRT Haber",
+        "NTV Gündem",
+        "CNN Türk",
+        "Google News TR"
+      ]
     }
   ],
   "pending_queue": [
-    {
-      "headline_az": "Türkiyə siyasətində gərginlik: Mustafa Sarıgül və digər deputatlar üçün fezleke tələbi",
-      "summary_az": "İstanbul Cümhuriyyət Baş Prokurorluğunun apardığı araşdırma çərçivəsində aralarında Özgür Özelin də olduğu 5 deputatla bağlı hazırlanan sənədlər Ankara Baş Prokurorluğuna göndərilib.",
-      "category": "Türkiyə",
-      "region": "tr",
-      "verified": true,
-      "verification_note": "Təsdiqlənmiş",
-      "is_update": false,
-      "topic_key": "turkey-sarigul-investigation-fezkele",
-      "source_indices": [
-        4,
-        6,
-        9,
-        10
-      ],
-      "sources": [
-        {
-          "name": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/ozgur-ozel-ve-4-milletvekili-icin-fezleke-talebi-964742.html"
-        },
-        {
-          "name": "NTV Gündem",
-          "url": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasi-ozgur-ozel-dahil-bes-isim-icin-fezleke-istemi-1752987"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/son-dakika-sarigul-sorusturmasinda-5-dosya-ankarada-3499107"
-        },
-        {
-          "name": "Google News TR",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSnRadkxZcDQ3MjlDMWo5Y0ctajlVRkZCRWxyM0lkaGVNcll3Q0p2YlRnOEZ2ejcyVlo2bkVkREcyaUhnd1JVT2dRSnJlc05FdTRzV3dnemNDR3h3cDZXeHRlUFdLTkN6RWQtYVN4QjNYaVdnZmIzY0NwMjJRWGlOdGxGUmNIX2RfMnpZUU5PZkhOSW5uZ2Q0S0pNTlJPbkFmWlY1Mmg4UEk0amxLQUVqNFVTMkFSRU5VVTRNU05zSDhwWFNCbkdSajlHZzdtdkpfTW16YjFpLWRNWHVYUS1CNXJXSXhBQi12WFZYUUFpOFY2NFYx?oc=5"
-        }
-      ],
-      "importance": 8,
-      "image_url": "https://images.ntv.com.tr/images/mustafa-sarıgül-soruşturma-628402.jpg",
-      "queued_at": "2026-11-28T10:30:35.741684+00:00"
-    },
     {
       "headline_az": "Süni intellekt yatırımları ABŞ-nin xarici ticarət kəsrini rekord həddə çatdırdı",
       "summary_az": "ABŞ-nin mal ticarəti kəsri süni intellekt infrastrukturasına yönələn nəhəng yatırımların idxalı artırması fonunda oktyabr ayında 10,7 faiz artaraq 149,5 milyard dollara yüksəlib. Bu rəqəm rəqəmsal texnologiya bumunun qlobal iqtisadiyyata təsirlərini bir daha göz önünə sərir.",
