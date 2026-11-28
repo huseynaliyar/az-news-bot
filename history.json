@@ -5090,7 +5090,19 @@
     "06e36d50ce3dbe27": "2026-11-28T06:45:25.966831+00:00",
     "b7720821fb0556c4": "2026-11-28T06:45:25.966831+00:00",
     "f2e8280163b18ed3": "2026-11-28T06:45:25.966831+00:00",
-    "5741e7d450202bab": "2026-11-28T06:45:25.966831+00:00"
+    "5741e7d450202bab": "2026-11-28T06:45:25.966831+00:00",
+    "200cae3b867dd669": "2026-11-28T07:00:42.544559+00:00",
+    "140df5f929dd427b": "2026-11-28T07:00:42.544559+00:00",
+    "0c208bcf68e7c332": "2026-11-28T07:00:42.544559+00:00",
+    "cd4fa9c184260582": "2026-11-28T07:00:42.544559+00:00",
+    "065ffa825f5d3a49": "2026-11-28T07:00:42.544559+00:00",
+    "125225d7923c023c": "2026-11-28T07:00:42.544559+00:00",
+    "d265424a906b5978": "2026-11-28T07:00:42.544559+00:00",
+    "76ae59e04b6a95d2": "2026-11-28T07:00:42.544559+00:00",
+    "197d139f1f28921a": "2026-11-28T07:00:42.544559+00:00",
+    "73336be6f4c903ae": "2026-11-28T07:00:42.544559+00:00",
+    "0f7a3dc96d53e3df": "2026-11-28T07:00:42.544559+00:00",
+    "e025b7fef011a32b": "2026-11-28T07:00:42.544559+00:00"
   },
   "published_stories": [
     {
@@ -8770,6 +8782,15 @@
       "topic_key": "sabina-aliyeva-ombudsman-second-term",
       "sources": [
         "AzerNews"
+      ]
+    },
+    {
+      "published_at": "2026-11-28T07:00:43.596323+00:00",
+      "headline_az": "Rəqəmsal təhlükəsizlikdə həyəcan təbili: Süni intellekt şifrləri qıra bilər",
+      "summary_az": "Aparıcı kompüter alimləri və mərkəzi bank nümayəndələri xəbərdarlıq edirlər ki, yeni nəsil süni intellekt modelləri illərdir çözülməyən şifrləmə sistemlərini sındırmağa çox yaxındır. Bu vəziyyət qlobal bankçılıq sektoru və dövlət sirrləri üçün gözlənilməz risklər yarada bilər.",
+      "topic_key": "ai-encryption-security-threat",
+      "sources": [
+        "TRT Haber"
       ]
     }
   ],
