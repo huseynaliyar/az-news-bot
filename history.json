@@ -5148,7 +5148,19 @@
     "3cc8ba87f582ba4d": "2026-11-28T08:00:46.334318+00:00",
     "a483ed841760e02c": "2026-11-28T08:00:46.334318+00:00",
     "85b2f4f10fa3c5d0": "2026-11-28T08:00:46.334318+00:00",
-    "1e07d8a54d466de6": "2026-11-28T08:00:46.334318+00:00"
+    "1e07d8a54d466de6": "2026-11-28T08:00:46.334318+00:00",
+    "c0ede22947448cd3": "2026-11-28T08:15:30.688058+00:00",
+    "d0e89fcb986362d7": "2026-11-28T08:15:30.688058+00:00",
+    "5a340e978b57946e": "2026-11-28T08:15:30.688058+00:00",
+    "e954ab4764bd1372": "2026-11-28T08:15:30.688058+00:00",
+    "f950494a9def7d12": "2026-11-28T08:15:30.688058+00:00",
+    "949db91c8c2610ab": "2026-11-28T08:15:30.688058+00:00",
+    "6f31a92de298b5d1": "2026-11-28T08:15:30.688058+00:00",
+    "bbf12a013b40058a": "2026-11-28T08:15:30.688058+00:00",
+    "fd0a8990e915dd1d": "2026-11-28T08:15:30.688058+00:00",
+    "e69af5bcd0456edd": "2026-11-28T08:15:30.688058+00:00",
+    "1ffe4ba026c5732b": "2026-11-28T08:15:30.688058+00:00",
+    "2ab0b622e6847c62": "2026-11-28T08:15:30.688058+00:00"
   },
   "published_stories": [
     {
@@ -8856,7 +8868,39 @@
       "sources": [
         "AzerNews"
       ]
+    },
+    {
+      "published_at": "2026-11-28T08:16:04.830078+00:00",
+      "headline_az": "Baş nazir Əli Əsədov \"Şərəf\" ordeni ilə təltif olundu",
+      "summary_az": "Prezident İlham Əliyevin imzaladığı sərəncamla Azərbaycan Respublikasının Baş naziri Əli Əsədov ölkə qarşısında xidmətlərinə görə yüksək dövlət mükafatı - \"Şərəf\" ordeni ilə təltif edilib.",
+      "topic_key": "ali-asadov-sharaf-order",
+      "sources": [
+        "Oxu.az"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Ayın səthinin altında nəhəng yeraltı tünellər aşkarlandı",
+      "summary_az": "Gökbilimciler Ayın kütlə çəkimi sahəsindəki incə dəyişiklikləri təhlil edərək səthin 100 metr altında gizlənən və genişliyi bir kilometri ötən dörd nəhəng lav borusu namizədi müəyyən ediblər.",
+      "category": "Elm",
+      "region": "tr",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "moon-underground-lava-tubes",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/dunya/ay-yuzeyinin-altinda-devasa-yeralti-tunelleri-tespit-edildi-964726.html"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-28T08:15:30.676695+00:00"
+    }
+  ]
 }
