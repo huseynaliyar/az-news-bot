@@ -5245,7 +5245,20 @@
     "93c29fae4f86ccab": "2026-11-28T10:00:48.899997+00:00",
     "01eabaa276a42b78": "2026-11-28T10:00:48.899997+00:00",
     "dcbd4db55c0591ea": "2026-11-28T10:00:48.899997+00:00",
-    "9a0e43a17c2804bb": "2026-11-28T10:00:48.899997+00:00"
+    "9a0e43a17c2804bb": "2026-11-28T10:00:48.899997+00:00",
+    "b0c8f0fbe4454345": "2026-11-28T10:15:32.889783+00:00",
+    "02388eb102357b2f": "2026-11-28T10:15:32.889783+00:00",
+    "8bf2fa4428812f7f": "2026-11-28T10:15:32.889783+00:00",
+    "a8609a519d034b90": "2026-11-28T10:15:32.889783+00:00",
+    "e0651db68dbb4e2d": "2026-11-28T10:15:32.889783+00:00",
+    "b9eaec2bcf587535": "2026-11-28T10:15:32.889783+00:00",
+    "c0ea83a096b2cd44": "2026-11-28T10:15:32.889783+00:00",
+    "aa94e0445edbcef0": "2026-11-28T10:15:32.889783+00:00",
+    "d566def8ecbb68ca": "2026-11-28T10:15:32.889783+00:00",
+    "a7ee57971954b48d": "2026-11-28T10:15:32.889783+00:00",
+    "87ce42c80e8966b2": "2026-11-28T10:15:32.889783+00:00",
+    "7d1b8e04bfcde008": "2026-11-28T10:15:32.889783+00:00",
+    "1e38a1c73ba9aea2": "2026-11-28T10:15:32.889783+00:00"
   },
   "published_stories": [
     {
@@ -8989,7 +9002,61 @@
       "sources": [
         "CNN Türk"
       ]
+    },
+    {
+      "published_at": "2026-11-28T10:15:33.423942+00:00",
+      "headline_az": "Türkiyədə super sürətli qatar dövrü: Ankara-İstanbul arası 80 dəqiqə olacaq",
+      "summary_az": "Yüksək sürətli qatarla hazırda 4 saat davam edən Ankara-İstanbul səyahət müddətinin həyata keçiriləcək yeni layihə ilə cəmi 80 dəqiqəyə endirilməsi planlaşdırılır. Bu nəhəng nəqliyyat infrastrukturu ölkənin iki böyük meqapolisini bir-birinə daha da yaxınlaşdıracaq.",
+      "topic_key": "ankara-istanbul-super-fast-train",
+      "sources": [
+        "Google News TR"
+      ]
     }
   ],
-  "pending_queue": []
+  "pending_queue": [
+    {
+      "headline_az": "Süni intellekt yatırımları ABŞ-nin xarici ticarət kəsrini rekord həddə çatdırdı",
+      "summary_az": "ABŞ-nin mal ticarəti kəsri süni intellekt infrastrukturasına yönələn nəhəng yatırımların idxalı artırması fonunda oktyabr ayında 10,7 faiz artaraq 149,5 milyard dollara yüksəlib. Bu rəqəm rəqəmsal texnologiya bumunun qlobal iqtisadiyyata təsirlərini bir daha göz önünə sərir.",
+      "category": "İqtisadiyyat",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "us-ai-investments-trade-deficit",
+      "source_indices": [
+        7
+      ],
+      "sources": [
+        {
+          "name": "NTV Dünya",
+          "url": "https://www.ntv.com.tr/dunya/abdde-yapay-zeka-yatirimlari-ithalati-rekor-seviyeye-tasidi-dis-ticaret-acigi-buyudu-1752985"
+        }
+      ],
+      "importance": 8,
+      "image_url": "https://images.ntv.com.tr/images/6FPUCEEGHROKZPQISYD7P7WBVI-160303.jpg",
+      "queued_at": "2026-11-28T10:15:32.870633+00:00"
+    },
+    {
+      "headline_az": "Keniya qurtuluş sektasının lideri 123 nəfərin ölümündə təqsirli bilinərək məhkum edildi",
+      "summary_az": "Keniyada öz ardıcıllarını aclıqdan ölməyə inandıran kultun lideri Pol Makkenzi 123 nəfərin ölümü ilə əlaqədar adam öldürmə ittihamı ilə məhkum edilib. Hadisə dünya miqyasında böyük şok və rezonans doğurmuşdu.",
+      "category": "Dünya",
+      "region": "world",
+      "verified": true,
+      "verification_note": "Təsdiqlənmiş",
+      "is_update": false,
+      "topic_key": "kenya-starvation-cult-leader-convicted",
+      "source_indices": [
+        12
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss"
+        }
+      ],
+      "importance": 8,
+      "image_url": "",
+      "queued_at": "2026-11-28T10:15:32.870633+00:00"
+    }
+  ]
 }
